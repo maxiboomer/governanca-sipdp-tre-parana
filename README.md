@@ -20,10 +20,18 @@ Para agentes Hermes: copie a pasta para `~/.hermes/skills/`.
 ## Estrutura
 
 ```
-SKILL.md              # entrada da skill
-references/index.md   # catálogo
-references/*.md       # páginas curadas por norma/conceito/entidade
-references/raw/       # textos integrais imutáveis
+SKILL.md                  # entrada da skill
+references/index.md       # catálogo completo (194 páginas)
+references/normas/        # página curada por norma (vigência, prazos, competências)
+references/concepts/      # LGPD, continuidade, monitoramento SECTI...
+references/entities/      # CGSI/PDP, ETIR, ANPD, DPO, SECTI...
+references/inventarios/   # tabelas de vigência TRE-PR/TSE e CNJ
+references/sources/       # sínteses por tipo de norma
+references/raw/           # 154 textos integrais das normas (imutáveis)
 ```
+
+Cobertura: PSI nacional/local, LGPD/PDP, governança de TI e IA, normas técnicas
+SECTI, INs DG, portarias administrativas, resoluções TSE/TRE-PR/CNJ, LAI,
+continuidade de negócios — acervo completo de normas do TRE-PR (2016–2026).
 
 Fontes: normas publicadas no portal do TRE-PR, TSE e CNJ. As páginas curadas incluem data de atualização; verifique sempre a vigência antes de citar em documento oficial.

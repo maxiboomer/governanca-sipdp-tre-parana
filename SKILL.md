@@ -19,10 +19,16 @@ histórico de revogações. Fontes integrais em `references/raw/`.
 
 ## Como consultar
 
-1. Leia `references/index.md` para o catálogo de páginas.
-2. Consulte as páginas curadas por tema em `references/` (arquivos `.md`).
-3. Para o texto integral de uma norma, abra o arquivo correspondente em `references/raw/`.
+1. Leia `references/index.md` para o catálogo completo das páginas.
+2. Páginas curadas por tipo:
+   - `references/normas/` — uma página por norma (vigência, competências, prazos)
+   - `references/concepts/` — conceitos (LGPD, continuidade, monitoramento SECTI)
+   - `references/entities/` — órgãos e unidades (CGSI/PDP, ETIR, ANPD, SECTI...)
+   - `references/inventarios/` — tabelas de vigência TRE-PR/TSE e CNJ
+   - `references/sources/` — sínteses por tipo de norma
+3. Texto integral: `references/raw/<nome-da-norma>.md`.
 4. Nunca edite `references/raw/` — é camada imutável; correções vão nas páginas curadas.
+5. Sempre confirme a vigência em `references/inventarios/` antes de citar norma em documento oficial.
 
 ## Mapa rápido
 
