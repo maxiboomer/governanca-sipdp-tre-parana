@@ -1,0 +1,19 @@
+{
+  "name": "governanca-sipdp",
+  "owner": {
+    "name": "Fabio (maxiboomer)"
+  },
+  "plugins": [
+    {
+      "name": "governanca-sipdp-tre-pr",
+      "source": "./",
+      "description": "Governança SI/PDP TRE-PR: PSI TSE/TRE-PR, LGPD, comitês, prazos normativos.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Fabio (maxiboomer)"
+      },
+      "license": "MIT",
+      "category": "knowledge-base"
+    }
+  ]
+}
