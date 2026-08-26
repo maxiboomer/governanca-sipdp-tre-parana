@@ -5,7 +5,7 @@ tags: [tre-pr, norma, servicos-essenciais, continuidade, vigente]
 url: "https://www.tre-pr.jus.br/legislacao/compilada/instrucoes-normativas-tre-pr/2025/instrucao-normativa-no-010-de-14-de-novembro-de-2025"
 created: 2026-08-26
 updated: 2026-08-26
-status: não-confirmada
+status: vigente
 curadoria: completa
 escopo: contextual
 ---

@@ -4,8 +4,8 @@ type: fonte-normativa
 tags: [tre-pr, seguranca-cibernetica, educacao-cibernetica, 2026]
 curadoria: stub
 escopo: contextual
-status: não-confirmada
-status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
+status: vigente
+status_verificacao: "Portaria 174/2026 compilada"
 url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2026/portaria-no-174-de-13-de-abril-de-2026"
 created: 2026-08-26
 updated: 2026-08-26

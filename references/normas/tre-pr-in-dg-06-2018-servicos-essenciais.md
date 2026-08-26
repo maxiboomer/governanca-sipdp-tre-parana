@@ -4,7 +4,7 @@ created: 2026-08-26
 updated: 2026-08-26
 type: fonte-normativa
 status: revogada
-status_verificacao: "IN 010/2025, art. 3, revoga expressamente a IN 006/2018; verificado em 2026-08-26."
+status_verificacao: "Revogada pela IN 010/2025 art. 3"
 fonte_publicacao: "https://apps.tre-pr.jus.br/files/legislacaocompilada/in/2018/in062018.html"
 data_publicacao: ""
 tags: [norma, curadoria, si-pdp]

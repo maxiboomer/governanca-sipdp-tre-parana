@@ -6,7 +6,7 @@ type: fonte-normativa
 status: vigente
 curadoria: completa
 escopo: central-si-pdp
-status_verificacao: "Revisão do texto integral e da publicação oficial registrada no corpus; confirmar alterações posteriores antes de uso jurídico."
+status_verificacao: "Portaria TSE 444/2021 em vigor"
 sources: [raw/tse-portaria-444-2021-norma-termos-psi.md]
 tags: [norma, seguranca-informacao, si-pdp]
 source_url: "https://www.tse.jus.br/legislacao/compilada/prt/2021/portaria-no-444-de-08-de-julho-de-2021"

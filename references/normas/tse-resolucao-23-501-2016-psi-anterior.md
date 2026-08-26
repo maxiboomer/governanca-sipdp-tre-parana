@@ -6,7 +6,7 @@ type: fonte-normativa
 status: revogada
 curadoria: completa
 escopo: central-si-pdp
-status_verificacao: "Revisão do texto integral e da publicação oficial registrada no corpus; confirmar alterações posteriores antes de uso jurídico."
+status_verificacao: "Substituída pela Res. TSE 23.644/2021"
 sources: [raw/tse-resolucao-23-501-2016-psi-anterior.md]
 tags: [norma, seguranca-informacao, si-pdp]
 source_url: "https://www.tse.jus.br/legislacao/compilada/res/2016/resolucao-no-23-501-de-19-de-dezembro-de-2016"

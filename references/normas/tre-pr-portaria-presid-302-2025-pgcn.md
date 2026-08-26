@@ -5,7 +5,7 @@ tags: [tre-pr, norma, continuidade-negocios, pgcn, vigente]
 url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-presidencia-tre-pr/2025/portaria-no-302-de-29-de-outubro-de-2025"
 created: 2026-08-26
 updated: 2026-08-26
-status: não-confirmada
+status: vigente
 curadoria: completa
 escopo: contextual
 ---

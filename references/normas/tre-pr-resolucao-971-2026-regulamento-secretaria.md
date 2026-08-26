@@ -5,7 +5,7 @@ tags: [tre-pr, regulamento-secretaria, estrutura-organica, vigente]
 url: "https://www.tre-pr.jus.br/legislacao/compilada/resolucoes-tre-pr/2026/resolucao-no-971-de-30-de-janeiro-de-2026"
 created: 2026-08-26
 updated: 2026-08-26
-status: não-confirmada
+status: vigente
 curadoria: completa
 escopo: contextual
 ---

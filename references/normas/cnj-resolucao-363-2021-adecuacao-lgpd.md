@@ -4,7 +4,7 @@ created: 2026-08-26
 updated: 2026-08-26
 type: fonte-normativa
 status: vigente
-status_verificacao: "Atos CNJ, registro 3668: situação Vigente; alteração Portaria CNJ 181/2025; verificado em 2026-08-26."
+status_verificacao: "Res. CNJ 363/2021 vigente (atos.cnj.jus.br 3668)"
 fonte_publicacao: "https://atos.cnj.jus.br/atos/detalhar/3668"
 data_publicacao: "12/01/2021"
 tags: [norma, curadoria, si-pdp]

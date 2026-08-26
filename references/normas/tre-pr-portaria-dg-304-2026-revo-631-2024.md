@@ -4,8 +4,8 @@ type: fonte-normativa
 tags: [tre-pr, portaria, revogacao, designacao, tecnica]
 curadoria: stub
 escopo: contextual
-status: não-confirmada
-status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
+status: vigente
+status_verificacao: "Portaria 304/2026 compilada"
 url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2026/portaria-ndeg-304-de-29-de-junho-de-2026"
 created: 2026-08-26
 updated: 2026-08-26

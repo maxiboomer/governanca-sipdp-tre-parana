@@ -4,8 +4,8 @@ type: fonte-normativa
 tags: [tre-pr, trabalho-hibrido, dg, 2026]
 curadoria: stub
 escopo: fora-escopo
-status: não-confirmada
-status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
+status: vigente
+status_verificacao: "Portaria 341/2026 compilada"
 url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2026/portaria-no-341-de-15-de-julho-de-2026"
 created: 2026-08-26
 updated: 2026-08-26

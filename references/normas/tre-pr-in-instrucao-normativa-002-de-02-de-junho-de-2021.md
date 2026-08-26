@@ -4,8 +4,8 @@ type: fonte-normativa
 tags: [tre-pr, norma, coleta-automatica]
 curadoria: stub
 escopo: contextual
-status: não-confirmada
-status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
+status: vigente
+status_verificacao: "IN 002/2021 compilada no portal TRE-PR"
 url: "https://www.tre-pr.jus.br/legislacao/compilada/instrucoes-normativas-tre-pr/2021/instrucao-normativa-no-002-de-02-de-junho-de-2021"
 created: 2026-08-26
 updated: 2026-08-26

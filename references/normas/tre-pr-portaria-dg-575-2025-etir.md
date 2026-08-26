@@ -6,7 +6,7 @@ type: fonte-normativa
 status: vigente
 curadoria: completa
 escopo: central-si-pdp
-status_verificacao: "Página oficial TRE-PR localizada; art. 3 vigência na publicação; DJE 241/2025; verificado em 2026-08-26."
+status_verificacao: "Portaria 575/2025 compilada; DJE 241/2025"
 sources: [raw/tre-pr-portaria-dg-575-2025-etir.md]
 tags: [norma, seguranca-informacao, si-pdp]
 source_url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2025/portaria-no-575-de-12-de-dezembro-de-2025"

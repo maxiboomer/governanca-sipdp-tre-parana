@@ -4,8 +4,8 @@ type: fonte-normativa
 tags: [tre-pr, reestruturacao, orgao-colegiado, cargos-comissa]
 curadoria: stub
 escopo: contextual
-status: não-confirmada
-status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
+status: vigente
+status_verificacao: "Res. 982/2026 compilada no portal TRE-PR; estrutura orgânica"
 url: "https://www.tre-pr.jus.br/legislacao/resolucoes-do-tre-pr/arquivos/tre-pr-resolucao-no-982-de-25-de-junho-de-2026"
 created: 2026-08-26
 updated: 2026-08-26

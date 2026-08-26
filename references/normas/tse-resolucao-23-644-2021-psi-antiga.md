@@ -6,7 +6,7 @@ type: fonte-normativa
 status: revogada
 curadoria: completa
 escopo: central-si-pdp
-status_verificacao: "Revisão do texto integral e da publicação oficial registrada no corpus; confirmar alterações posteriores antes de uso jurídico."
+status_verificacao: "Substituída pela Res. TSE 23.763/2026"
 sources: [raw/tse-resolucao-23-644-2021-psi-antiga.md]
 tags: [norma, seguranca-informacao, si-pdp]
 source_url: "https://www.tse.jus.br/legislacao/compilada/res/2021/resolucao-no-23-644-de-1o-de-julho-de-2021"

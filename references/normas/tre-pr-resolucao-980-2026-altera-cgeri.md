@@ -4,8 +4,8 @@ type: fonte-normativa
 tags: [tre-pr, governanca, inovacao, cgeri]
 curadoria: stub
 escopo: contextual
-status: revogada
-status_verificacao: "Indício explícito no texto da fonte bruta; confirmação na publicação oficial ainda pendente."
+status: vigente
+status_verificacao: "Res. 980/2026 compilada no portal TRE-PR; altera Res. 932/2024"
 url: "https://www.tre-pr.jus.br/legislacao/compilada/resolucoes-tre-pr/2026/resolucao-no-980-de-10-de-junho-de-2026"
 created: 2026-08-26
 updated: 2026-08-26

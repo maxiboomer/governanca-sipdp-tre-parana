@@ -22,7 +22,7 @@ recorte de SI/PDP é a camada de curadoria, não o acervo. Ver
   ETIR, ASC, SECTI, Comitê de Crises Cibernéticas (932/2024 e 962/2025)
 - **Continuidade** — PGCN (Port. 302/2025) e Protocolo Socioambiental (Port. 056/2026)
 - **Prazos consolidados** e inventários de vigência (TRE-PR/TSE e CNJ)
-- **Normas técnicas SECTI** — procedimentos operacionais de nuvem, gestão de projetos, segurança
+- **Normas técnicas SECTI** — nuvem, projetos, segurança Linux, desenvolvimento, orçamento
 
 ## Estrutura
 
@@ -51,9 +51,10 @@ citação de DJE/DOU (basta para citar em documento) → compilado oficial (serv
 trabalhar) → nada, e então a situação é **Não confirmada**.
 
 Situação nas páginas de normas (metadados curados):
-- **vigentes:** 9 com confirmação de publicação oficial ou compilado localizado
-- **revogadas:** 18 com revogação expressa identificada no texto ou em norma posterior
-- **não-confirmadas:** 126 sem confirmação individual até o momento
+- **vigentes:** 78 com publicação oficial localizada ou compilado confirmado
+- **revogadas:** 17 com revogação expressa no texto ou em norma posterior
+- **não-confirmadas:** 58 sem confirmação individual até o momento
+- **outros:** 15 (históricas, de composição, etc.)
 
 A matriz completa está em `references/_meta/matriz-verificacao-vigencia.md`.
 

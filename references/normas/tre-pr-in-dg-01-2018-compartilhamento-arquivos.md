@@ -4,7 +4,7 @@ created: 2026-08-26
 updated: 2026-08-26
 type: fonte-normativa
 status: revogada
-status_verificacao: "A própria fonte declara revogação pela IN 004/2022, art. 28; verificado em 2026-08-26."
+status_verificacao: "Revogada pela IN 004/2022 art. 28"
 fonte_publicacao: "https://apps.tre-pr.jus.br/files/legislacaocompilada/in/2018/in012018dg.html"
 data_publicacao: ""
 tags: [norma, curadoria, si-pdp]
