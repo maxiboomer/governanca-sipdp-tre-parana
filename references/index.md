@@ -24,7 +24,6 @@ Catalog of every page in this wiki. Updated on every ingest. See `CLAUDE.md` for
 - [[wiki/concepts/seguranca-informacao-justica-eleitoral]] — Segurança Informação Justiça Eleitoral
 
 ## Normas
-- [[wiki/normas/auditoria-changelog-normas-eleitorais]] — Auditoria — Changelog da análise de normas eleitorais
 - [[wiki/normas/cnj-resolucao-325-2020]] — CNJ Resolução 325/2020 — Estratégia Nacional do Poder Judiciário 2021-2026
 - [[wiki/normas/cnj-resolucao-363-2021]] — CNJ Resolução 363/2021
 - [[wiki/normas/cnj-resolucao-363-2021-adecuacao-lgpd]] — Resolução CNJ 363/2021 - Adequação dos Tribunais à LGPD
@@ -189,6 +188,11 @@ Catalog of every page in this wiki. Updated on every ingest. See `CLAUDE.md` for
 - [[wiki/normas/tse-resolucao-23-650-2021-pgppdp]] — Resolução TSE 23.650/2021 - Política Geral de Privacidade e Proteção de Dados Pessoais
 - [[wiki/normas/tse-resolucao-23-763-2026-psi-nacional]] — Resolução TSE 23.763/2026 - Política de Segurança da Informação (PSI) Nacional
 
+## Metadados
+- [[wiki/_meta/auditoria-changelog-normas-eleitorais]] — Auditoria e changelog da análise de normas eleitorais
+- [[wiki/_meta/mapa-tematico]] — Mapa temático do vault normativo
+- [[wiki/_meta/pendencias-curadoria]] — Pendências de curadoria e verificação normativa
+
 ## Inventários
 - [[wiki/inventarios/normas-cnj]] — Inventário de Normas — CNJ (TIC/SI aplicáveis ao TRE-PR)
 - [[wiki/inventarios/normas-tre-pr-tse]] — Inventário de Normas — TRE-PR / TSE (SECTI)
@@ -202,7 +206,14 @@ Catalog of every page in this wiki. Updated on every ingest. See `CLAUDE.md` for
 - [[wiki/sources/resolu-es-tre-pr]] — Resoluções TRE-PR
 - [[wiki/sources/resolu-es-tse]] — Resoluções TSE
 
-## Raw Sources (153)
+## Raw Sources (158)
 _153 arquivos-fonte em `raw/` — texto normativo integral._
 
-**Total de páginas wiki: 190 · Fontes em raw/: 153**
+**Total de páginas wiki: 203 · Fontes em raw/: 158**
+- [[wiki/normas/tse-portaria-463-2026-planos-conformidade]] — TSE Portaria 463/2026 — Planos de conformidade
+- [[wiki/normas/tre-pr-portaria-276-2026-altera-74-2025]] — TRE-PR Portaria 276/2026 — alterações e revogação
+- [[wiki/normas/tse-portaria-143-2026-uso-software-nuvem]] — TSE Portaria 143/2026 — uso de software em nuvem
+- [[wiki/normas/tre-pr-resolucao-971-2026-regulamento-secretaria]] — TRE-PR Resolução 971/2026 — Regulamento da Secretaria
+- [[wiki/normas/tre-pr-nt-secti-norma-tecnica-005-de-05-de-agosto-de-2026]] — TRE-PR NT SECTI 005/2026
+- [[wiki/inventarios/lacunas-do-inventario]] — Lacunas do inventário normativo
+- [[wiki/concepts/continuidade-negocios-tre-pr]] — Continuidade de Negócios TRE-PR
