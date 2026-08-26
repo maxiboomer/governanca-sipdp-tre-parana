@@ -25,19 +25,19 @@ Institui a PGCN no TRE-PR, alinhada à ISO 22301/22313, LGPD, ENSEC-PJ (CNJ 396/
 
 ## Relevant Entities
 
-- [[entities/cgsipdp]]
-- [[entities/etir]]
-- [[entities/asc]]
+- [cgsipdp](references/entities/cgsipdp.md)
+- [etir](references/entities/etir.md)
+- [asc](references/entities/asc.md)
 
 ## Relevant Concepts
 
-- [[concepts/continuidade-negocios-tre-pr]]
-- [[concepts/seguranca-informacao-justica-eleitoral]]
+- [continuidade-negocios-tre-pr](references/concepts/continuidade-negocios-tre-pr.md)
+- [seguranca-informacao-justica-eleitoral](references/concepts/seguranca-informacao-justica-eleitoral.md)
 
 ## Relacionamentos
 
-- [[normas/tre-pr-in-instrucao-normativa-010-de-14-de-novembro-de-2025]] — IN 010 fundamenta os serviços essenciais usados na PGCN
-- [[normas/tre-pr-resolucao-974-2026-psi-local]] — PSI local vigente
+- [tre-pr-in-instrucao-normativa-010-de-14-de-novembro-de-2025](references/normas/tre-pr-in-instrucao-normativa-010-de-14-de-novembro-de-2025.md) — IN 010 fundamenta os serviços essenciais usados na PGCN
+- [tre-pr-resolucao-974-2026-psi-local](references/normas/tre-pr-resolucao-974-2026-psi-local.md) — PSI local vigente
 
 ## Raw Source
 

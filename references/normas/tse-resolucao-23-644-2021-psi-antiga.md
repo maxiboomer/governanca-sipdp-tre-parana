@@ -1,4 +1,5 @@
 ---
+curadoria: pendente
 title: "Resolução TSE 23.644/2021 - Política de Segurança da Informação (PSI) Antiga"
 type: fonte-normativa
 tags: [tse, psi, seguranca-informacao, lgpd, ciberseguranca, revogada]
@@ -9,24 +10,21 @@ url: "https://www.tse.jus.br/legislacao/compilada/res/2021/resolucao-no-23-644-d
 
 ## Summary
 
-Texto normativo oficial. Ver documento completo em `raw/`.
-
-## Key Takeaways
-
-- Extrair pontos-chave do texto normativo.
-- Identificar obrigações e prazos.
-- Link para implementação prática.
+> **Página não curada.** Esta página é um marcador gerado automaticamente e **não contém síntese da norma**.
+> O texto está em [`references/raw/tse-resolucao-23-644-2021-psi-antiga.md`](references/raw/tse-resolucao-23-644-2021-psi-antiga.md) — **leia esse arquivo** para responder qualquer pergunta sobre esta norma.
+> Não conclua que a informação inexiste com base nesta página.
+> Confirme a vigência em [inventário TRE-PR/TSE](references/inventarios/normas-tre-pr-tse.md) ou [inventário CNJ](references/inventarios/normas-cnj.md) antes de citar em documento oficial.
 
 ## Relevant Entities
 
-- [[entities/cgsipdp]]
-- [[entities/etir]]
-- [[entities/anpd]]
+- [cgsipdp](references/entities/cgsipdp.md)
+- [etir](references/entities/etir.md)
+- [anpd](references/entities/anpd.md)
 
 ## Relevant Concepts
 
-- [[concepts/seguranca-informacao-justica-eleitoral]]
-- [[concepts/lgpd-fundamentos]]
+- [seguranca-informacao-justica-eleitoral](references/concepts/seguranca-informacao-justica-eleitoral.md)
+- [lgpd-fundamentos](references/concepts/lgpd-fundamentos.md)
 
 ## Raw Source
 
@@ -34,4 +32,4 @@ Source: `raw/tse-resolucao-23-644-2021-psi-antiga.md`
 
 ## Processing Notes
 
-Página gerada automaticamente a partir da fonte em `raw/`. Frontmatter normalizado.
+Marcador automático. Curadoria pendente — ao curar esta página, remova `curadoria: pendente` do frontmatter.

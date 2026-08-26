@@ -1,4 +1,5 @@
 ---
+curadoria: pendente
 title: "TRE-Pr Portaria 135/2025 - Prestacoes Pecuniarias"
 type: fonte-normativa
 tags: [tre-pr, portaria, prestacoes-pecuniarias, transacoes-penais, acordos-nao-persecucao]
@@ -10,21 +11,18 @@ status: REVOGADA pela Portaria TRE-PR 276/2026 (13/08/2026)
 
 ## Summary
 
-Texto normativo oficial. Ver documento completo em `raw/`.
-
-## Key Takeaways
-
-- Extrair pontos-chave do texto normativo.
-- Identificar obrigações e prazos.
-- Link para implementação prática.
+> **Página não curada.** Esta página é um marcador gerado automaticamente e **não contém síntese da norma**.
+> O texto está em [`references/raw/tre-pr-portaria-135-2025-prestacoes-pecuniarias.md`](references/raw/tre-pr-portaria-135-2025-prestacoes-pecuniarias.md) — **leia esse arquivo** para responder qualquer pergunta sobre esta norma.
+> Não conclua que a informação inexiste com base nesta página.
+> Confirme a vigência em [inventário TRE-PR/TSE](references/inventarios/normas-tre-pr-tse.md) ou [inventário CNJ](references/inventarios/normas-cnj.md) antes de citar em documento oficial.
 
 ## Relevant Entities
 
-- [[entities/cgsipdp]]
+- [cgsipdp](references/entities/cgsipdp.md)
 
 ## Relevant Concepts
 
-- [[concepts/seguranca-informacao-justica-eleitoral]]
+- [seguranca-informacao-justica-eleitoral](references/concepts/seguranca-informacao-justica-eleitoral.md)
 
 ## Raw Source
 
@@ -32,7 +30,7 @@ Source: `raw/tre-pr-portaria-135-2025-prestacoes-pecuniarias.md`
 
 ## Processing Notes
 
-Página gerada automaticamente a partir da fonte em `raw/`. Frontmatter normalizado.
+Marcador automático. Curadoria pendente — ao curar esta página, remova `curadoria: pendente` do frontmatter.
 
 
-> ⚠️ **REVOGADA** pela Portaria TRE-PR nº 276/2026, de 13/08/2026 (ver [[normas/tre-pr-portaria-276-2026-altera-74-2025]]). Mantida apenas como histórico.
+> ⚠️ **REVOGADA** pela [Portaria TRE-PR nº 276/2026](references/normas/tre-pr-portaria-276-2026-altera-74-2025.md), de 13/08/2026. Mantida apenas como histórico.

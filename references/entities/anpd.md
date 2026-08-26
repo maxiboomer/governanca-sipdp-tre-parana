@@ -37,5 +37,5 @@ A ANPD é a autarquia federal responsável pela fiscalização e supervisão do 
 - Telefone: 146 (ligação gratuita)
 
 ## Links Importantes
-- [[concepts/lgpd-fundamentos]]
-- [[concepts/lgpd-recursos-oficiais-anpd]]
+- [lgpd-fundamentos](references/concepts/lgpd-fundamentos.md)
+- [lgpd-recursos-oficiais-anpd](references/concepts/lgpd-recursos-oficiais-anpd.md)

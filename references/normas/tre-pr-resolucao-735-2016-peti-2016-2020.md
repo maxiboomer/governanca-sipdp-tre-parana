@@ -1,4 +1,5 @@
 ---
+curadoria: pendente
 title: "RESOLUÇÃO Nº 735/2016"
 type: fonte-normativa
 tags: [tre-pr, norma, coleta-automatica]
@@ -9,22 +10,19 @@ url: "https://apps.tre-pr.jus.br/files/legislacaocompilada/res/2016/Res07352016.
 
 ## Summary
 
-Texto normativo oficial. Ver documento completo em `raw/`.
-
-## Key Takeaways
-
-- Extrair pontos-chave do texto normativo.
-- Identificar obrigações e prazos.
-- Link para implementação prática.
+> **Página não curada.** Esta página é um marcador gerado automaticamente e **não contém síntese da norma**.
+> O texto está em [`references/raw/tre-pr-resolucao-735-2016-peti-2016-2020.md`](references/raw/tre-pr-resolucao-735-2016-peti-2016-2020.md) — **leia esse arquivo** para responder qualquer pergunta sobre esta norma.
+> Não conclua que a informação inexiste com base nesta página.
+> Confirme a vigência em [inventário TRE-PR/TSE](references/inventarios/normas-tre-pr-tse.md) ou [inventário CNJ](references/inventarios/normas-cnj.md) antes de citar em documento oficial.
 
 ## Relevant Entities
 
-- [[entities/cgsipdp]]
-- [[entities/etir]]
+- [cgsipdp](references/entities/cgsipdp.md)
+- [etir](references/entities/etir.md)
 
 ## Relevant Concepts
 
-- [[concepts/seguranca-informacao-justica-eleitoral]]
+- [seguranca-informacao-justica-eleitoral](references/concepts/seguranca-informacao-justica-eleitoral.md)
 
 ## Raw Source
 
@@ -32,4 +30,4 @@ Source: `raw/tre-pr-resolucao-735-2016-peti-2016-2020.md`
 
 ## Processing Notes
 
-Página gerada automaticamente a partir da fonte em `raw/`. Frontmatter normalizado.
+Marcador automático. Curadoria pendente — ao curar esta página, remova `curadoria: pendente` do frontmatter.

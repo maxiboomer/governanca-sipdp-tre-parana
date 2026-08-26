@@ -48,9 +48,9 @@ A Portaria TSE 444/2021 estabelece que:
 - Aplica-se a comunicações oficiais
 
 ## Relacionamentos
-- [[normas/psi-tre-pr-974-2026]] — Adaptação local
-- [[normas/lai-tre-pr-855-2020]] — Classificação
-- [[concepts/seguranca-informacao-justica-eleitoral]]
+- [psi-tre-pr-974-2026](references/normas/psi-tre-pr-974-2026.md) — Adaptação local
+- [lai-tre-pr-855-2020](references/normas/lai-tre-pr-855-2020.md) — Classificação
+- [seguranca-informacao-justica-eleitoral](references/concepts/seguranca-informacao-justica-eleitoral.md)
 
 ## Fontes
 - Portaria TSE 444/2021 (integral)

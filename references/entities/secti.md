@@ -8,12 +8,12 @@ tags: [tre-pr, ti, estrutura, vigente]
 
 ## Resumo
 
-Unidade da estrutura orgânica do TRE-PR, vigente pela [[normas/tre-pr-resolucao-971-2026-regulamento-secretaria|Resolução 971/2026]]. Subordinada à Diretoria-Geral.
+Unidade da estrutura orgânica do TRE-PR, vigente pela [Resolução 971/2026](references/normas/tre-pr-resolucao-971-2026-regulamento-secretaria.md). Subordinada à Diretoria-Geral.
 
 ## Estrutura interna relevante (SI/continuidade)
 
 - Coordenadoria de Segurança, Inteligência Artificial e Governança de TI (**COSIG**)
-  - Assessoria de Segurança Cibernética ([[entities/asc|ASC]])
+  - Assessoria de Segurança Cibernética ([ASC](references/entities/asc.md))
   - Seção de Planejamento e Governança de TI (SPGTI)
 - Coordenadoria de Infraestrutura de TI (COINF)
 - Coordenadoria de Serviços de TI (COSERTI)
@@ -21,4 +21,4 @@ Unidade da estrutura orgânica do TRE-PR, vigente pela [[normas/tre-pr-resolucao
 
 ## Papel na continuidade
 
-Responsável pelo **Plano de Recuperação de Desastres (PRD)** na PGCN ([[normas/tre-pr-portaria-presid-302-2025-pgcn|Portaria 302/2025, Art. 9º, IV]]).
+Responsável pelo **Plano de Recuperação de Desastres (PRD)** na PGCN ([Portaria 302/2025, Art. 9º, IV](references/normas/tre-pr-portaria-presid-302-2025-pgcn.md)).

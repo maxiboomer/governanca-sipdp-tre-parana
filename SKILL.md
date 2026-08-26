@@ -1,50 +1,113 @@
 ---
 name: governanca-sipdp-tre-pr
-description: Governança de Segurança da Informação e Proteção de Dados do TRE-PR — normas vigentes, estrutura, competências e prazos.
+description: Acervo de normas internas do TRE-PR e da Justiça Eleitoral (154 textos, 2016–2026), mantido pela AGM, com camada curada de Segurança da Informação, Proteção de Dados e continuidade. Use para responder qual norma rege um tema no TRE-PR, se ela está vigente ou foi revogada, com qual publicação isso se sustenta, e quem é a unidade competente — e para fundamentar despacho, parecer, minuta ou nota técnica com citação verificável. Ative ao mencionar PSI, LGPD no TRE-PR, CGSI/PDP, Encarregado/DPO, ETIR, ASC, AGM, SECTI, COSIG, Comitê de Crises Cibernéticas, PGCN, RIPD, RoPA, prazo normativo, vigência, revogação, inventário de normas, Res. TSE 23.763/2026, Res. TRE-PR 974/2026, 962/2025, 982/2026, 971/2026, 959/2025, 932/2024, Portaria DG 086/2026, Portaria 247/2021, Portaria 302/2025, IN-DG, Norma Técnica SECTI, Ordem de Serviço — ou ao pedir "qual norma diz", "isso está revogado?", "quem é competente por", "qual o prazo de", "onde foi publicada".
 ---
 
-# Governança SIPDP TRE-PR
+# Acervo Normativo TRE-PR — SI/PDP
 
-Base de conhecimento curada sobre governança de Segurança da Informação (SI) e
-Proteção de Dados Pessoais (PDP) no TRE-PR e na Justiça Eleitoral: PSI nacional (TSE)
-e local (TRE-PR), LGPD, comitês de crise, CGSI/PDP, ETIR, prazos normativos e
-histórico de revogações. Fontes integrais em `references/raw/`.
+Acervo de normas internas do TRE-PR e da Justiça Eleitoral, com camada curada de Segurança
+da Informação, Proteção de Dados Pessoais e continuidade de negócios. Unidade dona: a
+**AGM** (`references/entities/agm.md`).
 
-## Quando usar
+O vocabulário deste domínio está em `CONTEXT.md`. As decisões de desenho estão em
+`docs/adr/`. **Leia o `CONTEXT.md` antes de usar os termos "norma", "situação",
+"publicação", "curada" e "inventário"** — aqui eles têm sentido fixo.
 
-- Perguntas sobre qual norma rege SI/PDP/LGPD no TRE-PR ou na JE
-- Identificar estrutura de governança (comitês, unidades, papéis) e suas competências
-- Verificar prazos normativos, vigências e normas revogadas/supersedidas
-- Elaborar documentos de compliance (PSI, RIPD, planos de continuidade)
+**Conteúdo:** 154 textos em `references/raw/`; 197 páginas em
+`references/{normas,entities,concepts,inventarios,sources}/`.
+
+## Escopo
+
+O acervo é de **normas internas do TRE-PR e da JE**, de qualquer tema — inclui normas sem
+relação com SI/PDP (teletrabalho, feriados, plantão). O recorte de SI/PDP é a **camada
+curada**, não o acervo. Decisão registrada na ADR 0001.
+
+## Convenção de caminhos
+
+Todo link interno é caminho a partir da raiz do plugin:
+`references/normas/psi-tse-23763-2026.md`. Use-o literalmente.
 
 ## Como consultar
 
-1. Leia `references/index.md` para o catálogo completo das páginas.
-2. Páginas curadas por tipo:
-   - `references/normas/` — uma página por norma (vigência, competências, prazos)
-   - `references/concepts/` — conceitos (LGPD, continuidade, monitoramento SECTI)
-   - `references/entities/` — órgãos e unidades (CGSI/PDP, ETIR, ANPD, SECTI...)
-   - `references/inventarios/` — tabelas de vigência TRE-PR/TSE e CNJ
-   - `references/sources/` — sínteses por tipo de norma
-3. Texto integral: `references/raw/<nome-da-norma>.md`.
-4. Nunca edite `references/raw/` — é camada imutável; correções vão nas páginas curadas.
-5. Sempre confirme a vigência em `references/inventarios/` antes de citar norma em documento oficial.
+1. Abra `references/index.md` — catálogo com links resolvíveis.
+2. Vá à página do tema (`normas/`, `entities/`, `concepts/`, `inventarios/`).
+3. **Página com o aviso "Página não curada":** é marcador, não ausência de informação. Abra
+   o arquivo em `references/raw/` que ela indica e responda pelo texto. **Nunca responda que
+   a informação não existe com base numa página não curada** — 144 das 165 páginas de
+   `normas/` estão nesse estado.
+4. Nunca edite `references/raw/`. Correções vão nas páginas curadas.
+
+## Regra de sustentação — a mais importante
+
+**Nem este inventário nem a planilha da SECTI são autoridade sobre vigência.** A verdade é a
+publicação oficial (ADR 0002). Ao afirmar que uma norma vale ou foi revogada, **diga sempre
+com o que isso se sustenta**, nesta ordem:
+
+1. **Citação de DJE/DOU** (veículo, número, data, página) — suficiente para citar em documento.
+2. **Compilado oficial** do TRE-PR/TSE — serve para trabalhar; para documento, suba ao DJE.
+3. **Nada** — a linha está como `Não confirmada`. **Diga que não foi possível confirmar.**
+   Não presuma vigência, não presuma revogação.
+
+Consulte `references/inventarios/normas-tre-pr-tse.md` e
+`references/inventarios/lacunas-do-inventario.md` antes de afirmar situação.
+
+## Outras regras de resposta
+
+- **Cite norma, artigo e data.** Resposta sobre competência ou prazo sem dispositivo não serve.
+- **Distinga norma de arranjo interno.** Onde a estrutura real do Tribunal não estiver
+  refletida em norma vigente, diga — é ali que estão os riscos (ver a AGM).
+- **Instrumento monitorado não é norma.** `Plano nº 371943/2023` e
+  `Norma Técnica CDTI 02/2014` estão em
+  `references/inventarios/instrumentos-monitorados.md` e nunca fundamentam nada.
+- **Sinalize excertos.** Alguns arquivos de `raw/` não são texto integral (Res. 971/2026, por
+  exemplo). Nesses casos, recomende conferir a fonte oficial.
 
 ## Mapa rápido
 
 | Tema | Página |
 |---|---|
-| PSI nacional (TSE 23.763/2026) | `psi-tse-23763-2026.md` |
-| PSI local (Res. TRE-PR 974/2026) | `psi-tre-pr-974-2026.md` |
-| Comitê de crises cibernéticas (962/2025) | `governanca-e-crises-tre-pr.md` |
-| CGSI/PDP (Port. DG 086/2026) | `entidade-cgsipdp.md` |
-| Encarregado/DPO (Port. 247/2021) | `entidade-encarregado-dpo.md` |
-| ETIR | `entidade-etir.md` |
-| IA / LGPD | `conceito-lgpd-ia-governanca.md` |
-| Prazos consolidados | `prazos-normativos.md` |
-| Inventário de vigências | `inventario-normas.md` |
+| PSI nacional (TSE 23.763/2026) | `references/normas/psi-tse-23763-2026.md` |
+| PSI local (Res. TRE-PR 974/2026) | `references/normas/psi-tre-pr-974-2026.md` |
+| Comitê de crises cibernéticas (932/2024 e 962/2025) | `references/normas/governanca-e-crises-tre-pr.md` |
+| Estrutura orgânica atual (Res. 982/2026) | `references/normas/tre-pr-resolucao-982-2026-reestruturacao.md` |
+| AGM — governança e monitoramento de SI | `references/entities/agm.md` |
+| CGSI/PDP (Port. DG 086/2026) | `references/entities/cgsipdp.md` |
+| Encarregado/DPO (Port. 247/2021, na SEGEI) | `references/entities/encarregado-dpo.md` |
+| ETIR | `references/entities/etir.md` |
+| ASC — Segurança Cibernética (COSIG/SECTI) | `references/entities/asc.md` |
+| SECTI | `references/entities/secti.md` |
+| Continuidade / PGCN (Port. 302/2025) | `references/concepts/continuidade-negocios-tre-pr.md` |
+| IA / LGPD | `references/concepts/lgpd-ia-governanca.md` |
+| Prazos consolidados | `references/concepts/prazos-normativos-tre-pr.md` |
+| Inventário TRE-PR/TSE | `references/inventarios/normas-tre-pr-tse.md` |
+| Inventário CNJ | `references/inventarios/normas-cnj.md` |
+| Lacunas do inventário | `references/inventarios/lacunas-do-inventario.md` |
+| Instrumentos monitorados | `references/inventarios/instrumentos-monitorados.md` |
+
+## Fronteira com outras skills
+
+Esta skill é **acervo e sustentação**: o que a norma diz, se vale, com que publicação, quem
+é competente. Ela **não** produz documento nem executa metodologia.
+
+| Pedido | Skill adequada |
+|---|---|
+| Redigir plano de continuidade (PE, PGC, PCO, PRD, PCOM, PRN, PSBP, PCSA), ISO 22301 | `bcm-specialist` |
+| Estruturar programa de compliance LGPD, gap analysis, maturidade, RIPD, ANPD | `lgpd-compliance-setor-publico` |
+| Gerar documentos de implementação da Res. CNJ 363/2021 | `cnj-363-2021` |
+| Padronizar minuta segundo LC 95/1998 (legística) | `padronizacao-atos-normativos` |
+| Rotina de cartório eleitoral, CAE, Corregedoria | `codigo-normas-cre-pr` |
+| Classificação e temporalidade documental | `pcd-ttd-trepr` |
+| Lavrar ata de reunião no padrão TRE-PR | `ata-tre-pr` |
+
+**Sobreposição conhecida** — nesses temas, confirme aqui antes de fechar:
+
+- `analise-normas-eleitorais` — fork da mesma base; cobre LAI, PSI-JE, PGPPDP e crises com
+  mais profundidade em LAI, LAI local, PGPPDP e Portaria TSE 444/2021.
+- `monitoramento-normas-secti` — carrega cópia do mesmo inventário, já divergente desta.
 
 ## Avisos
 
-- Normas citadas como revogadas (ex.: TSE 23.644/2021) permanecem aqui apenas como histórico.
-- Sempre confirme a vigência no `inventario-normas.md` antes de citar uma norma em documento oficial.
+- Normas revogadas permanecem como histórico, sinalizadas.
+- 144 páginas de `normas/` estão marcadas `curadoria: pendente` — o texto existe em `raw/`,
+  a síntese é que não foi escrita.
+- Os Anexos I e II da Res. 982/2026 (cargos e organograma) não constam do acervo.

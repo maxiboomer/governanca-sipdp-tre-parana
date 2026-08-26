@@ -26,7 +26,7 @@ Documento complementar que esclarece aplicação da LGPD ao setor público:
 
 ### RIPD (Relatório de Impacto à Proteção de Dados)
 Instrumento obrigatório para projetos com risco elevado aos direitos:
-- [[concepts/lgpd-ia-governanca]] - RIPD para IA
+- [lgpd-ia-governanca](references/concepts/lgpd-ia-governanca.md) - RIPD para IA
 
 ## Aplicacao ao Setor Publico
 
@@ -57,6 +57,6 @@ Instrumento obrigatório para projetos com risco elevado aos direitos:
 - **Caso de reidentificação** - Padrões técnicos de anonimização
 
 ## Links Relacionados
-- [[entities/anpd]]
-- [[concepts/lgpd-fundamentos]]
-- [[concepts/lgpd-implementacao-fase2]]
+- [anpd](references/entities/anpd.md)
+- [lgpd-fundamentos](references/concepts/lgpd-fundamentos.md)
+- [lgpd-implementacao-fase2](references/concepts/lgpd-implementacao-fase2.md)

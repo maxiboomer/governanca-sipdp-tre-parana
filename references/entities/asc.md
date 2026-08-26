@@ -8,11 +8,11 @@ tags: [tre-pr, seguranca-cibernetica, si, vigente]
 
 ## Resumo
 
-Unidade de segurança cibernética do TRE-PR, vinculada à COSIG/SECTI. Criada/confirmada na estrutura vigente pela [[normas/tre-pr-resolucao-971-2026-regulamento-secretaria|Resolução 971/2026]].
+Unidade de segurança cibernética do TRE-PR, vinculada à COSIG/SECTI. Criada/confirmada na estrutura vigente pela [Resolução 971/2026](references/normas/tre-pr-resolucao-971-2026-regulamento-secretaria.md).
 
 ## Competências (PGCN)
 
-Na [[normas/tre-pr-portaria-presid-302-2025-pgcn|Portaria 302/2025, Art. 15]]: define metodologia e ferramentas da GCN; propõe melhorias; consolida resultados de testes; desenvolve cultura de GCN; executa exercícios/simulações.
+Na [Portaria 302/2025, Art. 15](references/normas/tre-pr-portaria-presid-302-2025-pgcn.md): define metodologia e ferramentas da GCN; propõe melhorias; consolida resultados de testes; desenvolve cultura de GCN; executa exercícios/simulações.
 
 ## Contato
 

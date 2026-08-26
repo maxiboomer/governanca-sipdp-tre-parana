@@ -19,18 +19,18 @@ Aprova o Regulamento da Secretaria do TRE-PR, revogando a Resolução 903/2022 (
 
 ## Relevant Entities
 
-- [[entities/secti]]
-- [[entities/asc]]
-- [[entities/cgsipdp]]
+- [secti](references/entities/secti.md)
+- [asc](references/entities/asc.md)
+- [cgsipdp](references/entities/cgsipdp.md)
 
 ## Relevant Concepts
 
-- [[concepts/seguranca-informacao-justica-eleitoral]]
+- [seguranca-informacao-justica-eleitoral](references/concepts/seguranca-informacao-justica-eleitoral.md)
 
 ## Relacionamentos
 
-- *Res. TRE-PR 903/2022 (Regulamento da Secretaria)* — REVOGADA por esta (sem página própria; texto-fonte não coletado)
-- [[normas/tre-pr-in-instrucao-normativa-010-de-14-de-novembro-de-2025]] — remete ao art. 43 da 903/2022 (revogada); a referência está defasada
+- normas/tre-pr-resolucao-903-2022-regulamento-secretaria — REVOGADA por esta
+- [tre-pr-in-instrucao-normativa-010-de-14-de-novembro-de-2025](references/normas/tre-pr-in-instrucao-normativa-010-de-14-de-novembro-de-2025.md) — remete ao art. 43 da 903/2022 (revogada); a referência está defasada
 
 ## Raw Source
 

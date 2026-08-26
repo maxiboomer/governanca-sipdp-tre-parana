@@ -1,9 +1,19 @@
 {
   "name": "governanca-sipdp-tre-pr",
-  "version": "1.0.0",
-  "description": "Base de conhecimento: governança de Segurança da Informação e Proteção de Dados no TRE-PR e Justiça Eleitoral (PSI, LGPD, prazos, normas 2016-2026).",
+  "version": "1.2.0",
+  "description": "Acervo de normas internas do TRE-PR e da Justiça Eleitoral (154 textos, 2016–2026) com camada curada de Segurança da Informação, Proteção de Dados e continuidade; inventário de vigências com a publicação que sustenta cada situação.",
   "author": {
     "name": "Fabio (maxiboomer)"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": [
+    "tre-pr",
+    "justica-eleitoral",
+    "seguranca-da-informacao",
+    "lgpd",
+    "psi",
+    "governanca",
+    "continuidade",
+    "normas"
+  ]
 }

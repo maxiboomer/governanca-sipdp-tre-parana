@@ -6,141 +6,141 @@ coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
 ---
 
-INSTRUÇÃO NORMATIVA Nº 07/2018
-
-
-
-
+INSTRUÇÃO NORMATIVA Nº 07/2018
 
- 
 
-TRIBUNAL REGIONAL ELEITORAL DO PARANÁ
 
-INSTRUÇÃO NORMATIVA Nº 07/2018
 
-Dispõe sobre as regras e os procedimentos para a realização de Cópias de Segurança (backup) de dados e de sistemas de informação no âmbito da Justiça Eleitoral do Paraná.
 
-  
+ 
 
-A DIRETORA-GERAL DA SECRETARIA DO TRIBUNAL REGIONAL ELEITORAL DO PARANÁ, no uso das atribuições que lhe são conferidas pelo art. 30 do Regulamento da Secretaria, 
+TRIBUNAL REGIONAL ELEITORAL DO PARANÁ
 
-CONSIDERANDO a necessidade de garantir a disponibilidade dos dados e dos sistemas de informação;
+INSTRUÇÃO NORMATIVA Nº 07/2018
 
-CONSIDERANDO a necessidade de definir processos para a realização de cópias de segurança de dados e sistemas de informação administrados e armazenados no TRE/PR; 
+Dispõe sobre as regras e os procedimentos para a realização de Cópias de Segurança (backup) de dados e de sistemas de informação no âmbito da Justiça Eleitoral do Paraná.
 
-CONSIDERANDO que a segurança da informação é condição essencial para a prestação dos serviços jurisdicionais e administrativos do TRE/PR;
+  
 
-CONSIDERANDO que esta norma é parte integrante da regulamentação da Política de Segurança da Informação (PSI) da Justiça Eleitoral, conforme art. 6º da Resolução nº 23.501/2016 do TSE e o contido no PAD nº 3463/2018,
+A DIRETORA-GERAL DA SECRETARIA DO TRIBUNAL REGIONAL ELEITORAL DO PARANÁ, no uso das atribuições que lhe são conferidas pelo art. 30 do Regulamento da Secretaria, 
 
-RESOLVE
+CONSIDERANDO a necessidade de garantir a disponibilidade dos dados e dos sistemas de informação;
 
- 
+CONSIDERANDO a necessidade de definir processos para a realização de cópias de segurança de dados e sistemas de informação administrados e armazenados no TRE/PR; 
 
-Art. 1º Ficam estabelecidas as diretrizes para a realização de cópias de segurança de dados e sistemas de segurança de informação no TRE/PR.
+CONSIDERANDO que a segurança da informação é condição essencial para a prestação dos serviços jurisdicionais e administrativos do TRE/PR;
 
-Art. 2º Os efeitos desta normativa se estendem a todos os usuários dos recursos de tecnologia da informação da Justiça Eleitoral do Paraná.
+CONSIDERANDO que esta norma é parte integrante da regulamentação da Política de Segurança da Informação (PSI) da Justiça Eleitoral, conforme art. 6º da Resolução nº 23.501/2016 do TSE e o contido no PAD nº 3463/2018,
 
-Art. 3º Não estão cobertos por esta política os dados armazenados em microcomputadores, notebooks e dispositivos móveis, para os quais eventuais cópias de segurança são de responsabilidade do usuário.
+RESOLVE
 
-Art. 4º Cabe à Secretaria de Tecnologia da Informação (SECTI) aplicar esforços para garantir a disponibilidade dos dados armazenados no ambiente tecnológico do TRE/PR.
+ 
 
-Art. 5º Para efeitos desta norma consideram-se as seguintes definições:
+Art. 1º Ficam estabelecidas as diretrizes para a realização de cópias de segurança de dados e sistemas de segurança de informação no TRE/PR.
 
-I – Backup ou Cópia de Segurança: cópia de dados e sistemas armazenados em recursos de tecnologia da informação;
+Art. 2º Os efeitos desta normativa se estendem a todos os usuários dos recursos de tecnologia da informação da Justiça Eleitoral do Paraná.
 
-II - Mídia de backup: meio onde são armazenados os backups; 
+Art. 3º Não estão cobertos por esta política os dados armazenados em microcomputadores, notebooks e dispositivos móveis, para os quais eventuais cópias de segurança são de responsabilidade do usuário.
 
-III - Cópia Off-line: cópia de segurança realizada em mídias de backup que ficarão armazenadas em ambiente sem conexão permanente com a rede de computadores da Justiça Eleitoral;
+Art. 4º Cabe à Secretaria de Tecnologia da Informação (SECTI) aplicar esforços para garantir a disponibilidade dos dados armazenados no ambiente tecnológico do TRE/PR.
 
-IV – Ativo de informação: sistema de informação, banco de dados ou conjunto de arquivos eletrônicos utilizados ou armazenados pela Justiça Eleitoral do Paraná;
+Art. 5º Para efeitos desta norma consideram-se as seguintes definições:
 
-V – Planos de Backup: documento onde constará a metodologia operacional para execução das cópias de segurança;
+I – Backup ou Cópia de Segurança: cópia de dados e sistemas armazenados em recursos de tecnologia da informação;
 
-VI – Ativos de informação em produção: são todos aqueles de uso corrente dos usuários, ou seja, excluem-se os ativos em uso nos ambientes de testes e homologação.
+II - Mídia de backup: meio onde são armazenados os backups; 
 
-Art. 6º O tempo de retenção das cópias de segurança obedecerá os seguintes prazos:
+III - Cópia Off-line: cópia de segurança realizada em mídias de backup que ficarão armazenadas em ambiente sem conexão permanente com a rede de computadores da Justiça Eleitoral;
 
-I - 1 (um) ano para os registros de acesso à internet e a sistemas de informação (logs);
+IV – Ativo de informação: sistema de informação, banco de dados ou conjunto de arquivos eletrônicos utilizados ou armazenados pela Justiça Eleitoral do Paraná;
 
-II – 1 (um) ano para registros de acesso à internet (logs) feito por visitantes; 
+V – Planos de Backup: documento onde constará a metodologia operacional para execução das cópias de segurança;
 
-III – 90 (noventa) dias para os documentos de usuários em servidores de arquivos;
+VI – Ativos de informação em produção: são todos aqueles de uso corrente dos usuários, ou seja, excluem-se os ativos em uso nos ambientes de testes e homologação.
 
-IV – 90 (noventa) dias para as mensagens e os dados de usuários em servidores de e-mail;
+Art. 6º O tempo de retenção das cópias de segurança obedecerá os seguintes prazos:
 
-V – 180 (cento e oitenta) dias para os bancos de dados de produção;
+I - 1 (um) ano para os registros de acesso à internet e a sistemas de informação (logs);
 
-VI – 30 (trinta) dias para os dados de máquinas virtuais;
+II – 1 (um) ano para registros de acesso à internet (logs) feito por visitantes; 
 
-VII - 30 (trinta) dias para os demais ativos de informação.
+III – 90 (noventa) dias para os documentos de usuários em servidores de arquivos;
 
-Art. 7º Todos os ativos de informação em produção deverão ser protegidos por cópias off-line periódicas, cujo tempo de retenção cumprirá o previsto no art. 6º.
+IV – 90 (noventa) dias para as mensagens e os dados de usuários em servidores de e-mail;
 
-Art. 8º As cópias off-line deverão ser armazenadas em local diverso de onde estão armazenados os dados e sistemas a serem protegidos.
+V – 180 (cento e oitenta) dias para os bancos de dados de produção;
 
-Art. 9º A SECTI deverá apresentar à Comissão de Segurança da Informação planos de backup que englobem todos os ativos de informação, detalhados de acordo com o tipo de dado a ser protegido, especialmente os seguintes:
+VI – 30 (trinta) dias para os dados de máquinas virtuais;
 
-I - Registros de acesso à internet e aos sistemas de informação;
+VII - 30 (trinta) dias para os demais ativos de informação.
 
-II – Dados em servidores de arquivos;
+Art. 7º Todos os ativos de informação em produção deverão ser protegidos por cópias off-line periódicas, cujo tempo de retenção cumprirá o previsto no art. 6º.
 
-III – Dados em servidores de e-mail;
+Art. 8º As cópias off-line deverão ser armazenadas em local diverso de onde estão armazenados os dados e sistemas a serem protegidos.
 
-IV – Dados armazenados em bancos de dados;
+Art. 9º A SECTI deverá apresentar à Comissão de Segurança da Informação planos de backup que englobem todos os ativos de informação, detalhados de acordo com o tipo de dado a ser protegido, especialmente os seguintes:
 
-V - Máquinas servidoras virtuais;
+I - Registros de acesso à internet e aos sistemas de informação;
 
-VI – Máquinas servidoras físicas;
+II – Dados em servidores de arquivos;
 
-VII – Equipamentos de rede de telecomunicações.
+III – Dados em servidores de e-mail;
 
-Art. 10. Nos planos de backup deverão constar, no mínimo, as seguintes informações:
+IV – Dados armazenados em bancos de dados;
 
-I – Nome ou número do plano;
+V - Máquinas servidoras virtuais;
 
-II – Ativos a serem protegidos;
+VI – Máquinas servidoras físicas;
 
-III – Periodicidade dos testes de restauração;
+VII – Equipamentos de rede de telecomunicações.
 
-IV - Periodicidade do backup; 
+Art. 10. Nos planos de backup deverão constar, no mínimo, as seguintes informações:
 
-V - Tipo de backup (completo, incremental ou diferencial);
+I – Nome ou número do plano;
 
-VI – Periodicidade de cópias off-line;
+II – Ativos a serem protegidos;
 
-VII – Nível de criticidade do ativo (caso tenha sido classificado);
+III – Periodicidade dos testes de restauração;
 
-VIII – Ferramenta utilizada;
+IV - Periodicidade do backup; 
 
-IX – Prazo previsto para restauração parcial e total dos dados ou sistemas;
+V - Tipo de backup (completo, incremental ou diferencial);
 
-X – Se o ativo faz parte do Plano de Continuidade de Negócios;
+VI – Periodicidade de cópias off-line;
 
-XI – Informações complementares sobre a restauração dos dados;
+VII – Nível de criticidade do ativo (caso tenha sido classificado);
 
-XII – Nome do gestor da unidade organizacional responsável pela execução do plano;
+VIII – Ferramenta utilizada;
 
-XIII – Tempo de retenção das cópias;
+IX – Prazo previsto para restauração parcial e total dos dados ou sistemas;
 
-XIV – Prazo de início de execução do plano.
+X – Se o ativo faz parte do Plano de Continuidade de Negócios;
 
-Art. 11. A SECTI tem o prazo de 120 (cento e vinte) dias para apresentar os planos de backup para todos os ativos de informação que contenham dados a serem preservados.
+XI – Informações complementares sobre a restauração dos dados;
 
-Parágrafo único. Os prazos previstos no art. 6º serão contados a partir do início da execução do respectivo plano.
+XII – Nome do gestor da unidade organizacional responsável pela execução do plano;
 
-Art. 12. A Comissão de Segurança da Informação poderá solicitar ajustes nos planos de backup apresentados, de acordo com a análise de riscos ou com o Plano de Continuidade de Negócios.
+XIII – Tempo de retenção das cópias;
 
-Art. 13. Os planos de backup, sempre que necessário, deverão ser atualizados para contemplar o Plano de Continuidade de Negócios. 
+XIV – Prazo de início de execução do plano.
 
-Art. 14. Qualquer dúvida sobre a aplicação desta norma deverá ser encaminhada à SECTI, que irá dirimi-la ou apresentá-la à Comissão de Segurança da Informação.
+Art. 11. A SECTI tem o prazo de 120 (cento e vinte) dias para apresentar os planos de backup para todos os ativos de informação que contenham dados a serem preservados.
 
-Art. 15. Esta Instrução Normativa entrará em vigor na data da sua publicação.
+Parágrafo único. Os prazos previstos no art. 6º serão contados a partir do início da execução do respectivo plano.
 
- 
+Art. 12. A Comissão de Segurança da Informação poderá solicitar ajustes nos planos de backup apresentados, de acordo com a análise de riscos ou com o Plano de Continuidade de Negócios.
 
-Curitiba, 26 de abril de 2018.
+Art. 13. Os planos de backup, sempre que necessário, deverão ser atualizados para contemplar o Plano de Continuidade de Negócios. 
 
-DANIELA BORGES DE CARVALHO
+Art. 14. Qualquer dúvida sobre a aplicação desta norma deverá ser encaminhada à SECTI, que irá dirimi-la ou apresentá-la à Comissão de Segurança da Informação.
+
+Art. 15. Esta Instrução Normativa entrará em vigor na data da sua publicação.
+
+ 
+
+Curitiba, 26 de abril de 2018.
+
+DANIELA BORGES DE CARVALHO
 
 Diretora-Geral
 

@@ -6,51 +6,51 @@ coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
 ---
 
-ORDEM DE SERVIÇO Nº 08/2017
-
-
-
-
+ORDEM DE SERVIÇO Nº 08/2017
 
- 
 
- 
 
-TRIBUNAL REGIONAL ELEITORAL DO PARANÁ
 
-ORDEM DE SERVIÇO Nº 08/2017
 
-Dispõe sobre a implantação da metodologia de desenvolvimento de sistemas (MDS TER/PR) a ser adotada no âmbito da Justiça Eleitoral do Paraná.
+ 
 
-  
+ 
 
-A DIRETORA-GERAL DA SECRETARIA DO TRIBUNAL REGIONAL ELEITORAL DO PARANÁ, no uso das suas atribuições que lhe são conferidas pelo art. 30, inciso VII do Regulamento da Secretaria.
+TRIBUNAL REGIONAL ELEITORAL DO PARANÁ
 
-CONSIDERANDO a Resolução do Conselho Nacional da Justiça nº 211/2015, que Institui a Estratégia Nacional de Tecnologia da Informação e Comunicação do Poder Judiciário (ENTIC-JUD); 
+ORDEM DE SERVIÇO Nº 08/2017
 
-CONSIDERANDO a Resolução TRE-PR nº 695 de 2014, que aprova a revisão do Planejamento Estratégico para o período 2015-2020 no âmbito da Justiça Eleitoral do Paraná e dá outras providências;
+Dispõe sobre a implantação da metodologia de desenvolvimento de sistemas (MDS TER/PR) a ser adotada no âmbito da Justiça Eleitoral do Paraná.
 
-CONSIDERANDO a Resolução TRE-PR nº 726/2016, que aprova o Planejamento Estratégico de Tecnologia da Informação para o período 2016 – 2020, 
+  
 
-CONSIDERANDO o contido no PAD nº 10841/2017,
+A DIRETORA-GERAL DA SECRETARIA DO TRIBUNAL REGIONAL ELEITORAL DO PARANÁ, no uso das suas atribuições que lhe são conferidas pelo art. 30, inciso VII do Regulamento da Secretaria.
 
-RESOLVE: 
+CONSIDERANDO a Resolução do Conselho Nacional da Justiça nº 211/2015, que Institui a Estratégia Nacional de Tecnologia da Informação e Comunicação do Poder Judiciário (ENTIC-JUD); 
 
-Art. 1º Fica aprovada a Metodologia de Desenvolvimento de Sistemas da Justiça Eleitoral do Paraná (MDS TER/PR), na forma estabelecida no anexo único desta Ordem de Serviço. 
+CONSIDERANDO a Resolução TRE-PR nº 695 de 2014, que aprova a revisão do Planejamento Estratégico para o período 2015-2020 no âmbito da Justiça Eleitoral do Paraná e dá outras providências;
 
-Art. 2º Compete a Seção de Desenvolvimento de Sistemas a gestão e monitoramento da metodologia de desenvolvimento de sistemas, bem como propor adequações e melhorias ao procedimento.
+CONSIDERANDO a Resolução TRE-PR nº 726/2016, que aprova o Planejamento Estratégico de Tecnologia da Informação para o período 2016 – 2020, 
 
-Art. 3º Esta Ordem de Serviço entra em vigor na data da sua publicação.
+CONSIDERANDO o contido no PAD nº 10841/2017,
 
-  
+RESOLVE: 
 
-Curitiba, em 18 de dezembro de 2017.
+Art. 1º Fica aprovada a Metodologia de Desenvolvimento de Sistemas da Justiça Eleitoral do Paraná (MDS TER/PR), na forma estabelecida no anexo único desta Ordem de Serviço. 
 
-MÔNICA MIRANDA GAMA MONTEIRO
+Art. 2º Compete a Seção de Desenvolvimento de Sistemas a gestão e monitoramento da metodologia de desenvolvimento de sistemas, bem como propor adequações e melhorias ao procedimento.
 
-Diretora-Geral
+Art. 3º Esta Ordem de Serviço entra em vigor na data da sua publicação.
 
-Anexo Único
+  
+
+Curitiba, em 18 de dezembro de 2017.
+
+MÔNICA MIRANDA GAMA MONTEIRO
+
+Diretora-Geral
+
+Anexo Único
 
 Metodologia de Desenvolvimento de Sistemas da Justiça Eleitoral do Paraná (MDS TER/PR)
 

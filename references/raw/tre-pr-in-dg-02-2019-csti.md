@@ -6,101 +6,101 @@ coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
 ---
 
-INSTRUÇÃO NORMATIVA Nº 02/2019
-
-
-
-
+INSTRUÇÃO NORMATIVA Nº 02/2019
 
- 
 
-TRIBUNAL REGIONAL ELEITORAL DO PARANÁ
 
-INSTRUÇÃO NORMATIVA Nº 02/2019
 
-Dispõe sobre a Central de Serviços de Tecnologia da Informação (CSTI) e define sua política de funcionamento no âmbito da Justiça Eleitoral
-do Paraná.
 
-O DIRETOR-GERAL DO TRIBUNAL REGIONAL ELEITORAL DO PARANÁ, no uso de suas atribuições legais e regimentais,
+ 
 
-CONSIDERANDO a implantação de práticas que favoreçam a governança da tecnologia da informação no âmbito deste Tribunal;
+TRIBUNAL REGIONAL ELEITORAL DO PARANÁ
 
-CONSIDERANDO os princípios constitucionais e administrativos da eficiência, eficácia e economicidade constantes do art. 37 da Constituição
-Federal;
+INSTRUÇÃO NORMATIVA Nº 02/2019
 
-CONSIDERANDO o disposto no artigo 24, inciso XII, da Resolução n° 211/2015 do CNJ, que institui a Estratégia Nacional de Tecnologia da
-Informação e Comunicação do Poder Judiciário (ENTIC- JUD); e
+Dispõe sobre a Central de Serviços de Tecnologia da Informação (CSTI) e define sua política de funcionamento no âmbito da Justiça Eleitoral
+do Paraná.
 
-
-CONSIDERANDO as boas práticas de gestão de serviços preconizadas pela ITIL (Technology Infrastructure Library);
-CONSIDERANDO o contido no PAD nº 12982/18,
+O DIRETOR-GERAL DO TRIBUNAL REGIONAL ELEITORAL DO PARANÁ, no uso de suas atribuições legais e regimentais,
 
-RESOLVE
+CONSIDERANDO a implantação de práticas que favoreçam a governança da tecnologia da informação no âmbito deste Tribunal;
 
-Art. 1º Regulamentar a função da Central de Serviços de Tecnologia da Informação (CSTI), bem como sua política de funcionamento, no
-âmbito da Justiça Eleitoral do Paraná.
+CONSIDERANDO os princípios constitucionais e administrativos da eficiência, eficácia e economicidade constantes do art. 37 da Constituição
+Federal;
 
-Parágrafo único. A CSTI é o ponto único de contato dos usuários com o suporte dos serviços de Tecnologia da Informação.
+CONSIDERANDO o disposto no artigo 24, inciso XII, da Resolução n° 211/2015 do CNJ, que institui a Estratégia Nacional de Tecnologia da
+Informação e Comunicação do Poder Judiciário (ENTIC- JUD); e
 
-Art. 2º Para os efeitos deste ato aplicam-se as seguintes definições:
 
-- Tecnologia da Informação (TI): ativo estratégico que suporta processos institucionais por meio da conjugação de recursos, processos de
-trabalho e técnicas que são utilizadas para obter, processar, armazenar, utilizar e disseminar informações.
+CONSIDERANDO as boas práticas de gestão de serviços preconizadas pela ITIL (Technology Infrastructure Library);
+CONSIDERANDO o contido no PAD nº 12982/18,
 
-- Serviços de TI: é toda atividade desenvolvida na área de TI que visa produzir, executar ou desenvolver algo, além de atender a necessidade
-de indivíduos ou da organização.
+RESOLVE
 
-- Central de Serviços de TI: é uma unidade funcional formada por um número dedicado de pessoas, responsáveis por lidar com atividades
-variadas, normalmente via telefone, interface web, ou eventos da infraestrutura automaticamente reportados por meio de ferramentas de
-monitoração. O objetivo principal da Central de Serviços de TI é fornecer um ponto único de contato entre os usuários e os serviços oferecidos.
+Art. 1º Regulamentar a função da Central de Serviços de Tecnologia da Informação (CSTI), bem como sua política de funcionamento, no
+âmbito da Justiça Eleitoral do Paraná.
 
-- ITIL (Technology Infrastructure Library): é um conjunto de boas práticas para serem aplicadas na infraestrutura, operação e gerenciamento de
-serviços de tecnologia da informação (ITSM). Foi desenvolvido no final dos anos 1980 pela CCTA (Central Computer and Telecommunications
-Agency), hoje OGC (Office for Government Commerce) do Reino Unido.
+Parágrafo único. A CSTI é o ponto único de contato dos usuários com o suporte dos serviços de Tecnologia da Informação.
 
-- Função: Na terminologia da ITIL 2011, é uma equipe ou grupo de pessoas e as ferramentas e outros recursos que elas usam para executar
-um ou mais processos ou atividades.
+Art. 2º Para os efeitos deste ato aplicam-se as seguintes definições:
 
-Art. 3º A CSTI tem por objetivo:
+- Tecnologia da Informação (TI): ativo estratégico que suporta processos institucionais por meio da conjugação de recursos, processos de
+trabalho e técnicas que são utilizadas para obter, processar, armazenar, utilizar e disseminar informações.
 
-- Melhorar a percepção e satisfação dos clientes/usuários em relação aos serviços prestados;
+- Serviços de TI: é toda atividade desenvolvida na área de TI que visa produzir, executar ou desenvolver algo, além de atender a necessidade
+de indivíduos ou da organização.
 
-- Melhorar a qualidade e agilidade no tratamento de requisições dos usuários, reduzindo possíveis impactos no negócio e na produtividade dos
-servidores do TRE/PR;
+- Central de Serviços de TI: é uma unidade funcional formada por um número dedicado de pessoas, responsáveis por lidar com atividades
+variadas, normalmente via telefone, interface web, ou eventos da infraestrutura automaticamente reportados por meio de ferramentas de
+monitoração. O objetivo principal da Central de Serviços de TI é fornecer um ponto único de contato entre os usuários e os serviços oferecidos.
 
-– Otimizar o uso dos recursos de suporte de TI;
+- ITIL (Technology Infrastructure Library): é um conjunto de boas práticas para serem aplicadas na infraestrutura, operação e gerenciamento de
+serviços de tecnologia da informação (ITSM). Foi desenvolvido no final dos anos 1980 pela CCTA (Central Computer and Telecommunications
+Agency), hoje OGC (Office for Government Commerce) do Reino Unido.
 
-– Fornecer informações gerenciais para o apoio à tomada de decisões.
+- Função: Na terminologia da ITIL 2011, é uma equipe ou grupo de pessoas e as ferramentas e outros recursos que elas usam para executar
+um ou mais processos ou atividades.
 
-Art. 4º A CSTI é formada por um grupo de pessoas que atua em diversos processos, mas que é responsável, principalmente, pelas seguintes
-atribuições:
+Art. 3º A CSTI tem por objetivo:
 
-- Receber contato do usuário: a CSTI deve atuar como “ponto único de contato” para os usuários dos serviços de TI;
+- Melhorar a percepção e satisfação dos clientes/usuários em relação aos serviços prestados;
 
-- Acompanhar e escalar o atendimento: a Central de Serviços é responsável por monitorar a evolução de todos os atendimentos, realizando
-escaladas funcionais e hierárquicas, quando necessário;
+- Melhorar a qualidade e agilidade no tratamento de requisições dos usuários, reduzindo possíveis impactos no negócio e na produtividade dos
+servidores do TRE/PR;
 
-- Informar a evolução do atendimento para usuário: a CSTI é responsável por manter os usuários informados sobre o progresso de suas
-solicitações de atendimento;
+– Otimizar o uso dos recursos de suporte de TI;
 
-- Fechar o registro de atendimento: a CSTI é responsável por confirmar com o usuário se sua necessidade ou dificuldade foi satisfatoriamente
-atendida.
+– Fornecer informações gerenciais para o apoio à tomada de decisões.
 
-Art. 5º O Guia de Funcionamento da CSTI (anexo único), contendo a descrição das atividades, dos papéis e das responsabilidades dos
-envolvidos, será publicado no Portal de Governança de TI, após aprovação pelo Comitê de Gestão da Tecnologia da nformação (CGTI).
+Art. 4º A CSTI é formada por um grupo de pessoas que atua em diversos processos, mas que é responsável, principalmente, pelas seguintes
+atribuições:
 
-Parágrafo único. As alterações no documento tratado no caput serão publicadas no Portal de Governança de TI, após aprovação do Comitê de
-Gestão da Tecnologia da Informação.
+- Receber contato do usuário: a CSTI deve atuar como “ponto único de contato” para os usuários dos serviços de TI;
 
-Art. 6º O processo estabelecido nesta Instrução Normativa será revisto bianualmente ou, quando necessário, em menor prazo.
+- Acompanhar e escalar o atendimento: a Central de Serviços é responsável por monitorar a evolução de todos os atendimentos, realizando
+escaladas funcionais e hierárquicas, quando necessário;
 
-Art. 7º Esta Instrução Normativa entrará em vigor na data de sua publicação. 
+- Informar a evolução do atendimento para usuário: a CSTI é responsável por manter os usuários informados sobre o progresso de suas
+solicitações de atendimento;
 
- 
+- Fechar o registro de atendimento: a CSTI é responsável por confirmar com o usuário se sua necessidade ou dificuldade foi satisfatoriamente
+atendida.
 
-Curitiba, em 23 de janeiro de 2019.
+Art. 5º O Guia de Funcionamento da CSTI (anexo único), contendo a descrição das atividades, dos papéis e das responsabilidades dos
+envolvidos, será publicado no Portal de Governança de TI, após aprovação pelo Comitê de Gestão da Tecnologia da nformação (CGTI).
 
-SÉRGIO LUIZ MARANHÃO RITZMANN
+Parágrafo único. As alterações no documento tratado no caput serão publicadas no Portal de Governança de TI, após aprovação do Comitê de
+Gestão da Tecnologia da Informação.
+
+Art. 6º O processo estabelecido nesta Instrução Normativa será revisto bianualmente ou, quando necessário, em menor prazo.
+
+Art. 7º Esta Instrução Normativa entrará em vigor na data de sua publicação. 
+
+ 
+
+Curitiba, em 23 de janeiro de 2019.
+
+SÉRGIO LUIZ MARANHÃO RITZMANN
 
 Diretor-Geral do TRE/PR
 

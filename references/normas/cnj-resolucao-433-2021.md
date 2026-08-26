@@ -66,6 +66,6 @@ A **CNJ Resolução 646/2025** institui o Protocolo de Crise Socioambiental do P
 
 ## Relacionamentos
 
-- [[normas/cnj-resolucao-325-2020]]
-- [[normas/cnj-resolucao-646-2025]]
-- [[normas/portaria-tre-pr-056-2026]]
+- [cnj-resolucao-325-2020](references/normas/cnj-resolucao-325-2020.md)
+- [cnj-resolucao-646-2025](references/normas/cnj-resolucao-646-2025.md)
+- [portaria-tre-pr-056-2026](references/normas/portaria-tre-pr-056-2026.md)

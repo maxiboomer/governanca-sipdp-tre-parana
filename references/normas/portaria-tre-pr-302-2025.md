@@ -22,7 +22,7 @@ Esta portaria foi **alterada** pela **Portaria TRE-PR 056/2026** (19/02/2026), q
 - **Item h)** no Art. 6º — Plano de Contingência Socioambiental;
 - **Item VIII** na descrição do PCN — Plano de Contingência Socioambiental - PCSA.
 
-> Ver [[normas/portaria-tre-pr-056-2026]]
+> Ver [portaria-tre-pr-056-2026](references/normas/portaria-tre-pr-056-2026.md)
 
 ---
 
@@ -70,6 +70,6 @@ A **Portaria 056/2026** incorpora o PCSA à PGCN, integrando-o ao arcabouço de 
 
 ## Relacionamentos
 
-- [[normas/portaria-tre-pr-056-2026]]
-- [[normas/cnj-resolucao-646-2025]]
-- [[normas/governanca-e-crises-tre-pr]]
+- [portaria-tre-pr-056-2026](references/normas/portaria-tre-pr-056-2026.md)
+- [cnj-resolucao-646-2025](references/normas/cnj-resolucao-646-2025.md)
+- [governanca-e-crises-tre-pr](references/normas/governanca-e-crises-tre-pr.md)

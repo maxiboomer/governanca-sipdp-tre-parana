@@ -140,10 +140,10 @@ Esta Resolução entra em vigor na data de sua publicação (09/12/2025).
 
 ## Relacionamentos
 
-- [[normas/psi-tre-pr-974-2026]] — PSI local
-- [[normas/psi-tse-23763-2026]] — PSI nacional
-- [[normas/governanca-e-crises-tre-pr]] — Sistema de Governança da JE-PR
-- [[normas/portaria-tre-pr-056-2026]] — Protocolo de Crise Socioambiental (complementar)
+- [psi-tre-pr-974-2026](references/normas/psi-tre-pr-974-2026.md) — PSI local
+- [psi-tse-23763-2026](references/normas/psi-tse-23763-2026.md) — PSI nacional
+- [governanca-e-crises-tre-pr](references/normas/governanca-e-crises-tre-pr.md) — Sistema de Governança da JE-PR
+- [portaria-tre-pr-056-2026](references/normas/portaria-tre-pr-056-2026.md) — Protocolo de Crise Socioambiental (complementar)
 
 ---
 

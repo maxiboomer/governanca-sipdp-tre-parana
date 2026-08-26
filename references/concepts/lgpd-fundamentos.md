@@ -49,6 +49,6 @@ No setor público, a LGPD exige:
 - Política de privacidade
 
 ## Links Úteis
-- [[concepts/programa-compliance-lgpd-setor-publico]]
-- [[concepts/lgpd-diagnostico-fase1]]
-- [[concepts/lgpd-implementacao-fase2]]
+- [programa-compliance-lgpd-setor-publico](references/concepts/programa-compliance-lgpd-setor-publico.md)
+- [lgpd-diagnostico-fase1](references/concepts/lgpd-diagnostico-fase1.md)
+- [lgpd-implementacao-fase2](references/concepts/lgpd-implementacao-fase2.md)
