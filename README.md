@@ -22,6 +22,7 @@ recorte de SI/PDP é a camada de curadoria, não o acervo. Ver
   ETIR, ASC, SECTI, Comitê de Crises Cibernéticas (932/2024 e 962/2025)
 - **Continuidade** — PGCN (Port. 302/2025) e Protocolo Socioambiental (Port. 056/2026)
 - **Prazos consolidados** e inventários de vigência (TRE-PR/TSE e CNJ)
+- **Normas técnicas SECTI** — procedimentos operacionais de nuvem, gestão de projetos, segurança
 
 ## Estrutura
 
@@ -29,13 +30,14 @@ recorte de SI/PDP é a camada de curadoria, não o acervo. Ver
 SKILL.md                          entrada da skill
 CONTEXT.md                        glossário do domínio
 docs/adr/                         decisões de desenho
-references/index.md               catálogo (197 páginas)
-references/normas/         165    página por norma
+references/index.md               catálogo (200 páginas)
+references/normas/         168    página por norma
 references/entities/         8    AGM, CGSI/PDP, ETIR, ASC, DPO, SECTI, ANPD, CSI
 references/concepts/        13    LGPD, continuidade, prazos, monitoramento SECTI
 references/inventarios/      4    vigências TRE-PR/TSE e CNJ, lacunas, instrumentos monitorados
 references/sources/          7    sínteses por tipo de norma
-references/raw/            154    textos das normas (camada imutável)
+references/raw/            158    textos das normas (camada imutável)
+references/_meta/            6    matriz de verificação, classificação, pendências, qualidade
 ```
 
 ## Regra de sustentação
@@ -48,19 +50,28 @@ Cada linha do inventário declara a situação da norma e o que a sustenta, em t
 citação de DJE/DOU (basta para citar em documento) → compilado oficial (serve para
 trabalhar) → nada, e então a situação é **Não confirmada**.
 
-Hoje: 83 vigentes, 20 revogadas, 1 não confirmada.
+Situação nas páginas de normas (metadados curados):
+- **vigentes:** 9 com confirmação de publicação oficial ou compilado localizado
+- **revogadas:** 18 com revogação expressa identificada no texto ou em norma posterior
+- **não-confirmadas:** 126 sem confirmação individual até o momento
+
+A matriz completa está em `references/_meta/matriz-verificacao-vigencia.md`.
 
 ## Estado de curadoria — leia antes de confiar
 
-- **144 das 165 páginas de `references/normas/` não têm síntese escrita.** São marcadores
-  com `curadoria: pendente` no frontmatter, que apontam para o texto em `references/raw/`.
-  A informação existe; a síntese não. O `SKILL.md` instrui a ler o texto nesses casos.
-  Para listar o que falta: `grep -l "curadoria: pendente" references/normas/*.md`
+- **54 das 168 páginas de `references/normas/` estão totalmente curadas** — têm síntese,
+  obrigações, papéis, relações e status documentado. As demais 113 permanecem como stub
+  (`curadoria: stub`), com metadados normalizados e texto bruto preservado em
+  `references/raw/`.
+- Os 14 temas classificados como `central-si-pdp` (PSI, ETIR, CSTI, gestão de riscos, PSI
+  local, comitês) já foram curados integralmente.
 - **Nem todo arquivo de `raw/` é texto integral.** A Res. 971/2026 está como excerto (~2 KB
   de um original de ~277 mil caracteres). Os Anexos I e II da Res. 982/2026 não constam.
 - **Lacunas do inventário** mapeadas em
   `references/inventarios/lacunas-do-inventario.md`: 31 normas do acervo sem linha no
   inventário TRE-PR/TSE, e Res. CNJ 433/2021 e 646/2025 ausentes do inventário CNJ.
+- **Classificação dos stubs** em `references/_meta/classificacao-normas.md`: 14 centrais
+  (curados), 39 apoio governança, 53 contextual, 22 fora de escopo.
 
 ## Convenção de caminhos
 
