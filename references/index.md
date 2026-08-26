@@ -189,6 +189,7 @@ Catalog of every page in this wiki. Updated on every ingest. See `CLAUDE.md` for
 - [[wiki/normas/tse-resolucao-23-763-2026-psi-nacional]] — Resolução TSE 23.763/2026 - Política de Segurança da Informação (PSI) Nacional
 
 ## Metadados
+- [[wiki/_meta/matriz-verificacao-vigencia]] — Matriz de verificação de vigência normativa
 - [[wiki/_meta/classificacao-normas]] — Classificação inicial das normas não curadas
 - [[wiki/_meta/auditoria-changelog-normas-eleitorais]] — Auditoria e changelog da análise de normas eleitorais
 - [[wiki/_meta/mapa-tematico]] — Mapa temático do vault normativo

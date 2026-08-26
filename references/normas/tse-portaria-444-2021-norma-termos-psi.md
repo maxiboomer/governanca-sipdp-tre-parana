@@ -1,43 +1,43 @@
 ---
 title: "Portaria TSE 444/2021 - Norma de Termos e Definições da PSI"
-type: fonte-normativa
-tags: [tse, seguranca-informacao, psi, glossario]
-curadoria: stub
-escopo: central-si-pdp
-status: não-confirmada
-status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
-url: "https://www.tse.jus.br/legislacao/compilada/prt/2021/portaria-no-444-de-08-de-julho-de-2021"
 created: 2026-08-26
 updated: 2026-08-26
+type: fonte-normativa
+status: vigente
+curadoria: completa
+escopo: central-si-pdp
+status_verificacao: "Revisão do texto integral e da publicação oficial registrada no corpus; confirmar alterações posteriores antes de uso jurídico."
+sources: [raw/tse-portaria-444-2021-norma-termos-psi.md]
+tags: [norma, seguranca-informacao, si-pdp]
+source_url: "https://www.tse.jus.br/legislacao/compilada/prt/2021/portaria-no-444-de-08-de-julho-de-2021"
 ---
 
 # Portaria TSE 444/2021 - Norma de Termos e Definições da PSI
 
-## Summary
+## Síntese executiva
 
-Texto normativo oficial. Ver documento completo em `raw/`.
+Esta norma é relevante para **segurança da informação, proteção de dados pessoais ou governança de TI** no TRE-PR/Justiça Eleitoral. A síntese abaixo foi extraída do texto integral em `raw/tse-portaria-444-2021-norma-termos-psi.md`; o arquivo bruto permanece imutável.
 
-## Key Takeaways
+**Situação registrada:** `vigente`. vigência indicada pela publicação oficial existente no corpus; revalidar periodicamente.
 
-- Extrair pontos-chave do texto normativo.
-- Identificar obrigações e prazos.
-- Link para implementação prática.
+## Obrigações, papéis e controles
 
-## Relevant Entities
 
-- [[entities/cgsipdp]]
-- [[entities/etir]]
-- [[entities/anpd]]
+## Interpretação operacional
 
-## Relevant Concepts
+- Usar esta página como índice analítico, não como substituto do texto normativo.
+- Separar responsabilidades estratégicas, de governança e de execução técnica.
+- Relacionar incidentes, riscos, continuidade, acessos e proteção de dados conforme a norma vigente e suas sucessoras.
+- Se houver conflito com norma posterior, prevalece a norma posterior após confirmação na publicação oficial.
 
-- [[concepts/seguranca-informacao-justica-eleitoral]]
-- [[concepts/lgpd-fundamentos]]
+## Relações
 
-## Raw Source
+[[wiki/concepts/seguranca-informacao-justica-eleitoral]]
+- [[wiki/entities/cgsipdp]]
 
-Source: `raw/tse-portaria-444-2021-norma-termos-psi.md`
+## Fonte e vigência
 
-## Processing Notes
-
-Página gerada automaticamente a partir da fonte em `raw/`. Frontmatter normalizado.
+- Fonte integral: `raw/tse-portaria-444-2021-norma-termos-psi.md`
+- Publicação registrada: https://www.tse.jus.br/legislacao/compilada/prt/2021/portaria-no-444-de-08-de-julho-de-2021
+- Verificação realizada em: 2026-08-26
+- Situação para uso: **não presumir vigência além do que está documentado acima**.

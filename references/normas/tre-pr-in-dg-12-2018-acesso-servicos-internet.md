@@ -3,8 +3,8 @@ title: "INSTRUÇÃO NORMATIVA Nº 12/2018"
 created: 2026-08-26
 updated: 2026-08-26
 type: fonte-normativa
-status: "Revogada — art. 28 da IN TRE/PR/DG nº 004/2022"
-status_verificacao: "Revisão inicial; confirmar no DJE/DOU antes de afirmar vigência."
+status: revogada
+status_verificacao: "A própria fonte declara revogação pela IN 004/2022, art. 28; verificado em 2026-08-26."
 fonte_publicacao: "https://apps.tre-pr.jus.br/files/legislacaocompilada/in/2018/in122018.html"
 data_publicacao: ""
 tags: [norma, curadoria, si-pdp]

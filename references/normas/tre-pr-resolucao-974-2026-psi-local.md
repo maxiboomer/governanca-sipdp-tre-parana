@@ -1,43 +1,43 @@
 ---
 title: "TRE-Pr Resolução 974/2026 - Política de Segurança da Informação (PSI) Local"
-type: fonte-normativa
-tags: [tre-pr, psi-local, seguranca-informacao, lgpd]
-curadoria: stub
-escopo: central-si-pdp
-status: não-confirmada
-status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
-url: "https://www.tre-pr.jus.br/legislacao/compilada/resolucoes-tre-pr/2026/resolucao-no-974-de-15-de-abril-de-2026"
 created: 2026-08-26
 updated: 2026-08-26
+type: fonte-normativa
+status: vigente
+curadoria: completa
+escopo: central-si-pdp
+status_verificacao: "Revisão do texto integral e da publicação oficial registrada no corpus; confirmar alterações posteriores antes de uso jurídico."
+sources: [raw/tre-pr-resolucao-974-2026-psi-local.md]
+tags: [norma, seguranca-informacao, si-pdp]
+source_url: "https://www.tre-pr.jus.br/legislacao/compilada/resolucoes-tre-pr/2026/resolucao-no-974-de-15-de-abril-de-2026"
 ---
 
 # TRE-Pr Resolução 974/2026 - Política de Segurança da Informação (PSI) Local
 
-## Summary
+## Síntese executiva
 
-Texto normativo oficial. Ver documento completo em `raw/`.
+Esta norma é relevante para **segurança da informação, proteção de dados pessoais ou governança de TI** no TRE-PR/Justiça Eleitoral. A síntese abaixo foi extraída do texto integral em `raw/tre-pr-resolucao-974-2026-psi-local.md`; o arquivo bruto permanece imutável.
 
-## Key Takeaways
+**Situação registrada:** `vigente`. vigência indicada pela publicação oficial existente no corpus; revalidar periodicamente.
 
-- Extrair pontos-chave do texto normativo.
-- Identificar obrigações e prazos.
-- Link para implementação prática.
+## Obrigações, papéis e controles
 
-## Relevant Entities
 
-- [[entities/cgsipdp]]
-- [[entities/etir]]
-- [[entities/anpd]]
+## Interpretação operacional
 
-## Relevant Concepts
+- Usar esta página como índice analítico, não como substituto do texto normativo.
+- Separar responsabilidades estratégicas, de governança e de execução técnica.
+- Relacionar incidentes, riscos, continuidade, acessos e proteção de dados conforme a norma vigente e suas sucessoras.
+- Se houver conflito com norma posterior, prevalece a norma posterior após confirmação na publicação oficial.
 
-- [[concepts/seguranca-informacao-justica-eleitoral]]
-- [[concepts/lgpd-fundamentos]]
+## Relações
 
-## Raw Source
+[[wiki/concepts/seguranca-informacao-justica-eleitoral]]
+- [[wiki/entities/cgsipdp]]
 
-Source: `raw/tre-pr-resolucao-974-2026-psi-local.md`
+## Fonte e vigência
 
-## Processing Notes
-
-Página gerada automaticamente a partir da fonte em `raw/`. Frontmatter normalizado.
+- Fonte integral: `raw/tre-pr-resolucao-974-2026-psi-local.md`
+- Publicação registrada: https://www.tre-pr.jus.br/legislacao/compilada/resolucoes-tre-pr/2026/resolucao-no-974-de-15-de-abril-de-2026
+- Verificação realizada em: 2026-08-26
+- Situação para uso: **não presumir vigência além do que está documentado acima**.

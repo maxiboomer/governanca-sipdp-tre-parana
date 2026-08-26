@@ -3,8 +3,8 @@ title: "TRE-PR Norma Tecnica SECTI 001/2026 - Modelo Operacional de Nuvem"
 created: 2026-08-26
 updated: 2026-08-26
 type: fonte-normativa
-status: "Não confirmado"
-status_verificacao: "Revisão inicial; confirmar no DJE/DOU antes de afirmar vigência."
+status: vigente
+status_verificacao: "Página oficial TRE-PR localizada; art. 14 vigência na publicação; DJE 037/2026; verificado em 2026-08-26."
 fonte_publicacao: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2026/norma-tecnica-no-01-de-04-de-fevereiro-de-2026"
 data_publicacao: "04/02/2026"
 tags: [norma, curadoria, si-pdp]

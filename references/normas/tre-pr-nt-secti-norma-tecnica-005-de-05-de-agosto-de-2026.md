@@ -5,7 +5,7 @@ created: 2026-08-25
 updated: 2026-08-25
 tags: [secti, norma-tecnica, linux, seguranca-cibernetica]
 sources: [raw/norma-tecnica-secti-005-2026-linux-estacoes.md]
-status: não-confirmada
+status: vigente
 curadoria: completa
 escopo: contextual
 ---

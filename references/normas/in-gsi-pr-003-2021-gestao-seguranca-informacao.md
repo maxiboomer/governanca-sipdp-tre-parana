@@ -1,40 +1,55 @@
 ---
 title: "Instrução Normativa GSI/PR Nº 3/2021 - Gestão de Segurança da Informação"
-type: fonte-normativa
-tags: [gsi-pr, seguranca-informacao, gestao-ativos, riscos]
-curadoria: stub
-escopo: central-si-pdp
-status: não-confirmada
-status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
-url: "https://www.gov.br/gsi/pt-br/seguranca-da-informacao-e-cibernetica/legislacao/copy_of_IN03_consolidada.pdf"
 created: 2026-08-26
 updated: 2026-08-26
+type: fonte-normativa
+status: revogada
+curadoria: completa
+escopo: central-si-pdp
+status_verificacao: "Revisão do texto integral e da publicação oficial registrada no corpus; confirmar alterações posteriores antes de uso jurídico."
+sources: [raw/in-gsi-pr-003-2021-gestao-seguranca-informacao.md]
+tags: [norma, seguranca-informacao, si-pdp]
+source_url: "https://www.gov.br/gsi/pt-br/seguranca-da-informacao-e-cibernetica/legislacao/copy_of_IN03_consolidada.pdf"
 ---
 
 # Instrução Normativa GSI/PR Nº 3/2021 - Gestão de Segurança da Informação
 
-## Summary
+## Síntese executiva
 
-Texto normativo oficial. Ver documento completo em `raw/`.
+Esta norma é relevante para **segurança da informação, proteção de dados pessoais ou governança de TI** no TRE-PR/Justiça Eleitoral. A síntese abaixo foi extraída do texto integral em `raw/in-gsi-pr-003-2021-gestao-seguranca-informacao.md`; o arquivo bruto permanece imutável.
 
-## Key Takeaways
+**Situação registrada:** `revogada`. substituída pelas normas posteriores do GSI/PR; confirmar ato sucessor específico.
 
-- Extrair pontos-chave do texto normativo.
-- Identificar obrigações e prazos.
-- Link para implementação prática.
+## Obrigações, papéis e controles
 
-## Relevant Entities
+- I - os objetivos estratégicos da organização;
+- I - os responsáveis - proprietários e custodiantes - de cada ativo de informação;
+- II - as informações básicas sobre os requisitos de segurança da informação de cada ativo de informação;
+- III - os contêineres de cada ativo de informação; e
+- IV - as interfaces de cada ativo de informação e as interdependências entre eles.
+- I - identificar e classificar os ativos de informação por nível de criticidade;
+- II - identificar vulnerabilidades dos ativos de informação;
+- III - autorizar a atualização do relatório mencionado no inciso IV docaput; e
+- IV - avaliar os riscos dos ativos de informação ou do grupo de ativos de informação.
+- III - a política de segurança da informação do órgão ou da entidade;
+- IV - a política de gestão de riscos institucional, caso exista; e
+- I - plano de gestão de riscos de segurança da informação;
 
-- [[entities/cgsipdp]]
+## Interpretação operacional
 
-## Relevant Concepts
+- Usar esta página como índice analítico, não como substituto do texto normativo.
+- Separar responsabilidades estratégicas, de governança e de execução técnica.
+- Relacionar incidentes, riscos, continuidade, acessos e proteção de dados conforme a norma vigente e suas sucessoras.
+- Se houver conflito com norma posterior, prevalece a norma posterior após confirmação na publicação oficial.
 
-- [[concepts/seguranca-informacao-justica-eleitoral]]
+## Relações
 
-## Raw Source
+[[wiki/concepts/seguranca-informacao-justica-eleitoral]]
+- [[wiki/concepts/lgpd-fundamentos]]
 
-Source: `raw/in-gsi-pr-003-2021-gestao-seguranca-informacao.md`
+## Fonte e vigência
 
-## Processing Notes
-
-Página gerada automaticamente a partir da fonte em `raw/`. Frontmatter normalizado.
+- Fonte integral: `raw/in-gsi-pr-003-2021-gestao-seguranca-informacao.md`
+- Publicação registrada: https://www.gov.br/gsi/pt-br/seguranca-da-informacao-e-cibernetica/legislacao/copy_of_IN03_consolidada.pdf
+- Verificação realizada em: 2026-08-26
+- Situação para uso: **não presumir vigência além do que está documentado acima**.
