@@ -1,7 +1,7 @@
 ---
 title: INSTRUÇÃO NORMATIVA Nº 006, DE 13 DE AGOSTO DE 2025. — Tribunal Regional Eleitoral do Paraná
 type: fonte-normativa
-tags: 
+tags: [tre-pr, instrucao-normativa, seguranca-informacao]
 url: https://www.tre-pr.jus.br/legislacao/compilada/instrucoes-normativas-tre-pr/2025/instrucao-normativa-no-006-de-13-de-agosto-de-2025
 ---
 

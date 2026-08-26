@@ -5,6 +5,8 @@ Ver `CLAUDE.md` para convenções. Estrutura: `raw/` (fontes imutáveis) → `wi
 
 ## Entities
 - [[wiki/entities/anpd|ANPD - Autoridade Nacional de Proteção de Dados Pessoais]]
+- [[wiki/entities/asc|ASC - Assessoria de Comunicação Social]]
+- [[wiki/entities/secti|SECTI - Secretaria de Tecnologia da Informação]]
 - [[wiki/entities/cgsipdp|CGSIPDP - Comitê Gestor de SI e de Proteção de Dados Pessoais do TRE-PR]]
 - [[wiki/entities/csi-unidade-si|CSI e Unidade de Segurança da Informação da PSI Nacional]]
 - [[wiki/entities/encarregado-dpo|Encarregado DPO]]
@@ -21,6 +23,7 @@ Ver `CLAUDE.md` para convenções. Estrutura: `raw/` (fontes imutáveis) → `wi
 - [[wiki/concepts/lgpd-recursos-oficiais-anpd|Recursos Oficiais ANPD]]
 - [[wiki/concepts/monitoramento-normas-secti|Monitoramento de Normas Internas (SECTI / TRE-PR)]]
 - [[wiki/concepts/prazos-normativos-tre-pr|Prazos Normativos Consolidados]]
+- [[wiki/concepts/continuidade-negocios-tre-pr|Continuidade de Negócios TRE-PR (PGCN/PCSA)]]
 - [[wiki/concepts/programa-compliance-lgpd-setor-publico|Programa de Compliance LGPD para o Setor Público]]
 - [[wiki/concepts/seguranca-informacao-justica-eleitoral|Segurança da Informação na Justiça Eleitoral]]
 
