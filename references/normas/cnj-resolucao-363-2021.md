@@ -46,9 +46,9 @@ Institui diretrizes para adequação dos tribunais às exigências da Lei Geral 
 
 ## Aplicação ao TRE-PR
 A Resolução 363/2021 foi adaptada para o contexto local em:
-- [[normas/lai-tre-pr-855-2020]]
-- [[entities/encarregado-dpo]]
+- [lai-tre-pr-855-2020](references/normas/lai-tre-pr-855-2020.md)
+- [encarregado-dpo](references/entities/encarregado-dpo.md)
 
 ## Fontes
 - Conteúdo baseado em análise jurisprudencial
-- Referência: [[concepts/implementacao-cnj-363-2021]]
+- Referência: [implementacao-cnj-363-2021](references/concepts/implementacao-cnj-363-2021.md)

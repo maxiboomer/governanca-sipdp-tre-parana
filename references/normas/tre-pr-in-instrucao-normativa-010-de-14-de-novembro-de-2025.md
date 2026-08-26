@@ -33,13 +33,13 @@ A IN 010 fundamenta a competência da Diretoria-Geral no **art. 43, VII, da Reso
 
 ## Relevant Entities
 
-- [[entities/cgsipdp]]
-- [[entities/secti]]
+- [cgsipdp](references/entities/cgsipdp.md)
+- [secti](references/entities/secti.md)
 
 ## Relevant Concepts
 
-- [[concepts/seguranca-informacao-justica-eleitoral]]
-- [[concepts/continuidade-negocios-tre-pr]]
+- [seguranca-informacao-justica-eleitoral](references/concepts/seguranca-informacao-justica-eleitoral.md)
+- [continuidade-negocios-tre-pr](references/concepts/continuidade-negocios-tre-pr.md)
 
 ## Raw Source
 

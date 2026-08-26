@@ -15,41 +15,41 @@ Esta nota serve como hub para a análise jurídico-normativa consolidada de Prot
 ## Arcos Normativos
 
 ### LGPD
-- [[concepts/lgpd-fundamentos]]
-- [[concepts/programa-compliance-lgpd-setor-publico]]
-- [[normas/cnj-resolucao-363-2021]]
+- [lgpd-fundamentos](references/concepts/lgpd-fundamentos.md)
+- [programa-compliance-lgpd-setor-publico](references/concepts/programa-compliance-lgpd-setor-publico.md)
+- [cnj-resolucao-363-2021](references/normas/cnj-resolucao-363-2021.md)
 
 ### LAI
-- [[normas/lai-12527-2011]] - LAI Federal
-- [[normas/lai-tre-pr-855-2020]] - LAI Local
+- [lai-12527-2011](references/normas/lai-12527-2011.md) - LAI Federal
+- [lai-tre-pr-855-2020](references/normas/lai-tre-pr-855-2020.md) - LAI Local
 
 ### PGPPDP
-- [[normas/pgppdp-tse-23650-2021]] - Plano Geracional de Proteção e Defesa
+- [pgppdp-tse-23650-2021](references/normas/pgppdp-tse-23650-2021.md) - Plano Geracional de Proteção e Defesa
 
 ### PSI
-- [[normas/psi-tre-pr-974-2026]] - PS local TRE-PR
-- [[normas/psi-tse-23763-2026]] - PS nacional TSE
-- [[normas/psi-termos-portaria-tse-444-2021]] - Glossário PSI
+- [psi-tre-pr-974-2026](references/normas/psi-tre-pr-974-2026.md) - PS local TRE-PR
+- [psi-tse-23763-2026](references/normas/psi-tse-23763-2026.md) - PS nacional TSE
+- [psi-termos-portaria-tse-444-2021](references/normas/psi-termos-portaria-tse-444-2021.md) - Glossário PSI
 
 ## Estrutura de Controle
 
 ### CGSIPDP
-- [[entities/cgsipdp]] - Comitê Gestor
+- [cgsipdp](references/entities/cgsipdp.md) - Comitê Gestor
 
 ### ETIR
-- [[entities/etir]] - Equipe de Tratamento e Resposta a Incidentes
+- [etir](references/entities/etir.md) - Equipe de Tratamento e Resposta a Incidentes
 
 ### CSI
-- [[entities/csi-unidade-si]] - Unidade de Segurança da Informação
+- [csi-unidade-si](references/entities/csi-unidade-si.md) - Unidade de Segurança da Informação
 
 ## Governança
 
 ### Sistema de Governança
-- [[normas/governanca-e-crises-tre-pr]] - Res. 932/2024
+- [governanca-e-crises-tre-pr](references/normas/governanca-e-crises-tre-pr.md) - Res. 932/2024
 - Comitê de Crises Cibernéticas - Res. 962/2025
 
 ### IA Governança
-- [[normas/ia-tre-pr-959-2025]] - Resolução 959/2025
+- [ia-tre-pr-959-2025](references/normas/ia-tre-pr-959-2025.md) - Resolução 959/2025
 
 ## Riscos Críticos
 
@@ -67,7 +67,7 @@ Esta nota serve como hub para a análise jurídico-normativa consolidada de Prot
 | Nível de criptografia | AES-256 | CGSIPDP |
 
 ## Relacionamentos
-- [[concepts/lgpd-fundamentos]]
-- [[entities/anpd]]
-- [[entities/cgsipdp]]
-- [[entities/etir]]
+- [lgpd-fundamentos](references/concepts/lgpd-fundamentos.md)
+- [anpd](references/entities/anpd.md)
+- [cgsipdp](references/entities/cgsipdp.md)
+- [etir](references/entities/etir.md)

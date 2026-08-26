@@ -22,22 +22,22 @@ Lei 12.527/2011 (LAI) e IN GSI/PR 003/2021 (SGSI). Total de 8 documentos.
 
 ## Documentos (8)
 
-- [[raw/cnj-resolucao-325-2020|Resolução CNJ 325/2020 - Estratégia Nacional do Poder Judiciário 2021-2026]]
-- [[raw/cnj-resolucao-363-2021-adecuacao-lgpd|Resolução CNJ 363/2021 - Adequação dos Tribunais à LGPD]]
-- [[raw/cnj-resolucao-370-2021-entic-jud|CNJ 370/2021 - Estratégia Nacional de TIC do Poder Judiciário]]
-- [[raw/cnj-resolucao-396-2021-ensec-pj|CNJ 396/2021 - Estratégia Nacional de Segurança Cibernética]]
-- [[raw/cnj-resolucao-433-2021|Resolução CNJ 433/2021 - Política Nacional do Poder Judiciário para o Clima e Meio Ambiente]]
-- [[raw/cnj-resolucao-646-2025|Resolução CNJ 646/2025 - Protocolo de Crise Socioambiental do Poder Judiciário]]
-- [[raw/in-gsi-pr-003-2021-gestao-seguranca-informacao|Instrução Normativa GSI/PR Nº 3/2021 - Gestão de Segurança da Informação]]
-- [[raw/lei-12527-2011-acesso-informacao|Lei nº 12.527/2011 - Acesso à Informação]]
+- [Resolução CNJ 325/2020 - Estratégia Nacional do Poder Judiciário 2021-2026](references/raw/cnj-resolucao-325-2020.md)
+- [Resolução CNJ 363/2021 - Adequação dos Tribunais à LGPD](references/raw/cnj-resolucao-363-2021-adecuacao-lgpd.md)
+- [CNJ 370/2021 - Estratégia Nacional de TIC do Poder Judiciário](references/raw/cnj-resolucao-370-2021-entic-jud.md)
+- [CNJ 396/2021 - Estratégia Nacional de Segurança Cibernética](references/raw/cnj-resolucao-396-2021-ensec-pj.md)
+- [Resolução CNJ 433/2021 - Política Nacional do Poder Judiciário para o Clima e Meio Ambiente](references/raw/cnj-resolucao-433-2021.md)
+- [Resolução CNJ 646/2025 - Protocolo de Crise Socioambiental do Poder Judiciário](references/raw/cnj-resolucao-646-2025.md)
+- [Instrução Normativa GSI/PR Nº 3/2021 - Gestão de Segurança da Informação](references/raw/in-gsi-pr-003-2021-gestao-seguranca-informacao.md)
+- [Lei nº 12.527/2011 - Acesso à Informação](references/raw/lei-12527-2011-acesso-informacao.md)
 
 ## Relevant Entities
 
-- [[entities/anpd]] · [[entities/encarregado-dpo]]
+- [anpd](references/entities/anpd.md) · [encarregado-dpo](references/entities/encarregado-dpo.md)
 
 ## Relevant Concepts
 
-- [[concepts/lgpd-fundamentos]] · [[concepts/implementacao-cnj-363-2021]] · [[concepts/seguranca-informacao-justica-eleitoral]]
+- [lgpd-fundamentos](references/concepts/lgpd-fundamentos.md) · [implementacao-cnj-363-2021](references/concepts/implementacao-cnj-363-2021.md) · [seguranca-informacao-justica-eleitoral](references/concepts/seguranca-informacao-justica-eleitoral.md)
 
 ## Raw Source
 

@@ -58,6 +58,6 @@ tags: [cnj, lgpd, implementacao, tribunais]
 - **Recursos limitados** - Priorização necessária
 
 ## Referências
-- [[normas/cnj-resolucao-363-2021]]
-- [[entities/encarregado-dpo]]
-- [[concepts/programa-compliance-lgpd-setor-publico]]
+- [cnj-resolucao-363-2021](references/normas/cnj-resolucao-363-2021.md)
+- [encarregado-dpo](references/entities/encarregado-dpo.md)
+- [programa-compliance-lgpd-setor-publico](references/concepts/programa-compliance-lgpd-setor-publico.md)

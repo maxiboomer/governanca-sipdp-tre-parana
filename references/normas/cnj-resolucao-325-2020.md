@@ -46,6 +46,6 @@ Para o Tribunal Regional Eleitoral do Paraná, a Resolução 325/2020 serve como
 
 ## Relacionamentos
 
-- [[normas/cnj-resolucao-433-2021]]
-- [[normas/cnj-resolucao-646-2025]]
-- [[normas/portaria-tre-pr-056-2026]]
+- [cnj-resolucao-433-2021](references/normas/cnj-resolucao-433-2021.md)
+- [cnj-resolucao-646-2025](references/normas/cnj-resolucao-646-2025.md)
+- [portaria-tre-pr-056-2026](references/normas/portaria-tre-pr-056-2026.md)

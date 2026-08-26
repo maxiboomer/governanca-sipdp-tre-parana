@@ -41,9 +41,9 @@ A LAI do TRE-PR **não se aplica** a:
 ## Relacionamento com LGPD
 - Dados sensíveis classificados como Restrito ou Sigilo
 - Tratamento: criptografia, controle de acesso rigoroso
-- [[normas/cnj-resolucao-363-2021]] - Tratamento de dados sensíveis
+- [cnj-resolucao-363-2021](references/normas/cnj-resolucao-363-2021.md) - Tratamento de dados sensíveis
 
 ## Fontes
 - Resolução TRE-PR 855/2020 (integral)
 - Portaria TSE 444/2021 - Glossário
-- [[entities/encarregado-dpo]]
+- [encarregado-dpo](references/entities/encarregado-dpo.md)

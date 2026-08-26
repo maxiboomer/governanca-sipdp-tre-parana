@@ -22,12 +22,12 @@ No setor público, especialmente nos tribunais, o Encarregado é uma **unidade**
 
 ## Estrutura no TRE-PR
 O Encarregado é integrante do **CGSIPDP** (Comitê Gestor de SI e de Proteção de Dados Pessoais):
-- [[entities/cgsipdp]]
+- [cgsipdp](references/entities/cgsipdp.md)
 
 ## Relacionamento com outras normas
-- [[normas/cnj-resolucao-363-2021]] - Medida 4º
-- [[normas/lai-tre-pr-855-2020]] - Tratamento de dados sensíveis
-- [[concepts/programa-compliance-lgpd-setor-publico]]
+- [cnj-resolucao-363-2021](references/normas/cnj-resolucao-363-2021.md) - Medida 4º
+- [lai-tre-pr-855-2020](references/normas/lai-tre-pr-855-2020.md) - Tratamento de dados sensíveis
+- [programa-compliance-lgpd-setor-publico](references/concepts/programa-compliance-lgpd-setor-publico.md)
 
 ## Fontes
 - Resolução CNJ 363/2021, Art. 4º

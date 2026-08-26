@@ -68,9 +68,9 @@ A ETIR é a equipe nacional de tratamento e resposta a incidentes de segurança 
 | 4 | Sistema | Protocolo de crise |
 
 ## Relacionamentos
-- [[entities/cgsipdp]]
-- [[entities/csi-unidade-si]]
-- [[normas/governanca-e-crises-tre-pr]]
+- [cgsipdp](references/entities/cgsipdp.md)
+- [csi-unidade-si](references/entities/csi-unidade-si.md)
+- [governanca-e-crises-tre-pr](references/normas/governanca-e-crises-tre-pr.md)
 
 ## Fontes
 - Resolução TSE 23.763/2026

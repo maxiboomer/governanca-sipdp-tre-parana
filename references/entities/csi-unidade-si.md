@@ -39,9 +39,9 @@ A CSI (Companhia de Segurança da Informação) e a Unidade de Segurança da Inf
    - Local: Orçamento estadual
 
 ## Relacionamentos
-- [[entities/cgsipdp]]
-- [[entities/etir]]
-- [[entities/encarregado-dpo]]
+- [cgsipdp](references/entities/cgsipdp.md)
+- [etir](references/entities/etir.md)
+- [encarregado-dpo](references/entities/encarregado-dpo.md)
 
 ## Fontes
 - Resolução TSE 23.763/2026
