@@ -13,7 +13,8 @@ tags: [metadados, curadoria, vigencia]
 
 ## Prioridade 1 — SI/PDP e governança diretamente operacional
 
-- Curar os stubs restantes de backup, criptografia, vulnerabilidades, contas, acesso e continuidade.
+- Classificação inicial aplicada aos stubs; consultar `wiki/_meta/classificacao-normas.md`.
+- Curar prioritariamente as páginas com `escopo: central-si-pdp`.
 - Confirmar no DJE/DOU a vigência das normas marcadas como `não-confirmada`.
 - Relacionar sucessoras, alterações e revogações com links entre as páginas.
 

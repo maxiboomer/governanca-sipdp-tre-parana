@@ -1,8 +1,11 @@
 ---
-curadoria: pendente
 title: "TRE-Pr Resolução 855/2020 - Acesso à Informação"
 type: fonte-normativa
 tags: [tre-pr, acesso-informacao, transparencia, lgpd]
+curadoria: stub
+escopo: contextual
+status: não-confirmada
+status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
 url: "https://apps.tre-pr.jus.br/files/legislacaocompilada/res/2020/Res08552020.html"
 ---
 
@@ -10,18 +13,21 @@ url: "https://apps.tre-pr.jus.br/files/legislacaocompilada/res/2020/Res08552020.
 
 ## Summary
 
-> **Página não curada.** Esta página é um marcador gerado automaticamente e **não contém síntese da norma**.
-> O texto está em [`references/raw/tre-pr-resolucao-855-2020-acesso-informacao.md`](references/raw/tre-pr-resolucao-855-2020-acesso-informacao.md) — **leia esse arquivo** para responder qualquer pergunta sobre esta norma.
-> Não conclua que a informação inexiste com base nesta página.
-> Confirme a vigência em [inventário TRE-PR/TSE](references/inventarios/normas-tre-pr-tse.md) ou [inventário CNJ](references/inventarios/normas-cnj.md) antes de citar em documento oficial.
+Texto normativo oficial. Ver documento completo em `raw/`.
+
+## Key Takeaways
+
+- Extrair pontos-chave do texto normativo.
+- Identificar obrigações e prazos.
+- Link para implementação prática.
 
 ## Relevant Entities
 
-- [cgsipdp](references/entities/cgsipdp.md)
+- [[entities/cgsipdp]]
 
 ## Relevant Concepts
 
-- [seguranca-informacao-justica-eleitoral](references/concepts/seguranca-informacao-justica-eleitoral.md)
+- [[concepts/seguranca-informacao-justica-eleitoral]]
 
 ## Raw Source
 
@@ -29,4 +35,4 @@ Source: `raw/tre-pr-resolucao-855-2020-acesso-informacao.md`
 
 ## Processing Notes
 
-Marcador automático. Curadoria pendente — ao curar esta página, remova `curadoria: pendente` do frontmatter.
+Página gerada automaticamente a partir da fonte em `raw/`. Frontmatter normalizado.

@@ -28,7 +28,7 @@ Atualização consolidada em 23/6/2026. Resumo das mudanças em relação à ver
 
 ## 1. PSI nacional: troca de norma (revogação)
 - **Res. TSE 23.763/2026** substitui a **Res. TSE 23.644/2021** (revogada — art. 36).
-- Reescrito [psi-tse-23763-2026](references/normas/psi-tse-23763-2026.md) para a norma nova.
+- Reescrito [[normas/psi-tse-23763-2026]] para a norma nova.
 - Principais mudanças de conteúdo (não só numeração):
   - Princípios: saiu "DICA+AI"; agora D-I-C-A + **Não repúdio** (art. 3º).
   - Nova **Unidade de SI desvinculada da TIC** (art. 17, II; 21).
@@ -39,7 +39,7 @@ Atualização consolidada em 23/6/2026. Resumo das mudanças em relação à ver
   - ISO 27001:2022 / 27002:2022 / 27005:2023.
 
 ## 2. PSI local do Paraná
-- **Novo:** [psi-tre-pr-974-2026](references/normas/psi-tre-pr-974-2026.md) (Res. TRE-PR 974/2026).
+- **Novo:** [[normas/psi-tre-pr-974-2026]] (Res. TRE-PR 974/2026).
 - Registrado o **descompasso temporal**: a 974/2026 (15/4/2026) ancora-se na revogada
   23.644/2021 e é anterior à PSI nacional nova; precisa de revisão de alinhamento.
 - Registrada a **divergência de princípios**: a 974 mantém irretratabilidade e
@@ -47,7 +47,7 @@ Atualização consolidada em 23/6/2026. Resumo das mudanças em relação à ver
 - Mapa de divergências local × nacional incluído.
 
 ## 3. Governança e crises cibernéticas (TRE-PR)
-- **Novo:** [governanca-e-crises-tre-pr](references/normas/governanca-e-crises-tre-pr.md), cobrindo:
+- **Novo:** [[normas/governanca-e-crises-tre-pr]], cobrindo:
   - **Res. TRE-PR 932/2024** — Sistema de Governança (cria o CGSIPDP); já alterada pela
     **Res. 980/2026** (CGER → CGERI).
   - **Res. TRE-PR 962/2025** — Comitê de Crises Cibernéticas + protocolos PPINC/PGCC/PIILC
@@ -62,7 +62,7 @@ Atualização consolidada em 23/6/2026. Resumo das mudanças em relação à ver
   (CGSIPDP, Comitê de Crises Cibernéticas, Sistema de Governança do TRE-PR).
 - Tabela de normas no escopo, tabela de temas-chave, regras de interpretação,
   princípios e referências complementares atualizadas.
-- [prazos-normativos-tre-pr](references/concepts/prazos-normativos-tre-pr.md) atualizado (PSI nacional, PSI local, crises).
+- [[concepts/prazos-normativos-tre-pr]] atualizado (PSI nacional, PSI local, crises).
 
 ## Pendências sinalizadas (não implementadas — fora do escopo pedido)
 - **Res. TRE-PR 959/2025** (IA) — citada como correlata, não detalhada.
@@ -87,7 +87,7 @@ como vigente. Correções aplicadas:
 - **Estratégia Nacional de Cibersegurança da JE: não publicada.** A anterior (Portaria
   TSE 590/2022) cobria 2021–2024 e está vencida; a nova está em formulação por GT da
   **Portaria TSE 294, de 3/6/2026** (DJE-TSE nº 92, de 9/6/2026; composição alterada
-  pela Portaria 350/2026). Registrado no SKILL.md e em [psi-tse-23763-2026](references/normas/psi-tse-23763-2026.md),
+  pela Portaria 350/2026). Registrado no SKILL.md e em [[normas/psi-tse-23763-2026]],
   com a lista de dispositivos da 23.763 que dependem dela.
 - **Norma de termos e definições (art. 2º): não reeditada.** Continua valendo a
   **Portaria TSE 444/2021**, não revogada pela 23.763. Registrada com ressalva de
@@ -104,11 +104,11 @@ como vigente. Correções aplicadas:
 ## 3. Correção de erro no organograma
 - O diagrama anterior subordinava a Unidade de SI à CSI. **Errado:** o art. 21, caput
   a subordina diretamente à alta administração; a CSI é colegiado, não chefia.
-  Corrigido no SKILL.md e em [psi-tse-23763-2026](references/normas/psi-tse-23763-2026.md), com nota de advertência —
+  Corrigido no SKILL.md e em [[normas/psi-tse-23763-2026]], com nota de advertência —
   o desenho institucional é o ponto em disputa na adaptação do TRE-PR.
 
 ## 4. Art. 4º (monitoramento de recursos de TIC) — antes ausente
-- Nova seção em [psi-tse-23763-2026](references/normas/psi-tse-23763-2026.md) e 3 linhas na tabela de temas-chave.
+- Nova seção em [[normas/psi-tse-23763-2026]] e 3 linhas na tabela de temas-chave.
 - Interface explícita com a PGPPDP (art. 4º, §2º, III) e com a tabela de temporalidade
   (§2º, II). Gancho normativo para exigir base legal e RIPD em monitoramento sistemático.
 
@@ -133,7 +133,7 @@ Texto compilado da 23.644/2021 conferido no portal do TSE.
 - 11 temas táticos (a–k) no art. 9º, II ✔
 - Princípios com irretratabilidade e auditabilidade no art. 3º ✔
 - Menção à IN nº 01 GSI/PR/2008 no art. 9º, §2º ✔
-- Revisão a cada 3 anos (art. 12, I) e adaptação até 31/12/2021 (art. 24) — [prazos-normativos-tre-pr](references/concepts/prazos-normativos-tre-pr.md)
+- Revisão a cada 3 anos (art. 12, I) e adaptação até 31/12/2021 (art. 24) — [[concepts/prazos-normativos-tre-pr]]
   já estava correto, sem alteração ✔
 
 **CORRIGIDO — erro de conteúdo:** a skill afirmava que a 23.644/2021 tratava criptografia
@@ -142,7 +142,7 @@ O art. 17, parágrafo único da 23.644 já previa a exceção, em redação quas
 atual art. 24, §3º. A mudança real é de alcance: a norma antiga impunha criptografia a
 toda informação classificada em qualquer grau de sigilo (art. 17, caput); a nova a
 insere num rol de salvaguardas (art. 24, §2º), sem o comando categórico. Reescrito em
-[psi-tse-23763-2026](references/normas/psi-tse-23763-2026.md), com a implicação prática para parecer.
+[[normas/psi-tse-23763-2026]], com a implicação prática para parecer.
 
 **Contexto acrescentado:** os 5 temas táticos novos derivam do art. 22 da própria
 23.644/2021, que mandava a revisão seguinte considerar nuvem, trabalho remoto e novas
@@ -162,7 +162,7 @@ por indícios, não auditoria artigo a artigo.**
   TSE 294/2026) — quando sair, revisar nível estratégico e cronograma da PSI local.
 
 ## 7. Portaria TSE 444/2021 incorporada (NOVO ARQUIVO)
-[psi-termos-portaria-tse-444-2021](references/normas/psi-termos-portaria-tse-444-2021.md) — glossário da PSI conferido contra o texto
+[[normas/psi-termos-portaria-tse-444-2021]] — glossário da PSI conferido contra o texto
 oficial compilado do TSE em 22/7/2026 (DJE-TSE nº 131, de 12/7/2021). **57 definições**
 (art. 2º, incisos I a LVII), organizadas por bloco temático, com o inciso preservado
 para citação.
@@ -180,7 +180,7 @@ da PSI vigente.
 
 **Terceiro achado:** o art. 4º da Portaria 444 exige revisão em no máximo 3 anos.
 Publicada em 12/7/2021, a revisão está **vencida desde julho/2024** (~2 anos).
-Registrado em [prazos-normativos-tre-pr](references/concepts/prazos-normativos-tre-pr.md) (tabela da PSI nacional).
+Registrado em [[concepts/prazos-normativos-tre-pr]] (tabela da PSI nacional).
 
 **Quarto achado — descompasso de ciclo de vida:** o inciso XII descreve 6 fases; o
 art. 24 da Res. 23.763/2026 lista 11. Prevalece o art. 24 (norma superior e posterior).
@@ -198,12 +198,12 @@ Integrado ao SKILL.md: frontmatter, lista de referências, 4 linhas na tabela de
 temas-chave e fórmula de citação segura no arquivo de referência.
 
 **Pendências remanescentes:** Res. TRE-PR 855/2020 (vigência), Res. TRE-PR 959/2025
-(sem referência própria), [psi-tre-pr-974-2026](references/normas/psi-tre-pr-974-2026.md) e [governanca-e-crises-tre-pr](references/normas/governanca-e-crises-tre-pr.md)
+(sem referência própria), [[normas/psi-tre-pr-974-2026]] e [[normas/governanca-e-crises-tre-pr]]
 ainda não auditados contra texto oficial, eixo LAI sem verificação, e marcador de
 procedência por norma não implementado.
 
 ## 8. PGPPDP (Res. TSE 23.650/2021) auditada — NOVO ARQUIVO
-[pgppdp-tse-23650-2021](references/normas/pgppdp-tse-23650-2021.md). Texto integral conferido em 22/7/2026 (fornecido pelo
+[[normas/pgppdp-tse-23650-2021]]. Texto integral conferido em 22/7/2026 (fornecido pelo
 usuário a partir do compilado oficial do TSE). 30 artigos. **Sem revogação ou alteração.**
 A cobertura anterior — um diagrama e 6 linhas de tabela — estava tecnicamente correta
 onde afirmava algo, mas **incompleta em pontos que invertem conclusão**:
@@ -230,7 +230,7 @@ desde set/2024. Terceira norma do conjunto em atraso (com a Portaria TSE 444/202
 PGPPDP art. 25: prevalece o prazo da ANPD. Res. CD/ANPD 15/2024, arts. 6º e 9º: 3 dias
 úteis, "ressalvada legislação específica". **As duas se remetem mutuamente.** Orientação
 registrada: adotar 3 dias úteis. Acrescentado o dever de registro do incidente por 5 anos
-(Res. ANPD 15/2024, art. 10), ausente da PGPPDP. [prazos-normativos-tre-pr](references/concepts/prazos-normativos-tre-pr.md) atualizado.
+(Res. ANPD 15/2024, art. 10), ausente da PGPPDP. [[concepts/prazos-normativos-tre-pr]] atualizado.
 
 **ACHADO 6 — "revisão bianual" do RIPD** (art. 15, §1º, II) é ambíguo: bienal (2 anos)
 × bianual (2×/ano). Recomendado fixar o intervalo expressamente em norma local.
@@ -255,15 +255,15 @@ cadeia de comunicação.
 direitos do titular (arts. 11-14), prazos de 15 e 20+10 dias, transferência internacional
 (art. 9º), RoPA (art. 15, II), complementaridade (art. 27), casos omissos (art. 29).
 
-**Pendências:** Res. TRE-PR 855/2020 e 959/2025; [psi-tre-pr-974-2026](references/normas/psi-tre-pr-974-2026.md) e
-[governanca-e-crises-tre-pr](references/normas/governanca-e-crises-tre-pr.md) ainda não auditados contra texto oficial; eixo LAI
+**Pendências:** Res. TRE-PR 855/2020 e 959/2025; [[normas/psi-tre-pr-974-2026]] e
+[[normas/governanca-e-crises-tre-pr]] ainda não auditados contra texto oficial; eixo LAI
 sem verificação; marcador de procedência por norma não implementado.
 
 ## 9. Res. TRE-PR 974/2026 auditada contra o texto oficial (22/7/2026)
 Texto integral conferido no portal do TRE-PR (DJE-TRE-PR nº 070, de 20/4/2026, p. 9-15).
 18 artigos, 6 capítulos.
 
-**RESULTADO: o arquivo [psi-tre-pr-974-2026](references/normas/psi-tre-pr-974-2026.md) estava CORRETO.** Conferidos e confirmados:
+**RESULTADO: o arquivo [[normas/psi-tre-pr-974-2026]] estava CORRETO.** Conferidos e confirmados:
 estrutura de capítulos, art. 2º (rol de princípios), art. 3º (destinatários), art. 7º
 (CGSIPDP), art. 8º e §único (poder cautelar do GSI), art. 9º (ETIR), art. 5º §único
 (vedação a pendrive/HD), art. 6º (deveres), arts. 10-12, art. 13 (continuidade),
@@ -291,7 +291,7 @@ aberto no item 5 deste changelog. O art. 12 da 974 impõe criptografia forte a i
 sigilosa **e a dado pessoal sensível**, em trânsito e em repouso, **sem cláusula de
 exceção** — diferente da 23.644 revogada (art. 17, p.ú.) e da 23.763 vigente (art. 24,
 §3º), ambas com exceção justificada. No TRE-PR, dispensar criptografia não tem base na
-norma local. Atualizado também em [psi-tse-23763-2026](references/normas/psi-tse-23763-2026.md).
+norma local. Atualizado também em [[normas/psi-tse-23763-2026]].
 
 **ACHADO — o gatilho de revisão do art. 17 JÁ DISPAROU.** O dispositivo manda revisar
 anualmente **ou** diante de alteração significativa "no arcabouço normativo nacional".
@@ -303,7 +303,7 @@ independente do ciclo anual. Muda o enquadramento: a questão é *como sequencia
 art. 13 (PGCN/PRD/PCO e testes periódicos), art. 15 (cláusulas contratuais após 20/4/2026),
 art. 17 com o gatilho.
 
-**Pendências:** [governanca-e-crises-tre-pr](references/normas/governanca-e-crises-tre-pr.md) (Res. 932/2024 e 962/2025) e todo o
+**Pendências:** [[normas/governanca-e-crises-tre-pr]] (Res. 932/2024 e 962/2025) e todo o
 eixo LAI (Lei 12.527/2011 e Res. TRE-PR 855/2020) seguem sem auditoria. Res. TRE-PR
 959/2025 sem referência própria. Marcador de procedência aplicado só na 974 — falta
 estender aos demais arquivos.
@@ -311,7 +311,7 @@ estender aos demais arquivos.
 ## 10. Res. TRE-PR 932/2024 auditada contra o texto oficial (22/7/2026)
 Texto compilado conferido (32 artigos, 10 capítulos), já com as alterações da Res. 980/2026.
 
-**RESULTADO: [governanca-e-crises-tre-pr](references/normas/governanca-e-crises-tre-pr.md) estava CORRETO** na parte da 932/2024.
+**RESULTADO: [[normas/governanca-e-crises-tre-pr]] estava CORRETO** na parte da 932/2024.
 Conferidos: revogação da Res. 876/2021 (art. 31), vigência (art. 32), renomeação CGER →
 CGERI com incisos XVIII-XXI (Res. 980/2026), princípios (art. 1º), mecanismos e funções
 (arts. 2º-3º), estrutura (art. 4º), Conselho (arts. 5º-6º), CGTI art. 10, VI, CGSIPDP
@@ -356,7 +356,7 @@ secretário de colegiado, incluindo conteúdo mínimo da ata), art. 24 (publicid
 (Relatório Anual da Governança), art. 8º (competências comuns aos Comitês, incl. inciso X
 — definir no início do ano os riscos a mapear), art. 5º, §2º (Assessores CJ-3 equiparados
 a Secretários no Conselho de Governança), art. 23, §2º (fluxo das deliberações à DG).
-[prazos-normativos-tre-pr](references/concepts/prazos-normativos-tre-pr.md) ganhou bloco próprio da 932/2024.
+[[concepts/prazos-normativos-tre-pr]] ganhou bloco próprio da 932/2024.
 
 **Pendências:** Res. TRE-PR 962/2025 (bloco de crises do mesmo arquivo) não auditada;
 eixo LAI (Lei 12.527/2011 e Res. TRE-PR 855/2020) sem verificação; Res. 959/2025 sem
@@ -418,7 +418,7 @@ Res. TRE-PR 959/2025 (IA). Marcador de procedência aplicado em 974, 932 e 962.
 
 ## 12. Eixo LAI completo: Lei 12.527/2011 e Res. TRE-PR 855/2020 (22/7/2026)
 Fecha a última pendência estrutural da skill. Dois arquivos novos:
-[lai-12527-2011](references/normas/lai-12527-2011.md) (lei federal) e [lai-tre-pr-855-2020](references/normas/lai-tre-pr-855-2020.md) (norma local).
+[[normas/lai-12527-2011]] (lei federal) e [[normas/lai-tre-pr-855-2020]] (norma local).
 
 ### Lei 12.527/2011 — RESULTADO: todas as afirmações prévias da skill conferiam.
 Achados de omissão (não de erro): art. 12 tem redação nova pela Lei 14.129/2021
@@ -431,7 +431,7 @@ ao CNJ decisões que negarem acesso em grau de recurso; art. 4º é um quarto gl
 ecossistema (junto com Portaria 444/2021, art. 4º da 974/2026 e Anexo VIII da Portaria
 CNJ 162/2021).
 
-### Res. TRE-PR 855/2020 — RESULTADO: o fluxo de prazos já registrado em [prazos-normativos-tre-pr](references/concepts/prazos-normativos-tre-pr.md)
+### Res. TRE-PR 855/2020 — RESULTADO: o fluxo de prazos já registrado em [[concepts/prazos-normativos-tre-pr]]
 estava CORRETO (D+2/D+10-15/D+20-15/+10). Achados:
 
 **🔴 1. Competência de classificação (fecha pendência aberta em rodada anterior).**
@@ -471,7 +471,7 @@ histórico com edital prévio de 30 dias (art. 29, §§7º-9º); regras físicas
 de sigiloso (envelope duplo, gráficas credenciadas — arts. 31, 36); temporalidade com
 1 ano extra pós-desclassificação (art. 34).
 
-`SKILL.md` e [prazos-normativos-tre-pr](references/concepts/prazos-normativos-tre-pr.md) atualizados com as novas linhas de tema-chave e os prazos
+`SKILL.md` e [[concepts/prazos-normativos-tre-pr]] atualizados com as novas linhas de tema-chave e os prazos
 recursais/de classificação que faltavam.
 
 ## Estado consolidado da auditoria (22/7/2026)
@@ -484,7 +484,7 @@ TRE-PR 855/2020. **Nove normas, marcador de procedência aplicado em todas.**
 estrutural identificada nesta rodada.
 
 ## 13. Res. TRE-PR 959/2025 incorporada — última pendência estrutural fechada (22/7/2026)
-[ia-tre-pr-959-2025](references/normas/ia-tre-pr-959-2025.md). Governança de IA na JE-PR, 22 artigos, publicada em
+[[normas/ia-tre-pr-959-2025]]. Governança de IA na JE-PR, 22 artigos, publicada em
 13/10/2025.
 
 **🔴 ACHADO PRINCIPAL — os quatro prazos transitórios já venceram:** registro/inventário
@@ -539,7 +539,7 @@ autoral ao servidor (art. 17, §3º); padrão de auditabilidade mais flexível p
 para ativos de informação em geral (art. 14); prestação de contas anual com
 transparência algorítmica ativa (art. 16, V).
 
-`SKILL.md` e [prazos-normativos-tre-pr](references/concepts/prazos-normativos-tre-pr.md) atualizados com tema-chave e bloco de prazos vencidos.
+`SKILL.md` e [[concepts/prazos-normativos-tre-pr]] atualizados com tema-chave e bloco de prazos vencidos.
 
 ## Estado final da auditoria (22/7/2026)
 **Dez normas verificadas integralmente contra texto oficial, marcador de procedência em

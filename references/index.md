@@ -189,6 +189,7 @@ Catalog of every page in this wiki. Updated on every ingest. See `CLAUDE.md` for
 - [[wiki/normas/tse-resolucao-23-763-2026-psi-nacional]] — Resolução TSE 23.763/2026 - Política de Segurança da Informação (PSI) Nacional
 
 ## Metadados
+- [[wiki/_meta/classificacao-normas]] — Classificação inicial das normas não curadas
 - [[wiki/_meta/auditoria-changelog-normas-eleitorais]] — Auditoria e changelog da análise de normas eleitorais
 - [[wiki/_meta/mapa-tematico]] — Mapa temático do vault normativo
 - [[wiki/_meta/pendencias-curadoria]] — Pendências de curadoria e verificação normativa
@@ -209,7 +210,7 @@ Catalog of every page in this wiki. Updated on every ingest. See `CLAUDE.md` for
 ## Raw Sources (158)
 _153 arquivos-fonte em `raw/` — texto normativo integral._
 
-**Total de páginas wiki: 203 · Fontes em raw/: 158**
+**Total de páginas wiki: 204 · Fontes em raw/: 158**
 - [[wiki/normas/tse-portaria-463-2026-planos-conformidade]] — TSE Portaria 463/2026 — Planos de conformidade
 - [[wiki/normas/tre-pr-portaria-276-2026-altera-74-2025]] — TRE-PR Portaria 276/2026 — alterações e revogação
 - [[wiki/normas/tse-portaria-143-2026-uso-software-nuvem]] — TSE Portaria 143/2026 — uso de software em nuvem

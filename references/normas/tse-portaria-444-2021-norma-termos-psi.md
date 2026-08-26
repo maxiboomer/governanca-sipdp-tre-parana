@@ -1,8 +1,11 @@
 ---
-curadoria: pendente
 title: "Portaria TSE 444/2021 - Norma de Termos e Definições da PSI"
 type: fonte-normativa
 tags: [tse, seguranca-informacao, psi, glossario]
+curadoria: stub
+escopo: central-si-pdp
+status: não-confirmada
+status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
 url: "https://www.tse.jus.br/legislacao/compilada/prt/2021/portaria-no-444-de-08-de-julho-de-2021"
 ---
 
@@ -10,21 +13,24 @@ url: "https://www.tse.jus.br/legislacao/compilada/prt/2021/portaria-no-444-de-08
 
 ## Summary
 
-> **Página não curada.** Esta página é um marcador gerado automaticamente e **não contém síntese da norma**.
-> O texto está em [`references/raw/tse-portaria-444-2021-norma-termos-psi.md`](references/raw/tse-portaria-444-2021-norma-termos-psi.md) — **leia esse arquivo** para responder qualquer pergunta sobre esta norma.
-> Não conclua que a informação inexiste com base nesta página.
-> Confirme a vigência em [inventário TRE-PR/TSE](references/inventarios/normas-tre-pr-tse.md) ou [inventário CNJ](references/inventarios/normas-cnj.md) antes de citar em documento oficial.
+Texto normativo oficial. Ver documento completo em `raw/`.
+
+## Key Takeaways
+
+- Extrair pontos-chave do texto normativo.
+- Identificar obrigações e prazos.
+- Link para implementação prática.
 
 ## Relevant Entities
 
-- [cgsipdp](references/entities/cgsipdp.md)
-- [etir](references/entities/etir.md)
-- [anpd](references/entities/anpd.md)
+- [[entities/cgsipdp]]
+- [[entities/etir]]
+- [[entities/anpd]]
 
 ## Relevant Concepts
 
-- [seguranca-informacao-justica-eleitoral](references/concepts/seguranca-informacao-justica-eleitoral.md)
-- [lgpd-fundamentos](references/concepts/lgpd-fundamentos.md)
+- [[concepts/seguranca-informacao-justica-eleitoral]]
+- [[concepts/lgpd-fundamentos]]
 
 ## Raw Source
 
@@ -32,4 +38,4 @@ Source: `raw/tse-portaria-444-2021-norma-termos-psi.md`
 
 ## Processing Notes
 
-Marcador automático. Curadoria pendente — ao curar esta página, remova `curadoria: pendente` do frontmatter.
+Página gerada automaticamente a partir da fonte em `raw/`. Frontmatter normalizado.

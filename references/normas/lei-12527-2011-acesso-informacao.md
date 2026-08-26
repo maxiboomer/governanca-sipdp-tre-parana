@@ -1,32 +1,18 @@
 ---
-curadoria: pendente
-title: "Lei nº 12.527/2011 - Acesso à Informação"
-type: fonte-normativa
-tags: [lei-federal, acesso-informacao, transparency, lgpd]
-url: "http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm"
+title: "Lei nº 12.527/2011 - Acesso à Informação — alias"
+created: 2026-08-26
+updated: 2026-08-26
+type: metadata
+status: não-aplicável
+curadoria: resumo
+escopo: duplicada
+canonical: wiki/normas/lai-12527-2011
+tags: [metadados, alias]
+sources: [raw/lei-12527-2011-acesso-informacao.md]
 ---
 
-# Lei nº 12.527/2011 - Acesso à Informação
+# Alias
 
-## Summary
+Esta página foi consolidada na página canônica [[wiki/normas/lai-12527-2011]].
 
-> **Página não curada.** Esta página é um marcador gerado automaticamente e **não contém síntese da norma**.
-> O texto está em [`references/raw/lei-12527-2011-acesso-informacao.md`](references/raw/lei-12527-2011-acesso-informacao.md) — **leia esse arquivo** para responder qualquer pergunta sobre esta norma.
-> Não conclua que a informação inexiste com base nesta página.
-> Confirme a vigência em [inventário TRE-PR/TSE](references/inventarios/normas-tre-pr-tse.md) ou [inventário CNJ](references/inventarios/normas-cnj.md) antes de citar em documento oficial.
-
-## Relevant Entities
-
-- [cgsipdp](references/entities/cgsipdp.md)
-
-## Relevant Concepts
-
-- [seguranca-informacao-justica-eleitoral](references/concepts/seguranca-informacao-justica-eleitoral.md)
-
-## Raw Source
-
-Source: `raw/lei-12527-2011-acesso-informacao.md`
-
-## Processing Notes
-
-Marcador automático. Curadoria pendente — ao curar esta página, remova `curadoria: pendente` do frontmatter.
+O documento bruto original permanece preservado em `raw/lei-12527-2011-acesso-informacao.md`.
