@@ -7,6 +7,8 @@ escopo: fora-escopo
 status: não-confirmada
 status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
 url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-presidencia-tre-pr/2024/portaria-ndeg-356-de-12-de-setembro-de-2024"
+created: 2026-08-26
+updated: 2026-08-26
 ---
 
 # TRE-PR R 356/2024 - Sistema Janus Automação Processual

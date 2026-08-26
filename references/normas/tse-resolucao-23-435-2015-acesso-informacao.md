@@ -7,6 +7,8 @@ escopo: contextual
 status: não-confirmada
 status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
 url: "https://www.tse.jus.br/legislacao/compilada/res/2015/resolucao-no-23-435-de-5-de-fevereiro-de-2015"
+created: 2026-08-26
+updated: 2026-08-26
 ---
 
 # Resolução TSE 23.435/2015 - Regulamenta Acesso à Informação

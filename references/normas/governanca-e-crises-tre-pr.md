@@ -4,6 +4,9 @@ type: norma
 created: 2026-07-27
 updated: 2026-07-27
 tags: [governanca, ciberseguranca, tre-pr, cgsipdp, comite-crises]
+status: não-confirmada
+curadoria: completa
+escopo: contextual
 ---
 
 # Governança e Cibersegurança no TRE-PR — Res. 932/2024 e 962/2025
@@ -190,7 +193,7 @@ COETIN). A 932 remete a competência a um normativo superior que ela própria n�
 > JE-PR**, referida no art. 13 da Res. 974/2026, e nos normativos de continuidade do CNJ
 > (ENSEC-PJ) e do TSE. Convém que a comissão tenha, por escrito, a identificação da sua
 > base normativa e do seu rol de competências — lacuna a suprir antes que alguém aponte.
-> Ver também [psi-tre-pr-974-2026](references/normas/psi-tre-pr-974-2026.md) (art. 13: PGCN, PRD, PCO e testes periódicos).
+> Ver também [[normas/psi-tre-pr-974-2026]] (art. 13: PGCN, PRD, PCO e testes periódicos).
 
 ### Transição de gestão (art. 26-28)
 Inicia com a eleição do novo Presidente (mín. 60 dias antes do fim do mandato) e encerra
@@ -451,7 +454,7 @@ A 962/2025 pressupõe a existência de:
   (Anexo II, 3.11, IV).
 
 Somem-se a **PGCN da JE-PR** (Res. 974/2026, art. 13) e os planos de backup, **PRD** e
-**PCO** com testes periódicos (974, art. 13, p.ú.). Ver [psi-tre-pr-974-2026](references/normas/psi-tre-pr-974-2026.md).
+**PCO** com testes periódicos (974, art. 13, p.ú.). Ver [[normas/psi-tre-pr-974-2026]].
 
 > **Mapa a levantar:** quais desses instrumentos efetivamente existem, com qual vigência e
 > qual data do último teste. É o inventário que sustenta qualquer afirmação de conformidade

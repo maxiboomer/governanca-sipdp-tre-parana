@@ -7,6 +7,8 @@ escopo: fora-escopo
 status: não-confirmada
 status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
 url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-presidencia-tre-pr/2026/portaria-ndeg-196-de-17-de-junho-de-2026"
+created: 2026-08-26
+updated: 2026-08-26
 ---
 
 # TRE-PR Portaria 196/2026 - Plantao Judiciario Eleicoes 2026

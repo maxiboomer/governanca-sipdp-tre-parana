@@ -4,9 +4,11 @@ type: fonte-normativa
 tags: [tre-pr, portaria, comite-gestao-ti, revogacao, reativacao]
 curadoria: stub
 escopo: central-si-pdp
-status: não-confirmada
-status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
+status: revogada
+status_verificacao: "Indício explícito no texto da fonte bruta; confirmação na publicação oficial ainda pendente."
 url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2024/portaria-ndeg-593-de-20-de-setembro-de-2024"
+created: 2026-08-26
+updated: 2026-08-26
 ---
 
 # TRE-PR Portaria DG 593/2024 - Revoca 429-2024 e Reatua Comite Gestao TI

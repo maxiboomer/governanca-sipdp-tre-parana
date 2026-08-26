@@ -7,6 +7,8 @@ escopo: apoio-governanca-ti
 status: não-confirmada
 status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
 url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2024/portaria-no-486-de-15-de-julho-de-2024"
+created: 2026-08-26
+updated: 2026-08-26
 ---
 
 # TRE-PR Portaria DG 486/2024 - Gestao Contratos TI

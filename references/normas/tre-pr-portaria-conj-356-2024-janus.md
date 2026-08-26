@@ -7,6 +7,8 @@ escopo: fora-escopo
 status: não-confirmada
 status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
 url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-conjunta-presid-cre/2024/portaria-ndeg-356-de-12-de-setembro-de-2024"
+created: 2026-08-26
+updated: 2026-08-26
 ---
 
 # PORTARIA N° 356, DE 12 DE SETEMBRO DE 2024. — Tribunal Regional Eleitoral do Paraná

@@ -4,9 +4,11 @@ type: fonte-normativa
 tags: [tse, psi, seguranca-informacao]
 curadoria: stub
 escopo: central-si-pdp
-status: não-confirmada
-status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
+status: revogada
+status_verificacao: "Indício explícito no texto da fonte bruta; confirmação na publicação oficial ainda pendente."
 url: "https://www.tse.jus.br/legislacao/compilada/res/2016/resolucao-no-23-501-de-19-de-dezembro-de-2016"
+created: 2026-08-26
+updated: 2026-08-26
 ---
 
 # Resolução TSE 23.501/2016 - Política de Segurança da Informação

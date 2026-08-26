@@ -9,6 +9,8 @@ fonte_publicacao: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnica
 data_publicacao: "12/09/2022"
 tags: [norma, curadoria, si-pdp]
 sources: [raw/tre-pr-norma-tecnica-secti-02-2022-gerenciamento-ativos.md]
+curadoria: completa
+escopo: contextual
 ---
 
 # TRE-PR Norma Tecnica SECTI 02/2022 - Gerenciamento de Ativos e configuracao

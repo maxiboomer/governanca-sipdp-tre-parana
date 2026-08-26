@@ -7,6 +7,8 @@ escopo: apoio-governanca-ti
 status: não-confirmada
 status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
 url: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2019/norma-tecnica-no-01-de-27-de-junho-de-2019"
+created: 2026-08-26
+updated: 2026-08-26
 ---
 
 # NORMA TÉCNICA Nº 01, DE 27 DE JUNHO DE 2019. — Tribunal Regional Eleitoral do Paraná

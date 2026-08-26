@@ -4,6 +4,9 @@ type: normas-changelog
 created: 2026-07-27
 updated: 2026-07-27
 tags: [auditoria, changelog, normas-eleitorais]
+status: não-aplicável
+curadoria: completa
+escopo: contextual
 ---
 
 # Changelog — skill analise-normas-eleitorais

@@ -7,6 +7,8 @@ escopo: contextual
 status: não-confirmada
 status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
 url: "https://www.justicaeleitoral.jus.br/arquivos/tre-pr-resolucao-756-de-23-de-marco-de-2017"
+created: 2026-08-26
+updated: 2026-08-26
 ---
 
 # TRE-PR Resolução 756/2017 - Sistema de Governança da Justiça Eleitoral

@@ -4,6 +4,9 @@ type: norma
 created: 2026-07-27
 updated: 2026-07-27
 tags: [psi, seguranca-informacao, tre-pr]
+status: não-confirmada
+curadoria: completa
+escopo: contextual
 ---
 
 # PSI do Paraná — Res. TRE-PR 974, de 15/4/2026
@@ -77,7 +80,7 @@ usuários externos com acesso aos ativos. (Mesmo universo do art. 7º da PSI nac
 
 A 974 **tem glossário próprio**, com 34 definições (incisos I a XXXIV). Consequência:
 no âmbito da PSI do TRE-PR **não se depende da Portaria TSE 444/2021** para conceitos —
-o que reduz a fragilidade apontada em [psi-termos-portaria-tse-444-2021](references/normas/psi-termos-portaria-tse-444-2021.md) (norma de âmbito
+o que reduz a fragilidade apontada em [[normas/psi-termos-portaria-tse-444-2021]] (norma de âmbito
 interno do TSE). Onde a 974 é silente, a 444 vale subsidiariamente.
 
 **Blocos:** ameaça (I) · atividades precípuas e críticas (II-III) · ativo, ativo de
@@ -260,4 +263,4 @@ nacional, e a divergência deve ser apontada como pendência de adequação (pra
   gerenciamento e investigação de ilícitos cibernéticos
 - **Res. TRE-PR 855/2020** — Regulamentação local da LAI (já no escopo da skill)
 
-Detalhamento da 932/2024 e da 962/2025 em [governanca-e-crises-tre-pr](references/normas/governanca-e-crises-tre-pr.md).
+Detalhamento da 932/2024 e da 962/2025 em [[normas/governanca-e-crises-tre-pr]].

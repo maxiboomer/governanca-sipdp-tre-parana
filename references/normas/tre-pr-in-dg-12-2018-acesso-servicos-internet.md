@@ -9,6 +9,8 @@ fonte_publicacao: "https://apps.tre-pr.jus.br/files/legislacaocompilada/in/2018/
 data_publicacao: ""
 tags: [norma, curadoria, si-pdp]
 sources: [raw/tre-pr-in-dg-12-2018-acesso-servicos-internet.md]
+curadoria: completa
+escopo: contextual
 ---
 
 # INSTRUÇÃO NORMATIVA Nº 12/2018

@@ -4,9 +4,11 @@ type: fonte-normativa
 tags: [tre-pr, portaria, comite-executivo, tecnologia, revogada]
 curadoria: stub
 escopo: central-si-pdp
-status: não-confirmada
-status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
+status: revogada
+status_verificacao: "Indício explícito no texto da fonte bruta; confirmação na publicação oficial ainda pendente."
 url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2022/portaria-no-502-de-14-de-outubro-de-2022"
+created: 2026-08-26
+updated: 2026-08-26
 ---
 
 # TRE-PR Portaria DG 502/2022 - Comite Executivo de Tecnologia

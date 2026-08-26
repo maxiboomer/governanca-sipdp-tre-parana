@@ -7,6 +7,8 @@ escopo: contextual
 status: não-confirmada
 status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
 url: "https://www.tre-pr.jus.br/legislacao/resolucoes-do-tre-pr/arquivos/tre-pr-resolucao-n-o-882-de-08-de-dezembro-de-2021"
+created: 2026-08-26
+updated: 2026-08-26
 ---
 
 # TRE-Pr Resolução 882/2021 - Altera Recuo Judicial

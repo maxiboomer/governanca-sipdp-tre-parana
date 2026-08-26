@@ -7,6 +7,8 @@ escopo: apoio-governanca-ti
 status: não-confirmada
 status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
 url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-presidencia-tre-pr/2025/portaria-no-257-de-21-de-agosto-de-2025"
+created: 2026-08-26
+updated: 2026-08-26
 ---
 
 # TRE-PR Portaria 257/2025 - Estrategia Cloud Computing

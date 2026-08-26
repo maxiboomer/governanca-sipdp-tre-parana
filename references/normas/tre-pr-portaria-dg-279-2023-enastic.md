@@ -4,9 +4,11 @@ type: fonte-normativa
 tags: [tre-pr, portaria, enastic, tecnologia, inovacao]
 curadoria: stub
 escopo: contextual
-status: não-confirmada
-status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
+status: revogada
+status_verificacao: "Indício explícito no texto da fonte bruta; confirmação na publicação oficial ainda pendente."
 url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2023/portaria-ndeg-279-de-13-de-junho-de-2023"
+created: 2026-08-26
+updated: 2026-08-26
 ---
 
 # TRE-PR Portaria DG 279/2023 - Enastic Encontro Nacional TI Inovacao

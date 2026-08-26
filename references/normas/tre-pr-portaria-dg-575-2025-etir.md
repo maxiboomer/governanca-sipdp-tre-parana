@@ -7,6 +7,8 @@ escopo: central-si-pdp
 status: não-confirmada
 status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
 url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2025/portaria-no-575-de-12-de-dezembro-de-2025"
+created: 2026-08-26
+updated: 2026-08-26
 ---
 
 # PORTARIA Nº 575, DE 12 DE DEZEMBRO DE 2025. — Tribunal Regional Eleitoral do Paraná

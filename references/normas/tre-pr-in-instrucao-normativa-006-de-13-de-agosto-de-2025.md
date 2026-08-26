@@ -7,6 +7,8 @@ escopo: contextual
 status: não-confirmada
 status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
 url: https://www.tre-pr.jus.br/legislacao/compilada/instrucoes-normativas-tre-pr/2025/instrucao-normativa-no-006-de-13-de-agosto-de-2025
+created: 2026-08-26
+updated: 2026-08-26
 ---
 
 # INSTRUÇÃO NORMATIVA Nº 006, DE 13 DE AGOSTO DE 2025. — Tribunal Regional Eleitoral do Paraná

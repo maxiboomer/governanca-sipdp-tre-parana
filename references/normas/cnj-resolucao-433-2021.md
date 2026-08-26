@@ -4,6 +4,9 @@ type: norma
 created: 2026-02-19
 updated: 2026-02-19
 tags: [cnj, meio-ambiente, clima, sustentabilidade, psi]
+status: não-confirmada
+curadoria: completa
+escopo: contextual
 ---
 
 # CNJ Resolução 433/2021 — Política Nacional do Poder Judiciário para o Clima e Meio Ambiente
@@ -66,6 +69,6 @@ A **CNJ Resolução 646/2025** institui o Protocolo de Crise Socioambiental do P
 
 ## Relacionamentos
 
-- [cnj-resolucao-325-2020](references/normas/cnj-resolucao-325-2020.md)
-- [cnj-resolucao-646-2025](references/normas/cnj-resolucao-646-2025.md)
-- [portaria-tre-pr-056-2026](references/normas/portaria-tre-pr-056-2026.md)
+- [[normas/cnj-resolucao-325-2020]]
+- [[normas/cnj-resolucao-646-2025]]
+- [[normas/portaria-tre-pr-056-2026]]

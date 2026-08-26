@@ -7,6 +7,8 @@ escopo: contextual
 status: não-confirmada
 status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
 url: "https://apps.tre-pr.jus.br/files/legislacaocompilada/res/2020/Res08552020.html"
+created: 2026-08-26
+updated: 2026-08-26
 ---
 
 # TRE-Pr Resolução 855/2020 - Acesso à Informação

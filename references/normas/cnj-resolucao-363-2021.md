@@ -4,6 +4,9 @@ type: norma
 created: 2024-01-15
 updated: 2026-08-04
 tags: [cnj, lgpd, tribunais]
+status: não-confirmada
+curadoria: completa
+escopo: contextual
 ---
 
 # Resolução CNJ 363/2021
@@ -46,9 +49,9 @@ Institui diretrizes para adequação dos tribunais às exigências da Lei Geral 
 
 ## Aplicação ao TRE-PR
 A Resolução 363/2021 foi adaptada para o contexto local em:
-- [lai-tre-pr-855-2020](references/normas/lai-tre-pr-855-2020.md)
-- [encarregado-dpo](references/entities/encarregado-dpo.md)
+- [[normas/lai-tre-pr-855-2020]]
+- [[entities/encarregado-dpo]]
 
 ## Fontes
 - Conteúdo baseado em análise jurisprudencial
-- Referência: [implementacao-cnj-363-2021](references/concepts/implementacao-cnj-363-2021.md)
+- Referência: [[concepts/implementacao-cnj-363-2021]]

@@ -4,6 +4,9 @@ type: norma
 created: 2026-02-19
 updated: 2026-02-19
 tags: [crise-socioambiental, desastre, continuidade-negocios, prevencao, resposta, recuperacao, tre-pr]
+status: não-confirmada
+curadoria: completa
+escopo: contextual
 ---
 
 # Portaria TRE-PR 056/2026 — Protocolo de Crise Socioambiental
@@ -145,24 +148,24 @@ Esta Portaria entra em vigor na data de sua publicação (19/02/2026).
 
 | Norma | Status | Observação |
 |-------|--------|------------|
-| [cnj-resolucao-325-2020](references/normas/cnj-resolucao-325-2020.md) | VIGENTE | Estratégia Nacional do Poder Judiciário 2021-2026 |
-| [cnj-resolucao-433-2021](references/normas/cnj-resolucao-433-2021.md) | VIGENTE | Política Nacional do Poder Judiciário para o Clima e Meio Ambiente |
-| [cnj-resolucao-646-2025](references/normas/cnj-resolucao-646-2025.md) | VIGENTE | Protocolo de Crise Socioambiental do Poder Judiciário (modelo) |
-| [psi-tse-23763-2026](references/normas/psi-tse-23763-2026.md) | VIGENTE | PSN (revoga TSE 23.644/2021) |
-| [portaria-tre-pr-302-2025](references/normas/portaria-tre-pr-302-2025.md) | VIGENTE | PGCN — Política de Gestão de Continuidade de Negócios (alterada pela 056/2026) |
-| [psi-tre-pr-974-2026](references/normas/psi-tre-pr-974-2026.md) | VIGENTE | PSI local (também menciona crises) |
+| [[normas/cnj-resolucao-325-2020]] | VIGENTE | Estratégia Nacional do Poder Judiciário 2021-2026 |
+| [[normas/cnj-resolucao-433-2021]] | VIGENTE | Política Nacional do Poder Judiciário para o Clima e Meio Ambiente |
+| [[normas/cnj-resolucao-646-2025]] | VIGENTE | Protocolo de Crise Socioambiental do Poder Judiciário (modelo) |
+| [[normas/psi-tse-23763-2026]] | VIGENTE | PSN (revoga TSE 23.644/2021) |
+| [[normas/portaria-tre-pr-302-2025]] | VIGENTE | PGCN — Política de Gestão de Continuidade de Negócios (alterada pela 056/2026) |
+| [[normas/psi-tre-pr-974-2026]] | VIGENTE | PSI local (também menciona crises) |
 
 ---
 
 ## Relacionamentos
 
-- **Modelo nacional:** [cnj-resolucao-646-2025](references/normas/cnj-resolucao-646-2025.md)
-- **PSI local:** [psi-tre-pr-974-2026](references/normas/psi-tre-pr-974-2026.md) (art. 13 aponta para PGCN)
-- **Governança de crises:** [governanca-e-crises-tre-pr](references/normas/governanca-e-crises-tre-pr.md)
-- **Continuidade de negócios:** [portaria-tre-pr-302-2025](references/normas/portaria-tre-pr-302-2025.md)
+- **Modelo nacional:** [[normas/cnj-resolucao-646-2025]]
+- **PSI local:** [[normas/psi-tre-pr-974-2026]] (art. 13 aponta para PGCN)
+- **Governança de crises:** [[normas/governanca-e-crises-tre-pr]]
+- **Continuidade de negócios:** [[normas/portaria-tre-pr-302-2025]]
 
 ---
 
 ## Documentos Relacionados
 
-- **Prazos eleitorais 2026:** Para impactos na fase de resposta, consultar [tre-pr-portaria-196-2026-plantao-judiciario-eleicoes](references/normas/tre-pr-portaria-196-2026-plantao-judiciario-eleicoes.md)
+- **Prazos eleitorais 2026:** Para impactos na fase de resposta, consultar [[normas/tre-pr-portaria-196-2026-plantao-judiciario-eleicoes]]

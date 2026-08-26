@@ -4,9 +4,11 @@ type: fonte-normativa
 tags: [tre-pr, norma, coleta-automatica]
 curadoria: stub
 escopo: central-si-pdp
-status: não-confirmada
-status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
+status: revogada
+status_verificacao: "Indício explícito no texto da fonte bruta; confirmação na publicação oficial ainda pendente."
 url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2021-1-criar-arq-port-dg/portaria-no-287-de-xx-de-dezembro-de-2021"
+created: 2026-08-26
+updated: 2026-08-26
 ---
 
 # PORTARIA Nº 287, DE 06 DE DEZEMBRO DE 2021. — Tribunal Regional Eleitoral do Paraná

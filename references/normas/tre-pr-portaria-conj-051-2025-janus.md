@@ -7,6 +7,8 @@ escopo: fora-escopo
 status: não-confirmada
 status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
 url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-conjunta-presid-cre/2025/portaria-ndeg-051-de-17-de-fevereiro-de-2025"
+created: 2026-08-26
+updated: 2026-08-26
 ---
 
 # PORTARIA N° 051, DE 17 DE FEVEREIRO DE 2025. — Tribunal Regional Eleitoral do Paraná

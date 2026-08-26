@@ -7,6 +7,8 @@ escopo: contextual
 status: não-confirmada
 status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
 url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-presidencia-tre-pr/2022/portaria-no-204-de-17-de-maio-de-2022"
+created: 2026-08-26
+updated: 2026-08-26
 ---
 
 # PORTARIA Nº 204, DE 17 DE MAIO DE 2022. — Tribunal Regional Eleitoral do Paraná

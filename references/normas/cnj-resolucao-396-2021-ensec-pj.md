@@ -4,9 +4,11 @@ type: fonte-normativa
 tags: [cnj, ciberseguranca, seguranca-informacao]
 curadoria: stub
 escopo: contextual
-status: não-confirmada
-status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
+status: revogada
+status_verificacao: "Indício explícito no texto da fonte bruta; confirmação na publicação oficial ainda pendente."
 url: "https://atos.cnj.jus.br/atos/detalhar/3975"
+created: 2026-08-26
+updated: 2026-08-26
 ---
 
 # CNJ 396/2021 - Estratégia Nacional de Segurança Cibernética

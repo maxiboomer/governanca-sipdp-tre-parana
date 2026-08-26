@@ -7,6 +7,8 @@ escopo: apoio-governanca-ti
 status: não-confirmada
 status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
 url: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2024/norma-tecnica-no-04-de-05-de-julho-de-2024"
+created: 2026-08-26
+updated: 2026-08-26
 ---
 
 # NORMA TÉCNICA Nº 04, DE 05 DE JULHO DE 2024. — Tribunal Regional Eleitoral do Paraná

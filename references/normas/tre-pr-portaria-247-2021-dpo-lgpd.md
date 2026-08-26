@@ -9,6 +9,8 @@ fonte_publicacao: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-p
 data_publicacao: "24/05/2021"
 tags: [norma, curadoria, si-pdp]
 sources: [raw/tre-pr-portaria-247-2021-dpo-lgpd.md]
+curadoria: completa
+escopo: contextual
 ---
 
 # TRE-Pr Portaria 247/2021 - Unidade Encarregada Dados LGPD

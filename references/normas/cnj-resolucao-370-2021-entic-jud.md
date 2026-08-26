@@ -7,6 +7,8 @@ escopo: contextual
 status: não-confirmada
 status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
 url: "https://atos.cnj.jus.br/atos/detalhar/3706"
+created: 2026-08-26
+updated: 2026-08-26
 ---
 
 # CNJ 370/2021 - Estratégia Nacional de TIC do Poder Judiciário

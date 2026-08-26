@@ -7,6 +7,8 @@ escopo: apoio-governanca-ti
 status: não-confirmada
 status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
 url: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2019/norma-tecnica-no-03-de-26-de-julho-de-2019"
+created: 2026-08-26
+updated: 2026-08-26
 ---
 
 # NORMA TÉCNICA Nº 03, DE 26 DE JULHO DE 2019. — Tribunal Regional Eleitoral do Paraná

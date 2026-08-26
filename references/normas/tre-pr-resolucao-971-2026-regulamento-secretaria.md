@@ -3,6 +3,11 @@ title: "TRE-PR Resolução 971/2026 - Regulamento da Secretaria (vigente)"
 type: fonte-normativa
 tags: [tre-pr, regulamento-secretaria, estrutura-organica, vigente]
 url: "https://www.tre-pr.jus.br/legislacao/compilada/resolucoes-tre-pr/2026/resolucao-no-971-de-30-de-janeiro-de-2026"
+created: 2026-08-26
+updated: 2026-08-26
+status: não-confirmada
+curadoria: completa
+escopo: contextual
 ---
 
 # TRE-PR Resolução 971/2026 — Regulamento da Secretaria (vigente)
@@ -19,18 +24,18 @@ Aprova o Regulamento da Secretaria do TRE-PR, revogando a Resolução 903/2022 (
 
 ## Relevant Entities
 
-- [secti](references/entities/secti.md)
-- [asc](references/entities/asc.md)
-- [cgsipdp](references/entities/cgsipdp.md)
+- [[entities/secti]]
+- [[entities/asc]]
+- [[entities/cgsipdp]]
 
 ## Relevant Concepts
 
-- [seguranca-informacao-justica-eleitoral](references/concepts/seguranca-informacao-justica-eleitoral.md)
+- [[concepts/seguranca-informacao-justica-eleitoral]]
 
 ## Relacionamentos
 
-- normas/tre-pr-resolucao-903-2022-regulamento-secretaria — REVOGADA por esta
-- [tre-pr-in-instrucao-normativa-010-de-14-de-novembro-de-2025](references/normas/tre-pr-in-instrucao-normativa-010-de-14-de-novembro-de-2025.md) — remete ao art. 43 da 903/2022 (revogada); a referência está defasada
+- *Res. TRE-PR 903/2022 (Regulamento da Secretaria)* — REVOGADA por esta (sem página própria; texto-fonte não coletado)
+- [[normas/tre-pr-in-instrucao-normativa-010-de-14-de-novembro-de-2025]] — remete ao art. 43 da 903/2022 (revogada); a referência está defasada
 
 ## Raw Source
 

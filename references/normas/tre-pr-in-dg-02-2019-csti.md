@@ -7,6 +7,8 @@ escopo: central-si-pdp
 status: não-confirmada
 status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
 url: "https://apps.tre-pr.jus.br/files/legislacaocompilada/in/2019/in022019.html"
+created: 2026-08-26
+updated: 2026-08-26
 ---
 
 # INSTRUÇÃO NORMATIVA Nº 02/2019

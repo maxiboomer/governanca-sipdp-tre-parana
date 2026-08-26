@@ -7,6 +7,8 @@ escopo: fora-escopo
 status: não-confirmada
 status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
 url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2025/portaria-ndeg-242-de-18-de-junho-de-2025"
+created: 2026-08-26
+updated: 2026-08-26
 ---
 
 # TRE-PR Portaria DG 242/2025 - Carreira Functionaria Tempo Parcial

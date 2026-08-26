@@ -4,6 +4,9 @@ type: norma
 created: 2026-02-19
 updated: 2026-02-19
 tags: [cnj, crise-socioambiental, protocolo, gestao-de-riscos, desastre]
+status: não-confirmada
+curadoria: completa
+escopo: contextual
 ---
 
 # CNJ Resolução 646/2025 — Protocolo de Crise Socioambiental do Poder Judiciário
@@ -72,8 +75,8 @@ O Protocolo do TRE-PR (Portaria 056/2026) **adapta** o modelo nacional da CNJ 64
 
 ## Relacionamentos
 
-- [cnj-resolucao-325-2020](references/normas/cnj-resolucao-325-2020.md)
-- [cnj-resolucao-433-2021](references/normas/cnj-resolucao-433-2021.md)
-- [portaria-tre-pr-056-2026](references/normas/portaria-tre-pr-056-2026.md)
-- [psi-tre-pr-974-2026](references/normas/psi-tre-pr-974-2026.md)
-- [portaria-tre-pr-302-2025](references/normas/portaria-tre-pr-302-2025.md)
+- [[normas/cnj-resolucao-325-2020]]
+- [[normas/cnj-resolucao-433-2021]]
+- [[normas/portaria-tre-pr-056-2026]]
+- [[normas/psi-tre-pr-974-2026]]
+- [[normas/portaria-tre-pr-302-2025]]

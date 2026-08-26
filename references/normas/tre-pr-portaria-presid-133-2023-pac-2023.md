@@ -7,6 +7,8 @@ escopo: apoio-governanca-ti
 status: não-confirmada
 status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
 url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-presidencia-tre-pr/2023/portaria-ndeg-133-de-09-de-marco-de-2023"
+created: 2026-08-26
+updated: 2026-08-26
 ---
 
 # PORTARIA N° 133, DE 15 DE MARÇO DE 2023. — Tribunal Regional Eleitoral do Paraná

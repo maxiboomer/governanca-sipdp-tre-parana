@@ -7,6 +7,8 @@ escopo: contextual
 status: não-confirmada
 status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
 url: "https://www.tse.jus.br/legislacao/compilada/prt/2018/portaria-no-1013-de-23-de-novembro-de-2018"
+created: 2026-08-26
+updated: 2026-08-26
 ---
 
 # Portaria TSE 1.013/2018 - Política de Preservação Digital da Justiça Eleitoral

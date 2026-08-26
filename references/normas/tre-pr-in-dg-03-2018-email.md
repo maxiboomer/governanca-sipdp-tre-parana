@@ -4,9 +4,11 @@ type: fonte-normativa
 tags: [tre-pr, norma, coleta-automatica]
 curadoria: stub
 escopo: contextual
-status: não-confirmada
-status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
+status: revogada
+status_verificacao: "Indício explícito no texto da fonte bruta; confirmação na publicação oficial ainda pendente."
 url: "https://apps.tre-pr.jus.br/files/legislacaocompilada/in/2018/in032018.html"
+created: 2026-08-26
+updated: 2026-08-26
 ---
 
 # INSTRUÇÃO NORMATIVA Nº 03/2018

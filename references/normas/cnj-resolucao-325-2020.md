@@ -4,6 +4,9 @@ type: norma
 created: 2026-02-19
 updated: 2026-02-19
 tags: [cnj, estrategia-nacional, governanca, gerenciamento-de-riscos, desastre]
+status: não-confirmada
+curadoria: completa
+escopo: contextual
 ---
 
 # CNJ Resolução 325/2020 — Estratégia Nacional do Poder Judiciário 2021-2026
@@ -46,6 +49,6 @@ Para o Tribunal Regional Eleitoral do Paraná, a Resolução 325/2020 serve como
 
 ## Relacionamentos
 
-- [cnj-resolucao-433-2021](references/normas/cnj-resolucao-433-2021.md)
-- [cnj-resolucao-646-2025](references/normas/cnj-resolucao-646-2025.md)
-- [portaria-tre-pr-056-2026](references/normas/portaria-tre-pr-056-2026.md)
+- [[normas/cnj-resolucao-433-2021]]
+- [[normas/cnj-resolucao-646-2025]]
+- [[normas/portaria-tre-pr-056-2026]]

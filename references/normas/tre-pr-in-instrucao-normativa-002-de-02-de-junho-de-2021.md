@@ -7,6 +7,8 @@ escopo: contextual
 status: não-confirmada
 status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
 url: "https://www.tre-pr.jus.br/legislacao/compilada/instrucoes-normativas-tre-pr/2021/instrucao-normativa-no-002-de-02-de-junho-de-2021"
+created: 2026-08-26
+updated: 2026-08-26
 ---
 
 # INSTRUÇÃO NORMATIVA Nº 002, DE 02 DE JUNHO DE 2021. — Tribunal Regional Eleitoral do Paraná

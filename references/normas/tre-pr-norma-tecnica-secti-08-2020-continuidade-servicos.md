@@ -9,6 +9,8 @@ fonte_publicacao: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnica
 data_publicacao: "15/07/2020"
 tags: [norma, curadoria, si-pdp]
 sources: [raw/tre-pr-norma-tecnica-secti-08-2020-continuidade-servicos.md]
+curadoria: completa
+escopo: contextual
 ---
 
 # TRE-PR Norma Tecnica SECTI 08/2020 - Gerenciamento de Continuidade de Servicos

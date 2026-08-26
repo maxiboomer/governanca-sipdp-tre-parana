@@ -4,9 +4,11 @@ type: fonte-normativa
 tags: [tse, portaria, designacao, assessor-chefe]
 curadoria: stub
 escopo: fora-escopo
-status: não-confirmada
-status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
+status: revogada
+status_verificacao: "Indício explícito no texto da fonte bruta; confirmação na publicação oficial ainda pendente."
 url: "https://www.tse.jus.br/legislacao/compilada/prt/2025/portaria-no-302-de-7-de-julho-de-2025"
+created: 2026-08-26
+updated: 2026-08-26
 ---
 
 # TSE Portaria 302/2025 - Substituição Assessor-Chefe

@@ -7,6 +7,8 @@ escopo: contextual
 status: não-confirmada
 status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
 url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-presidencia-tre-pr/2025/portaria-no-360-de-19-de-novembro-de-2025"
+created: 2026-08-26
+updated: 2026-08-26
 ---
 
 # TRE-PR Portaria 360/2025 - Altera Portarias 74-2025 e 135-2025

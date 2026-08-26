@@ -3,6 +3,11 @@ title: "INSTRUÇÃO NORMATIVA Nº 010, DE 14 DE NOVEMBRO DE 2025. — Tribunal R
 type: fonte-normativa
 tags: [tre-pr, norma, servicos-essenciais, continuidade, vigente]
 url: "https://www.tre-pr.jus.br/legislacao/compilada/instrucoes-normativas-tre-pr/2025/instrucao-normativa-no-010-de-14-de-novembro-de-2025"
+created: 2026-08-26
+updated: 2026-08-26
+status: não-confirmada
+curadoria: completa
+escopo: contextual
 ---
 
 # INSTRUÇÃO NORMATIVA Nº 010/2025 — Serviços Essenciais de TI (TRE-PR)
@@ -33,13 +38,13 @@ A IN 010 fundamenta a competência da Diretoria-Geral no **art. 43, VII, da Reso
 
 ## Relevant Entities
 
-- [cgsipdp](references/entities/cgsipdp.md)
-- [secti](references/entities/secti.md)
+- [[entities/cgsipdp]]
+- [[entities/secti]]
 
 ## Relevant Concepts
 
-- [seguranca-informacao-justica-eleitoral](references/concepts/seguranca-informacao-justica-eleitoral.md)
-- [continuidade-negocios-tre-pr](references/concepts/continuidade-negocios-tre-pr.md)
+- [[concepts/seguranca-informacao-justica-eleitoral]]
+- [[concepts/continuidade-negocios-tre-pr]]
 
 ## Raw Source
 

@@ -4,6 +4,9 @@ type: norma
 created: 2026-02-19
 updated: 2026-02-19
 tags: [tse, psi, revogada, seguranca-informacao, tre-pr]
+status: não-confirmada
+curadoria: completa
+escopo: contextual
 ---
 
 # TSE Resolução 23.644/2021 — Política de Segurança da Informação (REVOGADA)
@@ -46,12 +49,12 @@ A Resolução 23.644/2021 instituía a PSI nacional da Justiça Eleitoral, com:
 
 Substituída pela **TSE Resolução 23.763/2026**, que disponibiliza um arcabouço mais moderno e alinhado com a **CNJ Resolução 363/2021** (LGPD).
 
-> **Relacionamento com TRE-PR:** A **TRE-PR Res. 974/2026** (PSI local) foi baseada na 23.644/2021 e **não está alinhada** com a nova norma nacional vigente. Ver detalhes em [psi-tre-pr-974-2026](references/normas/psi-tre-pr-974-2026.md).
+> **Relacionamento com TRE-PR:** A **TRE-PR Res. 974/2026** (PSI local) foi baseada na 23.644/2021 e **não está alinhada** com a nova norma nacional vigente. Ver detalhes em [[normas/psi-tre-pr-974-2026]].
 
 ---
 
 ## Relacionamentos
 
-- [psi-tre-pr-974-2026](references/normas/psi-tre-pr-974-2026.md) — PSI local (baseada na norma revogada)
-- [psi-tse-23763-2026](references/normas/psi-tse-23763-2026.md) — PSI nacional vigente
-- [portaria-tre-pr-056-2026](references/normas/portaria-tre-pr-056-2026.md)
+- [[normas/psi-tre-pr-974-2026]] — PSI local (baseada na norma revogada)
+- [[normas/psi-tse-23763-2026]] — PSI nacional vigente
+- [[normas/portaria-tre-pr-056-2026]]

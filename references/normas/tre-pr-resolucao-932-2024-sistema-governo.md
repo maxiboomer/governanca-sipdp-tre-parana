@@ -7,6 +7,8 @@ escopo: contextual
 status: não-confirmada
 status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
 url: "https://www.tre-pr.jus.br/legislacao/compilada/resolucoes-tre-pr/2024/resolucao-no-932-de-22-de-maio-de-2024"
+created: 2026-08-26
+updated: 2026-08-26
 ---
 
 # TRE-Pr Resolução 932/2024 - Sistema de Governança da Justiça Eleitoral

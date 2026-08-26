@@ -4,9 +4,11 @@ type: fonte-normativa
 tags: [tse, psi, seguranca-informacao, lgpd, ciberseguranca, revogada]
 curadoria: stub
 escopo: central-si-pdp
-status: não-confirmada
-status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
+status: revogada
+status_verificacao: "Indício explícito no texto da fonte bruta; confirmação na publicação oficial ainda pendente."
 url: "https://www.tse.jus.br/legislacao/compilada/res/2021/resolucao-no-23-644-de-1o-de-julho-de-2021"
+created: 2026-08-26
+updated: 2026-08-26
 ---
 
 # Resolução TSE 23.644/2021 - Política de Segurança da Informação (PSI) Antiga

@@ -9,6 +9,8 @@ fonte_publicacao: "https://atos.cnj.jus.br/atos/detalhar/3668"
 data_publicacao: "12/01/2021"
 tags: [norma, curadoria, si-pdp]
 sources: [raw/cnj-resolucao-363-2021-adecuacao-lgpd.md]
+curadoria: completa
+escopo: contextual
 ---
 
 # Resolução CNJ 363/2021 - Adequação dos Tribunais à LGPD

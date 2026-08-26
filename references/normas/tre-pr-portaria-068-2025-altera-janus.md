@@ -7,6 +7,8 @@ escopo: fora-escopo
 status: não-confirmada
 status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
 url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-presidencia-tre-pr/2025/portaria-ndeg-068-de-26-de-fevereiro-de-2025"
+created: 2026-08-26
+updated: 2026-08-26
 ---
 
 # TRE-PR Portaria 068/2025 - Altera Portaria 356 Janus

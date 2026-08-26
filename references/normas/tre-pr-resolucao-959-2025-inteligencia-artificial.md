@@ -9,6 +9,8 @@ fonte_publicacao: "https://www.tre-pr.jus.br/legislacao/compilada/resolucoes-tre
 data_publicacao: "13/10/2025"
 tags: [norma, curadoria, si-pdp]
 sources: [raw/tre-pr-resolucao-959-2025-inteligencia-artificial.md]
+curadoria: completa
+escopo: contextual
 ---
 
 # TRE-PR Resolução 959/2025 - Inteligencia Artificial

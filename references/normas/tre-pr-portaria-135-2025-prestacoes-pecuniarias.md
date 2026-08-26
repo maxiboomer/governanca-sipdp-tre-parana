@@ -8,6 +8,8 @@ status: não-confirmada
 status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
 url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-presidencia-tre-pr/2025/portaria-ndeg-135-de-30-de-abril-de-2025"
 status: REVOGADA pela Portaria TRE-PR 276/2026 (13/08/2026)
+created: 2026-08-26
+updated: 2026-08-26
 ---
 
 # TRE-Pr Portaria 135/2025 - Prestacoes Pecuniarias

@@ -7,6 +7,8 @@ escopo: contextual
 status: não-confirmada
 status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
 url: "https://www.tre-pr.jus.br/legislacao/compilada/instrucoes-normativas-tre-pr/2025/instrucao-normativa-no-005-de-29-de-maio-de-2025"
+created: 2026-08-26
+updated: 2026-08-26
 ---
 
 # INSTRUÇÃO NORMATIVA Nº 005, DE 29 DE MAIO DE 2025. — Tribunal Regional Eleitoral do Paraná

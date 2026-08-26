@@ -7,6 +7,8 @@ escopo: apoio-governanca-ti
 status: não-confirmada
 status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
 url: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2024/norma-tecnica-no-04-de-05-de-julho-de-2024"
+created: 2026-08-26
+updated: 2026-08-26
 ---
 
 # TRE-PR Norma Tecnica SECTI 04/2024 - Gerenciamento de Capacidade e Desempenho

@@ -7,6 +7,8 @@ escopo: fora-escopo
 status: não-confirmada
 status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
 url: "https://www.tre-pr.jus.br/legislacao/compilada/resolucoes-tre-pr/2024/resolucao-no-934-de-05-de-junho-de-2024"
+created: 2026-08-26
+updated: 2026-08-26
 ---
 
 # Resolução TRE-PR 934/2024 - Comissão de Auditoria de Urnas Eletrônicas

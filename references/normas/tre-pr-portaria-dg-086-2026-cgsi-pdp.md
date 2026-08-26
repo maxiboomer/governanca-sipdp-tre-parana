@@ -9,6 +9,8 @@ fonte_publicacao: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-d
 data_publicacao: "25/02/2026"
 tags: [norma, curadoria, si-pdp]
 sources: [raw/tre-pr-portaria-dg-086-2026-cgsi-pdp.md]
+curadoria: completa
+escopo: contextual
 ---
 
 # Portaria DG TRE-PR 086/2026 - CGSIPD

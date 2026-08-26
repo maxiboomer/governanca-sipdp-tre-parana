@@ -9,6 +9,8 @@ fonte_publicacao: "https://apps.tre-pr.jus.br/files/legislacaocompilada/os/2017/
 data_publicacao: ""
 tags: [norma, curadoria, si-pdp]
 sources: [raw/tre-pr-os-07-2017-criptografia.md]
+curadoria: completa
+escopo: contextual
 ---
 
 # ORDEM DE SERVIÇO Nº 07/2017

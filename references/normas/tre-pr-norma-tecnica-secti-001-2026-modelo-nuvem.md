@@ -9,6 +9,8 @@ fonte_publicacao: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnica
 data_publicacao: "04/02/2026"
 tags: [norma, curadoria, si-pdp]
 sources: [raw/tre-pr-norma-tecnica-secti-001-2026-modelo-nuvem.md]
+curadoria: completa
+escopo: contextual
 ---
 
 # TRE-PR Norma Tecnica SECTI 001/2026 - Modelo Operacional de Nuvem

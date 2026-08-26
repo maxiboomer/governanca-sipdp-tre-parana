@@ -7,6 +7,8 @@ escopo: contextual
 status: não-confirmada
 status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
 url: "https://apps.tre-pr.jus.br/files/legislacaocompilada/res/2018/Res08152018.html"
+created: 2026-08-26
+updated: 2026-08-26
 ---
 
 # RESOLUÇÃO Nº 815/2018

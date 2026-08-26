@@ -7,6 +7,8 @@ escopo: apoio-governanca-ti
 status: não-confirmada
 status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
 url: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2022/norma-tecnica-no-01-de-28-de-abril-de-2022"
+created: 2026-08-26
+updated: 2026-08-26
 ---
 
 # NORMA TÉCNICA Nº 01, DE 28 DE ABRIL DE 2022. — Tribunal Regional Eleitoral do Paraná

@@ -7,6 +7,8 @@ escopo: fora-escopo
 status: não-confirmada
 status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
 url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-presidencia-tre-pr/2024/portaria-ndeg-483-de-12-de-dezembro-de-2024"
+created: 2026-08-26
+updated: 2026-08-26
 ---
 
 # PORTARIA N° 483, DE 12 DE DEZEMBRO DE 2024. — Tribunal Regional Eleitoral do Paraná

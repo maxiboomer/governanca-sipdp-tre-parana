@@ -7,6 +7,8 @@ escopo: contextual
 status: não-confirmada
 status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
 url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2026/portaria-no-174-de-13-de-abril-de-2026"
+created: 2026-08-26
+updated: 2026-08-26
 ---
 
 # TRE-Pr Portaria DG 174/2026 - PECSC-JE 2026-2027

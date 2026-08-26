@@ -5,6 +5,9 @@ created: 2026-08-25
 updated: 2026-08-25
 tags: [tre-pr, portaria, prestacoes-pecuniarias]
 sources: [raw/tre-pr-portaria-276-2026-altera-74-2025-revo-135-2025.md]
+status: não-confirmada
+curadoria: completa
+escopo: contextual
 ---
 
 # Portaria TRE-PR Nº 276/2026 — Altera a Portaria 74/2025 e revoga a 135/2025

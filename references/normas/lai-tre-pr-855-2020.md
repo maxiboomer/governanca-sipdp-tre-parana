@@ -4,6 +4,9 @@ type: norma
 created: 2024-01-15
 updated: 2026-08-04
 tags: [lai, tribel-pr, classificacao, seguranca]
+status: não-confirmada
+curadoria: completa
+escopo: contextual
 ---
 
 # Resolução TRE-PR 855/2020 - LAI Local
@@ -41,9 +44,9 @@ A LAI do TRE-PR **não se aplica** a:
 ## Relacionamento com LGPD
 - Dados sensíveis classificados como Restrito ou Sigilo
 - Tratamento: criptografia, controle de acesso rigoroso
-- [cnj-resolucao-363-2021](references/normas/cnj-resolucao-363-2021.md) - Tratamento de dados sensíveis
+- [[normas/cnj-resolucao-363-2021]] - Tratamento de dados sensíveis
 
 ## Fontes
 - Resolução TRE-PR 855/2020 (integral)
 - Portaria TSE 444/2021 - Glossário
-- [encarregado-dpo](references/entities/encarregado-dpo.md)
+- [[entities/encarregado-dpo]]

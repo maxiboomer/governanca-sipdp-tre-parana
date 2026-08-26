@@ -9,6 +9,8 @@ fonte_publicacao: "https://www.tre-pr.jus.br/legislacao/compilada/resolucoes-tre
 data_publicacao: "09/12/2025"
 tags: [norma, curadoria, si-pdp]
 sources: [raw/tre-pr-resolucao-962-2025-comite-crise-cibernetica.md]
+curadoria: completa
+escopo: contextual
 ---
 
 # Resolução TRE-PR 962/2025 - Comitê de Crises Cibernéticas

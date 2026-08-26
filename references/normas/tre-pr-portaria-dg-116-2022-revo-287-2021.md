@@ -4,9 +4,11 @@ type: fonte-normativa
 tags: [tre-pr, norma, coleta-automatica]
 curadoria: stub
 escopo: contextual
-status: não-confirmada
-status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
+status: revogada
+status_verificacao: "Indício explícito no texto da fonte bruta; confirmação na publicação oficial ainda pendente."
 url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2022/portaria-no-116-de-23-de-marco-de-2022"
+created: 2026-08-26
+updated: 2026-08-26
 ---
 
 # PORTARIA Nº 116, DE 16 DE MARÇO DE 2022. — Tribunal Regional Eleitoral do Paraná

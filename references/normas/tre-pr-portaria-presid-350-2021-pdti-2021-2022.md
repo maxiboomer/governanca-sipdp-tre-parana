@@ -7,6 +7,8 @@ escopo: apoio-governanca-ti
 status: não-confirmada
 status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
 url: "https://sitdoc.tse.jus.br/sitdoc/DownloadFile?id=48c2e913-b759-4627-9390-4651cf6983c3&app=dje&extensao=pdf"
+created: 2026-08-26
+updated: 2026-08-26
 ---
 
 # Portaria TRE-PR 350/2021 - Plano Diretor TI 2021-2022

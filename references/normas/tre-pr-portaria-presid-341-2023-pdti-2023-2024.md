@@ -7,6 +7,8 @@ escopo: apoio-governanca-ti
 status: não-confirmada
 status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
 url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-presidencia-tre-pr/2023/portaria-ndeg-341-de-03-de-agosto-de-2023"
+created: 2026-08-26
+updated: 2026-08-26
 ---
 
 # PORTARIA N° 341, DE 16 DE AGOSTO DE 2023. — Tribunal Regional Eleitoral do Paraná

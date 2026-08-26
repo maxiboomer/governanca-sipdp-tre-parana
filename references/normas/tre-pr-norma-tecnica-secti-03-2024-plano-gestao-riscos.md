@@ -7,6 +7,8 @@ escopo: apoio-governanca-ti
 status: não-confirmada
 status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
 url: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2024/norma-tecnica-no-03-de-27-de-junho-de-2024"
+created: 2026-08-26
+updated: 2026-08-26
 ---
 
 # TRE-PR Norma Tecnica SECTI 03/2024 - Plano de Gestao de Riscos TI

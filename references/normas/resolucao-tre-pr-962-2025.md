@@ -4,6 +4,9 @@ type: norma
 created: 2026-02-19
 updated: 2026-02-19
 tags: [crise-cibernetica, psi, seguranca-da-informacao, etir, protocolos, tre-pr]
+status: não-confirmada
+curadoria: completa
+escopo: contextual
 ---
 
 # Resolução TRE-PR 962/2025 — Comitê de Crises Cibernéticas
@@ -140,10 +143,10 @@ Esta Resolução entra em vigor na data de sua publicação (09/12/2025).
 
 ## Relacionamentos
 
-- [psi-tre-pr-974-2026](references/normas/psi-tre-pr-974-2026.md) — PSI local
-- [psi-tse-23763-2026](references/normas/psi-tse-23763-2026.md) — PSI nacional
-- [governanca-e-crises-tre-pr](references/normas/governanca-e-crises-tre-pr.md) — Sistema de Governança da JE-PR
-- [portaria-tre-pr-056-2026](references/normas/portaria-tre-pr-056-2026.md) — Protocolo de Crise Socioambiental (complementar)
+- [[normas/psi-tre-pr-974-2026]] — PSI local
+- [[normas/psi-tse-23763-2026]] — PSI nacional
+- [[normas/governanca-e-crises-tre-pr]] — Sistema de Governança da JE-PR
+- [[normas/portaria-tre-pr-056-2026]] — Protocolo de Crise Socioambiental (complementar)
 
 ---
 

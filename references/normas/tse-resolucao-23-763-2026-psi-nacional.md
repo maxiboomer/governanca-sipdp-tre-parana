@@ -7,6 +7,8 @@ escopo: central-si-pdp
 status: não-confirmada
 status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
 url: "https://www.tse.jus.br/legislacao/compilada/res/2026/resolucao-no-23-763-de-9-de-junho-de-2026"
+created: 2026-08-26
+updated: 2026-08-26
 ---
 
 # Resolução TSE 23.763/2026 - Política de Segurança da Informação (PSI) Nacional

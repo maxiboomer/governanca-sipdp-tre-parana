@@ -7,6 +7,8 @@ escopo: contextual
 status: não-confirmada
 status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
 url: "https://apps.tre-pr.jus.br/files/legislacaocompilada/os/2009/os042009dg.html"
+created: 2026-08-26
+updated: 2026-08-26
 ---
 
 # ORDEM DE SERVIÇO-DG Nº 04/2009

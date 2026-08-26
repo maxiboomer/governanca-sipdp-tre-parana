@@ -7,6 +7,8 @@ escopo: contextual
 status: não-confirmada
 status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
 url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2026/portaria-ndeg-132-de-18-de-marco-de-2026"
+created: 2026-08-26
+updated: 2026-08-26
 ---
 
 # PORTARIA N° 132, DE 18 DE MARÇO DE 2026. — Tribunal Regional Eleitoral do Paraná

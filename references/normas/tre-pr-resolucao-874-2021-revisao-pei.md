@@ -7,6 +7,8 @@ escopo: contextual
 status: não-confirmada
 status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
 url: "https://www.tre-pr.jus.br/legislacao/compilada/resolucoes-tre-pr/2021/resolucao-no-874-de-24-de-junho-de-2021"
+created: 2026-08-26
+updated: 2026-08-26
 ---
 
 # TRE-Pr Resolução 874/2021 - Revisão Planejamento Estratégico 2021-2026

@@ -3,6 +3,11 @@ title: "PORTARIA Nº 302, DE 29 DE OUTUBRO DE 2025. — PGCN (TRE-PR)"
 type: fonte-normativa
 tags: [tre-pr, norma, continuidade-negocios, pgcn, vigente]
 url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-presidencia-tre-pr/2025/portaria-no-302-de-29-de-outubro-de-2025"
+created: 2026-08-26
+updated: 2026-08-26
+status: não-confirmada
+curadoria: completa
+escopo: contextual
 ---
 
 # PORTARIA 302/2025 — Política de Gestão da Continuidade de Negócios (PGCN)
@@ -25,19 +30,19 @@ Institui a PGCN no TRE-PR, alinhada à ISO 22301/22313, LGPD, ENSEC-PJ (CNJ 396/
 
 ## Relevant Entities
 
-- [cgsipdp](references/entities/cgsipdp.md)
-- [etir](references/entities/etir.md)
-- [asc](references/entities/asc.md)
+- [[entities/cgsipdp]]
+- [[entities/etir]]
+- [[entities/asc]]
 
 ## Relevant Concepts
 
-- [continuidade-negocios-tre-pr](references/concepts/continuidade-negocios-tre-pr.md)
-- [seguranca-informacao-justica-eleitoral](references/concepts/seguranca-informacao-justica-eleitoral.md)
+- [[concepts/continuidade-negocios-tre-pr]]
+- [[concepts/seguranca-informacao-justica-eleitoral]]
 
 ## Relacionamentos
 
-- [tre-pr-in-instrucao-normativa-010-de-14-de-novembro-de-2025](references/normas/tre-pr-in-instrucao-normativa-010-de-14-de-novembro-de-2025.md) — IN 010 fundamenta os serviços essenciais usados na PGCN
-- [tre-pr-resolucao-974-2026-psi-local](references/normas/tre-pr-resolucao-974-2026-psi-local.md) — PSI local vigente
+- [[normas/tre-pr-in-instrucao-normativa-010-de-14-de-novembro-de-2025]] — IN 010 fundamenta os serviços essenciais usados na PGCN
+- [[normas/tre-pr-resolucao-974-2026-psi-local]] — PSI local vigente
 
 ## Raw Source
 

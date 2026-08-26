@@ -9,6 +9,8 @@ fonte_publicacao: "https://apps.tre-pr.jus.br/files/legislacaocompilada/in/2019/
 data_publicacao: ""
 tags: [norma, curadoria, si-pdp]
 sources: [raw/tre-pr-in-dg-08-2019-vulnerabilidades.md]
+curadoria: completa
+escopo: contextual
 ---
 
 # INSTRUÇÃO NORMATIVA Nº 08/2019

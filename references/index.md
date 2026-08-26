@@ -210,7 +210,7 @@ Catalog of every page in this wiki. Updated on every ingest. See `CLAUDE.md` for
 ## Raw Sources (158)
 _153 arquivos-fonte em `raw/` — texto normativo integral._
 
-**Total de páginas wiki: 204 · Fontes em raw/: 158**
+**Total de páginas wiki: 205 · Fontes em raw/: 158**
 - [[wiki/normas/tse-portaria-463-2026-planos-conformidade]] — TSE Portaria 463/2026 — Planos de conformidade
 - [[wiki/normas/tre-pr-portaria-276-2026-altera-74-2025]] — TRE-PR Portaria 276/2026 — alterações e revogação
 - [[wiki/normas/tse-portaria-143-2026-uso-software-nuvem]] — TSE Portaria 143/2026 — uso de software em nuvem
@@ -218,3 +218,11 @@ _153 arquivos-fonte em `raw/` — texto normativo integral._
 - [[wiki/normas/tre-pr-nt-secti-norma-tecnica-005-de-05-de-agosto-de-2026]] — TRE-PR NT SECTI 005/2026
 - [[wiki/inventarios/lacunas-do-inventario]] — Lacunas do inventário normativo
 - [[wiki/concepts/continuidade-negocios-tre-pr]] — Continuidade de Negócios TRE-PR
+
+
+## Páginas adicionadas ao índice
+- [[wiki/_meta/relatorio-qualidade]] — página catalogada automaticamente
+- [[wiki/entities/agm]] — página catalogada automaticamente
+- [[wiki/entities/asc]] — página catalogada automaticamente
+- [[wiki/entities/secti]] — página catalogada automaticamente
+- [[wiki/index]] — página catalogada automaticamente

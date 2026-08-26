@@ -7,6 +7,8 @@ escopo: fora-escopo
 status: não-confirmada
 status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
 url: "https://www.tse.jus.br/legislacao/compilada/prt/2025/portaria-no-341-de-5-de-agosto-de-2025"
+created: 2026-08-26
+updated: 2026-08-26
 ---
 
 # TSE Portaria 341/2025 - Designação Juíza Auxiliar Gabinete Presidência

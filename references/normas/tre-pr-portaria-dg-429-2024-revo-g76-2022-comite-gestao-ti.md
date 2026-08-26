@@ -4,9 +4,11 @@ type: fonte-normativa
 tags: [tre-pr, portaria, comite-gestao-ti, revogacao]
 curadoria: stub
 escopo: central-si-pdp
-status: não-confirmada
-status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
+status: revogada
+status_verificacao: "Indício explícito no texto da fonte bruta; confirmação na publicação oficial ainda pendente."
 url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2024/portaria-ndeg-429-de-26-de-junho-de-2024"
+created: 2026-08-26
+updated: 2026-08-26
 ---
 
 # TRE-PR Portaria DG 429/2024 - Revoga 476-2022 e Designa Comite Gestao TI

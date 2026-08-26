@@ -7,6 +7,8 @@ escopo: central-si-pdp
 status: não-confirmada
 status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
 url: "https://www.tse.jus.br/legislacao/compilada/prt/2021/portaria-no-444-de-08-de-julho-de-2021"
+created: 2026-08-26
+updated: 2026-08-26
 ---
 
 # Portaria TSE 444/2021 - Norma de Termos e Definições da PSI

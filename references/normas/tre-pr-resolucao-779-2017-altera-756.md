@@ -7,6 +7,8 @@ escopo: contextual
 status: não-confirmada
 status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
 url: "https://www.justicaeleitoral.jus.br/arquivos/tre-pr-resolucao-779-de-11-de-setembro-de-2017"
+created: 2026-08-26
+updated: 2026-08-26
 ---
 
 # TRE-PR Resolução 779/2017 - Altera Governança (Assessor Chefe)

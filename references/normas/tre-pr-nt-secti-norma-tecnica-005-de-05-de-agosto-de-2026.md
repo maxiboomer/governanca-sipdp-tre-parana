@@ -5,6 +5,9 @@ created: 2026-08-25
 updated: 2026-08-25
 tags: [secti, norma-tecnica, linux, seguranca-cibernetica]
 sources: [raw/norma-tecnica-secti-005-2026-linux-estacoes.md]
+status: não-confirmada
+curadoria: completa
+escopo: contextual
 ---
 
 # Norma Técnica SECTI Nº 005/2026 — Linux em estações de trabalho

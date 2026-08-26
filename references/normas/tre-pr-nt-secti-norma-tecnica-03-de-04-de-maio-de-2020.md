@@ -7,6 +7,8 @@ escopo: apoio-governanca-ti
 status: não-confirmada
 status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
 url: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2020/norma-tecnica-no-03-de-04-de-maio-de-2020"
+created: 2026-08-26
+updated: 2026-08-26
 ---
 
 # NORMA TÉCNICA Nº 03, DE 04 DE MAIO DE 2020. — Tribunal Regional Eleitoral do Paraná

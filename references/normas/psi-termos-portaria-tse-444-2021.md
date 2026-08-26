@@ -4,6 +4,9 @@ type: norma
 created: 2024-01-15
 updated: 2026-08-04
 tags: [psi, glossario, tse, senha, criptografia]
+status: não-confirmada
+curadoria: completa
+escopo: contextual
 ---
 
 # Portaria TSE 444/2021 - Glossário da PSI
@@ -48,9 +51,9 @@ A Portaria TSE 444/2021 estabelece que:
 - Aplica-se a comunicações oficiais
 
 ## Relacionamentos
-- [psi-tre-pr-974-2026](references/normas/psi-tre-pr-974-2026.md) — Adaptação local
-- [lai-tre-pr-855-2020](references/normas/lai-tre-pr-855-2020.md) — Classificação
-- [seguranca-informacao-justica-eleitoral](references/concepts/seguranca-informacao-justica-eleitoral.md)
+- [[normas/psi-tre-pr-974-2026]] — Adaptação local
+- [[normas/lai-tre-pr-855-2020]] — Classificação
+- [[concepts/seguranca-informacao-justica-eleitoral]]
 
 ## Fontes
 - Portaria TSE 444/2021 (integral)

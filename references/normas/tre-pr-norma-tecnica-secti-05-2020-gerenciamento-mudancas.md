@@ -9,6 +9,8 @@ fonte_publicacao: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnica
 data_publicacao: "29/05/2020"
 tags: [norma, curadoria, si-pdp]
 sources: [raw/tre-pr-norma-tecnica-secti-05-2020-gerenciamento-mudancas.md]
+curadoria: completa
+escopo: contextual
 ---
 
 # TRE-PR Norma Tecnica SECTI 05/2020 - Gerenciamento de Mudancas

@@ -7,6 +7,8 @@ escopo: contextual
 status: não-confirmada
 status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
 url: "https://www.tse.jus.br/legislacao/compilada/res/2021/resolucao-no-23-650-de-9-de-setembro-de-2021"
+created: 2026-08-26
+updated: 2026-08-26
 ---
 
 # Resolução TSE 23.650/2021 - Política Geral de Privacidade e Proteção de Dados Pessoais
