@@ -1,219 +1,208 @@
 # Index
 
-Catálogo de todas as páginas curadas. Atualizado em 2026-08-26 (correção da camada de navegação: 965 wikilinks convertidos em links resolvíveis).
-
-**Convenção de caminhos:** todo link interno deste plugin é um caminho a partir da raiz do plugin — ex.: `references/normas/psi-tse-23763-2026.md`. Use-o literalmente ao abrir o arquivo.
-
-**Estrutura:** `references/raw/` (154 textos integrais, camada imutável) → `references/sources/` (síntese por tipo de norma) → `references/{entities,concepts,normas,inventarios}/` (195 páginas curadas).
+Catalog of every page in this wiki. Updated on every ingest. See `CLAUDE.md` for conventions.
 
 ## Entities
-- [AGM - Assessoria Técnica de Governança e Monitoramento da Segurança da Informação (TRE-PR)](references/entities/agm.md)
-- [ANPD - Autoridade Nacional de Proteção de Dados Pessoais](references/entities/anpd.md)
-- [CGSIPDP - Comitê Gestor de SI e de Proteção de Dados Pessoais do TRE-PR](references/entities/cgsipdp.md)
-- [CSI e Unidade de Segurança da Informação da PSI Nacional](references/entities/csi-unidade-si.md)
-- [Encarregado DPO](references/entities/encarregado-dpo.md)
-- [ETIR - Equipe de Tratamento e Resposta a Incidentes](references/entities/etir.md)
+- [[wiki/entities/anpd]] — ANPD - Autoridade Nacional de Proteção de Dados
+- [[wiki/entities/cgsipdp]]
+- [[wiki/entities/csi-unidade-si]] — CSI Unidade SI
+- [[wiki/entities/encarregado-dpo]] — Encarregado DPO
+- [[wiki/entities/etir]] — ETIR - Equipe de Tratamento e Resposta a Incidentes
 
 ## Concepts
-- [Implementação da Resolução CNJ 363/2021](references/concepts/implementacao-cnj-363-2021.md)
-- [Fase 1 — Diagnóstico (Gap Analysis LGPD)](references/concepts/lgpd-diagnostico-fase1.md)
-- [Framework Documental do Programa LGPD](references/concepts/lgpd-framework-documental.md)
-- [LGPD - Fundamentos](references/concepts/lgpd-fundamentos.md)
-- [IA e LGPD — Governança de Privacidade em Sistemas de Inteligência Artificial](references/concepts/lgpd-ia-governanca.md)
-- [Fase 2 — Implementação do Programa de Compliance](references/concepts/lgpd-implementacao-fase2.md)
-- [Avaliação de Maturidade nos 12 Domínios](references/concepts/lgpd-maturidade-avaliacao.md)
-- [Recursos Oficiais ANPD](references/concepts/lgpd-recursos-oficiais-anpd.md)
-- [Monitoramento de Normas Internas (SECTI / TRE-PR)](references/concepts/monitoramento-normas-secti.md)
-- [Prazos Normativos Consolidados](references/concepts/prazos-normativos-tre-pr.md)
-- [Programa de Compliance LGPD para o Setor Público](references/concepts/programa-compliance-lgpd-setor-publico.md)
-- [Segurança da Informação na Justiça Eleitoral](references/concepts/seguranca-informacao-justica-eleitoral.md)
+- [[wiki/concepts/implementacao-cnj-363-2021]] — Implementação CNJ 363/2021
+- [[wiki/concepts/lgpd-diagnostico-fase1]] — Fase 1 — Diagnóstico (Gap Analysis LGPD)
+- [[wiki/concepts/lgpd-framework-documental]] — Framework Documental do Programa LGPD
+- [[wiki/concepts/lgpd-fundamentos]] — LGPD Fundamentos
+- [[wiki/concepts/lgpd-ia-governanca]] — IA e LGPD — Governança de Privacidade em Sistemas de Inteligência Artificial
+- [[wiki/concepts/lgpd-implementacao-fase2]] — Fase 2 — Implementação do Programa de Compliance LGPD
+- [[wiki/concepts/lgpd-maturidade-avaliacao]] — Avaliação de Maturidade nos 12 Domínios (LGPD)
+- [[wiki/concepts/lgpd-recursos-oficiais-anpd]] — Recursos Oficiais ANPD
+- [[wiki/concepts/monitoramento-normas-secti]] — Monitoramento de Normas Internas (SECTI / TRE-PR)
+- [[wiki/concepts/prazos-normativos-tre-pr]] — Prazos Normativos Consolidados — TRE-PR / TSE
+- [[wiki/concepts/programa-compliance-lgpd-setor-publico]] — Programa de Compliance LGPD para o Setor Público
+- [[wiki/concepts/seguranca-informacao-justica-eleitoral]] — Segurança Informação Justiça Eleitoral
 
-## Normas (páginas curadas)
-
-- [Changelog — skill analise-normas-eleitorais](references/normas/auditoria-changelog-normas-eleitorais.md)
-- [CNJ Resolução 325/2020 — Estratégia Nacional do Poder Judiciário 2021-2026](references/normas/cnj-resolucao-325-2020.md)
-- [Resolução CNJ 363/2021](references/normas/cnj-resolucao-363-2021.md)
-- [Resolução CNJ 363/2021 - Adequação dos Tribunais à LGPD](references/normas/cnj-resolucao-363-2021-adecuacao-lgpd.md)
-- [CNJ 370/2021 - Estratégia Nacional de TIC do Poder Judiciário](references/normas/cnj-resolucao-370-2021-entic-jud.md)
-- [CNJ 396/2021 - Estratégia Nacional de Segurança Cibernética](references/normas/cnj-resolucao-396-2021-ensec-pj.md)
-- [CNJ Resolução 433/2021 — Política Nacional do Poder Judiciário para o Clima e Meio Ambiente](references/normas/cnj-resolucao-433-2021.md)
-- [CNJ Resolução 646/2025 — Protocolo de Crise Socioambiental do Poder Judiciário](references/normas/cnj-resolucao-646-2025.md)
-- [Governança e Cibersegurança no TRE-PR — Res. 932/2024 e 962/2025](references/normas/governanca-e-crises-tre-pr.md)
-- [IA-TRE-PR — Res. TRE-PR 959, de 13/10/2025](references/normas/ia-tre-pr-959-2025.md)
-- [Instrução Normativa GSI/PR Nº 3/2021 - Gestão de Segurança da Informação](references/normas/in-gsi-pr-003-2021-gestao-seguranca-informacao.md)
-- [Lei 12.527/2011 - Lei de Acesso à Informação](references/normas/lai-12527-2011.md)
-- [Resolução TRE-PR 855/2020 - LAI Local](references/normas/lai-tre-pr-855-2020.md)
-- [Lei nº 12.527/2011 - Acesso à Informação](references/normas/lei-12527-2011-acesso-informacao.md)
-- [Plano Geracional de Proteção e Defesa do TSE 23.650/2021](references/normas/pgppdp-tse-23650-2021.md)
-- [Portaria TRE-PR 056/2026 — Protocolo de Crise Socioambiental](references/normas/portaria-tre-pr-056-2026.md)
-- [Portaria TRE-PR 302/2025 — Política de Gestão de Continuidade de Negócios](references/normas/portaria-tre-pr-302-2025.md)
-- [Portaria TSE 444/2021 - Glossário da PSI](references/normas/psi-termos-portaria-tse-444-2021.md)
-- [PSI do Paraná — Res. TRE-PR 974, de 15/4/2026](references/normas/psi-tre-pr-974-2026.md)
-- [TSE Resolução 23.644/2021 — Política de Segurança da Informação (REVOGADA)](references/normas/psi-tse-23644-2021-revogada.md)
-- [Estrutura Normativa da PSI — Res. TSE 23.763/2026](references/normas/psi-tse-23763-2026.md)
-- [Resolução TRE-PR 962/2025 — Comitê de Crises Cibernéticas](references/normas/resolucao-tre-pr-962-2025.md)
-- [INSTRUÇÃO NORMATIVA - DG Nº 01/2018](references/normas/tre-pr-in-dg-01-2018-compartilhamento-arquivos.md)
-- [INSTRUÇÃO NORMATIVA Nº 01/2019](references/normas/tre-pr-in-dg-01-2019-peti.md)
-- [INSTRUÇÃO NORMATIVA Nº 02/2018](references/normas/tre-pr-in-dg-02-2018-equipe-apoio.md)
-- [INSTRUÇÃO NORMATIVA Nº 02/2019](references/normas/tre-pr-in-dg-02-2019-csti.md)
-- [INSTRUÇÃO NORMATIVA Nº 03/2018](references/normas/tre-pr-in-dg-03-2018-email.md)
-- [INSTRUÇÃO NORMATIVA Nº 03/2019](references/normas/tre-pr-in-dg-03-2019-pdti.md)
-- [INSTRUÇÃO NORMATIVA Nº 04/2020](references/normas/tre-pr-in-dg-04-2020-gestores-sistemas.md)
-- [INSTRUÇÃO NORMATIVA Nº 05/2019](references/normas/tre-pr-in-dg-05-2019-etir.md)
-- [INSTRUÇÃO NORMATIVA Nº 06/2018](references/normas/tre-pr-in-dg-06-2018-servicos-essenciais.md)
-- [INSTRUÇÃO NORMATIVA Nº 07/2018](references/normas/tre-pr-in-dg-07-2018-backup.md)
-- [INSTRUÇÃO NORMATIVA Nº 08/2018](references/normas/tre-pr-in-dg-08-2018-contas-senhas.md)
-- [INSTRUÇÃO NORMATIVA Nº 08/2019](references/normas/tre-pr-in-dg-08-2019-vulnerabilidades.md)
-- [INSTRUÇÃO NORMATIVA Nº 09/2018](references/normas/tre-pr-in-dg-09-2018-acesso-internet.md)
-- [INSTRUÇÃO NORMATIVA Nº 12/2018](references/normas/tre-pr-in-dg-12-2018-acesso-servicos-internet.md)
-- [INSTRUÇÃO NORMATIVA Nº 001, DE 04 DE FEVEREIRO DE 2025. — Tribunal Regional Eleitoral do Paraná](references/normas/tre-pr-in-instrucao-normativa-001-de-04-de-fevereiro-de-2025.md)
-- [INSTRUÇÃO NORMATIVA Nº 001, DE 07 DE AGOSTO DE 2024. — Tribunal Regional Eleitoral do Paraná](references/normas/tre-pr-in-instrucao-normativa-001-de-07-de-agosto-de-2024.md)
-- [INSTRUÇÃO NORMATIVA Nº 001, DE 24 DE MARÇO DE 2023. — Tribunal Regional Eleitoral do Paraná](references/normas/tre-pr-in-instrucao-normativa-001-de-08-de-janeiro-de-2023.md)
-- [INSTRUÇÃO NORMATIVA Nº 001, DE 15 DE JUNHO DE 2022. — Tribunal Regional Eleitoral do Paraná](references/normas/tre-pr-in-instrucao-normativa-001-de-15-de-junho-de-2022.md)
-- [INSTRUÇÃO NORMATIVA Nº 002, DE 01 DE DEZEMBRO DE 2024. — Tribunal Regional Eleitoral do Paraná](references/normas/tre-pr-in-instrucao-normativa-002-de-01-de-dezembro-de-2024.md)
-- [INSTRUÇÃO NORMATIVA Nº 002, DE 02 DE JUNHO DE 2021. — Tribunal Regional Eleitoral do Paraná](references/normas/tre-pr-in-instrucao-normativa-002-de-02-de-junho-de-2021.md)
-- [INSTRUÇÃO NORMATIVA Nº 002, DE 23 DE MAIO DE 2025. — Tribunal Regional Eleitoral do Paraná](references/normas/tre-pr-in-instrucao-normativa-002-de-23-de-maio-de-2025.md)
-- [INSTRUÇÃO NORMATIVA Nº 002, DE 30 DE AGOSTO DE 2022. — Tribunal Regional Eleitoral do Paraná](references/normas/tre-pr-in-instrucao-normativa-002-de-30-de-agosto-de-2022.md)
-- [INSTRUÇÃO NORMATIVA Nº 003, DE 07 DE DEZEMBRO DE 2024. — Tribunal Regional Eleitoral do Paraná](references/normas/tre-pr-in-instrucao-normativa-003-de-07-de-dezembro-de-2024.md)
-- [INSTRUÇÃO NORMATIVA Nº 003, DE 28 DE MAIO DE 2025. — Tribunal Regional Eleitoral do Paraná](references/normas/tre-pr-in-instrucao-normativa-003-de-28-de-maio-de-2025.md)
-- [INSTRUÇÃO NORMATIVA Nº 003, DE 31 DE AGOSTO DE 2022. — Tribunal Regional Eleitoral do Paraná](references/normas/tre-pr-in-instrucao-normativa-003-de-31-de-agosto-de-2022.md)
-- [INSTRUÇÃO NORMATIVA Nº 004, DE 27 DE OUTUBRO DE 2022. — Tribunal Regional Eleitoral do Paraná](references/normas/tre-pr-in-instrucao-normativa-004-de-08-de-novembro-de-2022.md)
-- [INSTRUÇÃO NORMATIVA Nº 004, DE 28 DE MAIO DE 2025. — Tribunal Regional Eleitoral do Paraná](references/normas/tre-pr-in-instrucao-normativa-004-de-28-de-maio-de-2025.md)
-- [INSTRUÇÃO NORMATIVA Nº 005, DE 08 DE NOVEMBRO DE 2022. — Tribunal Regional Eleitoral do Paraná](references/normas/tre-pr-in-instrucao-normativa-005-de-08-de-novembro-de-2022.md)
-- [INSTRUÇÃO NORMATIVA Nº 005, DE 29 DE MAIO DE 2025. — Tribunal Regional Eleitoral do Paraná](references/normas/tre-pr-in-instrucao-normativa-005-de-29-de-maio-de-2025.md)
-- [INSTRUÇÃO NORMATIVA Nº 006, DE 13 DE AGOSTO DE 2025. — Tribunal Regional Eleitoral do Paraná](references/normas/tre-pr-in-instrucao-normativa-006-de-13-de-agosto-de-2025.md)
-- [INSTRUÇÃO NORMATIVA Nº 007, DE 02 DE OUTUBRO DE 2025. — Tribunal Regional Eleitoral do Paraná](references/normas/tre-pr-in-instrucao-normativa-007-de-02-de-outubro-de-2025.md)
-- [INSTRUÇÃO NORMATIVA Nº 008, DE 06 DE OUTUBRO DE 2025. — Tribunal Regional Eleitoral do Paraná](references/normas/tre-pr-in-instrucao-normativa-008-de-06-de-outubro-de-2025.md)
-- [INSTRUÇÃO NORMATIVA Nº 010, DE 14 DE NOVEMBRO DE 2025. — Tribunal Regional Eleitoral do Paraná](references/normas/tre-pr-in-instrucao-normativa-010-de-14-de-novembro-de-2025.md)
-- [INSTRUÇÃO NORMATIVA Nº 011, DE 05 DE DEZEMBRO DE 2025. — Tribunal Regional Eleitoral do Paraná](references/normas/tre-pr-in-instrucao-normativa-011-de-05-de-dezembro-de-2025.md)
-- [TRE-PR Norma Tecnica SECTI 001/2026 - Modelo Operacional de Nuvem](references/normas/tre-pr-norma-tecnica-secti-001-2026-modelo-nuvem.md)
-- [TRE-PR Norma Tecnica SECTI 02/2022 - Gerenciamento de Ativos e configuracao](references/normas/tre-pr-norma-tecnica-secti-02-2022-gerenciamento-ativos.md)
-- [TRE-PR Norma Tecnica SECTI 03/2022 - Planejamento Orcamentario TI](references/normas/tre-pr-norma-tecnica-secti-03-2022-planejamento-orcamentario-ti.md)
-- [TRE-PR Norma Tecnica SECTI 03/2024 - Plano de Gestao de Riscos TI](references/normas/tre-pr-norma-tecnica-secti-03-2024-plano-gestao-riscos.md)
-- [TRE-PR Norma Tecnica SECTI 04/2024 - Gerenciamento de Capacidade e Desempenho](references/normas/tre-pr-norma-tecnica-secti-04-2024-gestao-capacidade-desempenho.md)
-- [TRE-PR Norma Tecnica SECTI 05/2020 - Gerenciamento de Mudancas](references/normas/tre-pr-norma-tecnica-secti-05-2020-gerenciamento-mudancas.md)
-- [TRE-PR Norma Tecnica SECTI 06/2020 - Gerenciamento Nivel de Servico](references/normas/tre-pr-norma-tecnica-secti-06-2020-gestao-nivel-servico.md)
-- [TRE-PR Norma Tecnica SECTI 07/2020 - Direcionamento Tecnologico Sistemas](references/normas/tre-pr-norma-tecnica-secti-07-2020-direcionamento-tecnologico.md)
-- [TRE-PR Norma Tecnica SECTI 08/2020 - Gerenciamento de Continuidade de Servicos](references/normas/tre-pr-norma-tecnica-secti-08-2020-continuidade-servicos.md)
-- [NORMA TÉCNICA N° 003, DE 06 DE ABRIL DE 2026. — Tribunal Regional Eleitoral do Paraná](references/normas/tre-pr-nt-secti-norma-tecnica-003-de-06-de-abril-de-2026.md)
-- [NORMA TÉCNICA N° 004, DE 15 DE ABRIL DE 2026. — Tribunal Regional Eleitoral do Paraná](references/normas/tre-pr-nt-secti-norma-tecnica-004-de-15-de-abril-de-2026.md)
-- [NT SECTI N° 005, DE 05 DE AGOSTO DE 2026 — Linux em estações de trabalho](references/normas/tre-pr-nt-secti-norma-tecnica-005-de-05-de-agosto-de-2026.md)
-- [Portaria TSE Nº 143, DE 14 DE ABRIL DE 2026 — Uso de software e nuvem](references/normas/tse-portaria-143-2026-uso-software-nuvem.md)
-- [Portaria TRE-PR Nº 276, DE 13 DE AGOSTO DE 2026 — Altera 74/2025, revoga 135/2025](references/normas/tre-pr-portaria-276-2026-altera-74-2025.md)
-- [Portaria TSE Nº 463, DE 27 DE JULHO DE 2026 — Planos de conformidade plataformas digitais](references/normas/tse-portaria-463-2026-planos-conformidade.md)
-- [NORMA TÉCNICA Nº 001, DE 04 DE FEVEREIRO DE 2026. — Tribunal Regional Eleitoral do Paraná](references/normas/tre-pr-nt-secti-norma-tecnica-01-de-04-de-fevereiro-de-2026.md)
-- [NORMA TÉCNICA Nº 01, DE 05 DE MAIO DE 2025. — Tribunal Regional Eleitoral do Paraná](references/normas/tre-pr-nt-secti-norma-tecnica-01-de-05-de-maio-de-2025.md)
-- [NORMA TÉCNICA Nº 01, DE 08 DE ABRIL DE 2024. — Tribunal Regional Eleitoral do Paraná](references/normas/tre-pr-nt-secti-norma-tecnica-01-de-08-de-abril-de-2024.md)
-- [NORMA TÉCNICA Nº 01, DE 19 DE FEVEREIRO DE 2020. — Tribunal Regional Eleitoral do Paraná](references/normas/tre-pr-nt-secti-norma-tecnica-01-de-19-de-fevereiro-de-2020.md)
-- [NORMA TÉCNICA Nº 01, DE 27 DE JUNHO DE 2019. — Tribunal Regional Eleitoral do Paraná](references/normas/tre-pr-nt-secti-norma-tecnica-01-de-27-de-junho-de-2019.md)
-- [NORMA TÉCNICA Nº 01, DE 28 DE ABRIL DE 2022. — Tribunal Regional Eleitoral do Paraná](references/normas/tre-pr-nt-secti-norma-tecnica-01-de-28-de-abril-de-2022.md)
-- [NORMA TÉCNICA Nº 02, DE 01 DE JULHO DE 2024. — Tribunal Regional Eleitoral do Paraná](references/normas/tre-pr-nt-secti-norma-tecnica-02-de-01-de-julho-de-2024.md)
-- [NORMA TÉCNICA Nº 02, DE 12 DE SETEMBRO DE 2022. — Tribunal Regional Eleitoral do Paraná](references/normas/tre-pr-nt-secti-norma-tecnica-02-de-12-de-setembro-de-2022.md)
-- [NORMA TÉCNICA Nº 02, DE 26 DE FEVEREIRO DE 2020. — Tribunal Regional Eleitoral do Paraná](references/normas/tre-pr-nt-secti-norma-tecnica-02-de-26-de-fevereiro-de-2020.md)
-- [NORMA TÉCNICA Nº 02, DE 26 DE JULHO DE 2019. — Tribunal Regional Eleitoral do Paraná](references/normas/tre-pr-nt-secti-norma-tecnica-02-de-26-de-julho-de-2019.md)
-- [NORMA TÉCNICA Nº 02, DE 27 DE JULHO DE 2025. — Tribunal Regional Eleitoral do Paraná](references/normas/tre-pr-nt-secti-norma-tecnica-02-de-27-de-julho-de-2025.md)
-- [NORMA TÉCNICA Nº 03, DE 04 DE MAIO DE 2020. — Tribunal Regional Eleitoral do Paraná](references/normas/tre-pr-nt-secti-norma-tecnica-03-de-04-de-maio-de-2020.md)
-- [NORMA TÉCNICA Nº 03, DE 23 DE SETEMBRO DE 2022. — Tribunal Regional Eleitoral do Paraná](references/normas/tre-pr-nt-secti-norma-tecnica-03-de-23-de-setembro-de-2022.md)
-- [NORMA TÉCNICA Nº 03, DE 26 DE JULHO DE 2019. — Tribunal Regional Eleitoral do Paraná](references/normas/tre-pr-nt-secti-norma-tecnica-03-de-26-de-julho-de-2019.md)
-- [NORMA TÉCNICA Nº 03, DE 27 DE JUNHO DE 2024. — Tribunal Regional Eleitoral do Paraná](references/normas/tre-pr-nt-secti-norma-tecnica-03-de-27-de-junho-de-2024.md)
-- [NORMA TÉCNICA Nº 04, DE 04 DE MAIO DE 2020. — Tribunal Regional Eleitoral do Paraná](references/normas/tre-pr-nt-secti-norma-tecnica-04-de-04-de-maio-de-2020.md)
-- [NORMA TÉCNICA Nº 04, DE 05 DE JULHO DE 2024. — Tribunal Regional Eleitoral do Paraná](references/normas/tre-pr-nt-secti-norma-tecnica-04-de-05-de-julho-de-2024.md)
-- [NORMA TÉCNICA Nº 04, DE 17 DE OUTUBRO DE 2019. — Tribunal Regional Eleitoral do Paraná](references/normas/tre-pr-nt-secti-norma-tecnica-04-de-17-de-outubro-de-2019.md)
-- [NORMA TÉCNICA Nº 05, DE 29 DE MAIO DE 2020. — Tribunal Regional Eleitoral do Paraná](references/normas/tre-pr-nt-secti-norma-tecnica-05-de-29-de-maio-de-2020.md)
-- [NORMA TÉCNICA Nº 06, DE 10 DE JUNHO DE 2020. — Tribunal Regional Eleitoral do Paraná](references/normas/tre-pr-nt-secti-norma-tecnica-06-de-10-de-junho-de-2020.md)
-- [NORMA TÉCNICA Nº 07, DE 08 DE JULHO DE 2020. — Tribunal Regional Eleitoral do Paraná](references/normas/tre-pr-nt-secti-norma-tecnica-07-de-08-de-julho-de-2020.md)
-- [NORMA TÉCNICA Nº 08, DE 15 DE JULHO DE 2020. — Tribunal Regional Eleitoral do Paraná](references/normas/tre-pr-nt-secti-norma-tecnica-08-de-15-de-julho-de-2020.md)
-- [NORMA TÉCNICA Nº 09, DE 04 DE SETEMBRO DE 2020. — Tribunal Regional Eleitoral do Paraná](references/normas/tre-pr-nt-secti-norma-tecnica-09-de-04-de-setembro-de-2020.md)
-- [ORDEM DE SERVIÇO-DG Nº 04/2009](references/normas/tre-pr-os-04-2009-equipamentos-informatica.md)
-- [ORDEM DE SERVIÇO Nº 07/2017](references/normas/tre-pr-os-07-2017-criptografia.md)
-- [ORDEM DE SERVIÇO Nº 08/2017](references/normas/tre-pr-os-08-2017-mds.md)
-- [TRE-PR Portaria 068/2025 - Altera Portaria 356 Janus](references/normas/tre-pr-portaria-068-2025-altera-janus.md)
-- [TRE-PR Portaria 074/2025 - Prestacao Pecuniaria Penal](references/normas/tre-pr-portaria-074-2025-prestacao-pecuniaria-penal.md)
-- [TRE-Pr Portaria 135/2025 - Prestacoes Pecuniarias](references/normas/tre-pr-portaria-135-2025-prestacoes-pecuniarias.md)
-- [TRE-PR Portaria 196/2026 - Plantao Judiciario Eleicoes 2026](references/normas/tre-pr-portaria-196-2026-plantao-judiciario-eleicoes.md)
-- [TRE-Pr Portaria 247/2021 - Unidade Encarregada Dados LGPD](references/normas/tre-pr-portaria-247-2021-dpo-lgpd.md)
-- [TRE-PR Portaria 251/2024 - Dispensa e Designa Chefe de Cartorio](references/normas/tre-pr-portaria-251-2024-dispensa-designa-cartorio.md)
-- [TRE-PR Portaria 257/2025 - Estrategia Cloud Computing](references/normas/tre-pr-portaria-257-2025-estrategia-cloud-computing.md)
-- [TRE-PR R 356/2024 - Sistema Janus Automação Processual](references/normas/tre-pr-portaria-356-2024-sistema-janus.md)
-- [TRE-PR Portaria 360/2025 - Altera Portarias 74-2025 e 135-2025](references/normas/tre-pr-portaria-360-2025-altera-74-135-2025.md)
-- [TRE-PR Portaria 381/2025 - Calendario Feriados 2026](references/normas/tre-pr-portaria-381-2025-calendario-feriados-2026.md)
-- [PORTARIA N° 051, DE 17 DE FEVEREIRO DE 2025. — Tribunal Regional Eleitoral do Paraná](references/normas/tre-pr-portaria-conj-051-2025-janus.md)
-- [PORTARIA N° 068, DE 26 DE FEVEREIRO DE 2025. — Tribunal Regional Eleitoral do Paraná](references/normas/tre-pr-portaria-conj-068-2025-janus.md)
-- [PORTARIA N° 356, DE 12 DE SETEMBRO DE 2024. — Tribunal Regional Eleitoral do Paraná](references/normas/tre-pr-portaria-conj-356-2024-janus.md)
-- [PORTARIA N° 483, DE 12 DE DEZEMBRO DE 2024. — Tribunal Regional Eleitoral do Paraná](references/normas/tre-pr-portaria-conj-483-2024-altera-janus.md)
-- [PORTARIA N° 050, DE 03 DE FEVEREIRO DE 2025. — Tribunal Regional Eleitoral do Paraná](references/normas/tre-pr-portaria-dg-050-2025-extingue-enastic.md)
-- [Portaria DG TRE-PR 086/2026 - CGSIPD](references/normas/tre-pr-portaria-dg-086-2026-cgsi-pdp.md)
-- [PORTARIA Nº 116, DE 16 DE MARÇO DE 2022. — Tribunal Regional Eleitoral do Paraná](references/normas/tre-pr-portaria-dg-116-2022-revo-287-2021.md)
-- [PORTARIA N° 132, DE 18 DE MARÇO DE 2026. — Tribunal Regional Eleitoral do Paraná](references/normas/tre-pr-portaria-dg-132-2026-revo-os-08-2017-mds.md)
-- [PORTARIA N° 146, DE 08 DE MARÇO DE 2024. — Tribunal Regional Eleitoral do Paraná](references/normas/tre-pr-portaria-dg-146-2024-gt-premio-cnj.md)
-- [TRE-PR Portaria DG 171/2026 - Acordo Nivel de Servico](references/normas/tre-pr-portaria-dg-171-2026-ans.md)
-- [TRE-Pr Portaria DG 174/2026 - PECSC-JE 2026-2027](references/normas/tre-pr-portaria-dg-174-2026-pecsc-je.md)
-- [TRE-PR Portaria DG 242/2025 - Carreira Functionaria Tempo Parcial](references/normas/tre-pr-portaria-dg-242-2025-carreira-funcionaria-tempo-parcial.md)
-- [TRE-PR Portaria DG 279/2023 - Enastic Encontro Nacional TI Inovacao](references/normas/tre-pr-portaria-dg-279-2023-enastic.md)
-- [PORTARIA Nº 287, DE 06 DE DEZEMBRO DE 2021. — Tribunal Regional Eleitoral do Paraná](references/normas/tre-pr-portaria-dg-287-2021-comite-gestao-ti.md)
-- [TRE-PR Portaria DG 294/2026 - Proroga Teletrabalho servidor](references/normas/tre-pr-portaria-dg-294-2026-proroga-teletrabalho.md)
-- [TRE-PR Portaria DG 304/2026 - Revoca 631/2024 e Designa Tecnica](references/normas/tre-pr-portaria-dg-304-2026-revo-631-2024.md)
-- [TRE-Pr Portaria DG 341/2026 - Trabalho Híbrido](references/normas/tre-pr-portaria-dg-341-2026-trabalho-hibrido.md)
-- [TRE-PR Portaria DG 365/2026 - Proroga Teletrabalho Servidora](references/normas/tre-pr-portaria-dg-365-2026-proroga-teletrabalho-serv.md)
-- [TRE-PR Portaria DG 388/2026 - Autoriza Trabalho Hibrido Servidora](references/normas/tre-pr-portaria-dg-388-2026-trabalho-hibrido.md)
-- [PORTARIA Nº 31/2016](references/normas/tre-pr-portaria-dg-425-2018-institui-ceti.md)
-- [TRE-PR Portaria DG 429/2024 - Revoga 476-2022 e Designa Comite Gestao TI](references/normas/tre-pr-portaria-dg-429-2024-revo-g76-2022-comite-gestao-ti.md)
-- [TRE-PR Portaria DG 476/2022 - Revoca 116-2022 e Reatua Comite Gestao TI](references/normas/tre-pr-portaria-dg-476-2022-revo-116-2022-comite-gestao-ti.md)
-- [TRE-PR Portaria DG 486/2024 - Gestao Contratos TI](references/normas/tre-pr-portaria-dg-486-2024-gestao-contratos-ti.md)
-- [PORTARIA Nº 500, DE 14 DE OUTUBRO DE 2022. — Tribunal Regional Eleitoral do Paraná](references/normas/tre-pr-portaria-dg-500-2022-ceti-alteracao.md)
-- [TRE-PR Portaria DG 502/2022 - Comite Executivo de Tecnologia](references/normas/tre-pr-portaria-dg-502-2022-comite-executivo-tecnologia.md)
-- [PORTARIA Nº 575, DE 12 DE DEZEMBRO DE 2025. — Tribunal Regional Eleitoral do Paraná](references/normas/tre-pr-portaria-dg-575-2025-etir.md)
-- [PORTARIA Nº 580, DE 18 DE DEZEMBRO DE 2025. — Tribunal Regional Eleitoral do Paraná](references/normas/tre-pr-portaria-dg-580-2025-revo-463-2025.md)
-- [TRE-PR Portaria DG 593/2024 - Revoca 429-2024 e Reatua Comite Gestao TI](references/normas/tre-pr-portaria-dg-593-2024-revo-429-reatua-comite-gestao-ti.md)
-- [TRE-PR Portaria DG 631/2024 - Revoca 253-2024 e Substitui Analista Tecnica](references/normas/tre-pr-portaria-dg-631-2024-revo-253-2024.md)
-- [PORTARIA N° 103, DE 28 DE MARÇO DE 2025. — Tribunal Regional Eleitoral do Paraná](references/normas/tre-pr-portaria-presid-103-2025-pdti-2025-2026.md)
-- [PORTARIA N° 133, DE 15 DE MARÇO DE 2023. — Tribunal Regional Eleitoral do Paraná](references/normas/tre-pr-portaria-presid-133-2023-pac-2023.md)
-- [PORTARIA Nº 204, DE 17 DE MAIO DE 2022. — Tribunal Regional Eleitoral do Paraná](references/normas/tre-pr-portaria-presid-204-2022-plano-transformacao-digital.md)
-- [PORTARIA Nº 302, DE 29 DE OUTUBRO DE 2025. — Tribunal Regional Eleitoral do Paraná](references/normas/tre-pr-portaria-presid-302-2025-pgcn.md)
-- [TRE-PR Resolução 971/2026 - Regulamento da Secretaria (vigente, revoga 903/2022)](references/normas/tre-pr-resolucao-971-2026-regulamento-secretaria.md)
-- [PORTARIA N° 341, DE 16 DE AGOSTO DE 2023. — Tribunal Regional Eleitoral do Paraná](references/normas/tre-pr-portaria-presid-341-2023-pdti-2023-2024.md)
-- [Portaria TRE-PR 350/2021 - Plano Diretor TI 2021-2022](references/normas/tre-pr-portaria-presid-350-2021-pdti-2021-2022.md)
-- [RESOLUÇÃO Nº 735/2016](references/normas/tre-pr-resolucao-735-2016-peti-2016-2020.md)
-- [TRE-PR Resolução 756/2017 - Sistema de Governança da Justiça Eleitoral](references/normas/tre-pr-resolucao-756-2017-governanca-je.md)
-- [TRE-PR Resolução 779/2017 - Altera Governança (Assessor Chefe)](references/normas/tre-pr-resolucao-779-2017-altera-756.md)
-- [RESOLUÇÃO Nº 815/2018](references/normas/tre-pr-resolucao-815-2018-gestao-contratacoes.md)
-- [TRE-Pr Resolução 855/2020 - Acesso à Informação](references/normas/tre-pr-resolucao-855-2020-acesso-informacao.md)
-- [TRE-Pr Resolução 874/2021 - Revisão Planejamento Estratégico 2021-2026](references/normas/tre-pr-resolucao-874-2021-revisao-pei.md)
-- [TRE-Pr Resolução 882/2021 - Altera Recuo Judicial](references/normas/tre-pr-resolucao-882-2021-altera-844.md)
-- [TRE-Pr Resolução 892/2022 - Política de Acessibilidade e Inclusão](references/normas/tre-pr-resolucao-892-2022-acessibilidade-inclusao.md)
-- [TRE-Pr Resolução 893/2022 - Comissão de Auditoria de Urnas Eletrônicas](references/normas/tre-pr-resolucao-893-2022-auditoria-urnas.md)
-- [TRE-Pr Resolução 906/2022 - Altera Recuo Judicial](references/normas/tre-pr-resolucao-906-2022-altera-844.md)
-- [TRE-Pr Resolução 932/2024 - Sistema de Governança da Justiça Eleitoral](references/normas/tre-pr-resolucao-932-2024-sistema-governo.md)
-- [Resolução TRE-PR 934/2024 - Comissão de Auditoria de Urnas Eletrônicas](references/normas/tre-pr-resolucao-934-2024-auditoria-urnas.md)
-- [TRE-PR Resolução 959/2025 - Inteligencia Artificial](references/normas/tre-pr-resolucao-959-2025-inteligencia-artificial.md)
-- [Resolução TRE-PR 962/2025 - Comitê de Crises Cibernéticas](references/normas/tre-pr-resolucao-962-2025-comite-crise-cibernetica.md)
-- [TRE-Pr Resolução 974/2026 - Política de Segurança da Informação (PSI) Local](references/normas/tre-pr-resolucao-974-2026-psi-local.md)
-- [TRE-Pr Resolução 980/2026 - Altera CGERI e Governança](references/normas/tre-pr-resolucao-980-2026-altera-cgeri.md)
-- [TRE-Pr Resolução 982/2026 - Reestruturação do Tribunal](references/normas/tre-pr-resolucao-982-2026-reestruturacao.md)
-- [Portaria TSE 1.013/2018 - Política de Preservação Digital da Justiça Eleitoral](references/normas/tse-portaria-1013-2018-pdi.md)
-- [TSE Portaria 302/2025 - Substituição Assessor-Chefe](references/normas/tse-portaria-302-2025-substituicao-assessor-chefe.md)
-- [TSE Portaria 341/2025 - Designação Juíza Auxiliar Gabinete Presidência](references/normas/tse-portaria-341-2025-juiza-auxiliar-gabinete.md)
-- [Portaria TSE 444/2021 - Norma de Termos e Definições da PSI](references/normas/tse-portaria-444-2021-norma-termos-psi.md)
-- [Resolução TSE 23.435/2015 - Regulamenta Acesso à Informação](references/normas/tse-resolucao-23-435-2015-acesso-informacao.md)
-- [Resolução TSE 23.501/2016 - Política de Segurança da Informação](references/normas/tse-resolucao-23-501-2016-psi-anterior.md)
-- [Resolução TSE 23.644/2021 - Política de Segurança da Informação (PSI) Antiga](references/normas/tse-resolucao-23-644-2021-psi-antiga.md)
-- [Resolução TSE 23.650/2021 - Política Geral de Privacidade e Proteção de Dados Pessoais](references/normas/tse-resolucao-23-650-2021-pgppdp.md)
-- [Resolução TSE 23.763/2026 - Política de Segurança da Informação (PSI) Nacional](references/normas/tse-resolucao-23-763-2026-psi-nacional.md)
+## Normas
+- [[wiki/normas/auditoria-changelog-normas-eleitorais]] — Auditoria — Changelog da análise de normas eleitorais
+- [[wiki/normas/cnj-resolucao-325-2020]] — CNJ Resolução 325/2020 — Estratégia Nacional do Poder Judiciário 2021-2026
+- [[wiki/normas/cnj-resolucao-363-2021]] — CNJ Resolução 363/2021
+- [[wiki/normas/cnj-resolucao-363-2021-adecuacao-lgpd]] — Resolução CNJ 363/2021 - Adequação dos Tribunais à LGPD
+- [[wiki/normas/cnj-resolucao-370-2021-entic-jud]] — CNJ 370/2021 - Estratégia Nacional de TIC do Poder Judiciário
+- [[wiki/normas/cnj-resolucao-396-2021-ensec-pj]] — CNJ 396/2021 - Estratégia Nacional de Segurança Cibernética
+- [[wiki/normas/cnj-resolucao-433-2021]] — CNJ Resolução 433/2021 — Política Nacional do Poder Judiciário para o Clima e Meio Ambiente
+- [[wiki/normas/cnj-resolucao-646-2025]] — CNJ Resolução 646/2025 — Protocolo de Crise Socioambiental do Poder Judiciário
+- [[wiki/normas/governanca-e-crises-tre-pr]] — Governança e Crises Cibernéticas — Res. TRE-PR 932/2024 e 962/2025
+- [[wiki/normas/ia-tre-pr-959-2025]] — IA-TRE-PR — Res. TRE-PR 959/2025
+- [[wiki/normas/in-gsi-pr-003-2021-gestao-seguranca-informacao]] — Instrução Normativa GSI/PR Nº 3/2021 - Gestão de Segurança da Informação
+- [[wiki/normas/lai-12527-2011]] — LAI 12527/2011
+- [[wiki/normas/lai-tre-pr-855-2020]] — LAI TRE-PR 855/2020
+- [[wiki/normas/lei-12527-2011-acesso-informacao]] — Lei nº 12.527/2011 - Acesso à Informação
+- [[wiki/normas/pgppdp-tse-23650-2021]] — PGPPDP TSE 23650/2021
+- [[wiki/normas/portaria-tre-pr-056-2026]] — Portaria TRE-PR 056/2026 — Protocolo de Crise Socioambiental
+- [[wiki/normas/portaria-tre-pr-302-2025]] — Portaria TRE-PR 302/2025 — Política de Gestão de Continuidade de Negócios
+- [[wiki/normas/psi-termos-portaria-tse-444-2021]] — Portaria TSE 444/2021
+- [[wiki/normas/psi-tre-pr-974-2026]] — PSI do Paraná — Res. TRE-PR 974/2026
+- [[wiki/normas/psi-tse-23644-2021-revogada]] — TSE Resolução 23.644/2021 — Política de Segurança da Informação (REVOGADA)
+- [[wiki/normas/psi-tse-23763-2026]] — PSI-JE — Res. TSE 23.763/2026
+- [[wiki/normas/resolucao-tre-pr-962-2025]] — Resolução TRE-PR 962/2025 — Comitê de Crises Cibernéticas
+- [[wiki/normas/tre-pr-in-dg-01-2018-compartilhamento-arquivos]] — INSTRUÇÃO NORMATIVA - DG Nº 01/2018
+- [[wiki/normas/tre-pr-in-dg-01-2019-peti]] — INSTRUÇÃO NORMATIVA Nº 01/2019
+- [[wiki/normas/tre-pr-in-dg-02-2018-equipe-apoio]] — INSTRUÇÃO NORMATIVA Nº 02/2018
+- [[wiki/normas/tre-pr-in-dg-02-2019-csti]] — INSTRUÇÃO NORMATIVA Nº 02/2019
+- [[wiki/normas/tre-pr-in-dg-03-2018-email]] — INSTRUÇÃO NORMATIVA Nº 03/2018
+- [[wiki/normas/tre-pr-in-dg-03-2019-pdti]] — INSTRUÇÃO NORMATIVA Nº 03/2019
+- [[wiki/normas/tre-pr-in-dg-04-2020-gestores-sistemas]] — INSTRUÇÃO NORMATIVA Nº 04/2020
+- [[wiki/normas/tre-pr-in-dg-05-2019-etir]] — INSTRUÇÃO NORMATIVA Nº 05/2019
+- [[wiki/normas/tre-pr-in-dg-06-2018-servicos-essenciais]] — INSTRUÇÃO NORMATIVA Nº 06/2018
+- [[wiki/normas/tre-pr-in-dg-07-2018-backup]] — INSTRUÇÃO NORMATIVA Nº 07/2018
+- [[wiki/normas/tre-pr-in-dg-08-2018-contas-senhas]] — INSTRUÇÃO NORMATIVA Nº 08/2018
+- [[wiki/normas/tre-pr-in-dg-08-2019-vulnerabilidades]] — INSTRUÇÃO NORMATIVA Nº 08/2019
+- [[wiki/normas/tre-pr-in-dg-09-2018-acesso-internet]] — INSTRUÇÃO NORMATIVA Nº 09/2018
+- [[wiki/normas/tre-pr-in-dg-12-2018-acesso-servicos-internet]] — INSTRUÇÃO NORMATIVA Nº 12/2018
+- [[wiki/normas/tre-pr-in-instrucao-normativa-001-de-04-de-fevereiro-de-2025]] — INSTRUÇÃO NORMATIVA Nº 001, DE 04 DE FEVEREIRO DE 2025. — Tribunal Regional Eleitoral do Paraná
+- [[wiki/normas/tre-pr-in-instrucao-normativa-001-de-07-de-agosto-de-2024]] — INSTRUÇÃO NORMATIVA Nº 001, DE 07 DE AGOSTO DE 2024. — Tribunal Regional Eleitoral do Paraná
+- [[wiki/normas/tre-pr-in-instrucao-normativa-001-de-08-de-janeiro-de-2023]] — INSTRUÇÃO NORMATIVA Nº 001, DE 24 DE MARÇO DE 2023. — Tribunal Regional Eleitoral do Paraná
+- [[wiki/normas/tre-pr-in-instrucao-normativa-001-de-15-de-junho-de-2022]] — INSTRUÇÃO NORMATIVA Nº 001, DE 15 DE JUNHO DE 2022. — Tribunal Regional Eleitoral do Paraná
+- [[wiki/normas/tre-pr-in-instrucao-normativa-002-de-01-de-dezembro-de-2024]] — INSTRUÇÃO NORMATIVA Nº 002, DE 01 DE DEZEMBRO DE 2024. — Tribunal Regional Eleitoral do Paraná
+- [[wiki/normas/tre-pr-in-instrucao-normativa-002-de-02-de-junho-de-2021]] — INSTRUÇÃO NORMATIVA Nº 002, DE 02 DE JUNHO DE 2021. — Tribunal Regional Eleitoral do Paraná
+- [[wiki/normas/tre-pr-in-instrucao-normativa-002-de-23-de-maio-de-2025]] — INSTRUÇÃO NORMATIVA Nº 002, DE 23 DE MAIO DE 2025. — Tribunal Regional Eleitoral do Paraná
+- [[wiki/normas/tre-pr-in-instrucao-normativa-002-de-30-de-agosto-de-2022]] — INSTRUÇÃO NORMATIVA Nº 002, DE 30 DE AGOSTO DE 2022. — Tribunal Regional Eleitoral do Paraná
+- [[wiki/normas/tre-pr-in-instrucao-normativa-003-de-07-de-dezembro-de-2024]] — INSTRUÇÃO NORMATIVA Nº 003, DE 07 DE DEZEMBRO DE 2024. — Tribunal Regional Eleitoral do Paraná
+- [[wiki/normas/tre-pr-in-instrucao-normativa-003-de-28-de-maio-de-2025]] — INSTRUÇÃO NORMATIVA Nº 003, DE 28 DE MAIO DE 2025. — Tribunal Regional Eleitoral do Paraná
+- [[wiki/normas/tre-pr-in-instrucao-normativa-003-de-31-de-agosto-de-2022]] — INSTRUÇÃO NORMATIVA Nº 003, DE 31 DE AGOSTO DE 2022. — Tribunal Regional Eleitoral do Paraná
+- [[wiki/normas/tre-pr-in-instrucao-normativa-004-de-08-de-novembro-de-2022]] — INSTRUÇÃO NORMATIVA Nº 004, DE 27 DE OUTUBRO DE 2022. — Tribunal Regional Eleitoral do Paraná
+- [[wiki/normas/tre-pr-in-instrucao-normativa-004-de-28-de-maio-de-2025]] — INSTRUÇÃO NORMATIVA Nº 004, DE 28 DE MAIO DE 2025. — Tribunal Regional Eleitoral do Paraná
+- [[wiki/normas/tre-pr-in-instrucao-normativa-005-de-08-de-novembro-de-2022]] — INSTRUÇÃO NORMATIVA Nº 005, DE 08 DE NOVEMBRO DE 2022. — Tribunal Regional Eleitoral do Paraná
+- [[wiki/normas/tre-pr-in-instrucao-normativa-005-de-29-de-maio-de-2025]] — INSTRUÇÃO NORMATIVA Nº 005, DE 29 DE MAIO DE 2025. — Tribunal Regional Eleitoral do Paraná
+- [[wiki/normas/tre-pr-in-instrucao-normativa-006-de-13-de-agosto-de-2025]] — INSTRUÇÃO NORMATIVA Nº 006, DE 13 DE AGOSTO DE 2025. — Tribunal Regional Eleitoral do Paraná
+- [[wiki/normas/tre-pr-in-instrucao-normativa-007-de-02-de-outubro-de-2025]] — INSTRUÇÃO NORMATIVA Nº 007, DE 02 DE OUTUBRO DE 2025. — Tribunal Regional Eleitoral do Paraná
+- [[wiki/normas/tre-pr-in-instrucao-normativa-008-de-06-de-outubro-de-2025]] — INSTRUÇÃO NORMATIVA Nº 008, DE 06 DE OUTUBRO DE 2025. — Tribunal Regional Eleitoral do Paraná
+- [[wiki/normas/tre-pr-in-instrucao-normativa-010-de-14-de-novembro-de-2025]] — INSTRUÇÃO NORMATIVA Nº 010, DE 14 DE NOVEMBRO DE 2025. — Tribunal Regional Eleitoral do Paraná
+- [[wiki/normas/tre-pr-in-instrucao-normativa-011-de-05-de-dezembro-de-2025]] — INSTRUÇÃO NORMATIVA Nº 011, DE 05 DE DEZEMBRO DE 2025. — Tribunal Regional Eleitoral do Paraná
+- [[wiki/normas/tre-pr-norma-tecnica-secti-001-2026-modelo-nuvem]] — TRE-PR Norma Tecnica SECTI 001/2026 - Modelo Operacional de Nuvem
+- [[wiki/normas/tre-pr-norma-tecnica-secti-02-2022-gerenciamento-ativos]] — TRE-PR Norma Tecnica SECTI 02/2022 - Gerenciamento de Ativos e configuracao
+- [[wiki/normas/tre-pr-norma-tecnica-secti-03-2022-planejamento-orcamentario-ti]] — TRE-PR Norma Tecnica SECTI 03/2022 - Planejamento Orcamentario TI
+- [[wiki/normas/tre-pr-norma-tecnica-secti-03-2024-plano-gestao-riscos]] — TRE-PR Norma Tecnica SECTI 03/2024 - Plano de Gestao de Riscos TI
+- [[wiki/normas/tre-pr-norma-tecnica-secti-04-2024-gestao-capacidade-desempenho]] — TRE-PR Norma Tecnica SECTI 04/2024 - Gerenciamento de Capacidade e Desempenho
+- [[wiki/normas/tre-pr-norma-tecnica-secti-05-2020-gerenciamento-mudancas]] — TRE-PR Norma Tecnica SECTI 05/2020 - Gerenciamento de Mudancas
+- [[wiki/normas/tre-pr-norma-tecnica-secti-06-2020-gestao-nivel-servico]] — TRE-PR Norma Tecnica SECTI 06/2020 - Gerenciamento Nivel de Servico
+- [[wiki/normas/tre-pr-norma-tecnica-secti-07-2020-direcionamento-tecnologico]] — TRE-PR Norma Tecnica SECTI 07/2020 - Direcionamento Tecnologico Sistemas
+- [[wiki/normas/tre-pr-norma-tecnica-secti-08-2020-continuidade-servicos]] — TRE-PR Norma Tecnica SECTI 08/2020 - Gerenciamento de Continuidade de Servicos
+- [[wiki/normas/tre-pr-nt-secti-norma-tecnica-003-de-06-de-abril-de-2026]] — NORMA TÉCNICA N° 003, DE 06 DE ABRIL DE 2026. — Tribunal Regional Eleitoral do Paraná
+- [[wiki/normas/tre-pr-nt-secti-norma-tecnica-004-de-15-de-abril-de-2026]] — NORMA TÉCNICA N° 004, DE 15 DE ABRIL DE 2026. — Tribunal Regional Eleitoral do Paraná
+- [[wiki/normas/tre-pr-nt-secti-norma-tecnica-01-de-04-de-fevereiro-de-2026]] — NORMA TÉCNICA Nº 001, DE 04 DE FEVEREIRO DE 2026. — Tribunal Regional Eleitoral do Paraná
+- [[wiki/normas/tre-pr-nt-secti-norma-tecnica-01-de-05-de-maio-de-2025]] — NORMA TÉCNICA Nº 01, DE 05 DE MAIO DE 2025. — Tribunal Regional Eleitoral do Paraná
+- [[wiki/normas/tre-pr-nt-secti-norma-tecnica-01-de-08-de-abril-de-2024]] — NORMA TÉCNICA Nº 01, DE 08 DE ABRIL DE 2024. — Tribunal Regional Eleitoral do Paraná
+- [[wiki/normas/tre-pr-nt-secti-norma-tecnica-01-de-19-de-fevereiro-de-2020]] — NORMA TÉCNICA Nº 01, DE 19 DE FEVEREIRO DE 2020. — Tribunal Regional Eleitoral do Paraná
+- [[wiki/normas/tre-pr-nt-secti-norma-tecnica-01-de-27-de-junho-de-2019]] — NORMA TÉCNICA Nº 01, DE 27 DE JUNHO DE 2019. — Tribunal Regional Eleitoral do Paraná
+- [[wiki/normas/tre-pr-nt-secti-norma-tecnica-01-de-28-de-abril-de-2022]] — NORMA TÉCNICA Nº 01, DE 28 DE ABRIL DE 2022. — Tribunal Regional Eleitoral do Paraná
+- [[wiki/normas/tre-pr-nt-secti-norma-tecnica-02-de-01-de-julho-de-2024]] — NORMA TÉCNICA Nº 02, DE 01 DE JULHO DE 2024. — Tribunal Regional Eleitoral do Paraná
+- [[wiki/normas/tre-pr-nt-secti-norma-tecnica-02-de-12-de-setembro-de-2022]] — NORMA TÉCNICA Nº 02, DE 12 DE SETEMBRO DE 2022. — Tribunal Regional Eleitoral do Paraná
+- [[wiki/normas/tre-pr-nt-secti-norma-tecnica-02-de-26-de-fevereiro-de-2020]] — NORMA TÉCNICA Nº 02, DE 26 DE FEVEREIRO DE 2020. — Tribunal Regional Eleitoral do Paraná
+- [[wiki/normas/tre-pr-nt-secti-norma-tecnica-02-de-26-de-julho-de-2019]] — NORMA TÉCNICA Nº 02, DE 26 DE JULHO DE 2019. — Tribunal Regional Eleitoral do Paraná
+- [[wiki/normas/tre-pr-nt-secti-norma-tecnica-02-de-27-de-julho-de-2025]] — NORMA TÉCNICA Nº 02, DE 27 DE JULHO DE 2025. — Tribunal Regional Eleitoral do Paraná
+- [[wiki/normas/tre-pr-nt-secti-norma-tecnica-03-de-04-de-maio-de-2020]] — NORMA TÉCNICA Nº 03, DE 04 DE MAIO DE 2020. — Tribunal Regional Eleitoral do Paraná
+- [[wiki/normas/tre-pr-nt-secti-norma-tecnica-03-de-23-de-setembro-de-2022]] — NORMA TÉCNICA Nº 03, DE 23 DE SETEMBRO DE 2022. — Tribunal Regional Eleitoral do Paraná
+- [[wiki/normas/tre-pr-nt-secti-norma-tecnica-03-de-26-de-julho-de-2019]] — NORMA TÉCNICA Nº 03, DE 26 DE JULHO DE 2019. — Tribunal Regional Eleitoral do Paraná
+- [[wiki/normas/tre-pr-nt-secti-norma-tecnica-03-de-27-de-junho-de-2024]] — NORMA TÉCNICA Nº 03, DE 27 DE JUNHO DE 2024. — Tribunal Regional Eleitoral do Paraná
+- [[wiki/normas/tre-pr-nt-secti-norma-tecnica-04-de-04-de-maio-de-2020]] — NORMA TÉCNICA Nº 04, DE 04 DE MAIO DE 2020. — Tribunal Regional Eleitoral do Paraná
+- [[wiki/normas/tre-pr-nt-secti-norma-tecnica-04-de-05-de-julho-de-2024]] — NORMA TÉCNICA Nº 04, DE 05 DE JULHO DE 2024. — Tribunal Regional Eleitoral do Paraná
+- [[wiki/normas/tre-pr-nt-secti-norma-tecnica-04-de-17-de-outubro-de-2019]] — NORMA TÉCNICA Nº 04, DE 17 DE OUTUBRO DE 2019. — Tribunal Regional Eleitoral do Paraná
+- [[wiki/normas/tre-pr-nt-secti-norma-tecnica-05-de-29-de-maio-de-2020]] — NORMA TÉCNICA Nº 05, DE 29 DE MAIO DE 2020. — Tribunal Regional Eleitoral do Paraná
+- [[wiki/normas/tre-pr-nt-secti-norma-tecnica-06-de-10-de-junho-de-2020]] — NORMA TÉCNICA Nº 06, DE 10 DE JUNHO DE 2020. — Tribunal Regional Eleitoral do Paraná
+- [[wiki/normas/tre-pr-nt-secti-norma-tecnica-07-de-08-de-julho-de-2020]] — NORMA TÉCNICA Nº 07, DE 08 DE JULHO DE 2020. — Tribunal Regional Eleitoral do Paraná
+- [[wiki/normas/tre-pr-nt-secti-norma-tecnica-08-de-15-de-julho-de-2020]] — NORMA TÉCNICA Nº 08, DE 15 DE JULHO DE 2020. — Tribunal Regional Eleitoral do Paraná
+- [[wiki/normas/tre-pr-nt-secti-norma-tecnica-09-de-04-de-setembro-de-2020]] — NORMA TÉCNICA Nº 09, DE 04 DE SETEMBRO DE 2020. — Tribunal Regional Eleitoral do Paraná
+- [[wiki/normas/tre-pr-os-04-2009-equipamentos-informatica]] — ORDEM DE SERVIÇO-DG Nº 04/2009
+- [[wiki/normas/tre-pr-os-07-2017-criptografia]] — ORDEM DE SERVIÇO Nº 07/2017
+- [[wiki/normas/tre-pr-os-08-2017-mds]] — ORDEM DE SERVIÇO Nº 08/2017
+- [[wiki/normas/tre-pr-portaria-068-2025-altera-janus]] — TRE-PR Portaria 068/2025 - Altera Portaria 356 Janus
+- [[wiki/normas/tre-pr-portaria-074-2025-prestacao-pecuniaria-penal]] — TRE-PR Portaria 074/2025 - Prestacao Pecuniaria Penal
+- [[wiki/normas/tre-pr-portaria-135-2025-prestacoes-pecuniarias]] — TRE-Pr Portaria 135/2025 - Prestacoes Pecuniarias
+- [[wiki/normas/tre-pr-portaria-196-2026-plantao-judiciario-eleicoes]] — TRE-PR Portaria 196/2026 - Plantao Judiciario Eleicoes 2026
+- [[wiki/normas/tre-pr-portaria-247-2021-dpo-lgpd]] — TRE-Pr Portaria 247/2021 - Unidade Encarregada Dados LGPD
+- [[wiki/normas/tre-pr-portaria-251-2024-dispensa-designa-cartorio]] — TRE-PR Portaria 251/2024 - Dispensa e Designa Chefe de Cartorio
+- [[wiki/normas/tre-pr-portaria-257-2025-estrategia-cloud-computing]] — TRE-PR Portaria 257/2025 - Estrategia Cloud Computing
+- [[wiki/normas/tre-pr-portaria-356-2024-sistema-janus]] — TRE-PR R 356/2024 - Sistema Janus Automação Processual
+- [[wiki/normas/tre-pr-portaria-360-2025-altera-74-135-2025]] — TRE-PR Portaria 360/2025 - Altera Portarias 74-2025 e 135-2025
+- [[wiki/normas/tre-pr-portaria-381-2025-calendario-feriados-2026]] — TRE-PR Portaria 381/2025 - Calendario Feriados 2026
+- [[wiki/normas/tre-pr-portaria-conj-051-2025-janus]] — PORTARIA N° 051, DE 17 DE FEVEREIRO DE 2025. — Tribunal Regional Eleitoral do Paraná
+- [[wiki/normas/tre-pr-portaria-conj-068-2025-janus]] — PORTARIA N° 068, DE 26 DE FEVEREIRO DE 2025. — Tribunal Regional Eleitoral do Paraná
+- [[wiki/normas/tre-pr-portaria-conj-356-2024-janus]] — PORTARIA N° 356, DE 12 DE SETEMBRO DE 2024. — Tribunal Regional Eleitoral do Paraná
+- [[wiki/normas/tre-pr-portaria-conj-483-2024-altera-janus]] — PORTARIA N° 483, DE 12 DE DEZEMBRO DE 2024. — Tribunal Regional Eleitoral do Paraná
+- [[wiki/normas/tre-pr-portaria-dg-050-2025-extingue-enastic]] — PORTARIA N° 050, DE 03 DE FEVEREIRO DE 2025. — Tribunal Regional Eleitoral do Paraná
+- [[wiki/normas/tre-pr-portaria-dg-086-2026-cgsi-pdp]] — Portaria DG TRE-PR 086/2026 - CGSIPD
+- [[wiki/normas/tre-pr-portaria-dg-116-2022-revo-287-2021]] — PORTARIA Nº 116, DE 16 DE MARÇO DE 2022. — Tribunal Regional Eleitoral do Paraná
+- [[wiki/normas/tre-pr-portaria-dg-132-2026-revo-os-08-2017-mds]] — PORTARIA N° 132, DE 18 DE MARÇO DE 2026. — Tribunal Regional Eleitoral do Paraná
+- [[wiki/normas/tre-pr-portaria-dg-146-2024-gt-premio-cnj]] — PORTARIA N° 146, DE 08 DE MARÇO DE 2024. — Tribunal Regional Eleitoral do Paraná
+- [[wiki/normas/tre-pr-portaria-dg-171-2026-ans]] — TRE-PR Portaria DG 171/2026 - Acordo Nivel de Servico
+- [[wiki/normas/tre-pr-portaria-dg-174-2026-pecsc-je]] — TRE-Pr Portaria DG 174/2026 - PECSC-JE 2026-2027
+- [[wiki/normas/tre-pr-portaria-dg-242-2025-carreira-funcionaria-tempo-parcial]] — TRE-PR Portaria DG 242/2025 - Carreira Functionaria Tempo Parcial
+- [[wiki/normas/tre-pr-portaria-dg-279-2023-enastic]] — TRE-PR Portaria DG 279/2023 - Enastic Encontro Nacional TI Inovacao
+- [[wiki/normas/tre-pr-portaria-dg-287-2021-comite-gestao-ti]] — PORTARIA Nº 287, DE 06 DE DEZEMBRO DE 2021. — Tribunal Regional Eleitoral do Paraná
+- [[wiki/normas/tre-pr-portaria-dg-294-2026-proroga-teletrabalho]] — TRE-PR Portaria DG 294/2026 - Proroga Teletrabalho servidor
+- [[wiki/normas/tre-pr-portaria-dg-304-2026-revo-631-2024]] — TRE-PR Portaria DG 304/2026 - Revoca 631/2024 e Designa Tecnica
+- [[wiki/normas/tre-pr-portaria-dg-341-2026-trabalho-hibrido]] — TRE-Pr Portaria DG 341/2026 - Trabalho Híbrido
+- [[wiki/normas/tre-pr-portaria-dg-365-2026-proroga-teletrabalho-serv]] — TRE-PR Portaria DG 365/2026 - Proroga Teletrabalho Servidora
+- [[wiki/normas/tre-pr-portaria-dg-388-2026-trabalho-hibrido]] — TRE-PR Portaria DG 388/2026 - Autoriza Trabalho Hibrido Servidora
+- [[wiki/normas/tre-pr-portaria-dg-425-2018-institui-ceti]] — PORTARIA Nº 31/2016
+- [[wiki/normas/tre-pr-portaria-dg-429-2024-revo-g76-2022-comite-gestao-ti]] — TRE-PR Portaria DG 429/2024 - Revoga 476-2022 e Designa Comite Gestao TI
+- [[wiki/normas/tre-pr-portaria-dg-476-2022-revo-116-2022-comite-gestao-ti]] — TRE-PR Portaria DG 476/2022 - Revoca 116-2022 e Reatua Comite Gestao TI
+- [[wiki/normas/tre-pr-portaria-dg-486-2024-gestao-contratos-ti]] — TRE-PR Portaria DG 486/2024 - Gestao Contratos TI
+- [[wiki/normas/tre-pr-portaria-dg-500-2022-ceti-alteracao]] — PORTARIA Nº 500, DE 14 DE OUTUBRO DE 2022. — Tribunal Regional Eleitoral do Paraná
+- [[wiki/normas/tre-pr-portaria-dg-502-2022-comite-executivo-tecnologia]] — TRE-PR Portaria DG 502/2022 - Comite Executivo de Tecnologia
+- [[wiki/normas/tre-pr-portaria-dg-575-2025-etir]] — PORTARIA Nº 575, DE 12 DE DEZEMBRO DE 2025. — Tribunal Regional Eleitoral do Paraná
+- [[wiki/normas/tre-pr-portaria-dg-580-2025-revo-463-2025]] — PORTARIA Nº 580, DE 18 DE DEZEMBRO DE 2025. — Tribunal Regional Eleitoral do Paraná
+- [[wiki/normas/tre-pr-portaria-dg-593-2024-revo-429-reatua-comite-gestao-ti]] — TRE-PR Portaria DG 593/2024 - Revoca 429-2024 e Reatua Comite Gestao TI
+- [[wiki/normas/tre-pr-portaria-dg-631-2024-revo-253-2024]] — TRE-PR Portaria DG 631/2024 - Revoca 253-2024 e Substitui Analista Tecnica
+- [[wiki/normas/tre-pr-portaria-presid-103-2025-pdti-2025-2026]] — PORTARIA N° 103, DE 28 DE MARÇO DE 2025. — Tribunal Regional Eleitoral do Paraná
+- [[wiki/normas/tre-pr-portaria-presid-133-2023-pac-2023]] — PORTARIA N° 133, DE 15 DE MARÇO DE 2023. — Tribunal Regional Eleitoral do Paraná
+- [[wiki/normas/tre-pr-portaria-presid-204-2022-plano-transformacao-digital]] — PORTARIA Nº 204, DE 17 DE MAIO DE 2022. — Tribunal Regional Eleitoral do Paraná
+- [[wiki/normas/tre-pr-portaria-presid-302-2025-pgcn]] — PORTARIA Nº 302, DE 29 DE OUTUBRO DE 2025. — Tribunal Regional Eleitoral do Paraná
+- [[wiki/normas/tre-pr-portaria-presid-341-2023-pdti-2023-2024]] — PORTARIA N° 341, DE 16 DE AGOSTO DE 2023. — Tribunal Regional Eleitoral do Paraná
+- [[wiki/normas/tre-pr-portaria-presid-350-2021-pdti-2021-2022]] — Portaria TRE-PR 350/2021 - Plano Diretor TI 2021-2022
+- [[wiki/normas/tre-pr-resolucao-735-2016-peti-2016-2020]] — RESOLUÇÃO Nº 735/2016
+- [[wiki/normas/tre-pr-resolucao-756-2017-governanca-je]] — TRE-PR Resolução 756/2017 - Sistema de Governança da Justiça Eleitoral
+- [[wiki/normas/tre-pr-resolucao-779-2017-altera-756]] — TRE-PR Resolução 779/2017 - Altera Governança (Assessor Chefe)
+- [[wiki/normas/tre-pr-resolucao-815-2018-gestao-contratacoes]] — RESOLUÇÃO Nº 815/2018
+- [[wiki/normas/tre-pr-resolucao-855-2020-acesso-informacao]] — TRE-Pr Resolução 855/2020 - Acesso à Informação
+- [[wiki/normas/tre-pr-resolucao-874-2021-revisao-pei]] — TRE-Pr Resolução 874/2021 - Revisão Planejamento Estratégico 2021-2026
+- [[wiki/normas/tre-pr-resolucao-882-2021-altera-844]] — TRE-Pr Resolução 882/2021 - Altera Recuo Judicial
+- [[wiki/normas/tre-pr-resolucao-892-2022-acessibilidade-inclusao]] — TRE-Pr Resolução 892/2022 - Política de Acessibilidade e Inclusão
+- [[wiki/normas/tre-pr-resolucao-893-2022-auditoria-urnas]] — TRE-Pr Resolução 893/2022 - Comissão de Auditoria de Urnas Eletrônicas
+- [[wiki/normas/tre-pr-resolucao-906-2022-altera-844]] — TRE-Pr Resolução 906/2022 - Altera Recuo Judicial
+- [[wiki/normas/tre-pr-resolucao-932-2024-sistema-governo]] — TRE-Pr Resolução 932/2024 - Sistema de Governança da Justiça Eleitoral
+- [[wiki/normas/tre-pr-resolucao-934-2024-auditoria-urnas]] — Resolução TRE-PR 934/2024 - Comissão de Auditoria de Urnas Eletrônicas
+- [[wiki/normas/tre-pr-resolucao-959-2025-inteligencia-artificial]] — TRE-PR Resolução 959/2025 - Inteligencia Artificial
+- [[wiki/normas/tre-pr-resolucao-962-2025-comite-crise-cibernetica]] — Resolução TRE-PR 962/2025 - Comitê de Crises Cibernéticas
+- [[wiki/normas/tre-pr-resolucao-974-2026-psi-local]] — TRE-Pr Resolução 974/2026 - Política de Segurança da Informação (PSI) Local
+- [[wiki/normas/tre-pr-resolucao-980-2026-altera-cgeri]] — TRE-Pr Resolução 980/2026 - Altera CGERI e Governança
+- [[wiki/normas/tre-pr-resolucao-982-2026-reestruturacao]] — TRE-Pr Resolução 982/2026 - Reestruturação do Tribunal
+- [[wiki/normas/tse-portaria-1013-2018-pdi]] — Portaria TSE 1.013/2018 - Política de Preservação Digital da Justiça Eleitoral
+- [[wiki/normas/tse-portaria-302-2025-substituicao-assessor-chefe]] — TSE Portaria 302/2025 - Substituição Assessor-Chefe
+- [[wiki/normas/tse-portaria-341-2025-juiza-auxiliar-gabinete]] — TSE Portaria 341/2025 - Designação Juíza Auxiliar Gabinete Presidência
+- [[wiki/normas/tse-portaria-444-2021-norma-termos-psi]] — Portaria TSE 444/2021 - Norma de Termos e Definições da PSI
+- [[wiki/normas/tse-resolucao-23-435-2015-acesso-informacao]] — Resolução TSE 23.435/2015 - Regulamenta Acesso à Informação
+- [[wiki/normas/tse-resolucao-23-501-2016-psi-anterior]] — Resolução TSE 23.501/2016 - Política de Segurança da Informação
+- [[wiki/normas/tse-resolucao-23-644-2021-psi-antiga]] — Resolução TSE 23.644/2021 - Política de Segurança da Informação (PSI) Antiga
+- [[wiki/normas/tse-resolucao-23-650-2021-pgppdp]] — Resolução TSE 23.650/2021 - Política Geral de Privacidade e Proteção de Dados Pessoais
+- [[wiki/normas/tse-resolucao-23-763-2026-psi-nacional]] — Resolução TSE 23.763/2026 - Política de Segurança da Informação (PSI) Nacional
 
 ## Inventários
-- [Inventário de Normas — CNJ (referência de TIC/SI aplicáveis ao TRE-PR)](references/inventarios/normas-cnj.md)
-- [Inventário de Normas — TRE-PR / TSE (SECTI)](references/inventarios/normas-tre-pr-tse.md)
+- [[wiki/inventarios/normas-cnj]] — Inventário de Normas — CNJ (TIC/SI aplicáveis ao TRE-PR)
+- [[wiki/inventarios/normas-tre-pr-tse]] — Inventário de Normas — TRE-PR / TSE (SECTI)
 
-## Sources (síntese das coletas em `raw/`)
-- [Instruções Normativas TRE-PR](references/sources/instrucoes-normativas-tre-pr.md)
-- [Normas CNJ / Lei Federal / IN-GSI](references/sources/normas-cnj-lei-federal-in-gsi.md)
-- [Normas Técnicas SECTI](references/sources/normas-tecnicas-secti.md)
-- [Ordens de Serviço TRE-PR](references/sources/ordens-de-servi-o-tre-pr.md)
-- [Portarias TRE-PR](references/sources/portarias-tre-pr.md)
-- [Resoluções TRE-PR](references/sources/resolu-es-tre-pr.md)
-- [Resoluções TSE](references/sources/resolu-es-tse.md)
+## Sources
+- [[wiki/sources/instrucoes-normativas-tre-pr]] — Instruções Normativas TRE-PR
+- [[wiki/sources/normas-cnj-lei-federal-in-gsi]] — Normas CNJ / Lei Federal / IN-GSI
+- [[wiki/sources/normas-tecnicas-secti]] — Normas Técnicas SECTI
+- [[wiki/sources/ordens-de-servi-o-tre-pr]] — Ordens de Serviço TRE-PR
+- [[wiki/sources/portarias-tre-pr]] — Portarias TRE-PR
+- [[wiki/sources/resolu-es-tre-pr]] — Resoluções TRE-PR
+- [[wiki/sources/resolu-es-tse]] — Resoluções TSE
 
-## Estatísticas
-- Fontes brutas em `raw/`: 147 arquivos `.md` (excluindo README.md e INVENTARIO-NORMAS-COLETADAS.md)
-- Páginas curadas em `wiki/normas/`: 164 (uma para cada norma em raw/)
-- Entities: 5 · Concepts: 12 · Inventários: 2 · Sources: 7
+## Raw Sources (153)
+_153 arquivos-fonte em `raw/` — texto normativo integral._
+
+**Total de páginas wiki: 190 · Fontes em raw/: 153**

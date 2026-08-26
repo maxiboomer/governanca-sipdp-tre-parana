@@ -1,32 +1,53 @@
 ---
-curadoria: pendente
-title: "INSTRUÇÃO NORMATIVA Nº 06/2018"
+title: "INSTRUÇÃO NORMATIVA Nº 06/2018 [REVOGADA]"
+created: 2026-08-26
+updated: 2026-08-26
 type: fonte-normativa
-tags: [tre-pr, norma, coleta-automatica]
-url: "https://apps.tre-pr.jus.br/files/legislacaocompilada/in/2018/in062018.html"
+status: "Revogada — substituída pela IN TRE-PR nº 010/2025"
+status_verificacao: "Revisão inicial; confirmar no DJE/DOU antes de afirmar vigência."
+fonte_publicacao: "https://apps.tre-pr.jus.br/files/legislacaocompilada/in/2018/in062018.html"
+data_publicacao: ""
+tags: [norma, curadoria, si-pdp]
+sources: [raw/tre-pr-in-dg-06-2018-servicos-essenciais.md]
 ---
 
-# INSTRUÇÃO NORMATIVA Nº 06/2018
+# INSTRUÇÃO NORMATIVA Nº 06/2018 [REVOGADA]
 
-## Summary
+## Finalidade e escopo
 
-> **Página não curada.** Esta página é um marcador gerado automaticamente e **não contém síntese da norma**.
-> O texto está em [`references/raw/tre-pr-in-dg-06-2018-servicos-essenciais.md`](references/raw/tre-pr-in-dg-06-2018-servicos-essenciais.md) — **leia esse arquivo** para responder qualquer pergunta sobre esta norma.
-> Não conclua que a informação inexiste com base nesta página.
-> Confirme a vigência em [inventário TRE-PR/TSE](references/inventarios/normas-tre-pr-tse.md) ou [inventário CNJ](references/inventarios/normas-cnj.md) antes de citar em documento oficial.
+Esta norma integra o corpus de **SI/PDP e governança tecnológica**. A página foi curada a partir do texto integral preservado em `raw/tre-pr-in-dg-06-2018-servicos-essenciais.md`; a fonte bruta permanece imutável.
 
-## Relevant Entities
+A finalidade específica deve ser interpretada diretamente com o texto integral e as normas supervenientes.
 
-- [cgsipdp](references/entities/cgsipdp.md)
+## Status normativo
 
-## Relevant Concepts
+**Revogada — substituída pela IN TRE-PR nº 010/2025**
 
-- [seguranca-informacao-justica-eleitoral](references/concepts/seguranca-informacao-justica-eleitoral.md)
+- Verificação: **não substituir esta indicação pela aparência do inventário**; consultar a publicação oficial antes de emitir parecer ou orientar procedimento.
+- Norma sucessora/efeito: Revogada — substituída pela IN TRE-PR nº 010/2025.
 
-## Raw Source
+## Pontos operacionais extraídos
 
-Source: `raw/tre-pr-in-dg-06-2018-servicos-essenciais.md`
+- Art. 1º Fica instituída a lista de serviços essenciais (estratégicos) de Tecnologia da Informação, observada a seguinte ordem de prioridade:
+- I – Sistemas de eleição, durante o período eleitoral;
+- II – Sistemas de atendimento ao eleitor/cadastro;
+- III – Processo Judicial Eletrônico (PJE) e Diário de Justiça Eletrônico (DJE);
+- IV – Serviços relativos às sessões do Pleno do Tribunal;
+- V – Processo Administrativo Digital (PAD);
+- Art. 2º A definição e priorização dos serviços essenciais (estratégicos) será utilizada para as seguintes finalidades:
+- I – Desenvolver o Plano de Continuidade de Negócios (PCN);
 
-## Processing Notes
 
-Marcador automático. Curadoria pendente — ao curar esta página, remova `curadoria: pendente` do frontmatter.
+## Relações
+
+[[wiki/concepts/lgpd-ia-governanca]]
+- [[wiki/entities/cgsipdp]]
+
+## Fonte integral
+
+- `raw/tre-pr-in-dg-06-2018-servicos-essenciais.md`
+- Publicação/URL registrada: https://apps.tre-pr.jus.br/files/legislacaocompilada/in/2018/in062018.html
+
+## Nota de qualidade
+
+Página anteriormente gerada como stub. Esta primeira curadoria não constitui certificação de vigência: o campo `status_verificacao` explicita a pendência de confirmação oficial.

@@ -1,34 +1,46 @@
 ---
-curadoria: pendente
 title: "TRE-PR Norma Tecnica SECTI 08/2020 - Gerenciamento de Continuidade de Servicos"
+created: 2026-08-26
+updated: 2026-08-26
 type: fonte-normativa
-tags: [tre-pr, secti, norma-tecnica, continuidade-servicos, disaster-recovery]
-url: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2020/norma-tecnica-no-08-de-15-de-julho-de-2020"
+status: "Não confirmado"
+status_verificacao: "Revisão inicial; confirmar no DJE/DOU antes de afirmar vigência."
+fonte_publicacao: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2020/norma-tecnica-no-08-de-15-de-julho-de-2020"
+data_publicacao: "15/07/2020"
+tags: [norma, curadoria, si-pdp]
+sources: [raw/tre-pr-norma-tecnica-secti-08-2020-continuidade-servicos.md]
 ---
 
 # TRE-PR Norma Tecnica SECTI 08/2020 - Gerenciamento de Continuidade de Servicos
 
-## Summary
+## Finalidade e escopo
 
-> **Página não curada.** Esta página é um marcador gerado automaticamente e **não contém síntese da norma**.
-> O texto está em [`references/raw/tre-pr-norma-tecnica-secti-08-2020-continuidade-servicos.md`](references/raw/tre-pr-norma-tecnica-secti-08-2020-continuidade-servicos.md) — **leia esse arquivo** para responder qualquer pergunta sobre esta norma.
-> Não conclua que a informação inexiste com base nesta página.
-> Confirme a vigência em [inventário TRE-PR/TSE](references/inventarios/normas-tre-pr-tse.md) ou [inventário CNJ](references/inventarios/normas-cnj.md) antes de citar em documento oficial.
+Esta norma integra o corpus de **SI/PDP e governança tecnológica**. A página foi curada a partir do texto integral preservado em `raw/tre-pr-norma-tecnica-secti-08-2020-continuidade-servicos.md`; a fonte bruta permanece imutável.
 
-## Relevant Entities
+Institui processo de Gerenciamento de Continuidade de Serviços de TI. Base: ITIL.
 
-- [cgsipdp](references/entities/cgsipdp.md)
-- [etir](references/entities/etir.md)
+## Status normativo
 
-## Relevant Concepts
+**Não confirmado**
 
-- [monitoramento-normas-secti](references/concepts/monitoramento-normas-secti.md)
-- [prazos-normativos-tre-pr](references/concepts/prazos-normativos-tre-pr.md)
+- Verificação: **não substituir esta indicação pela aparência do inventário**; consultar a publicação oficial antes de emitir parecer ou orientar procedimento.
+- Norma sucessora/efeito: não identificado na revisão inicial; pesquisar alterações e revogações no DJE/DOU.
 
-## Raw Source
+## Pontos operacionais extraídos
 
-Source: `raw/tre-pr-norma-tecnica-secti-08-2020-continuidade-servicos.md`
+- Texto integral preservado na fonte bruta; a síntese deve ser refinada quando houver necessidade operacional.
 
-## Processing Notes
 
-Marcador automático. Curadoria pendente — ao curar esta página, remova `curadoria: pendente` do frontmatter.
+## Relações
+
+[[wiki/concepts/seguranca-informacao-justica-eleitoral]]
+- [[wiki/entities/secti]]
+
+## Fonte integral
+
+- `raw/tre-pr-norma-tecnica-secti-08-2020-continuidade-servicos.md`
+- Publicação/URL registrada: https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2020/norma-tecnica-no-08-de-15-de-julho-de-2020
+
+## Nota de qualidade
+
+Página anteriormente gerada como stub. Esta primeira curadoria não constitui certificação de vigência: o campo `status_verificacao` explicita a pendência de confirmação oficial.
