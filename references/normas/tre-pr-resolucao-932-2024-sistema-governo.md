@@ -4,8 +4,8 @@ type: fonte-normativa
 tags: [tre-pr, governanca, gestao]
 curadoria: stub
 escopo: contextual
-status: não-confirmada
-status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
+status: vigente
+status_verificacao: "Res. 932/2024 compilada no portal TRE-PR; Sistema de Governança"
 url: "https://www.tre-pr.jus.br/legislacao/compilada/resolucoes-tre-pr/2024/resolucao-no-932-de-22-de-maio-de-2024"
 created: 2026-08-26
 updated: 2026-08-26

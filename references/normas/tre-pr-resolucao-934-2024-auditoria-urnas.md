@@ -4,8 +4,8 @@ type: fonte-normativa
 tags: [tre-pr, auditoria, urnas-eletronicas]
 curadoria: stub
 escopo: fora-escopo
-status: não-confirmada
-status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
+status: vigente
+status_verificacao: "Res. 934/2024 compilada no portal TRE-PR"
 url: "https://www.tre-pr.jus.br/legislacao/compilada/resolucoes-tre-pr/2024/resolucao-no-934-de-05-de-junho-de-2024"
 created: 2026-08-26
 updated: 2026-08-26

@@ -4,8 +4,8 @@ type: fonte-normativa
 tags: [tre-pr, portaria, prestacao-pecuniaria, penal, condenacao]
 curadoria: stub
 escopo: fora-escopo
-status: não-confirmada
-status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
+status: vigente
+status_verificacao: "Portaria 074/2025 compilada no portal TRE-PR"
 url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-presidencia-tre-pr/2025/portaria-ndeg-074-de-05-de-marco-de-2025"
 created: 2026-08-26
 updated: 2026-08-26

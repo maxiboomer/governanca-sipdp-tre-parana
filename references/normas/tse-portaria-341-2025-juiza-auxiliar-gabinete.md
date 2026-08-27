@@ -4,8 +4,8 @@ type: fonte-normativa
 tags: [tse, portaria, juiza, gabinete-presidencia]
 curadoria: stub
 escopo: fora-escopo
-status: não-confirmada
-status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
+status: vigente
+status_verificacao: "Portaria TSE 341/2025 compilada"
 url: "https://www.tse.jus.br/legislacao/compilada/prt/2025/portaria-no-341-de-5-de-agosto-de-2025"
 created: 2026-08-26
 updated: 2026-08-26

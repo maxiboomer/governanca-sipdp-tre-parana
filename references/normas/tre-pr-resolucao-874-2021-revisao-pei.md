@@ -4,8 +4,8 @@ type: fonte-normativa
 tags: [tre-pr, planejamento-estrategico, estrategia]
 curadoria: stub
 escopo: contextual
-status: não-confirmada
-status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
+status: vigente
+status_verificacao: "Res. 874/2021 compilada no portal TRE-PR"
 url: "https://www.tre-pr.jus.br/legislacao/compilada/resolucoes-tre-pr/2021/resolucao-no-874-de-24-de-junho-de-2021"
 created: 2026-08-26
 updated: 2026-08-26

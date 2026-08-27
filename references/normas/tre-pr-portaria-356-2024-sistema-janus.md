@@ -4,8 +4,8 @@ type: fonte-normativa
 tags: [tre-pr, processo-judicial, automacao, inteligencia-artificial, janus]
 curadoria: stub
 escopo: fora-escopo
-status: não-confirmada
-status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
+status: vigente
+status_verificacao: "Portaria 356/2024 compilada no portal TRE-PR; alterada pela 068/2025"
 url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-presidencia-tre-pr/2024/portaria-ndeg-356-de-12-de-setembro-de-2024"
 created: 2026-08-26
 updated: 2026-08-26

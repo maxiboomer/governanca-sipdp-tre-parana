@@ -4,7 +4,7 @@ type: norma
 created: 2026-02-19
 updated: 2026-02-19
 tags: [cnj, meio-ambiente, clima, sustentabilidade, psi]
-status: não-confirmada
+status: vigente
 curadoria: completa
 escopo: contextual
 ---

@@ -4,7 +4,7 @@ type: norma
 created: 2026-07-27
 updated: 2026-07-27
 tags: [psi, seguranca-informacao, tre-pr]
-status: não-confirmada
+status: vigente
 curadoria: completa
 escopo: contextual
 ---

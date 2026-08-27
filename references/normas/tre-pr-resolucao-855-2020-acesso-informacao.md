@@ -4,8 +4,8 @@ type: fonte-normativa
 tags: [tre-pr, acesso-informacao, transparencia, lgpd]
 curadoria: stub
 escopo: contextual
-status: não-confirmada
-status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
+status: vigente
+status_verificacao: "Res. 855/2020 compilada no portal TRE-PR"
 url: "https://apps.tre-pr.jus.br/files/legislacaocompilada/res/2020/Res08552020.html"
 created: 2026-08-26
 updated: 2026-08-26

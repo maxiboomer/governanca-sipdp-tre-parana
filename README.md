@@ -51,9 +51,9 @@ citação de DJE/DOU (basta para citar em documento) → compilado oficial (serv
 trabalhar) → nada, e então a situação é **Não confirmada**.
 
 Situação nas páginas de normas (metadados curados):
-- **vigentes:** 78 com publicação oficial localizada ou compilado confirmado
-- **revogadas:** 17 com revogação expressa no texto ou em norma posterior
-- **não-confirmadas:** 58 sem confirmação individual até o momento
+- **vigentes:** 135 com publicação oficial localizada ou compilado confirmado
+- **revogadas:** 18 com revogação expressa no texto ou em norma posterior
+- **não-confirmadas:** 0 — todas as normas foram verificadas
 - **outros:** 15 (históricas, de composição, etc.)
 
 A matriz completa está em `references/_meta/matriz-verificacao-vigencia.md`.

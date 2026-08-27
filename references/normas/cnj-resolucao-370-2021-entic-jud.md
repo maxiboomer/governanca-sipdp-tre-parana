@@ -4,8 +4,8 @@ type: fonte-normativa
 tags: [cnj, tecnologia, governanca, entic-jud]
 curadoria: stub
 escopo: contextual
-status: não-confirmada
-status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
+status: vigente
+status_verificacao: "Res. CNJ 370/2021 vigente; institui ENTIC-JUD 2021-2026"
 url: "https://atos.cnj.jus.br/atos/detalhar/3706"
 created: 2026-08-26
 updated: 2026-08-26

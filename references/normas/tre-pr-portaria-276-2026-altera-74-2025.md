@@ -5,7 +5,7 @@ created: 2026-08-25
 updated: 2026-08-25
 tags: [tre-pr, portaria, prestacoes-pecuniarias]
 sources: [raw/tre-pr-portaria-276-2026-altera-74-2025-revo-135-2025.md]
-status: não-confirmada
+status: vigente
 curadoria: completa
 escopo: contextual
 ---

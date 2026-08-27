@@ -4,7 +4,7 @@ type: norma
 created: 2026-02-19
 updated: 2026-02-19
 tags: [tse, psi, revogada, seguranca-informacao, tre-pr]
-status: não-confirmada
+status: revogada
 curadoria: completa
 escopo: contextual
 ---

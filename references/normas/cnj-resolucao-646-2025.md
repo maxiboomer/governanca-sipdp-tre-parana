@@ -4,7 +4,7 @@ type: norma
 created: 2026-02-19
 updated: 2026-02-19
 tags: [cnj, crise-socioambiental, protocolo, gestao-de-riscos, desastre]
-status: não-confirmada
+status: vigente
 curadoria: completa
 escopo: contextual
 ---

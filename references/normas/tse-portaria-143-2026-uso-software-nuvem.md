@@ -5,7 +5,7 @@ created: 2026-08-25
 updated: 2026-08-25
 tags: [tse, nuvem, cloud-computing, seguranca-informacao]
 sources: [raw/tse-portaria-143-2026-uso-software-nuvem.md]
-status: não-confirmada
+status: vigente
 curadoria: completa
 escopo: contextual
 ---

@@ -4,7 +4,7 @@ type: norma
 created: 2024-01-15
 updated: 2026-08-04
 tags: [cnj, lgpd, tribunais]
-status: não-confirmada
+status: vigente
 curadoria: completa
 escopo: contextual
 ---

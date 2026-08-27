@@ -4,8 +4,8 @@ type: fonte-normativa
 tags: [tse, acesso-informacao, transparencia]
 curadoria: stub
 escopo: contextual
-status: não-confirmada
-status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
+status: vigente
+status_verificacao: "Res. TSE 23.435/2015 compilada"
 url: "https://www.tse.jus.br/legislacao/compilada/res/2015/resolucao-no-23-435-de-5-de-fevereiro-de-2015"
 created: 2026-08-26
 updated: 2026-08-26

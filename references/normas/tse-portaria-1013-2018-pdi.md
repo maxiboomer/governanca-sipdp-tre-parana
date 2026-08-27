@@ -4,8 +4,8 @@ type: fonte-normativa
 tags: [tse, digital-preservation, arquivamento, paleo]
 curadoria: stub
 escopo: contextual
-status: não-confirmada
-status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
+status: vigente
+status_verificacao: "Portaria TSE 1013/2018 vigente; Política de Preservação Digital"
 url: "https://www.tse.jus.br/legislacao/compilada/prt/2018/portaria-no-1013-de-23-de-novembro-de-2018"
 created: 2026-08-26
 updated: 2026-08-26

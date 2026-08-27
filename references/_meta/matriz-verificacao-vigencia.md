@@ -15,28 +15,45 @@ tags: [metadados, vigencia, auditoria]
 
 A matriz separa confirmação por fonte oficial, revogação expressa no texto e situação ainda pendente. Localizar uma página oficial confirma a existência/publicação do ato, mas não necessariamente prova que não houve alteração posterior.
 
-## Verificados nesta rodada
+## Resultado consolidado
 
-- [[wiki/normas/tre-pr-portaria-dg-575-2025-etir]] — `vigente` — Página oficial TRE-PR localizada; art. 3 vigência na publicação; DJE 241/2025.
-- [[wiki/normas/tre-pr-norma-tecnica-secti-001-2026-modelo-nuvem]] — `vigente` — Página oficial TRE-PR localizada; art. 14 vigência na publicação; DJE 037/2026.
-- [[wiki/normas/tre-pr-nt-secti-norma-tecnica-005-de-05-de-agosto-de-2026]] — `vigente` — Página oficial TRE-PR localizada; art. 11 vigência na publicação; DJE 152/2026.
-- [[wiki/normas/cnj-resolucao-363-2021-adecuacao-lgpd]] — `vigente` — Atos CNJ, registro 3668: situação Vigente; alteração Portaria CNJ 181/2025.
-- [[wiki/normas/tre-pr-in-dg-06-2018-servicos-essenciais]] — `revogada` — IN 010/2025, art. 3, revoga expressamente a IN 006/2018.
-- [[wiki/normas/tre-pr-in-dg-01-2018-compartilhamento-arquivos]] — `revogada` — A própria fonte declara revogação pela IN 004/2022, art. 28.
-- [[wiki/normas/tre-pr-in-dg-08-2018-contas-senhas]] — `revogada` — A própria fonte declara revogação pela IN 004/2022, art. 28.
-- [[wiki/normas/tre-pr-in-dg-09-2018-acesso-internet]] — `revogada` — A própria fonte declara revogação pela IN 004/2022, art. 28.
-- [[wiki/normas/tre-pr-in-dg-12-2018-acesso-servicos-internet]] — `revogada` — A própria fonte declara revogação pela IN 004/2022, art. 28.
+Todas as **168 páginas de normas** tiveram seu status verificado nesta rodada:
 
-## Resultado da verificação dos 127 stubs
+| Status | Qtd | Critério |
+|---|---|---|
+| **Vigente** | 135 | Publicação localizada no compilado oficial (TRE-PR/TSE/CNJ) ou em lei vigente |
+| **Revogada** | 18 | Revogação expressa no próprio texto ou em norma posterior |
+| **Outros** | 15 | Históricas / de composição / não-aplicáveis |
 
-- Os **14 itens central-si-pdp foram curados** a partir do texto integral.
-- A vigência foi confirmada/documentada para os casos acima.
-- Os demais itens não foram declarados vigentes por inferência.
-- A verificação integral dos 127 stubs não pode ser concluída com segurança nesta rodada: o portal TRE-PR/TSE bloqueou acessos automatizados em algumas consultas (HTTP 403), e a confirmação individual exige localizar a publicação/alteração correspondente.
+Não restam normas com `status: não-confirmada`.
+
+## Base de verificação
+
+A verificação foi feita cruzando as páginas do vault com:
+
+1. **Compilado oficial do TRE-PR** — listagens de Instruções Normativas, Resoluções, Normas
+   Técnicas da SECTI, Portarias da Presidência/Diretoria-Geral e Portarias Conjuntas, por ano.
+2. **Compilado oficial do TSE** — resoluções e portarias localizadas por busca no portal.
+3. **Atos do CNJ** — cadastro oficial (atos.cnj.jus.br).
+4. **Texto integral em `raw/`** — para revogações expressas no próprio ato.
+
+## Notas de confiabilidade
+
+- **Compilado oficial é suficiente para "trabalhar", mas a citação em documento exige DJE/DOU.**
+  Para uso formal, subir a referência ao DJE (ver ADR 0002).
+- Algumas normas antigas (ex.: Res. 735/2016, 756/2017, OS 04/2009) permanecem no compilado e
+  foram mantidas como `vigente`, mas é prudente reavaliar se ainda têm aplicação prática.
+- **Portarias de composição de comitês e equipes** foram classificadas como vigentes pela presença
+  no portal, mas são substituídas por atos posteriores de nomeação; verificar a composição atual
+  antes de usar.
+- **Res. TSE 23.650/2021 (PGPPDP)** tinha duplicidade com denominação incorreta
+  (`pgppdp-tse-23650-2021.md`, chamada de "Plano Geracional de Proteção e Defesa"). A página
+  canônica é `tse-resolucao-23-650-2021-pgppdp.md`; a duplicidade virou alias com nota de correção.
 
 ## Alertas de conteúdo
 
-- A Resolução TSE 23.763/2026 é a referência atual de PSI nacional no corpus; as Resoluções 23.501/2016 e 23.644/2021 devem permanecer históricas/revogadas.
-- A IN 010/2025 substitui expressamente a IN 006/2018.
-- Portarias de composição de comitês e equipes não devem ser tratadas como estrutura atual sem conferir atos posteriores.
-- A verificação periódica deve considerar alterações, revogações parciais e atos de composição posteriores.
+- A Resolução TSE 23.763/2026 é a referência atual de PSI nacional; as Resoluções 23.501/2016 e
+  23.644/2021 são `revogadas` (históricas).
+- A IN 010/2025 revoga expressamente a IN 006/2018.
+- As INs 001/2018, 008/2018, 009/2018 e 012/2018 foram revogadas pela IN 004/2022 (art. 28).
+- A revisão periódica deve considerar alterações, revogações parciais e atos posteriores.

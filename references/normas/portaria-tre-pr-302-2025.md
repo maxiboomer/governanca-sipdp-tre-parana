@@ -4,7 +4,7 @@ type: norma
 created: 2025-10-29
 updated: 2026-02-19
 tags: [pgcn, continuidade-negocios, tre-pr, desastre, crise]
-status: não-confirmada
+status: vigente
 curadoria: completa
 escopo: contextual
 ---

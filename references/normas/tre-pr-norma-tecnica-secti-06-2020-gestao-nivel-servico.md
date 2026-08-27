@@ -4,8 +4,8 @@ type: fonte-normativa
 tags: [tre-pr, secti, norma-tecnica, nvl-desempenho, ans, servico-ti]
 curadoria: stub
 escopo: apoio-governanca-ti
-status: não-confirmada
-status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
+status: vigente
+status_verificacao: "NT SECTI 006/2020 compilada"
 url: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2020/norma-tecnica-no-06-de-10-de-junho-de-2020"
 created: 2026-08-26
 updated: 2026-08-26

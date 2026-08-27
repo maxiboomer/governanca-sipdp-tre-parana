@@ -4,8 +4,8 @@ type: fonte-normativa
 tags: [tre-pr, norma, coleta-automatica]
 curadoria: stub
 escopo: contextual
-status: não-confirmada
-status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
+status: vigente
+status_verificacao: "IN DG 04/2020 compilada no portal TRE-PR"
 url: "https://apps.tre-pr.jus.br/files/legislacaocompilada/in/2020/in042020.html"
 created: 2026-08-26
 updated: 2026-08-26

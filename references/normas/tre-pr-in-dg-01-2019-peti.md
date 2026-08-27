@@ -4,8 +4,8 @@ type: fonte-normativa
 tags: [tre-pr, norma, coleta-automatica]
 curadoria: stub
 escopo: apoio-governanca-ti
-status: não-confirmada
-status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
+status: vigente
+status_verificacao: "IN DG 01/2019 compilada no portal TRE-PR"
 url: "https://apps.tre-pr.jus.br/files/legislacaocompilada/in/2019/in012019.html"
 created: 2026-08-26
 updated: 2026-08-26

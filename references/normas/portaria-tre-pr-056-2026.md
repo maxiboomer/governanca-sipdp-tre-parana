@@ -4,7 +4,7 @@ type: norma
 created: 2026-02-19
 updated: 2026-02-19
 tags: [crise-socioambiental, desastre, continuidade-negocios, prevencao, resposta, recuperacao, tre-pr]
-status: não-confirmada
+status: vigente
 curadoria: completa
 escopo: contextual
 ---

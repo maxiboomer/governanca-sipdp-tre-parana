@@ -4,7 +4,7 @@ type: norma
 created: 2026-02-19
 updated: 2026-02-19
 tags: [crise-cibernetica, psi, seguranca-da-informacao, etir, protocolos, tre-pr]
-status: não-confirmada
+status: vigente
 curadoria: completa
 escopo: contextual
 ---

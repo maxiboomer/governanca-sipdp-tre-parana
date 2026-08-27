@@ -4,8 +4,8 @@ type: fonte-normativa
 tags: [tre-pr, secti, norma-tecnica, planejamento-orcamentario, ti]
 curadoria: stub
 escopo: apoio-governanca-ti
-status: não-confirmada
-status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
+status: vigente
+status_verificacao: "NT SECTI 003/2022 compilada"
 url: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2022/norma-tecnica-no-03-de-23-de-setembro-de-2022"
 created: 2026-08-26
 updated: 2026-08-26

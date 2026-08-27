@@ -4,8 +4,8 @@ type: fonte-normativa
 tags: [tre-pr, portaria, prestacoes-pecuniarias, transacoes-penais, acordos-nao-persecucao]
 curadoria: stub
 escopo: fora-escopo
-status: não-confirmada
-status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
+status: vigente
+status_verificacao: "Portaria 135/2025 compilada no portal TRE-PR"
 url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-presidencia-tre-pr/2025/portaria-ndeg-135-de-30-de-abril-de-2025"
 status: REVOGADA pela Portaria TRE-PR 276/2026 (13/08/2026)
 created: 2026-08-26

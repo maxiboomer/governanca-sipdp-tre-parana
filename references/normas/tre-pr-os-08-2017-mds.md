@@ -4,8 +4,8 @@ type: fonte-normativa
 tags: [tre-pr, norma, coleta-automatica]
 curadoria: stub
 escopo: contextual
-status: não-confirmada
-status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
+status: vigente
+status_verificacao: "OS 08/2017 compilada no portal TRE-PR"
 url: "https://apps.tre-pr.jus.br/files/legislacaocompilada/os/2017/os082017dg.html"
 created: 2026-08-26
 updated: 2026-08-26

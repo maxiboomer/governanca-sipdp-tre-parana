@@ -4,8 +4,8 @@ type: fonte-normativa
 tags: [tre-pr, governanca, organograma]
 curadoria: stub
 escopo: contextual
-status: não-confirmada
-status_verificacao: "Classificação automática inicial; confirmar no DJE/DOU."
+status: vigente
+status_verificacao: "Res. 779/2017 compilada no portal TRE-PR"
 url: "https://www.justicaeleitoral.jus.br/arquivos/tre-pr-resolucao-779-de-11-de-setembro-de-2017"
 created: 2026-08-26
 updated: 2026-08-26
