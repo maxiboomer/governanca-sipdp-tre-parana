@@ -4,6 +4,9 @@ type: entity
 created: 2024-01-15
 updated: 2026-08-04
 tags: [cgsipdp, seguranca, psi, lgpd, tribel-pr]
+status: não-aplicável
+curadoria: completa
+escopo: contextual
 ---
 
 # CGSIPDP - Comitê Gestor de SI e de Proteção de Dados Pessoais do TRE-PR
@@ -34,7 +37,7 @@ O CGSIPDP é o comitê central de segurança da informação e proteção de dad
 ## Relação com outras normas
 - **CGSI** - Coordenadoria de Gestão de SI
 - **ETIR** - Equipe de Tratamento e Resposta a Incidentes
-- [governanca-e-crises-tre-pr](references/normas/governanca-e-crises-tre-pr.md) - Res. 932/2024
+- [[normas/governanca-e-crises-tre-pr]] - Res. 932/2024
 
 ## Fontes
 - Resolução CNJ 363/2021
@@ -42,6 +45,6 @@ O CGSIPDP é o comitê central de segurança da informação e proteção de dad
 - Portaria TSE 444/2021
 
 ## Links Úteis
-- [encarregado-dpo](references/entities/encarregado-dpo.md)
-- [etir](references/entities/etir.md)
-- [seguranca-informacao-justica-eleitoral](references/concepts/seguranca-informacao-justica-eleitoral.md)
+- [[entities/encarregado-dpo]]
+- [[entities/etir]]
+- [[concepts/seguranca-informacao-justica-eleitoral]]

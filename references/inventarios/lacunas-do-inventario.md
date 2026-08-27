@@ -4,6 +4,9 @@ type: inventario
 created: 2026-08-26
 updated: 2026-08-26
 tags: [inventario, auditoria, lacunas]
+status: não-aplicável
+curadoria: completa
+escopo: contextual
 ---
 
 # Lacunas conhecidas do inventário

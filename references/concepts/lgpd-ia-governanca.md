@@ -4,6 +4,9 @@ type: concept
 created: 2026-07-27
 updated: 2026-07-27
 tags: [lgpd, ia, governanca-ia, privacidade, setor-publico]
+status: não-aplicável
+curadoria: completa
+escopo: contextual
 ---
 
 # IA e LGPD — Governança de Privacidade em Sistemas de Inteligência Artificial
@@ -48,11 +51,11 @@ Riscos típicos de IA a incluir na matriz de riscos (alimenta a MAT_05.002):
 | **Opacidade / falta de explicabilidade** | Dificulta atender ao art. 20, §1º (direito à explicação da lógica) e ao princípio da transparência (art. 6º, VI). |
 | **Drift do modelo** | Degradação não monitorada da acurácia ao longo do tempo, especialmente desigual entre grupos. |
 
-Cada risco entra no mapa de calor 5x5 com sua probabilidade e impacto, conforme metodologia em [lgpd-maturidade-avaliacao](references/concepts/lgpd-maturidade-avaliacao.md).
+Cada risco entra no mapa de calor 5x5 com sua probabilidade e impacto, conforme metodologia em [[concepts/lgpd-maturidade-avaliacao]].
 
 ### No RIPD (Marco 16 da Fase 2)
 
-**Quando IA dispara obrigação de RIPD.** Cruzando o critério oficial da ANPD (ver [lgpd-recursos-oficiais-anpd](references/concepts/lgpd-recursos-oficiais-anpd.md) seção 4) com o universo de IA, o RIPD é praticamente sempre necessário quando há:
+**Quando IA dispara obrigação de RIPD.** Cruzando o critério oficial da ANPD (ver [[concepts/lgpd-recursos-oficiais-anpd]] seção 4) com o universo de IA, o RIPD é praticamente sempre necessário quando há:
 
 - Sistema de IA com **decisão unicamente automatizada** com efeito jurídico ou similar significativo sobre o titular (art. 20). Atende o critério específico "decisões automatizadas" da Res. 2/2022.
 - IA em **vigilância de zonas públicas** (reconhecimento facial, biometria comportamental, análise de circulação). Atende o critério "vigilância de zonas acessíveis ao público".
@@ -61,7 +64,7 @@ Cada risco entra no mapa de calor 5x5 com sua probabilidade e impacto, conforme 
 
 Quando há IA, **assumir que o critério específico está acionado** e concentrar a análise no critério geral (larga escala / afetação significativa).
 
-**Checklist adicional para RIPD com IA** (suplementa o conteúdo recomendado pela ANPD em [lgpd-recursos-oficiais-anpd](references/concepts/lgpd-recursos-oficiais-anpd.md)):
+**Checklist adicional para RIPD com IA** (suplementa o conteúdo recomendado pela ANPD em [[concepts/lgpd-recursos-oficiais-anpd]]):
 
 1. O sistema toma decisões com efeito jurídico ou similar significativo sobre o titular? Qual é o efeito concreto (negativa de serviço, aplicação de medida, classificação que altera tratamento)?
 2. Há canal de revisão humana ativo? Por quem? Com qual prazo? Com poder real de reverter a decisão automatizada?
@@ -100,9 +103,9 @@ O art. 20 da LGPD prevê o direito do titular a solicitar revisão de decisões 
 
 Quando o órgão usa modelo pré-treinado de fornecedor (API de visão computacional, LLM, classificador via SaaS), o fornecedor é **operador LGPD**. Pontos críticos:
 
-- **Cláusulas LGPD obrigatórias** no contrato (ver Fase 1, Etapa 3 em [lgpd-diagnostico-fase1](references/concepts/lgpd-diagnostico-fase1.md)).
+- **Cláusulas LGPD obrigatórias** no contrato (ver Fase 1, Etapa 3 em [[concepts/lgpd-diagnostico-fase1]]).
 - **Vedação explícita de uso dos inputs para treino** — sem essa cláusula, os dados enviados via API podem ser reutilizados pelo fornecedor para melhorar o modelo, configurando novo tratamento sem base legal específica do controlador.
-- **Verificar localização do processamento** — muitos fornecedores processam em data centers fora do Brasil. Aplicar Res. CD/ANPD nº 19/2024 (transferência internacional) e nº 32/2026 (adequação UE). Consultar [lgpd-recursos-oficiais-anpd](references/concepts/lgpd-recursos-oficiais-anpd.md).
+- **Verificar localização do processamento** — muitos fornecedores processam em data centers fora do Brasil. Aplicar Res. CD/ANPD nº 19/2024 (transferência internacional) e nº 32/2026 (adequação UE). Consultar [[concepts/lgpd-recursos-oficiais-anpd]].
 - **Direito de auditoria** — embora difícil de exercer com grandes fornecedores, deve constar do contrato.
 - **Documentação de treinamento do fornecedor** — exigir do fornecedor declaração sobre origem dos dados de treino, mitigações de viés implementadas e métricas de performance por grupo, quando aplicável.
 
@@ -145,4 +148,4 @@ Sequência mínima ao iniciar um projeto de IA com dados pessoais em órgão pú
 
 ## Proveniência deste recorte
 
-A intersecção LGPD × IA neste arquivo foi inspirada na palestra "LGPD e IA: Riscos, Impactos e Governança na Prática" de Mariana Tomasi Keppen, que estabelece o paradoxo central (IA precisa de dados × dados demandam limites) e propõe a tríade governança = mapeamento + avaliação de risco + RIPD. O desenvolvimento técnico do recorte (lista de riscos algorítmicos, checklist específico para RIPD com IA, integração com o framework documental, considerações sobre operadores que servem modelos pré-treinados) foi expandido a partir do estado da arte em governança de IA e da regulamentação vigente da ANPD, e deve ser revisado periodicamente conforme a ANPD publicar regulamentação específica sobre IA (consultar a Agenda Regulatória vigente em [lgpd-recursos-oficiais-anpd](references/concepts/lgpd-recursos-oficiais-anpd.md)).
+A intersecção LGPD × IA neste arquivo foi inspirada na palestra "LGPD e IA: Riscos, Impactos e Governança na Prática" de Mariana Tomasi Keppen, que estabelece o paradoxo central (IA precisa de dados × dados demandam limites) e propõe a tríade governança = mapeamento + avaliação de risco + RIPD. O desenvolvimento técnico do recorte (lista de riscos algorítmicos, checklist específico para RIPD com IA, integração com o framework documental, considerações sobre operadores que servem modelos pré-treinados) foi expandido a partir do estado da arte em governança de IA e da regulamentação vigente da ANPD, e deve ser revisado periodicamente conforme a ANPD publicar regulamentação específica sobre IA (consultar a Agenda Regulatória vigente em [[concepts/lgpd-recursos-oficiais-anpd]]).

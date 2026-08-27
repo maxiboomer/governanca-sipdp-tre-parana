@@ -4,6 +4,9 @@ type: concept
 created: 2026-07-27
 updated: 2026-07-27
 tags: [lgpd, setor-publico, implementacao, ripd, incidentes]
+status: não-aplicável
+curadoria: completa
+escopo: contextual
 ---
 
 # Fase 2 — Implementação do Programa de Compliance
@@ -58,7 +61,7 @@ A Fase 2 estrutura a implementação em 16 marcos operacionais, todos alinhados 
 ### Bloco B — Ativos e Privacidade (marcos 4 e 12)
 
 **Gestão de Ativos**
-- Construir a MAT_03.001 (Matriz de Ativos da Informação) — ver [lgpd-framework-documental](references/concepts/lgpd-framework-documental.md)
+- Construir a MAT_03.001 (Matriz de Ativos da Informação) — ver [[concepts/lgpd-framework-documental]]
 - Aprovar a POL_03.001 (Classificação e Manuseio) e a POL_03.002 (Utilização de Equipamentos)
 - Atribuir Asset Owner e Custodian a cada ativo
 
@@ -149,7 +152,7 @@ O **art. 38** da LGPD permite à ANPD determinar a elaboração do relatório. A
 - Houver tratamento de dados de crianças e adolescentes
 - Houver tratamento que potencialmente cause discriminação ou exclusão
 
-> **Fonte oficial:** a ANPD mantém página específica com 15 perguntas e respostas sobre o RIPD em `https://www.gov.br/anpd/pt-br/canais_atendimento/agente-de-tratamento/relatorio-de-impacto-a-protecao-de-dados-pessoais-ripd`. O critério oficial para "alto risco", o conteúdo recomendado e a especificidade aplicável ao Poder Público (incluindo determinação de publicação pelo art. 32 da LGPD) estão consolidados em [lgpd-recursos-oficiais-anpd](references/concepts/lgpd-recursos-oficiais-anpd.md). **Consulte essa reference ao redigir o PRO_05.004.**
+> **Fonte oficial:** a ANPD mantém página específica com 15 perguntas e respostas sobre o RIPD em `https://www.gov.br/anpd/pt-br/canais_atendimento/agente-de-tratamento/relatorio-de-impacto-a-protecao-de-dados-pessoais-ripd`. O critério oficial para "alto risco", o conteúdo recomendado e a especificidade aplicável ao Poder Público (incluindo determinação de publicação pelo art. 32 da LGPD) estão consolidados em [[concepts/lgpd-recursos-oficiais-anpd]]. **Consulte essa reference ao redigir o PRO_05.004.**
 
 ### Etapas do RIPD (sequência canônica)
 
@@ -186,7 +189,7 @@ A gestão de incidentes não começa quando o incidente ocorre, mas no monitoram
 O **art. 48** obriga a comunicação à ANPD e ao titular quando o incidente puder acarretar **risco ou dano relevante** ao titular. Considerar:
 
 - Não há "se" comunica — é "quando" comunica.
-- A **Resolução CD/ANPD nº 15/2024** (Regulamento de Comunicação de Incidente de Segurança) detalha prazos, conteúdo da comunicação e formato. **Esta resolução é a referência operacional vinculante** — releia-a a cada revisão anual do procedimento. Sintetizada em [lgpd-recursos-oficiais-anpd](references/concepts/lgpd-recursos-oficiais-anpd.md).
+- A **Resolução CD/ANPD nº 15/2024** (Regulamento de Comunicação de Incidente de Segurança) detalha prazos, conteúdo da comunicação e formato. **Esta resolução é a referência operacional vinculante** — releia-a a cada revisão anual do procedimento. Sintetizada em [[concepts/lgpd-recursos-oficiais-anpd]].
 - A comunicação à ANPD usa o canal oficial CIS: `https://www.gov.br/anpd/pt-br/canais_atendimento/agente-de-tratamento/comunicado-de-incidente-de-seguranca-cis`
 - O **PRO_10.001 (Resposta a Incidentes)** deve operacionalizar prazos e responsáveis alinhados à Res. 15/2024.
 - O **PRO_05.001** atende a solicitações de titulares afetados.

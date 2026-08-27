@@ -4,6 +4,9 @@ type: concept
 created: 2026-07-27
 updated: 2026-07-27
 tags: [prazos, tre-pr, tse, psi, lai, pgppdp]
+status: não-aplicável
+curadoria: completa
+escopo: contextual
 ---
 
 # Prazos Normativos Consolidados

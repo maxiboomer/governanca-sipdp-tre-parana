@@ -4,6 +4,9 @@ type: entity
 created: 2024-01-15
 updated: 2026-08-04
 tags: [anpd, lgpd, regulacao]
+status: não-aplicável
+curadoria: completa
+escopo: contextual
 ---
 
 # ANPD - Autoridade Nacional de Proteção de Dados Pessoais
@@ -37,5 +40,5 @@ A ANPD é a autarquia federal responsável pela fiscalização e supervisão do 
 - Telefone: 146 (ligação gratuita)
 
 ## Links Importantes
-- [lgpd-fundamentos](references/concepts/lgpd-fundamentos.md)
-- [lgpd-recursos-oficiais-anpd](references/concepts/lgpd-recursos-oficiais-anpd.md)
+- [[concepts/lgpd-fundamentos]]
+- [[concepts/lgpd-recursos-oficiais-anpd]]

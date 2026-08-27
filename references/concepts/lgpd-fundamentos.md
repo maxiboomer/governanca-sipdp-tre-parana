@@ -4,6 +4,9 @@ type: concept
 created: 2024-01-15
 updated: 2026-08-04
 tags: [lgpd, privacidade, compliance]
+status: não-aplicável
+curadoria: completa
+escopo: contextual
 ---
 
 # LGPD - Fundamentos
@@ -49,6 +52,6 @@ No setor público, a LGPD exige:
 - Política de privacidade
 
 ## Links Úteis
-- [programa-compliance-lgpd-setor-publico](references/concepts/programa-compliance-lgpd-setor-publico.md)
-- [lgpd-diagnostico-fase1](references/concepts/lgpd-diagnostico-fase1.md)
-- [lgpd-implementacao-fase2](references/concepts/lgpd-implementacao-fase2.md)
+- [[concepts/programa-compliance-lgpd-setor-publico]]
+- [[concepts/lgpd-diagnostico-fase1]]
+- [[concepts/lgpd-implementacao-fase2]]

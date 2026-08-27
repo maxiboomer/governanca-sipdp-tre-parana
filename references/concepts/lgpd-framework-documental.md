@@ -4,6 +4,9 @@ type: concept
 created: 2026-07-27
 updated: 2026-07-27
 tags: [lgpd, setor-publico, framework-documental, taxonomia]
+status: não-aplicável
+curadoria: completa
+escopo: contextual
 ---
 
 # Framework Documental do Programa LGPD

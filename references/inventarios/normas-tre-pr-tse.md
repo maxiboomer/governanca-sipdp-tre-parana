@@ -4,6 +4,9 @@ type: inventario
 created: 2026-07-27
 updated: 2026-08-26
 tags: [secti, tre-pr, tse, inventario-normas]
+status: não-aplicável
+curadoria: completa
+escopo: contextual
 ---
 
 # Inventário de Normas — TRE-PR / TSE (SECTI)

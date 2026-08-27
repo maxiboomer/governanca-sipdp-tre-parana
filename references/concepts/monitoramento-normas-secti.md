@@ -4,6 +4,9 @@ type: concept
 created: 2026-07-27
 updated: 2026-07-27
 tags: [secti, tre-pr, cnj, inventario-normas, tecnologia-informacao]
+status: não-aplicável
+curadoria: completa
+escopo: contextual
 ---
 
 # Monitoramento de Normas Internas (SECTI / TRE-PR)
@@ -14,30 +17,30 @@ correlatas do CNJ, com status de vigência (Vigente/Revogada/Em revisão). Consu
 que for preciso saber se uma norma, IN, Portaria, Resolução ou Norma Técnica SECTI está
 vigente, localizar a norma de um processo de TI (mudanças, incidentes, capacidade,
 ativos, contratações, criptografia, backup, ETIR, Comitê de Gestão da TI), ou atualizar
-o inventário. As tabelas completas estão em [normas-tre-pr-tse](references/inventarios/normas-tre-pr-tse.md) e
-[normas-cnj](references/inventarios/normas-cnj.md).
+o inventário. As tabelas completas estão em [[inventarios/normas-tre-pr-tse]] e
+[[inventarios/normas-cnj]].
 
 Esta página mantém e consulta o inventário de normas de TI e Segurança da
 Informação do TRE-PR mantido pela SECTI (Secretaria de Tecnologia da
 Informação), cruzado com as normas correlatas do CNJ.
 
-## Escopo x [seguranca-informacao-justica-eleitoral](references/concepts/seguranca-informacao-justica-eleitoral.md)
+## Escopo x [[concepts/seguranca-informacao-justica-eleitoral]]
 
 Esta página é o **inventário factual** (o que existe, qual o status de
 vigência, qual a ementa, onde foi publicado). Para **interpretação jurídica
 aprofundada** de PSI, LAI, PGPPDP, governança e crises cibernéticas — prazos,
 competências, estrutura de governança, pareceres de conformidade — use
-[seguranca-informacao-justica-eleitoral](references/concepts/seguranca-informacao-justica-eleitoral.md), que é complementar a esta. Ao
+[[concepts/seguranca-informacao-justica-eleitoral]], que é complementar a esta. Ao
 responder qualquer pergunta sobre PSI (Res. TSE 23.763/2026 ou Res. TRE-PR 974/2026),
 GSI, ETIR, CGSIPDP, PGPPDP ou LAI, consulte também aquela página
 — não pare só no inventário.
 
 ## Arquivos de referência
 
-- [normas-tre-pr-tse](references/inventarios/normas-tre-pr-tse.md) — inventário completo de normas do TRE-PR (e do
+- [[inventarios/normas-tre-pr-tse]] — inventário completo de normas do TRE-PR (e do
   TSE quando aplicável), colunas: Norma, Procedência, Ementa, Situação da
   norma, 1ª versão, Última revisão, Situação (fonte/publicação), Observações.
-- [normas-cnj](references/inventarios/normas-cnj.md) — inventário de normas do CNJ relevantes para
+- [[inventarios/normas-cnj]] — inventário de normas do CNJ relevantes para
   TIC/SI aplicáveis ao TRE-PR, agrupadas por eixo temático (Governança e
   Gestão de TIC, Inteligência Artificial e Inovação, Segurança da Informação e
   Proteção de Dados, Soluções de TIC e Plataformas).
@@ -50,7 +53,7 @@ anterior nesta conversa, porque o inventário pode ter sido atualizado.
 
 ### 1. Consulta factual direta
 ("A IN-DG 04/2020 está vigente?", "quem edita a Norma Técnica SECTI 02/2026?")
-- Localize a linha exata em [normas-tre-pr-tse](references/inventarios/normas-tre-pr-tse.md) ou [normas-cnj](references/inventarios/normas-cnj.md).
+- Localize a linha exata em [[inventarios/normas-tre-pr-tse]] ou [[inventarios/normas-cnj]].
 - Responda com Norma, Situação da norma e, se houver, a coluna Observações
   (ela carrega alertas e correções importantes — nunca ignore).
 - Se a norma tiver sido revogada, informe pelo que foi revogada, quando
@@ -77,7 +80,7 @@ Quando o usuário informar uma norma nova, uma revogação, ou pedir para
 1. Pergunte (ou confirme, se já estiver claro na conversa) os campos: Norma,
    Procedência, Ementa, Situação da norma, 1ª versão, Última revisão,
    Situação/fonte de publicação.
-2. Edite [normas-tre-pr-tse](references/inventarios/normas-tre-pr-tse.md) ou [normas-cnj](references/inventarios/normas-cnj.md) mantendo o formato de
+2. Edite [[inventarios/normas-tre-pr-tse]] ou [[inventarios/normas-cnj]] mantendo o formato de
    tabela existente — não reordene colunas.
 3. Se a norma corrigir ou revogar outra já listada, atualize também a
    "Situação da norma" da norma antiga e registre em Observações a razão e a

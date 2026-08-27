@@ -4,6 +4,9 @@ type: concept
 created: 2026-07-27
 updated: 2026-07-27
 tags: [lgpd, setor-publico, diagnostico, gap-analysis]
+status: não-aplicável
+curadoria: completa
+escopo: contextual
 ---
 
 # Fase 1 — Diagnóstico (Gap Analysis LGPD)
@@ -98,7 +101,7 @@ Diagnosticar a estrutura documental existente em três camadas hierárquicas:
 2. **Diretriz / Norma** — nível tático; estabelece regras gerais para um tema.
 3. **Procedimento** — nível operacional; descreve o passo a passo.
 
-O resultado é um **gap documental** comparando o existente com a lista esperada pelo framework (ver [lgpd-framework-documental](references/concepts/lgpd-framework-documental.md)).
+O resultado é um **gap documental** comparando o existente com a lista esperada pelo framework (ver [[concepts/lgpd-framework-documental]]).
 
 ## Etapa 5 — Análise da infraestrutura física e de TI
 
@@ -156,7 +159,7 @@ Cada operador identificado precisa estar coberto por contrato com cláusulas LGP
 
 ## Etapas 7 e 8 — Avaliação e relatório de maturidade
 
-A avaliação utiliza a escala de maturidade 0–5 aplicada aos 12 domínios, considerando cinco áreas de foco transversais (Visão, Processos, Pessoas, Tecnologia, Cultura). O detalhamento da metodologia de avaliação está em [lgpd-maturidade-avaliacao](references/concepts/lgpd-maturidade-avaliacao.md).
+A avaliação utiliza a escala de maturidade 0–5 aplicada aos 12 domínios, considerando cinco áreas de foco transversais (Visão, Processos, Pessoas, Tecnologia, Cultura). O detalhamento da metodologia de avaliação está em [[concepts/lgpd-maturidade-avaliacao]].
 
 ### Estrutura sugerida do Relatório de Maturidade
 

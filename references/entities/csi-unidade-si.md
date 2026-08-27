@@ -4,6 +4,9 @@ type: entity
 created: 2024-01-15
 updated: 2026-08-04
 tags: [csi, si, seguranca, tribel-pr]
+status: não-aplicável
+curadoria: completa
+escopo: contextual
 ---
 
 # CSI e Unidade de Segurança da Informação da PSI Nacional
@@ -39,9 +42,9 @@ A CSI (Companhia de Segurança da Informação) e a Unidade de Segurança da Inf
    - Local: Orçamento estadual
 
 ## Relacionamentos
-- [cgsipdp](references/entities/cgsipdp.md)
-- [etir](references/entities/etir.md)
-- [encarregado-dpo](references/entities/encarregado-dpo.md)
+- [[entities/cgsipdp]]
+- [[entities/etir]]
+- [[entities/encarregado-dpo]]
 
 ## Fontes
 - Resolução TSE 23.763/2026

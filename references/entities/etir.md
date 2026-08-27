@@ -4,6 +4,9 @@ type: entity
 created: 2024-01-15
 updated: 2026-08-04
 tags: [etir, incidentes, resposta, tribel-pr, tse]
+status: não-aplicável
+curadoria: completa
+escopo: contextual
 ---
 
 # ETIR - Equipe de Tratamento e Resposta a Incidentes
@@ -68,9 +71,9 @@ A ETIR é a equipe nacional de tratamento e resposta a incidentes de segurança 
 | 4 | Sistema | Protocolo de crise |
 
 ## Relacionamentos
-- [cgsipdp](references/entities/cgsipdp.md)
-- [csi-unidade-si](references/entities/csi-unidade-si.md)
-- [governanca-e-crises-tre-pr](references/normas/governanca-e-crises-tre-pr.md)
+- [[entities/cgsipdp]]
+- [[entities/csi-unidade-si]]
+- [[normas/governanca-e-crises-tre-pr]]
 
 ## Fontes
 - Resolução TSE 23.763/2026

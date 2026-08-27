@@ -4,6 +4,9 @@ type: concept
 created: 2026-07-27
 updated: 2026-07-27
 tags: [lgpd, setor-publico, compliance, anpd]
+status: não-aplicável
+curadoria: completa
+escopo: contextual
 ---
 
 # Programa de Compliance LGPD para o Setor Público
@@ -11,12 +14,12 @@ tags: [lgpd, setor-publico, compliance, anpd]
 Metodologia para estruturar um programa de adequação à LGPD (Lei 13.709/2018) em órgãos
 públicos brasileiros, integrada às resoluções da CD/ANPD e ao Guia para o Poder Público.
 Organizada em duas fases (diagnóstico e implementação), apoiada num framework documental
-padronizado ([lgpd-framework-documental](references/concepts/lgpd-framework-documental.md)) e num modelo de avaliação de
+padronizado ([[concepts/lgpd-framework-documental]]) e num modelo de avaliação de
 maturidade em 12 domínios de segurança da informação e privacidade
-([lgpd-maturidade-avaliacao](references/concepts/lgpd-maturidade-avaliacao.md)).
+([[concepts/lgpd-maturidade-avaliacao]]).
 
 Se o tratamento for de tribunal especificamente (Res. CNJ 363/2021), combinar com
-[cnj-resolucao-363-2021](references/normas/cnj-resolucao-363-2021.md) e [implementacao-cnj-363-2021](references/concepts/implementacao-cnj-363-2021.md).
+[[normas/cnj-resolucao-363-2021]] e [[concepts/implementacao-cnj-363-2021]].
 
 ## Quando consultar esta página
 
@@ -30,8 +33,8 @@ Relevante quando o pedido envolver pelo menos um destes contextos:
 6. **Tópicos específicos do setor público** — sanções restritas da ANPD (art. 52, §3º), encarregado em órgão público, relação com a LAI, com a Resolução CNJ 363/2021 (tribunais), regras de transparência ativa vs. proteção de dados.
 
 Esta página cobre o setor público em geral. Se for sobre tribunais especificamente
-(Resolução CNJ 363/2021), combinar com [cnj-resolucao-363-2021](references/normas/cnj-resolucao-363-2021.md) e
-[implementacao-cnj-363-2021](references/concepts/implementacao-cnj-363-2021.md).
+(Resolução CNJ 363/2021), combinar com [[normas/cnj-resolucao-363-2021]] e
+[[concepts/implementacao-cnj-363-2021]].
 
 ## Visão geral do framework
 
@@ -39,8 +42,8 @@ Esta página cobre o setor público em geral. Se for sobre tribunais especificam
 
 O programa é construído sequencialmente em duas fases:
 
-- **Fase 1 — Diagnóstico (Gap Analysis):** levantamento da situação atual em 8 etapas, culminando num relatório de maturidade. Detalhes em [lgpd-diagnostico-fase1](references/concepts/lgpd-diagnostico-fase1.md).
-- **Fase 2 — Implementação:** execução de 16 marcos operacionais que constroem a estrutura de governança, segurança e privacidade. Detalhes em [lgpd-implementacao-fase2](references/concepts/lgpd-implementacao-fase2.md).
+- **Fase 1 — Diagnóstico (Gap Analysis):** levantamento da situação atual em 8 etapas, culminando num relatório de maturidade. Detalhes em [[concepts/lgpd-diagnostico-fase1]].
+- **Fase 2 — Implementação:** execução de 16 marcos operacionais que constroem a estrutura de governança, segurança e privacidade. Detalhes em [[concepts/lgpd-implementacao-fase2]].
 
 ### Os 12 domínios de segurança da informação e privacidade
 
@@ -79,7 +82,7 @@ Todo documento do programa segue um código padronizado `TIPO_DD.NNN`, onde:
 
 Exemplo: `POL_05.001` = Política nº 1 do domínio 05 (Gestão da Privacidade) = Política de Proteção de Dados Pessoais.
 
-A relação completa de documentos esperados, com finalidade e conteúdo mínimo de cada um, está em [lgpd-framework-documental](references/concepts/lgpd-framework-documental.md).
+A relação completa de documentos esperados, com finalidade e conteúdo mínimo de cada um, está em [[concepts/lgpd-framework-documental]].
 
 ## Como navegar pelos arquivos de referência
 
@@ -87,17 +90,17 @@ Carregue apenas o(s) arquivo(s) relevante(s) à tarefa. Não carregue tudo de um
 
 | Se o pedido envolve... | Carregue |
 |---|---|
-| Diagnóstico, gap analysis, mapeamento de bases, ciclo de vida de dados, checklist do controlador | [lgpd-diagnostico-fase1](references/concepts/lgpd-diagnostico-fase1.md) |
-| Execução do programa, marcos de implementação, Privacy by Design, DPIA/RIPD, incidentes | [lgpd-implementacao-fase2](references/concepts/lgpd-implementacao-fase2.md) |
-| Redação ou revisão de qualquer documento POL/PRO/MAT/FRM/PLA, classificação da informação, matriz de ativos | [lgpd-framework-documental](references/concepts/lgpd-framework-documental.md) |
-| Avaliação de maturidade, escala 0–5, áreas de foco (Visão/Processos/Pessoas/Tecnologia/Cultura), critérios CID para ativos | [lgpd-maturidade-avaliacao](references/concepts/lgpd-maturidade-avaliacao.md) |
-| Sanções da ANPD ao setor público, base legal, conceitos-chave, princípios e bases legais | [lgpd-fundamentos](references/concepts/lgpd-fundamentos.md) |
-| Resoluções vigentes da CD/ANPD, Guia para Poder Público, RIPD oficial, canal de comunicação de incidentes, prática fiscalizatória da ANPD (caso Claro/Serasa — testes de transparência, art. 18 e encarregado), hierarquia de fontes | [lgpd-recursos-oficiais-anpd](references/concepts/lgpd-recursos-oficiais-anpd.md) |
-| Sistema de IA tratando dados pessoais, decisões automatizadas (art. 20), vieses algorítmicos, RIPD para projeto de IA, modelos pré-treinados de terceiros, Privacy by Design aplicado a IA | [lgpd-ia-governanca](references/concepts/lgpd-ia-governanca.md) |
+| Diagnóstico, gap analysis, mapeamento de bases, ciclo de vida de dados, checklist do controlador | [[concepts/lgpd-diagnostico-fase1]] |
+| Execução do programa, marcos de implementação, Privacy by Design, DPIA/RIPD, incidentes | [[concepts/lgpd-implementacao-fase2]] |
+| Redação ou revisão de qualquer documento POL/PRO/MAT/FRM/PLA, classificação da informação, matriz de ativos | [[concepts/lgpd-framework-documental]] |
+| Avaliação de maturidade, escala 0–5, áreas de foco (Visão/Processos/Pessoas/Tecnologia/Cultura), critérios CID para ativos | [[concepts/lgpd-maturidade-avaliacao]] |
+| Sanções da ANPD ao setor público, base legal, conceitos-chave, princípios e bases legais | [[concepts/lgpd-fundamentos]] |
+| Resoluções vigentes da CD/ANPD, Guia para Poder Público, RIPD oficial, canal de comunicação de incidentes, prática fiscalizatória da ANPD (caso Claro/Serasa — testes de transparência, art. 18 e encarregado), hierarquia de fontes | [[concepts/lgpd-recursos-oficiais-anpd]] |
+| Sistema de IA tratando dados pessoais, decisões automatizadas (art. 20), vieses algorítmicos, RIPD para projeto de IA, modelos pré-treinados de terceiros, Privacy by Design aplicado a IA | [[concepts/lgpd-ia-governanca]] |
 
 Para pedidos amplos ("monte o programa inteiro"), trabalhe em ordem: fundamentos → recursos oficiais ANPD → fase 1 → fase 2 → framework documental → maturidade.
 
-**Regra de ouro:** ao redigir qualquer documento normativo do programa (POL/PRO), **sempre** consulte [lgpd-recursos-oficiais-anpd](references/concepts/lgpd-recursos-oficiais-anpd.md) para verificar se há resolução ou guia oficial específico que rege o tema, antes de aplicar o conteúdo consolidado nas demais references.
+**Regra de ouro:** ao redigir qualquer documento normativo do programa (POL/PRO), **sempre** consulte [[concepts/lgpd-recursos-oficiais-anpd]] para verificar se há resolução ou guia oficial específico que rege o tema, antes de aplicar o conteúdo consolidado nas demais references.
 
 ## Princípios para a redação dos documentos
 
@@ -111,10 +114,10 @@ Ao gerar qualquer documento do framework, siga estes princípios:
 
 ## Princípio de cautela sobre o material-fonte
 
-Esta skill foi consolidada a partir de material didático aplicado em um órgão público, complementado com fontes oficiais da ANPD. Durante a consolidação, foi identificado pelo menos um ponto de imprecisão no material original (sanções aplicáveis ao setor público — ver [lgpd-fundamentos](references/concepts/lgpd-fundamentos.md)). Ao usar este material:
+Esta skill foi consolidada a partir de material didático aplicado em um órgão público, complementado com fontes oficiais da ANPD. Durante a consolidação, foi identificado pelo menos um ponto de imprecisão no material original (sanções aplicáveis ao setor público — ver [[concepts/lgpd-fundamentos]]). Ao usar este material:
 
-- **Fontes oficiais da ANPD são canônicas.** A página [lgpd-recursos-oficiais-anpd](references/concepts/lgpd-recursos-oficiais-anpd.md) consolida resoluções vigentes, o Guia para o Poder Público e a página oficial de RIPD, com links diretos para a versão atualizada. Em caso de conflito entre o conteúdo desta página e essas fontes, **as fontes oficiais prevalecem**.
-- **Resoluções regulatórias vigentes a observar:** Res. CD/ANPD nº 1/2021, nº 2/2022, nº 4/2023, nº 15/2024, nº 18/2024, nº 19/2024 e nº 32/2026. Detalhes em [lgpd-recursos-oficiais-anpd](references/concepts/lgpd-recursos-oficiais-anpd.md).
-- **Guia obrigatório para o setor público:** *Guia Orientativo sobre Tratamento de Dados Pessoais pelo Poder Público* (ANPD, versão atualizada em junho de 2023). Sintetizado em [lgpd-recursos-oficiais-anpd](references/concepts/lgpd-recursos-oficiais-anpd.md).
+- **Fontes oficiais da ANPD são canônicas.** A página [[concepts/lgpd-recursos-oficiais-anpd]] consolida resoluções vigentes, o Guia para o Poder Público e a página oficial de RIPD, com links diretos para a versão atualizada. Em caso de conflito entre o conteúdo desta página e essas fontes, **as fontes oficiais prevalecem**.
+- **Resoluções regulatórias vigentes a observar:** Res. CD/ANPD nº 1/2021, nº 2/2022, nº 4/2023, nº 15/2024, nº 18/2024, nº 19/2024 e nº 32/2026. Detalhes em [[concepts/lgpd-recursos-oficiais-anpd]].
+- **Guia obrigatório para o setor público:** *Guia Orientativo sobre Tratamento de Dados Pessoais pelo Poder Público* (ANPD, versão atualizada em junho de 2023). Sintetizado em [[concepts/lgpd-recursos-oficiais-anpd]].
 - **Para tribunais:** integrar com a **Resolução CNJ 363/2021**.
 - **Hierarquia de fontes:** LGPD > Resoluções CD/ANPD > Guias orientativos da ANPD > Notas técnicas e enunciados > conteúdo das demais páginas desta wiki.

@@ -5,6 +5,9 @@ created: 2026-08-06
 updated: 2026-08-06
 tags: [fonte, coleta-automatica, tre-pr-os-]
 source_date: 2026-08-06
+status: não-aplicável
+curadoria: completa
+escopo: contextual
 ---
 
 # Ordens de Serviço TRE-PR
@@ -12,7 +15,7 @@ source_date: 2026-08-06
 ## Summary
 
 Ordens de Serviço do TRE-PR (criptografia, MDS, equipamentos de TI). Coletadas automaticamente em 06/08/2026 a partir do acervo compilado oficial dos portais
-[inventário SECTI](references/inventarios/normas-tre-pr-tse.md) do TRE-PR/TSE. Total de 3 documentos.
+[[wiki/inventarios/normas-tre-pr-tse|inventário SECTI]] do TRE-PR/TSE. Total de 3 documentos.
 
 ## Key Takeaways
 
@@ -22,17 +25,17 @@ Ordens de Serviço do TRE-PR (criptografia, MDS, equipamentos de TI). Coletadas 
 
 ## Documentos (3)
 
-- [ORDEM DE SERVIÇO-DG Nº 04/2009](references/raw/tre-pr-os-04-2009-equipamentos-informatica.md)
-- [ORDEM DE SERVIÇO Nº 07/2017](references/raw/tre-pr-os-07-2017-criptografia.md)
-- [ORDEM DE SERVIÇO Nº 08/2017](references/raw/tre-pr-os-08-2017-mds.md)
+- [[raw/tre-pr-os-04-2009-equipamentos-informatica|ORDEM DE SERVIÇO-DG Nº 04/2009]]
+- [[raw/tre-pr-os-07-2017-criptografia|ORDEM DE SERVIÇO Nº 07/2017]]
+- [[raw/tre-pr-os-08-2017-mds|ORDEM DE SERVIÇO Nº 08/2017]]
 
 ## Relevant Entities
 
-- [cgsipdp](references/entities/cgsipdp.md) · [etir](references/entities/etir.md) · [csi-unidade-si](references/entities/csi-unidade-si.md) · [anpd](references/entities/anpd.md) · [encarregado-dpo](references/entities/encarregado-dpo.md)
+- [[entities/cgsipdp]] · [[entities/etir]] · [[entities/csi-unidade-si]] · [[entities/anpd]] · [[entities/encarregado-dpo]]
 
 ## Relevant Concepts
 
-- [seguranca-informacao-justica-eleitoral](references/concepts/seguranca-informacao-justica-eleitoral.md) · [lgpd-fundamentos](references/concepts/lgpd-fundamentos.md) · [monitoramento-normas-secti](references/concepts/monitoramento-normas-secti.md)
+- [[concepts/seguranca-informacao-justica-eleitoral]] · [[concepts/lgpd-fundamentos]] · [[concepts/monitoramento-normas-secti]]
 
 ## Raw Source
 

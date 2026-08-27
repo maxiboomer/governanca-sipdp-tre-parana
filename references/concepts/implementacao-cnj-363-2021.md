@@ -4,6 +4,9 @@ type: concept
 created: 2024-01-15
 updated: 2026-08-04
 tags: [cnj, lgpd, implementacao, tribunais]
+status: não-aplicável
+curadoria: completa
+escopo: contextual
 ---
 
 # Implementação da Resolução CNJ 363/2021
@@ -58,6 +61,6 @@ tags: [cnj, lgpd, implementacao, tribunais]
 - **Recursos limitados** - Priorização necessária
 
 ## Referências
-- [cnj-resolucao-363-2021](references/normas/cnj-resolucao-363-2021.md)
-- [encarregado-dpo](references/entities/encarregado-dpo.md)
-- [programa-compliance-lgpd-setor-publico](references/concepts/programa-compliance-lgpd-setor-publico.md)
+- [[normas/cnj-resolucao-363-2021]]
+- [[entities/encarregado-dpo]]
+- [[concepts/programa-compliance-lgpd-setor-publico]]

@@ -4,6 +4,9 @@ type: entity
 tags: [tre-pr, governanca, si, pdp, lgpd, continuidade, integridade, vigente]
 created: 2026-08-26
 updated: 2026-08-26
+status: não-aplicável
+curadoria: completa
+escopo: contextual
 ---
 
 # AGM — Assessoria Técnica de Governança e Monitoramento da Segurança da Informação

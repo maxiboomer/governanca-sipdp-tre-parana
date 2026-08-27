@@ -4,6 +4,9 @@ type: inventario
 created: 2026-07-27
 updated: 2026-07-27
 tags: [cnj, inventario-normas, tic, seguranca-informacao]
+status: não-aplicável
+curadoria: completa
+escopo: contextual
 ---
 
 # Inventário de Normas — CNJ (referência de TIC/SI aplicáveis ao TRE-PR)

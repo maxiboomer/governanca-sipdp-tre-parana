@@ -4,6 +4,9 @@ type: concept
 created: 2024-01-15
 updated: 2026-08-04
 tags: [anpd, lgpd, recursos, documentos]
+status: não-aplicável
+curadoria: completa
+escopo: contextual
 ---
 
 # Recursos Oficiais ANPD
@@ -26,7 +29,7 @@ Documento complementar que esclarece aplicação da LGPD ao setor público:
 
 ### RIPD (Relatório de Impacto à Proteção de Dados)
 Instrumento obrigatório para projetos com risco elevado aos direitos:
-- [lgpd-ia-governanca](references/concepts/lgpd-ia-governanca.md) - RIPD para IA
+- [[concepts/lgpd-ia-governanca]] - RIPD para IA
 
 ## Aplicacao ao Setor Publico
 
@@ -57,6 +60,6 @@ Instrumento obrigatório para projetos com risco elevado aos direitos:
 - **Caso de reidentificação** - Padrões técnicos de anonimização
 
 ## Links Relacionados
-- [anpd](references/entities/anpd.md)
-- [lgpd-fundamentos](references/concepts/lgpd-fundamentos.md)
-- [lgpd-implementacao-fase2](references/concepts/lgpd-implementacao-fase2.md)
+- [[entities/anpd]]
+- [[concepts/lgpd-fundamentos]]
+- [[concepts/lgpd-implementacao-fase2]]

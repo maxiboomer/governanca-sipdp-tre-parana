@@ -5,6 +5,9 @@ created: 2026-08-06
 updated: 2026-08-06
 tags: [fonte, coleta-automatica, tse-resolucao]
 source_date: 2026-08-06
+status: não-aplicável
+curadoria: completa
+escopo: contextual
 ---
 
 # Resoluções TSE
@@ -12,7 +15,7 @@ source_date: 2026-08-06
 ## Summary
 
 Resoluções do TSE (Segurança da Informação, PSI, PGPPDP e acesso à informação). Coletadas automaticamente em 06/08/2026 a partir do acervo compilado oficial dos portais
-[inventário SECTI](references/inventarios/normas-tre-pr-tse.md) do TRE-PR/TSE. Total de 5 documentos.
+[[wiki/inventarios/normas-tre-pr-tse|inventário SECTI]] do TRE-PR/TSE. Total de 5 documentos.
 
 ## Key Takeaways
 
@@ -22,19 +25,19 @@ Resoluções do TSE (Segurança da Informação, PSI, PGPPDP e acesso à informa
 
 ## Documentos (5)
 
-- [Resolução TSE 23.435/2015 - Regulamenta Acesso à Informação](references/raw/tse-resolucao-23-435-2015-acesso-informacao.md)
-- [Resolução TSE 23.501/2016 - Política de Segurança da Informação](references/raw/tse-resolucao-23-501-2016-psi-anterior.md)
-- [Resolução TSE 23.644/2021 - Política de Segurança da Informação (PSI) Antiga](references/raw/tse-resolucao-23-644-2021-psi-antiga.md)
-- [Resolução TSE 23.650/2021 - Política Geral de Privacidade e Proteção de Dados Pessoais](references/raw/tse-resolucao-23-650-2021-pgppdp.md)
-- [Resolução TSE 23.763/2026 - Política de Segurança da Informação (PSI) Nacional](references/raw/tse-resolucao-23-763-2026-psi-nacional.md)
+- [[raw/tse-resolucao-23-435-2015-acesso-informacao|Resolução TSE 23.435/2015 - Regulamenta Acesso à Informação]]
+- [[raw/tse-resolucao-23-501-2016-psi-anterior|Resolução TSE 23.501/2016 - Política de Segurança da Informação]]
+- [[raw/tse-resolucao-23-644-2021-psi-antiga|Resolução TSE 23.644/2021 - Política de Segurança da Informação (PSI) Antiga]]
+- [[raw/tse-resolucao-23-650-2021-pgppdp|Resolução TSE 23.650/2021 - Política Geral de Privacidade e Proteção de Dados Pessoais]]
+- [[raw/tse-resolucao-23-763-2026-psi-nacional|Resolução TSE 23.763/2026 - Política de Segurança da Informação (PSI) Nacional]]
 
 ## Relevant Entities
 
-- [cgsipdp](references/entities/cgsipdp.md) · [etir](references/entities/etir.md) · [csi-unidade-si](references/entities/csi-unidade-si.md) · [anpd](references/entities/anpd.md) · [encarregado-dpo](references/entities/encarregado-dpo.md)
+- [[entities/cgsipdp]] · [[entities/etir]] · [[entities/csi-unidade-si]] · [[entities/anpd]] · [[entities/encarregado-dpo]]
 
 ## Relevant Concepts
 
-- [seguranca-informacao-justica-eleitoral](references/concepts/seguranca-informacao-justica-eleitoral.md) · [lgpd-fundamentos](references/concepts/lgpd-fundamentos.md) · [monitoramento-normas-secti](references/concepts/monitoramento-normas-secti.md)
+- [[concepts/seguranca-informacao-justica-eleitoral]] · [[concepts/lgpd-fundamentos]] · [[concepts/monitoramento-normas-secti]]
 
 ## Raw Source
 

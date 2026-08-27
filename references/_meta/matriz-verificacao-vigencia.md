@@ -11,59 +11,32 @@ tags: [metadados, vigencia, auditoria]
 
 # Matriz de verificação de vigência normativa
 
-## Resultado consolidado (reavaliação completa — 2026-08-26)
+## Critério
 
-Todas as **168 páginas de normas** têm status definitivo:
+A matriz separa confirmação por fonte oficial, revogação expressa no texto e situação ainda pendente. Localizar uma página oficial confirma a existência/publicação do ato, mas não necessariamente prova que não houve alteração posterior.
 
-| Status | Qtd | Critério |
-|---|---|---|
-| **Vigente** | 136 | Publicação localizada no compilado oficial (TRE-PR/TSE/CNJ) ou lei vigente |
-| **Revogada** | 19 | Revogação expressa no próprio texto ou em norma posterior |
-| **Histórica** | 12 | Plano de período encerrado / instrumento superado por versão mais recente |
-| **Não-aplicável** | 1 | Sem status jurídico aplicável |
-| **Sem status** | 0 | — |
+## Verificados nesta rodada
 
-## Erros corrigidos nesta reavaliação
+- [[wiki/normas/tre-pr-portaria-dg-575-2025-etir]] — `vigente` — Página oficial TRE-PR localizada; art. 3 vigência na publicação; DJE 241/2025.
+- [[wiki/normas/tre-pr-norma-tecnica-secti-001-2026-modelo-nuvem]] — `vigente` — Página oficial TRE-PR localizada; art. 14 vigência na publicação; DJE 037/2026.
+- [[wiki/normas/tre-pr-nt-secti-norma-tecnica-005-de-05-de-agosto-de-2026]] — `vigente` — Página oficial TRE-PR localizada; art. 11 vigência na publicação; DJE 152/2026.
+- [[wiki/normas/cnj-resolucao-363-2021-adecuacao-lgpd]] — `vigente` — Atos CNJ, registro 3668: situação Vigente; alteração Portaria CNJ 181/2025.
+- [[wiki/normas/tre-pr-in-dg-06-2018-servicos-essenciais]] — `revogada` — IN 010/2025, art. 3, revoga expressamente a IN 006/2018.
+- [[wiki/normas/tre-pr-in-dg-01-2018-compartilhamento-arquivos]] — `revogada` — A própria fonte declara revogação pela IN 004/2022, art. 28.
+- [[wiki/normas/tre-pr-in-dg-08-2018-contas-senhas]] — `revogada` — A própria fonte declara revogação pela IN 004/2022, art. 28.
+- [[wiki/normas/tre-pr-in-dg-09-2018-acesso-internet]] — `revogada` — A própria fonte declara revogação pela IN 004/2022, art. 28.
+- [[wiki/normas/tre-pr-in-dg-12-2018-acesso-servicos-internet]] — `revogada` — A própria fonte declara revogação pela IN 004/2022, art. 28.
 
-1. **10 normas de SI/PDP ficaram sem status** por grafia variante do campo (`Não confirmado`
-   em vez de `não-confirmada`), que meus scripts de atualização não capturaram. Eram normas
-   centrais: IN 07/2018 (backup), IN 08/2019 (vulnerabilidades), OS 07/2017 (criptografia),
-   Portaria 247/2021 (DPO), Portaria DG 086/2026 (CGSI/PDP), Res. 959/2025 (IA), Res. 962/2025
-   (Comitê de crises) e NTs SECTI 02/2022, 05/2020 e 08/2020. **Todas foram reavaliadas e
-   classificadas** (majoritariamente vigentes, exceto a OS 07/2017, marcada como histórica por
-   ter sido regulada de forma atual pela IN 003/2025 sobre criptografia).
+## Resultado da verificação dos 127 stubs
 
-2. **OS 08/2017 (MDS)** estava marcada como `vigente`, mas é **revogada** — a Portaria TRE-PR DG
-   132/2026 a revoga expressamente ("Revogar a Ordem de Serviço nº 08, de 18/12/2017").
+- Os **14 itens central-si-pdp foram curados** a partir do texto integral.
+- A vigência foi confirmada/documentada para os casos acima.
+- Os demais itens não foram declarados vigentes por inferência.
+- A verificação integral dos 127 stubs não pode ser concluída com segurança nesta rodada: o portal TRE-PR/TSE bloqueou acessos automatizados em algumas consultas (HTTP 403), e a confirmação individual exige localizar a publicação/alteração correspondente.
 
-3. **Planos de período encerrado** marcados como `histórica`:
-   - Res. 735/2016 (PETI 2016-2020)
-   - Portaria 350/2021 (PDTI 2021-2022)
-   - Portaria 341/2023 (PDTI 2023-2024)
-   - Portaria 133/2023 (PAC 2023)
-   - Res. 874/2021 (revisão do PEI 2021-2026)
+## Alertas de conteúdo
 
-4. **NTs superadas por versões mais recentes** marcadas como `histórica`:
-   - NT 003/2022 (planejamento orçamentário) → NT 004/2026
-   - NT 003/2024 (plano de gestão de riscos) → NT 001/2025
-
-## O que permanece como decisão de curadoria (não automatizável)
-
-- **Portarias de composição/designação** de comitês, comissões e equipes (ex.: comitê de gestão
-  de TI, equipes de trabalho, designações de membros) foram mantidas como vigentes quando
-  presentes no portal, mas são **substituídas por atos posteriores de nomeação**. Verificar a
-  composição atual antes de usar.
-- **Normas antigas mantidas no compilado** (Res. 756/2017 e 779/2017 de governança, Res. 815/2018
-  de contratações, OS 04/2009 de equipamentos) permanecem formalmente vigentes, pois são citadas
-  como base legal em normas atuais (ex.: a Res. 932/2024 referencia a 756/2017). É prudente
-  reavaliar a aplicação prática, mas **não há revogação expressa localizada**.
-- A distinção `vigente` × `histórica` para planos temporais depende de confirmar se o período do
-  plano já expirou.
-
-## Confiabilidade
-
-- **Compilado oficial é suficiente para "trabalhar"**, mas a citação em documento exige DJE/DOU
-  (ver ADR 0002).
-- Normas marcadas `revogada` têm a revogação **expressa** em norma posterior identificada
-  (IN 010/2025 → IN 006/2018; IN 004/2022 → INs 001, 008, 009, 012/2018; Portaria 132/2026 →
-  OS 08/2017; Res. TSE 23.763/2026 → 23.644/2021 → 23.501/2016).
+- A Resolução TSE 23.763/2026 é a referência atual de PSI nacional no corpus; as Resoluções 23.501/2016 e 23.644/2021 devem permanecer históricas/revogadas.
+- A IN 010/2025 substitui expressamente a IN 006/2018.
+- Portarias de composição de comitês e equipes não devem ser tratadas como estrutura atual sem conferir atos posteriores.
+- A verificação periódica deve considerar alterações, revogações parciais e atos de composição posteriores.
