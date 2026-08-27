@@ -4,8 +4,8 @@ type: fonte-normativa
 tags: [tre-pr, norma, coleta-automatica]
 curadoria: stub
 escopo: apoio-governanca-ti
-status: vigente
-status_verificacao: "Portaria 341/2023 compilada"
+status: histórica
+status_verificacao: "PDTI 2023-2024: período encerrado; PDTI atual é o 103/2025 (2025-2026); verificado em 2026-08-26."
 url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-presidencia-tre-pr/2023/portaria-ndeg-341-de-03-de-agosto-de-2023"
 created: 2026-08-26
 updated: 2026-08-26

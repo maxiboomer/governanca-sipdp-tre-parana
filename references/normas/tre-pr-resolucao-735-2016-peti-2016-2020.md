@@ -4,8 +4,8 @@ type: fonte-normativa
 tags: [tre-pr, norma, coleta-automatica]
 curadoria: stub
 escopo: apoio-governanca-ti
-status: vigente
-status_verificacao: "Res. 735/2016 compilada no portal TRE-PR"
+status: histórica
+status_verificacao: "PETI 2016-2020: período encerrado; mantido como histórico; verificado em 2026-08-26."
 url: "https://apps.tre-pr.jus.br/files/legislacaocompilada/res/2016/Res07352016.html"
 created: 2026-08-26
 updated: 2026-08-26

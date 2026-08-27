@@ -11,49 +11,59 @@ tags: [metadados, vigencia, auditoria]
 
 # Matriz de verificação de vigência normativa
 
-## Critério
+## Resultado consolidado (reavaliação completa — 2026-08-26)
 
-A matriz separa confirmação por fonte oficial, revogação expressa no texto e situação ainda pendente. Localizar uma página oficial confirma a existência/publicação do ato, mas não necessariamente prova que não houve alteração posterior.
-
-## Resultado consolidado
-
-Todas as **168 páginas de normas** tiveram seu status verificado nesta rodada:
+Todas as **168 páginas de normas** têm status definitivo:
 
 | Status | Qtd | Critério |
 |---|---|---|
-| **Vigente** | 135 | Publicação localizada no compilado oficial (TRE-PR/TSE/CNJ) ou em lei vigente |
-| **Revogada** | 18 | Revogação expressa no próprio texto ou em norma posterior |
-| **Outros** | 15 | Históricas / de composição / não-aplicáveis |
+| **Vigente** | 136 | Publicação localizada no compilado oficial (TRE-PR/TSE/CNJ) ou lei vigente |
+| **Revogada** | 19 | Revogação expressa no próprio texto ou em norma posterior |
+| **Histórica** | 12 | Plano de período encerrado / instrumento superado por versão mais recente |
+| **Não-aplicável** | 1 | Sem status jurídico aplicável |
+| **Sem status** | 0 | — |
 
-Não restam normas com `status: não-confirmada`.
+## Erros corrigidos nesta reavaliação
 
-## Base de verificação
+1. **10 normas de SI/PDP ficaram sem status** por grafia variante do campo (`Não confirmado`
+   em vez de `não-confirmada`), que meus scripts de atualização não capturaram. Eram normas
+   centrais: IN 07/2018 (backup), IN 08/2019 (vulnerabilidades), OS 07/2017 (criptografia),
+   Portaria 247/2021 (DPO), Portaria DG 086/2026 (CGSI/PDP), Res. 959/2025 (IA), Res. 962/2025
+   (Comitê de crises) e NTs SECTI 02/2022, 05/2020 e 08/2020. **Todas foram reavaliadas e
+   classificadas** (majoritariamente vigentes, exceto a OS 07/2017, marcada como histórica por
+   ter sido regulada de forma atual pela IN 003/2025 sobre criptografia).
 
-A verificação foi feita cruzando as páginas do vault com:
+2. **OS 08/2017 (MDS)** estava marcada como `vigente`, mas é **revogada** — a Portaria TRE-PR DG
+   132/2026 a revoga expressamente ("Revogar a Ordem de Serviço nº 08, de 18/12/2017").
 
-1. **Compilado oficial do TRE-PR** — listagens de Instruções Normativas, Resoluções, Normas
-   Técnicas da SECTI, Portarias da Presidência/Diretoria-Geral e Portarias Conjuntas, por ano.
-2. **Compilado oficial do TSE** — resoluções e portarias localizadas por busca no portal.
-3. **Atos do CNJ** — cadastro oficial (atos.cnj.jus.br).
-4. **Texto integral em `raw/`** — para revogações expressas no próprio ato.
+3. **Planos de período encerrado** marcados como `histórica`:
+   - Res. 735/2016 (PETI 2016-2020)
+   - Portaria 350/2021 (PDTI 2021-2022)
+   - Portaria 341/2023 (PDTI 2023-2024)
+   - Portaria 133/2023 (PAC 2023)
+   - Res. 874/2021 (revisão do PEI 2021-2026)
 
-## Notas de confiabilidade
+4. **NTs superadas por versões mais recentes** marcadas como `histórica`:
+   - NT 003/2022 (planejamento orçamentário) → NT 004/2026
+   - NT 003/2024 (plano de gestão de riscos) → NT 001/2025
 
-- **Compilado oficial é suficiente para "trabalhar", mas a citação em documento exige DJE/DOU.**
-  Para uso formal, subir a referência ao DJE (ver ADR 0002).
-- Algumas normas antigas (ex.: Res. 735/2016, 756/2017, OS 04/2009) permanecem no compilado e
-  foram mantidas como `vigente`, mas é prudente reavaliar se ainda têm aplicação prática.
-- **Portarias de composição de comitês e equipes** foram classificadas como vigentes pela presença
-  no portal, mas são substituídas por atos posteriores de nomeação; verificar a composição atual
-  antes de usar.
-- **Res. TSE 23.650/2021 (PGPPDP)** tinha duplicidade com denominação incorreta
-  (`pgppdp-tse-23650-2021.md`, chamada de "Plano Geracional de Proteção e Defesa"). A página
-  canônica é `tse-resolucao-23-650-2021-pgppdp.md`; a duplicidade virou alias com nota de correção.
+## O que permanece como decisão de curadoria (não automatizável)
 
-## Alertas de conteúdo
+- **Portarias de composição/designação** de comitês, comissões e equipes (ex.: comitê de gestão
+  de TI, equipes de trabalho, designações de membros) foram mantidas como vigentes quando
+  presentes no portal, mas são **substituídas por atos posteriores de nomeação**. Verificar a
+  composição atual antes de usar.
+- **Normas antigas mantidas no compilado** (Res. 756/2017 e 779/2017 de governança, Res. 815/2018
+  de contratações, OS 04/2009 de equipamentos) permanecem formalmente vigentes, pois são citadas
+  como base legal em normas atuais (ex.: a Res. 932/2024 referencia a 756/2017). É prudente
+  reavaliar a aplicação prática, mas **não há revogação expressa localizada**.
+- A distinção `vigente` × `histórica` para planos temporais depende de confirmar se o período do
+  plano já expirou.
 
-- A Resolução TSE 23.763/2026 é a referência atual de PSI nacional; as Resoluções 23.501/2016 e
-  23.644/2021 são `revogadas` (históricas).
-- A IN 010/2025 revoga expressamente a IN 006/2018.
-- As INs 001/2018, 008/2018, 009/2018 e 012/2018 foram revogadas pela IN 004/2022 (art. 28).
-- A revisão periódica deve considerar alterações, revogações parciais e atos posteriores.
+## Confiabilidade
+
+- **Compilado oficial é suficiente para "trabalhar"**, mas a citação em documento exige DJE/DOU
+  (ver ADR 0002).
+- Normas marcadas `revogada` têm a revogação **expressa** em norma posterior identificada
+  (IN 010/2025 → IN 006/2018; IN 004/2022 → INs 001, 008, 009, 012/2018; Portaria 132/2026 →
+  OS 08/2017; Res. TSE 23.763/2026 → 23.644/2021 → 23.501/2016).

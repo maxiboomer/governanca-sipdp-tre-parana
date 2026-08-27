@@ -3,8 +3,8 @@ title: "TRE-PR Norma Tecnica SECTI 08/2020 - Gerenciamento de Continuidade de Se
 created: 2026-08-26
 updated: 2026-08-26
 type: fonte-normativa
-status: "Não confirmado"
-status_verificacao: "Revisão inicial; confirmar no DJE/DOU antes de afirmar vigência."
+status: vigente
+status_verificacao: "NT SECTI 08/2020 compilada; continuidade de serviços; verificado em 2026-08-26."
 fonte_publicacao: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2020/norma-tecnica-no-08-de-15-de-julho-de-2020"
 data_publicacao: "15/07/2020"
 tags: [norma, curadoria, si-pdp]

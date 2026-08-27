@@ -4,8 +4,8 @@ type: fonte-normativa
 tags: [tre-pr, tecnologia, planejamento, pdti]
 curadoria: stub
 escopo: apoio-governanca-ti
-status: vigente
-status_verificacao: "Portaria 350/2021 compilada"
+status: histórica
+status_verificacao: "PDTI 2021-2022: período encerrado; sucedido por PDTIs posteriores; verificado em 2026-08-26."
 url: "https://sitdoc.tse.jus.br/sitdoc/DownloadFile?id=48c2e913-b759-4627-9390-4651cf6983c3&app=dje&extensao=pdf"
 created: 2026-08-26
 updated: 2026-08-26

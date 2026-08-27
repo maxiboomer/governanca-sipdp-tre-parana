@@ -4,8 +4,8 @@ type: fonte-normativa
 tags: [tre-pr, secti, norma-tecnica, gestao-riscos, seguranca-ti]
 curadoria: stub
 escopo: apoio-governanca-ti
-status: vigente
-status_verificacao: "NT SECTI 003/2024 compilada"
+status: histórica
+status_verificacao: "Plano de gestão de riscos 2024; sucedido pela NT 001/2025 (Plano 2025-2026); verificado em 2026-08-26."
 url: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2024/norma-tecnica-no-03-de-27-de-junho-de-2024"
 created: 2026-08-26
 updated: 2026-08-26

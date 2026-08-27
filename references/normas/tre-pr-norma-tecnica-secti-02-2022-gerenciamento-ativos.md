@@ -3,8 +3,8 @@ title: "TRE-PR Norma Tecnica SECTI 02/2022 - Gerenciamento de Ativos e configura
 created: 2026-08-26
 updated: 2026-08-26
 type: fonte-normativa
-status: "Não confirmado"
-status_verificacao: "Revisão inicial; confirmar no DJE/DOU antes de afirmar vigência."
+status: vigente
+status_verificacao: "NT SECTI 02/2022 compilada; ativos/configuração (ver possível sucessão por NT 02/2025); verificado em 2026-08-26."
 fonte_publicacao: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2022/norma-tecnica-no-02-de-12-de-setembro-de-2022"
 data_publicacao: "12/09/2022"
 tags: [norma, curadoria, si-pdp]

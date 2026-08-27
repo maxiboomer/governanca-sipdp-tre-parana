@@ -3,8 +3,8 @@ title: "ORDEM DE SERVIÇO Nº 07/2017"
 created: 2026-08-26
 updated: 2026-08-26
 type: fonte-normativa
-status: "Não confirmado"
-status_verificacao: "Revisão inicial; confirmar no DJE/DOU antes de afirmar vigência."
+status: histórica
+status_verificacao: "OS 07/2017 de criptografia; tema regulado de forma atual pela IN 003/2025 (recursos criptográficos); verificado em 2026-08-26."
 fonte_publicacao: "https://apps.tre-pr.jus.br/files/legislacaocompilada/os/2017/os072017dg.html"
 data_publicacao: ""
 tags: [norma, curadoria, si-pdp]

@@ -3,8 +3,8 @@ title: "TRE-Pr Portaria 247/2021 - Unidade Encarregada Dados LGPD"
 created: 2026-08-26
 updated: 2026-08-26
 type: fonte-normativa
-status: "Não confirmado"
-status_verificacao: "Revisão inicial; confirmar no DJE/DOU antes de afirmar vigência."
+status: vigente
+status_verificacao: "Portaria 247/2021 vigente; unidade encarregada de dados (DPO); revogou a Portaria 108/2021; verificado em 2026-08-26."
 fonte_publicacao: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-presidencia-tre-pr/2021/portaria-ndeg-247-de"
 data_publicacao: "24/05/2021"
 tags: [norma, curadoria, si-pdp]

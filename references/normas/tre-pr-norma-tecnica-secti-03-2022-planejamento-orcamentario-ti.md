@@ -4,8 +4,8 @@ type: fonte-normativa
 tags: [tre-pr, secti, norma-tecnica, planejamento-orcamentario, ti]
 curadoria: stub
 escopo: apoio-governanca-ti
-status: vigente
-status_verificacao: "NT SECTI 003/2022 compilada"
+status: histórica
+status_verificacao: "NT 003/2022 de planejamento orçamentário; tema atual regulado pela NT SECTI 004/2026; verificado em 2026-08-26."
 url: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2022/norma-tecnica-no-03-de-23-de-setembro-de-2022"
 created: 2026-08-26
 updated: 2026-08-26

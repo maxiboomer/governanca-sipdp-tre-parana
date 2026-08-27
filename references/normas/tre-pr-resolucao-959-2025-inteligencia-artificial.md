@@ -3,8 +3,8 @@ title: "TRE-PR Resolução 959/2025 - Inteligencia Artificial"
 created: 2026-08-26
 updated: 2026-08-26
 type: fonte-normativa
-status: "Não confirmado"
-status_verificacao: "Revisão inicial; confirmar no DJE/DOU antes de afirmar vigência."
+status: vigente
+status_verificacao: "Res. 959/2025 vigente; regulamenta o uso de IA na JE-PR; verificado em 2026-08-26."
 fonte_publicacao: "https://www.tre-pr.jus.br/legislacao/compilada/resolucoes-tre-pr/2025/resolucao-no-959-de-13-de-outubro-de-2025"
 data_publicacao: "13/10/2025"
 tags: [norma, curadoria, si-pdp]

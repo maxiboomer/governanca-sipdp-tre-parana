@@ -3,8 +3,8 @@ title: "Resolução TRE-PR 962/2025 - Comitê de Crises Cibernéticas"
 created: 2026-08-26
 updated: 2026-08-26
 type: fonte-normativa
-status: "Não confirmado"
-status_verificacao: "Revisão inicial; confirmar no DJE/DOU antes de afirmar vigência."
+status: vigente
+status_verificacao: "Res. 962/2025 vigente; Comitê de Crises Cibernéticas e protocolos; verificado em 2026-08-26."
 fonte_publicacao: "https://www.tre-pr.jus.br/legislacao/compilada/resolucoes-tre-pr/2025/resolucao-no-962-de-09-de-dezembro-de-2025"
 data_publicacao: "09/12/2025"
 tags: [norma, curadoria, si-pdp]

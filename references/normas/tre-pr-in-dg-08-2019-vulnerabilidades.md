@@ -3,8 +3,8 @@ title: "INSTRUÇÃO NORMATIVA Nº 08/2019"
 created: 2026-08-26
 updated: 2026-08-26
 type: fonte-normativa
-status: "Não confirmado"
-status_verificacao: "Revisão inicial; confirmar no DJE/DOU antes de afirmar vigência."
+status: vigente
+status_verificacao: "IN DG 08/2019 compilada no portal TRE-PR; gestão de vulnerabilidades; verificado em 2026-08-26."
 fonte_publicacao: "https://apps.tre-pr.jus.br/files/legislacaocompilada/in/2019/in082019.html"
 data_publicacao: ""
 tags: [norma, curadoria, si-pdp]

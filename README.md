@@ -51,10 +51,17 @@ citação de DJE/DOU (basta para citar em documento) → compilado oficial (serv
 trabalhar) → nada, e então a situação é **Não confirmada**.
 
 Situação nas páginas de normas (metadados curados):
-- **vigentes:** 135 com publicação oficial localizada ou compilado confirmado
-- **revogadas:** 18 com revogação expressa no texto ou em norma posterior
-- **não-confirmadas:** 0 — todas as normas foram verificadas
-- **outros:** 15 (históricas, de composição, etc.)
+- **vigentes:** 136 com publicação oficial localizada ou compilado confirmado
+- **revogadas:** 19 com revogação expressa no texto ou em norma posterior
+- **históricas:** 12 (planos de período encerrado, instrumentos superados)
+- **não-aplicáveis:** 1
+
+> **Nota de integridade (2026-08-26):** a reavaliação completa corrigiu (a) 10 normas de SI/PDP
+> (backup, vulnerabilidades, criptografia, DPO, CGSI/PDP, IA, comitê de crises, NTs) que haviam
+> ficado sem status por grafia variante do campo; (b) a OS 08/2017, que é **revogada** pela
+> Portaria DG 132/2026; (c) planos de período encerrado (PETI, PDTI, PAC, PEI) marcados como
+> históricos; e (d) NTs superadas por versões mais recentes (planejamento orçamentário, plano de
+> riscos). Nenhuma norma permanece sem status.
 
 A matriz completa está em `references/_meta/matriz-verificacao-vigencia.md`.
 

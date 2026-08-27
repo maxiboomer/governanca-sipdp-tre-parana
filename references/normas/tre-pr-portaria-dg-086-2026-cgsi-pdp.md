@@ -3,8 +3,8 @@ title: "Portaria DG TRE-PR 086/2026 - CGSIPD"
 created: 2026-08-26
 updated: 2026-08-26
 type: fonte-normativa
-status: "Não confirmado"
-status_verificacao: "Revisão inicial; confirmar no DJE/DOU antes de afirmar vigência."
+status: vigente
+status_verificacao: "Portaria DG 086/2026 vigente; institui/reestrutura o CGSI/PDP (revoga dispositivos de atos anteriores); verificado em 2026-08-26."
 fonte_publicacao: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2026/portaria-ndeg-086-de-25-de-fevereiro-de-2026"
 data_publicacao: "25/02/2026"
 tags: [norma, curadoria, si-pdp]
