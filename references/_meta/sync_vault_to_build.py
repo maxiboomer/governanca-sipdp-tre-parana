@@ -26,7 +26,7 @@ for src_dir,dst in map_dirs.items():
   (REPO/dst).parent.mkdir(parents=True,exist_ok=True)
   shutil.copy2(s,REPO/dst); copied+=1; continue
  (REPO/dst).mkdir(parents=True,exist_ok=True)
- for f in s.glob('*.md'):
+ for f in list(s.glob('*.md'))+list(s.glob('*.py')):
   shutil.copy2(f,REPO/dst/f.name); copied+=1
 # root meta files
 for f in META:

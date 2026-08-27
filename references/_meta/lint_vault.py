@@ -7,7 +7,7 @@ rel=lambda p:p.relative_to(W).as_posix()
 existing={rel(p)[:-3] for p in files}
 # resolver allows Obsidian extensionless links and basename aliases
 raw_existing={rel(p)[:-3] for p in (W/'raw').rglob('*.md')}
-links=[]; broken=[]; indexed=set(re.findall(r'\[\[([^\]|#]+)',(W/'index.md').read_text(errors='ignore')))
+links=[]; broken=[]; indexed=set(re.findall(r'\[\[([^\]|#]+)',(W/'wiki'/'index.md').read_text(errors='ignore')))
 for p in files:
  t=p.read_text(errors='ignore')
  for l in re.findall(r'\[\[([^\]|#]+)',t):
@@ -18,7 +18,7 @@ for p in files:
   links.append([rel(p),l])
 stubs=[]; missing=[]; fields=[]; badlinks=[]
 for p in files:
- if p.name=='index.md': continue
+ if p.name in ('index.md','log.md'): continue  # arquivos administrativos, sem frontmatter obrigatório
  t=p.read_text(errors='ignore'); fm=t.split('---',2)[1] if t.startswith('---') else ''
  for k in ['title','created','updated','type','status','curadoria','escopo','tags']:
   if not re.search(r'^'+k+r':',fm,re.M): fields.append([rel(p),k])
@@ -29,5 +29,5 @@ for p in files:
  # wikilinks com prefixo errado (references/) quebram o vault
  for l in re.findall(r'\[\[references/[^\]|#]+',t): badlinks.append([rel(p),l])
 for p in files:
- if rel(p).startswith('wiki/') and rel(p)!='wiki/index.md' and rel(p)[:-3] not in indexed: missing.append(rel(p))
+ if rel(p).startswith('wiki/') and rel(p)!='wiki/index.md' and rel(p)!='wiki/log.md' and rel(p)[:-3] not in indexed: missing.append(rel(p))
 print(json.dumps({'pages':len(files),'broken_links':broken,'index_missing':missing,'field_issues':fields,'stubs':stubs,'bad_wikilink_prefix':badlinks},ensure_ascii=False,indent=2))
