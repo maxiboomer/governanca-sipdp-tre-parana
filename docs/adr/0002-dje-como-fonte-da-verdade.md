@@ -6,7 +6,7 @@ date: 2026-08-26
 # A publicação oficial é a fonte da verdade sobre situação de norma
 
 Havia uma disputa implícita sobre qual índice era autoritativo: a planilha
-"SECTI - Monitoramento de normas.xlsx" ou o inventário deste acervo, que já a corrigiu em
+ou o inventário deste acervo, que já a corrigiu em
 pelo menos um ponto (Res. TSE 23.644/2021, marcada como vigente na planilha, revogada de
 fato pela Res. TSE 23.763/2026). A decisão é que **nenhum dos dois é autoridade**: ambos são
 índices, e a verdade é a publicação oficial (DJE-TRE-PR, DJE-TSE, DOU).
