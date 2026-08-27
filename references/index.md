@@ -226,3 +226,12 @@ Ver `CLAUDE.md` para convenções. Estrutura: `raw/` (fontes imutáveis) → `wi
 - [[wiki/normas/tre-pr-resolucao-946-2025-antirretaliacao|Resolução TRE-PR 946/2025 — Política Antirretaliação]]
 - [[wiki/normas/tre-pr-resolucao-958-2025-pje|Resolução TRE-PR 958/2025 — Utilização do PJe]]
 - [[wiki/normas/tre-pr-nt-secti-002-2026-mds|Norma Técnica SECTI 002/2026 — MDS]]
+
+## Metadados
+- [[wiki/_meta/auditoria-changelog-normas-eleitorais|Changelog — skill analise-normas-eleitorais]]
+- [[wiki/_meta/classificacao-normas|Classificação das normas]]
+- [[wiki/_meta/mapa-tematico|Mapa temático]]
+- [[wiki/_meta/matriz-verificacao-vigencia|Matriz de verificação de vigência]]
+- [[wiki/_meta/pendencias-curadoria|Pendências de curadoria]]
+- [[wiki/_meta/relatorio-qualidade|Relatório de qualidade]]
+- [[wiki/_meta/relatorio-monitoramento|Relatório de monitoramento normativo]]
