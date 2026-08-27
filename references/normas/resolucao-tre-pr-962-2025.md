@@ -7,6 +7,8 @@ tags: [crise-cibernetica, psi, seguranca-da-informacao, etir, protocolos, tre-pr
 status: vigente
 curadoria: completa
 escopo: contextual
+sources: [raw/resolucao-tre-pr-962-2025.md]
+status_verificacao: "Verificado em 2026-08-26; consultar DJE/DOU para citação formal."
 ---
 
 # Resolução TRE-PR 962/2025 — Comitê de Crises Cibernéticas

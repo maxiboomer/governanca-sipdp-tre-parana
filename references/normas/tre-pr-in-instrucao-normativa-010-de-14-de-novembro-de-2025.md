@@ -8,6 +8,8 @@ updated: 2026-08-26
 status: vigente
 curadoria: completa
 escopo: contextual
+sources: [raw/tre-pr-in-instrucao-normativa-010-de-14-de-novembro-de-2025.md]
+status_verificacao: "Verificado em 2026-08-26; consultar DJE/DOU para citação formal."
 ---
 
 # INSTRUÇÃO NORMATIVA Nº 010/2025 — Serviços Essenciais de TI (TRE-PR)

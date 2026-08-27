@@ -1,40 +1,40 @@
 ---
 title: "PORTARIA N° 341, DE 16 DE AGOSTO DE 2023. — Tribunal Regional Eleitoral do Paraná"
-type: fonte-normativa
-tags: [tre-pr, norma, coleta-automatica]
-curadoria: stub
-escopo: apoio-governanca-ti
-status: histórica
-status_verificacao: "PDTI 2023-2024: período encerrado; PDTI atual é o 103/2025 (2025-2026); verificado em 2026-08-26."
-url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-presidencia-tre-pr/2023/portaria-ndeg-341-de-03-de-agosto-de-2023"
 created: 2026-08-26
 updated: 2026-08-26
+type: fonte-normativa
+status: histórica
+curadoria: completa
+escopo: contextual
+status_verificacao: "PDTI 2023-2024; PDTI atual 103/2025; verificado em 2026-08-26."
+sources: [raw/tre-pr-portaria-presid-341-2023-pdti-2023-2024.md]
+tags: [norma, tre-pr]
 ---
 
 # PORTARIA N° 341, DE 16 DE AGOSTO DE 2023. — Tribunal Regional Eleitoral do Paraná
 
-## Summary
+## Síntese executiva
 
-Texto normativo oficial. Ver documento completo em `raw/`.
+**Situação registrada:** `histórica`. PDTI 2023-2024; PDTI atual 103/2025.
 
-## Key Takeaways
+> Norma mantida no acervo para efeito histórico/documental; **não presume vigência atual**.
 
-- Extrair pontos-chave do texto normativo.
-- Identificar obrigações e prazos.
-- Link para implementação prática.
+## Objeto / Contexto
 
-## Relevant Entities
+title: "PORTARIA N° 341, DE 16 DE AGOSTO DE 2023. — Tribunal Regional Eleitoral do Paraná"
 
-- [[entities/cgsipdp]]
+## Disposições relevantes
 
-## Relevant Concepts
+- Art. 1º Instituir o Plano Diretor de Tecnologia da Informação (PDTI) para o exercício 2023-2024, na forma estabelecida no Anexo desta Portaria.
+- Art. 2º O PDTI é o desdobramento tático e operacional do PEI 2021-2026 e é composto por:
+- Art. 3º É de responsabilidade da Secretaria de Tecnologia da Informação:
+- Art. 4º Esta Portaria entrará em vigor na data de sua publicação.
 
-- [[concepts/seguranca-informacao-justica-eleitoral]]
+## Interpretação operacional
 
-## Raw Source
+- Consultar o texto integral em `raw/` para o teor exato.
+- Verificar a norma sucessora (quando identificada) antes de usar.
 
-Source: `raw/tre-pr-portaria-presid-341-2023-pdti-2023-2024.md`
+## Fonte
 
-## Processing Notes
-
-Página gerada automaticamente a partir da fonte em `raw/`. Frontmatter normalizado.
+- `raw/tre-pr-portaria-presid-341-2023-pdti-2023-2024.md`

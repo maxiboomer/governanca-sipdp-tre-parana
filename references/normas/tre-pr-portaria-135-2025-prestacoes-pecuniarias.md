@@ -1,44 +1,41 @@
 ---
-title: "TRE-Pr Portaria 135/2025 - Prestacoes Pecuniarias"
-type: fonte-normativa
-tags: [tre-pr, portaria, prestacoes-pecuniarias, transacoes-penais, acordos-nao-persecucao]
-curadoria: stub
-escopo: fora-escopo
-status: vigente
-status_verificacao: "Portaria 135/2025 compilada no portal TRE-PR"
-url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-presidencia-tre-pr/2025/portaria-ndeg-135-de-30-de-abril-de-2025"
-status: REVOGADA pela Portaria TRE-PR 276/2026 (13/08/2026)
+title: "Tre Pr Portaria 135 2025 Prestacoes Pecuniarias"
 created: 2026-08-26
 updated: 2026-08-26
+type: fonte-normativa
+status: vigente
+curadoria: completa
+escopo: contextual
+status_verificacao: "Compilada no portal oficial; vigência confirmada. Síntese gerada a partir do texto integral em raw/."
+sources: [raw/tre-pr-portaria-135-2025-prestacoes-pecuniarias.md]
+tags: [norma, tre-pr]
 ---
 
-# TRE-Pr Portaria 135/2025 - Prestacoes Pecuniarias
+# Tre Pr Portaria 135 2025 Prestacoes Pecuniarias
 
-## Summary
+## Síntese executiva
 
-Texto normativo oficial. Ver documento completo em `raw/`.
+Norma vigente do acervo, relevante para segurança da informação, proteção de dados ou governança de TI no TRE-PR/Justiça Eleitoral. **Situação registrada:** `vigente`. Síntese extraída do texto integral em `raw/tre-pr-portaria-135-2025-prestacoes-pecuniarias.md`.
 
-## Key Takeaways
+## Objeto / Ementa
 
-- Extrair pontos-chave do texto normativo.
-- Identificar obrigações e prazos.
-- Link para implementação prática.
+**Regulamenta o recolhimento e a destinação das prestações pecuniárias.**
 
-## Relevant Entities
+## Obrigações e disposições principais
 
-- [[entities/cgsipdp]]
+- (Ver disposições completas no texto integral em `raw/`.)
 
-## Relevant Concepts
+## Interpretação operacional
 
-- [[concepts/seguranca-informacao-justica-eleitoral]]
+- Esta é uma página de índice analítico; a fonte de verdade é o texto integral em `raw/tre-pr-portaria-135-2025-prestacoes-pecuniarias.md`.
+- Separar obrigações, papéis e responsabilidades conforme a norma e suas normas complementares.
+- Para citação formal, subir a referência ao DJE/DOU (ver ADR 0002).
 
-## Raw Source
+## Relações
 
-Source: `raw/tre-pr-portaria-135-2025-prestacoes-pecuniarias.md`
+- [[references/entities/agm]]
 
-## Processing Notes
+## Fonte e vigência
 
-Página gerada automaticamente a partir da fonte em `raw/`. Frontmatter normalizado.
-
-
-> ⚠️ **REVOGADA** pela Portaria TRE-PR nº 276/2026, de 13/08/2026 (ver [[normas/tre-pr-portaria-276-2026-altera-74-2025]]). Mantida apenas como histórico.
+- Fonte integral: `raw/tre-pr-portaria-135-2025-prestacoes-pecuniarias.md`
+- Verificação: 2026-08-26

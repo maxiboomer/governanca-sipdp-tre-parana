@@ -1,42 +1,37 @@
 ---
 title: "TRE-PR Norma Tecnica SECTI 03/2022 - Planejamento Orcamentario TI"
-type: fonte-normativa
-tags: [tre-pr, secti, norma-tecnica, planejamento-orcamentario, ti]
-curadoria: stub
-escopo: apoio-governanca-ti
-status: histórica
-status_verificacao: "NT 003/2022 de planejamento orçamentário; tema atual regulado pela NT SECTI 004/2026; verificado em 2026-08-26."
-url: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2022/norma-tecnica-no-03-de-23-de-setembro-de-2022"
 created: 2026-08-26
 updated: 2026-08-26
+type: fonte-normativa
+status: histórica
+curadoria: completa
+escopo: contextual
+status_verificacao: "Planejamento orçamentário de TI; tema atual regulado pela NT SECTI 004/2026; verificado em 2026-08-26."
+sources: [raw/tre-pr-norma-tecnica-secti-03-2022-planejamento-orcamentario-ti.md]
+tags: [norma, tre-pr]
 ---
 
 # TRE-PR Norma Tecnica SECTI 03/2022 - Planejamento Orcamentario TI
 
-## Summary
+## Síntese executiva
 
-Texto normativo oficial. Ver documento completo em `raw/`.
+**Situação registrada:** `histórica`. Planejamento orçamentário de TI; tema atual regulado pela NT SECTI 004/2026.
 
-## Key Takeaways
+> Norma mantida no acervo para efeito histórico/documental; **não presume vigência atual**.
 
-- Extrair pontos-chave do texto normativo.
-- Identificar obrigações e prazos.
-- Link para implementação prática.
+## Objeto / Contexto
 
-## Relevant Entities
+title: "TRE-PR Norma Tecnica SECTI 03/2022 - Planejamento Orcamentario TI"
 
-- [[entities/cgsipdp]]
-- [[entities/etir]]
+## Disposições relevantes
 
-## Relevant Concepts
+- (Ver disposições no texto integral em `raw/`.)
 
-- [[concepts/monitoramento-normas-secti]]
-- [[concepts/prazos-normativos-tre-pr]]
+## Interpretação operacional
 
-## Raw Source
+- Consultar o texto integral em `raw/` para o teor exato.
+- Verificar a norma sucessora (quando identificada) antes de usar.
 
-Source: `raw/tre-pr-norma-tecnica-secti-03-2022-planejamento-orcamentario-ti.md`
+## Fonte
 
-## Processing Notes
-
-Página gerada automaticamente a partir da fonte em `raw/`. Frontmatter normalizado.
+- `raw/tre-pr-norma-tecnica-secti-03-2022-planejamento-orcamentario-ti.md`

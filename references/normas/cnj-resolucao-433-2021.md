@@ -7,6 +7,8 @@ tags: [cnj, meio-ambiente, clima, sustentabilidade, psi]
 status: vigente
 curadoria: completa
 escopo: contextual
+sources: [raw/cnj-resolucao-433-2021.md]
+status_verificacao: "Verificado em 2026-08-26; consultar DJE/DOU para citação formal."
 ---
 
 # CNJ Resolução 433/2021 — Política Nacional do Poder Judiciário para o Clima e Meio Ambiente

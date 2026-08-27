@@ -9,6 +9,7 @@ escopo: duplicada
 canonical: wiki/normas/lai-12527-2011
 tags: [metadados, alias]
 sources: [raw/lei-12527-2011-acesso-informacao.md]
+status_verificacao: "Verificado em 2026-08-26; consultar DJE/DOU para citação formal."
 ---
 
 # Alias

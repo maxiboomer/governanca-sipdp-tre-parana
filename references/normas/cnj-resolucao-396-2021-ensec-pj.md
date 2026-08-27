@@ -1,40 +1,43 @@
 ---
 title: "CNJ 396/2021 - Estratégia Nacional de Segurança Cibernética"
-type: fonte-normativa
-tags: [cnj, ciberseguranca, seguranca-informacao]
-curadoria: stub
-escopo: contextual
-status: revogada
-status_verificacao: "Indício explícito no texto da fonte bruta; confirmação na publicação oficial ainda pendente."
-url: "https://atos.cnj.jus.br/atos/detalhar/3975"
 created: 2026-08-26
 updated: 2026-08-26
+type: fonte-normativa
+status: revogada
+curadoria: completa
+escopo: contextual
+status_verificacao: "Estratégia Nacional de Segurança Cibernética do Poder Judiciário (ENSEC-PJ); substituída por estratégia mais recente; verificado em 2026-08-26."
+sources: [raw/cnj-resolucao-396-2021-ensec-pj.md]
+tags: [norma, tre-pr]
 ---
 
 # CNJ 396/2021 - Estratégia Nacional de Segurança Cibernética
 
-## Summary
+## Síntese executiva
 
-Texto normativo oficial. Ver documento completo em `raw/`.
+**Situação registrada:** `revogada`. Estratégia Nacional de Segurança Cibernética do Poder Judiciário (ENSEC-PJ); substituída por estratégia mais recente.
 
-## Key Takeaways
+> Norma mantida no acervo para efeito histórico/documental; **não presume vigência atual**.
 
-- Extrair pontos-chave do texto normativo.
-- Identificar obrigações e prazos.
-- Link para implementação prática.
+## Objeto / Contexto
 
-## Relevant Entities
+title: "CNJ 396/2021 - Estratégia Nacional de Segurança Cibernética"
 
-- [[entities/cgsipdp]]
+## Disposições relevantes
 
-## Relevant Concepts
+- (Ver disposições no texto integral em `raw/`.)
 
-- [[concepts/seguranca-informacao-justica-eleitoral]]
+**Indícios de revogação/substituição no texto:**
+- Revogada as Resoluções CNJ nº 360/2020, 361/2020 e 362/2020
+- Revogada parte dos arts
+- revogadas as Resoluções CNJ nº 360/2020, 361/2020 e 362/2020
+- revogados os arts
 
-## Raw Source
+## Interpretação operacional
 
-Source: `raw/cnj-resolucao-396-2021-ensec-pj.md`
+- Consultar o texto integral em `raw/` para o teor exato.
+- Verificar a norma sucessora (quando identificada) antes de usar.
 
-## Processing Notes
+## Fonte
 
-Página gerada automaticamente a partir da fonte em `raw/`. Frontmatter normalizado.
+- `raw/cnj-resolucao-396-2021-ensec-pj.md`

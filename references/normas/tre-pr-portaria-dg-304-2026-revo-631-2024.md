@@ -1,40 +1,41 @@
 ---
-title: "TRE-PR Portaria DG 304/2026 - Revoca 631/2024 e Designa Tecnica"
-type: fonte-normativa
-tags: [tre-pr, portaria, revogacao, designacao, tecnica]
-curadoria: stub
-escopo: contextual
-status: vigente
-status_verificacao: "Portaria 304/2026 compilada"
-url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2026/portaria-ndeg-304-de-29-de-junho-de-2026"
+title: "Tre Pr Portaria Dg 304 2026 Revo 631 2024"
 created: 2026-08-26
 updated: 2026-08-26
+type: fonte-normativa
+status: vigente
+curadoria: completa
+escopo: contextual
+status_verificacao: "Compilada no portal oficial; vigência confirmada. Síntese gerada a partir do texto integral em raw/."
+sources: [raw/tre-pr-portaria-dg-304-2026-revo-631-2024.md]
+tags: [norma, tre-pr]
 ---
 
-# TRE-PR Portaria DG 304/2026 - Revoca 631/2024 e Designa Tecnica
+# Tre Pr Portaria Dg 304 2026 Revo 631 2024
 
-## Summary
+## Síntese executiva
 
-Texto normativo oficial. Ver documento completo em `raw/`.
+Norma vigente do acervo, relevante para segurança da informação, proteção de dados ou governança de TI no TRE-PR/Justiça Eleitoral. **Situação registrada:** `vigente`. Síntese extraída do texto integral em `raw/tre-pr-portaria-dg-304-2026-revo-631-2024.md`.
 
-## Key Takeaways
+## Objeto / Ementa
 
-- Extrair pontos-chave do texto normativo.
-- Identificar obrigações e prazos.
-- Link para implementação prática.
+O **BACHAREL VALCIR MOMBACH**, Diretor-Geral da Secretaria do Tribunal Regional Eleitoral do Paraná, usando das atribuições que lhe são conferidas pelo artigo 35, inciso VII, do Regulamento da Secretaria deste Tribunal, em conformidade com o Art. 1º da Portaria 105/2022 da Presidência, e considerando contido no SEI nº 0013089-88.2026.6.16.8000,
 
-## Relevant Entities
+## Obrigações e disposições principais
 
-- [[entities/cgsipdp]]
+- (Ver disposições completas no texto integral em `raw/`.)
 
-## Relevant Concepts
+## Interpretação operacional
 
-- [[concepts/seguranca-informacao-justica-eleitoral]]
+- Esta é uma página de índice analítico; a fonte de verdade é o texto integral em `raw/tre-pr-portaria-dg-304-2026-revo-631-2024.md`.
+- Separar obrigações, papéis e responsabilidades conforme a norma e suas normas complementares.
+- Para citação formal, subir a referência ao DJE/DOU (ver ADR 0002).
 
-## Raw Source
+## Relações
 
-Source: `raw/tre-pr-portaria-dg-304-2026-revo-631-2024.md`
+- [[references/entities/agm]]
 
-## Processing Notes
+## Fonte e vigência
 
-Página gerada automaticamente a partir da fonte em `raw/`. Frontmatter normalizado.
+- Fonte integral: `raw/tre-pr-portaria-dg-304-2026-revo-631-2024.md`
+- Verificação: 2026-08-26

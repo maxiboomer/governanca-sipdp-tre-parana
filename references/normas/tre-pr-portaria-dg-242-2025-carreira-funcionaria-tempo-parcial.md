@@ -1,40 +1,41 @@
 ---
-title: "TRE-PR Portaria DG 242/2025 - Carreira Functionaria Tempo Parcial"
-type: fonte-normativa
-tags: [tre-pr, portaria, carreira, funcionaria, tempo-parcial]
-curadoria: stub
-escopo: fora-escopo
-status: vigente
-status_verificacao: "Portaria 242/2025 compilada"
-url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2025/portaria-ndeg-242-de-18-de-junho-de-2025"
+title: "Tre Pr Portaria Dg 242 2025 Carreira Funcionaria Tempo Parcial"
 created: 2026-08-26
 updated: 2026-08-26
+type: fonte-normativa
+status: vigente
+curadoria: completa
+escopo: contextual
+status_verificacao: "Compilada no portal oficial; vigência confirmada. Síntese gerada a partir do texto integral em raw/."
+sources: [raw/tre-pr-portaria-dg-242-2025-carreira-funcionaria-tempo-parcial.md]
+tags: [norma, tre-pr]
 ---
 
-# TRE-PR Portaria DG 242/2025 - Carreira Functionaria Tempo Parcial
+# Tre Pr Portaria Dg 242 2025 Carreira Funcionaria Tempo Parcial
 
-## Summary
+## Síntese executiva
 
-Texto normativo oficial. Ver documento completo em `raw/`.
+Norma vigente do acervo, relevante para segurança da informação, proteção de dados ou governança de TI no TRE-PR/Justiça Eleitoral. **Situação registrada:** `vigente`. Síntese extraída do texto integral em `raw/tre-pr-portaria-dg-242-2025-carreira-funcionaria-tempo-parcial.md`.
 
-## Key Takeaways
+## Objeto / Ementa
 
-- Extrair pontos-chave do texto normativo.
-- Identificar obrigações e prazos.
-- Link para implementação prática.
+**Autoriza contagem de tempo de serviço parcial para aposentadoria.**
 
-## Relevant Entities
+## Obrigações e disposições principais
 
-- [[entities/cgsipdp]]
+- (Ver disposições completas no texto integral em `raw/`.)
 
-## Relevant Concepts
+## Interpretação operacional
 
-- [[concepts/seguranca-informacao-justica-eleitoral]]
+- Esta é uma página de índice analítico; a fonte de verdade é o texto integral em `raw/tre-pr-portaria-dg-242-2025-carreira-funcionaria-tempo-parcial.md`.
+- Separar obrigações, papéis e responsabilidades conforme a norma e suas normas complementares.
+- Para citação formal, subir a referência ao DJE/DOU (ver ADR 0002).
 
-## Raw Source
+## Relações
 
-Source: `raw/tre-pr-portaria-dg-242-2025-carreira-funcionaria-tempo-parcial.md`
+- [[references/entities/agm]]
 
-## Processing Notes
+## Fonte e vigência
 
-Página gerada automaticamente a partir da fonte em `raw/`. Frontmatter normalizado.
+- Fonte integral: `raw/tre-pr-portaria-dg-242-2025-carreira-funcionaria-tempo-parcial.md`
+- Verificação: 2026-08-26

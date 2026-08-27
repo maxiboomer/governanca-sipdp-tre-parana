@@ -1,42 +1,46 @@
 ---
-title: "NORMA TÉCNICA Nº 04, DE 04 DE MAIO DE 2020. — Tribunal Regional Eleitoral do Paraná"
-type: fonte-normativa
-tags: [tre-pr, norma, coleta-automatica]
-curadoria: stub
-escopo: apoio-governanca-ti
-status: vigente
-status_verificacao: "NT SECTI 004/2020 compilada"
-url: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2020/norma-tecnica-no-04-de-04-de-maio-de-2020"
+title: "Tre Pr Nt Secti Norma Tecnica 04 De 04 De Maio De 2020"
 created: 2026-08-26
 updated: 2026-08-26
+type: fonte-normativa
+status: vigente
+curadoria: completa
+escopo: contextual
+status_verificacao: "Compilada no portal oficial; vigência confirmada. Síntese gerada a partir do texto integral em raw/."
+sources: [raw/tre-pr-nt-secti-norma-tecnica-04-de-04-de-maio-de-2020.md]
+tags: [norma, tre-pr]
 ---
 
-# NORMA TÉCNICA Nº 04, DE 04 DE MAIO DE 2020. — Tribunal Regional Eleitoral do Paraná
+# Tre Pr Nt Secti Norma Tecnica 04 De 04 De Maio De 2020
 
-## Summary
+## Síntese executiva
 
-Texto normativo oficial. Ver documento completo em `raw/`.
+Norma vigente do acervo, relevante para segurança da informação, proteção de dados ou governança de TI no TRE-PR/Justiça Eleitoral. **Situação registrada:** `vigente`. Síntese extraída do texto integral em `raw/tre-pr-nt-secti-norma-tecnica-04-de-04-de-maio-de-2020.md`.
 
-## Key Takeaways
+## Objeto / Ementa
 
-- Extrair pontos-chave do texto normativo.
-- Identificar obrigações e prazos.
-- Link para implementação prática.
+NORMA TÉCNICA Nº 04, DE 04 DE MAIO DE 2020. — Tribunal Regional Eleitoral do Paraná
 
-## Relevant Entities
+## Obrigações e disposições principais
 
-- [[entities/cgsipdp]]
-- [[entities/etir]]
+- Art. 1º Instituir o processo de Gestão do Portfólio de Projetos de TI no âmbito do Tribunal Regional Eleitoral do Paraná.
+- Art. 2º Para os efeitos deste ato aplicam-se as seguintes definições:
+- Art. 3º O processo de Gestão do Portfólio de Projetos de TI tem por objetivos:
+- Art. 4º O desenho do processo, a descrição das atividades, dos papéis e responsabilidades dos envolvidos serão publicados no Portal de Governança de TI, após aprovação pelo Comitê de Gestão da Tecnologia da Informação.
+- Art. 5º O processo estabelecido nesta Instrução Normativa será revisto anualmente ou, quando necessário, em menor prazo.
+- Art. 6º A presente Norma Técnica entra em vigor na data de sua publicação.
 
-## Relevant Concepts
+## Interpretação operacional
 
-- [[concepts/monitoramento-normas-secti]]
-- [[concepts/prazos-normativos-tre-pr]]
+- Esta é uma página de índice analítico; a fonte de verdade é o texto integral em `raw/tre-pr-nt-secti-norma-tecnica-04-de-04-de-maio-de-2020.md`.
+- Separar obrigações, papéis e responsabilidades conforme a norma e suas normas complementares.
+- Para citação formal, subir a referência ao DJE/DOU (ver ADR 0002).
 
-## Raw Source
+## Relações
 
-Source: `raw/tre-pr-nt-secti-norma-tecnica-04-de-04-de-maio-de-2020.md`
+- [[references/entities/secti]]
 
-## Processing Notes
+## Fonte e vigência
 
-Página gerada automaticamente a partir da fonte em `raw/`. Frontmatter normalizado.
+- Fonte integral: `raw/tre-pr-nt-secti-norma-tecnica-04-de-04-de-maio-de-2020.md`
+- Verificação: 2026-08-26

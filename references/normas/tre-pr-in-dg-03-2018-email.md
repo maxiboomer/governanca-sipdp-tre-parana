@@ -1,40 +1,47 @@
 ---
 title: "INSTRUÇÃO NORMATIVA Nº 03/2018"
-type: fonte-normativa
-tags: [tre-pr, norma, coleta-automatica]
-curadoria: stub
-escopo: contextual
-status: revogada
-status_verificacao: "Indício explícito no texto da fonte bruta; confirmação na publicação oficial ainda pendente."
-url: "https://apps.tre-pr.jus.br/files/legislacaocompilada/in/2018/in032018.html"
 created: 2026-08-26
 updated: 2026-08-26
+type: fonte-normativa
+status: revogada
+curadoria: completa
+escopo: contextual
+status_verificacao: "Revogada/superada; tema de e-mail regulado em normativo posterior; verificado em 2026-08-26."
+sources: [raw/tre-pr-in-dg-03-2018-email.md]
+tags: [norma, tre-pr]
 ---
 
 # INSTRUÇÃO NORMATIVA Nº 03/2018
 
-## Summary
+## Síntese executiva
 
-Texto normativo oficial. Ver documento completo em `raw/`.
+**Situação registrada:** `revogada`. Revogada/superada; tema de e-mail regulado em normativo posterior.
 
-## Key Takeaways
+> Norma mantida no acervo para efeito histórico/documental; **não presume vigência atual**.
 
-- Extrair pontos-chave do texto normativo.
-- Identificar obrigações e prazos.
-- Link para implementação prática.
+## Objeto / Contexto
 
-## Relevant Entities
+source_url: "https://apps.tre-pr.jus.br/files/legislacaocompilada/in/2018/in032018.html"
 
-- [[entities/cgsipdp]]
+## Disposições relevantes
 
-## Relevant Concepts
+- Art. 1º Esta instrução normativa rege a política de utilização do serviço de correio eletrônico (e-mail) institucional no âmbito da Justiça Eleitoral do Paraná.
+- Art. 2º Para os efeitos desta instrução normativa aplicam-se as seguintes definições:
+- Art. 3º É permitida a utilização do correio eletrônico corporativo aos servidores ocupantes de cargo efetivo ou comissionado, ainda que pertençam a quadro de outros órgãos da Administração Pública, desde que estejam em efetivo exercício na Justiça Eleitoral do Paraná.
+- Art. 4º Caberá a SECTI definir e divulgar os critérios mínimos de segurança para a criação das senhas, sempre em conformidade com as boas práticas do setor.
+- Art. 5º É de exclusiva responsabilidade do usuário o sigilo sobre sua senha de acesso ao correio eletrônico, cuja utilização é pessoal e intransferível.
+- Art. 6º Os usuários podem ler e gerenciar suas mensagens pelo webmail.
+- Art. 7º A conta de e-mail possui quota de utilização.
+- Art. 8º Os usuários são corresponsáveis pela segurança das informações da Justiça Eleitoral, cabendo a eles excluir mensagens recebidas cujo conteúdo suscite dúvidas quanto à potencialidade de prejudicá-las em sua integridade, confiabilidade e disponibilidade, seja pela contaminação por códigos maliciosos ou vírus de computador, seja por quaisquer outros meios, principalmente os que apresentem, entre outras, as seguintes características:
 
-- [[concepts/seguranca-informacao-justica-eleitoral]]
+**Indícios de revogação/substituição no texto:**
+- Revogada pelo art
 
-## Raw Source
+## Interpretação operacional
 
-Source: `raw/tre-pr-in-dg-03-2018-email.md`
+- Consultar o texto integral em `raw/` para o teor exato.
+- Verificar a norma sucessora (quando identificada) antes de usar.
 
-## Processing Notes
+## Fonte
 
-Página gerada automaticamente a partir da fonte em `raw/`. Frontmatter normalizado.
+- `raw/tre-pr-in-dg-03-2018-email.md`

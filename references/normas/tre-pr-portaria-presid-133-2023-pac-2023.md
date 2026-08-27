@@ -1,40 +1,38 @@
 ---
 title: "PORTARIA N° 133, DE 15 DE MARÇO DE 2023. — Tribunal Regional Eleitoral do Paraná"
-type: fonte-normativa
-tags: [tre-pr, norma, coleta-automatica]
-curadoria: stub
-escopo: apoio-governanca-ti
-status: histórica
-status_verificacao: "PAC 2023: período encerrado; verificado em 2026-08-26."
-url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-presidencia-tre-pr/2023/portaria-ndeg-133-de-09-de-marco-de-2023"
 created: 2026-08-26
 updated: 2026-08-26
+type: fonte-normativa
+status: histórica
+curadoria: completa
+escopo: contextual
+status_verificacao: "PAC 2023; período encerrado; verificado em 2026-08-26."
+sources: [raw/tre-pr-portaria-presid-133-2023-pac-2023.md]
+tags: [norma, tre-pr]
 ---
 
 # PORTARIA N° 133, DE 15 DE MARÇO DE 2023. — Tribunal Regional Eleitoral do Paraná
 
-## Summary
+## Síntese executiva
 
-Texto normativo oficial. Ver documento completo em `raw/`.
+**Situação registrada:** `histórica`. PAC 2023; período encerrado.
 
-## Key Takeaways
+> Norma mantida no acervo para efeito histórico/documental; **não presume vigência atual**.
 
-- Extrair pontos-chave do texto normativo.
-- Identificar obrigações e prazos.
-- Link para implementação prática.
+## Objeto / Contexto
 
-## Relevant Entities
+title: "PORTARIA N° 133, DE 15 DE MARÇO DE 2023. — Tribunal Regional Eleitoral do Paraná"
 
-- [[entities/cgsipdp]]
+## Disposições relevantes
 
-## Relevant Concepts
+- Art. 1º Aprovar o Plano Anual de Capacitação e Desenvolvimento do Tribunal Regional Eleitoral do Paraná para o ano de 2023 - PAC 2023, na forma do anexo desta Portaria.
+- Art. 2º Esta Portaria entra em vigor na data de sua publicação.
 
-- [[concepts/seguranca-informacao-justica-eleitoral]]
+## Interpretação operacional
 
-## Raw Source
+- Consultar o texto integral em `raw/` para o teor exato.
+- Verificar a norma sucessora (quando identificada) antes de usar.
 
-Source: `raw/tre-pr-portaria-presid-133-2023-pac-2023.md`
+## Fonte
 
-## Processing Notes
-
-Página gerada automaticamente a partir da fonte em `raw/`. Frontmatter normalizado.
+- `raw/tre-pr-portaria-presid-133-2023-pac-2023.md`

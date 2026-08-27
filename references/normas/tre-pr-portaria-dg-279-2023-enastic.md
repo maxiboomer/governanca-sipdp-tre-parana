@@ -1,40 +1,40 @@
 ---
 title: "TRE-PR Portaria DG 279/2023 - Enastic Encontro Nacional TI Inovacao"
-type: fonte-normativa
-tags: [tre-pr, portaria, enastic, tecnologia, inovacao]
-curadoria: stub
-escopo: contextual
-status: revogada
-status_verificacao: "Indício explícito no texto da fonte bruta; confirmação na publicação oficial ainda pendente."
-url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2023/portaria-ndeg-279-de-13-de-junho-de-2023"
 created: 2026-08-26
 updated: 2026-08-26
+type: fonte-normativa
+status: revogada
+curadoria: completa
+escopo: contextual
+status_verificacao: "Ato de composição/superado; verificado em 2026-08-26."
+sources: [raw/tre-pr-portaria-dg-279-2023-enastic.md]
+tags: [norma, tre-pr]
 ---
 
 # TRE-PR Portaria DG 279/2023 - Enastic Encontro Nacional TI Inovacao
 
-## Summary
+## Síntese executiva
 
-Texto normativo oficial. Ver documento completo em `raw/`.
+**Situação registrada:** `revogada`. Ato de composição/superado.
 
-## Key Takeaways
+> Norma mantida no acervo para efeito histórico/documental; **não presume vigência atual**.
 
-- Extrair pontos-chave do texto normativo.
-- Identificar obrigações e prazos.
-- Link para implementação prática.
+## Objeto / Contexto
 
-## Relevant Entities
+title: "TRE-PR Portaria DG 279/2023 - Enastic Encontro Nacional TI Inovacao"
 
-- [[entities/cgsipdp]]
+## Disposições relevantes
 
-## Relevant Concepts
+- (Ver disposições no texto integral em `raw/`.)
 
-- [[concepts/seguranca-informacao-justica-eleitoral]]
+**Indícios de revogação/substituição no texto:**
+- Revogada pela Portaria nº 050/2025
 
-## Raw Source
+## Interpretação operacional
 
-Source: `raw/tre-pr-portaria-dg-279-2023-enastic.md`
+- Consultar o texto integral em `raw/` para o teor exato.
+- Verificar a norma sucessora (quando identificada) antes de usar.
 
-## Processing Notes
+## Fonte
 
-Página gerada automaticamente a partir da fonte em `raw/`. Frontmatter normalizado.
+- `raw/tre-pr-portaria-dg-279-2023-enastic.md`

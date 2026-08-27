@@ -7,6 +7,8 @@ tags: [tse, psi, revogada, seguranca-informacao, tre-pr]
 status: revogada
 curadoria: completa
 escopo: contextual
+sources: [raw/psi-tse-23644-2021-revogada.md]
+status_verificacao: "Verificado em 2026-08-26; consultar DJE/DOU para citação formal."
 ---
 
 # TSE Resolução 23.644/2021 — Política de Segurança da Informação (REVOGADA)

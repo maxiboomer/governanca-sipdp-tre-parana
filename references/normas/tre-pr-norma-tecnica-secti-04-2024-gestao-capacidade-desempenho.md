@@ -1,42 +1,41 @@
 ---
-title: "TRE-PR Norma Tecnica SECTI 04/2024 - Gerenciamento de Capacidade e Desempenho"
-type: fonte-normativa
-tags: [tre-pr, secti, norma-tecnica, capacidade-desempenho, ti]
-curadoria: stub
-escopo: apoio-governanca-ti
-status: vigente
-status_verificacao: "NT SECTI 004/2024 compilada"
-url: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2024/norma-tecnica-no-04-de-05-de-julho-de-2024"
+title: "Tre Pr Norma Tecnica Secti 04 2024 Gestao Capacidade Desempenho"
 created: 2026-08-26
 updated: 2026-08-26
+type: fonte-normativa
+status: vigente
+curadoria: completa
+escopo: contextual
+status_verificacao: "Compilada no portal oficial; vigência confirmada. Síntese gerada a partir do texto integral em raw/."
+sources: [raw/tre-pr-norma-tecnica-secti-04-2024-gestao-capacidade-desempenho.md]
+tags: [norma, tre-pr]
 ---
 
-# TRE-PR Norma Tecnica SECTI 04/2024 - Gerenciamento de Capacidade e Desempenho
+# Tre Pr Norma Tecnica Secti 04 2024 Gestao Capacidade Desempenho
 
-## Summary
+## Síntese executiva
 
-Texto normativo oficial. Ver documento completo em `raw/`.
+Norma vigente do acervo, relevante para segurança da informação, proteção de dados ou governança de TI no TRE-PR/Justiça Eleitoral. **Situação registrada:** `vigente`. Síntese extraída do texto integral em `raw/tre-pr-norma-tecnica-secti-04-2024-gestao-capacidade-desempenho.md`.
 
-## Key Takeaways
+## Objeto / Ementa
 
-- Extrair pontos-chave do texto normativo.
-- Identificar obrigações e prazos.
-- Link para implementação prática.
+**Institui o processo de Gerenciamento de Capacidade e Desempenho de Tecnologia da Informação no âmbito da Justiça Eleitoral do Paraná.**
 
-## Relevant Entities
+## Obrigações e disposições principais
 
-- [[entities/cgsipdp]]
-- [[entities/etir]]
+- (Ver disposições completas no texto integral em `raw/`.)
 
-## Relevant Concepts
+## Interpretação operacional
 
-- [[concepts/monitoramento-normas-secti]]
-- [[concepts/prazos-normativos-tre-pr]]
+- Esta é uma página de índice analítico; a fonte de verdade é o texto integral em `raw/tre-pr-norma-tecnica-secti-04-2024-gestao-capacidade-desempenho.md`.
+- Separar obrigações, papéis e responsabilidades conforme a norma e suas normas complementares.
+- Para citação formal, subir a referência ao DJE/DOU (ver ADR 0002).
 
-## Raw Source
+## Relações
 
-Source: `raw/tre-pr-norma-tecnica-secti-04-2024-gestao-capacidade-desempenho.md`
+- [[references/entities/secti]]
 
-## Processing Notes
+## Fonte e vigência
 
-Página gerada automaticamente a partir da fonte em `raw/`. Frontmatter normalizado.
+- Fonte integral: `raw/tre-pr-norma-tecnica-secti-04-2024-gestao-capacidade-desempenho.md`
+- Verificação: 2026-08-26

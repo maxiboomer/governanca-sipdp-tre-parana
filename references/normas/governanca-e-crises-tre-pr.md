@@ -7,6 +7,8 @@ tags: [governanca, ciberseguranca, tre-pr, cgsipdp, comite-crises]
 status: vigente
 curadoria: completa
 escopo: contextual
+sources: [raw/governanca-e-crises-tre-pr.md]
+status_verificacao: "Verificado em 2026-08-26; consultar DJE/DOU para citação formal."
 ---
 
 # Governança e Cibersegurança no TRE-PR — Res. 932/2024 e 962/2025

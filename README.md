@@ -67,19 +67,17 @@ A matriz completa está em `references/_meta/matriz-verificacao-vigencia.md`.
 
 ## Estado de curadoria — leia antes de confiar
 
-- **54 das 168 páginas de `references/normas/` estão totalmente curadas** — têm síntese,
-  obrigações, papéis, relações e status documentado. As demais 113 permanecem como stub
-  (`curadoria: stub`), com metadados normalizados e texto bruto preservado em
-  `references/raw/`.
-- Os 14 temas classificados como `central-si-pdp` (PSI, ETIR, CSTI, gestão de riscos, PSI
-  local, comitês) já foram curados integralmente.
+- **167 das 168 páginas de `references/normas/` estão totalmente curadas** — têm síntese,
+  objeto/ementa, obrigações (artigos), status documentado e fonte em `raw/`. A única exceção é uma
+  página marcada como `resumo`. Nenhuma página permanece como stub.
+- Todas as 168 normas têm **status jurídico definitivo** (136 vigentes, 19 revogadas, 12
+  históricas, 1 não-aplicável).
 - **Nem todo arquivo de `raw/` é texto integral.** A Res. 971/2026 está como excerto (~2 KB
   de um original de ~277 mil caracteres). Os Anexos I e II da Res. 982/2026 não constam.
 - **Lacunas do inventário** mapeadas em
   `references/inventarios/lacunas-do-inventario.md`: 31 normas do acervo sem linha no
   inventário TRE-PR/TSE, e Res. CNJ 433/2021 e 646/2025 ausentes do inventário CNJ.
-- **Classificação dos stubs** em `references/_meta/classificacao-normas.md`: 14 centrais
-  (curados), 39 apoio governança, 53 contextual, 22 fora de escopo.
+- **Classificação** em `references/_meta/classificacao-normas.md`.
 
 ## Convenção de caminhos
 

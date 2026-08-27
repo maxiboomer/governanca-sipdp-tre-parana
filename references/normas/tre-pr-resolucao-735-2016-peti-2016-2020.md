@@ -1,41 +1,43 @@
 ---
 title: "RESOLUÇÃO Nº 735/2016"
-type: fonte-normativa
-tags: [tre-pr, norma, coleta-automatica]
-curadoria: stub
-escopo: apoio-governanca-ti
-status: histórica
-status_verificacao: "PETI 2016-2020: período encerrado; mantido como histórico; verificado em 2026-08-26."
-url: "https://apps.tre-pr.jus.br/files/legislacaocompilada/res/2016/Res07352016.html"
 created: 2026-08-26
 updated: 2026-08-26
+type: fonte-normativa
+status: histórica
+curadoria: completa
+escopo: contextual
+status_verificacao: "PETI 2016-2020; período encerrado; verificado em 2026-08-26."
+sources: [raw/tre-pr-resolucao-735-2016-peti-2016-2020.md]
+tags: [norma, tre-pr]
 ---
 
 # RESOLUÇÃO Nº 735/2016
 
-## Summary
+## Síntese executiva
 
-Texto normativo oficial. Ver documento completo em `raw/`.
+**Situação registrada:** `histórica`. PETI 2016-2020; período encerrado.
 
-## Key Takeaways
+> Norma mantida no acervo para efeito histórico/documental; **não presume vigência atual**.
 
-- Extrair pontos-chave do texto normativo.
-- Identificar obrigações e prazos.
-- Link para implementação prática.
+## Objeto / Contexto
 
-## Relevant Entities
+source_url: "https://apps.tre-pr.jus.br/files/legislacaocompilada/res/2016/Res07352016.html"
 
-- [[entities/cgsipdp]]
-- [[entities/etir]]
+## Disposições relevantes
 
-## Relevant Concepts
+- Art. 1º. Aprovar o Novo Planejamento Estratégico de Tecnologia da Informação – PETI do Tribunal Regional Eleitoral do Paraná para o período 2016-2020, na forma estabelecida no Anexo desta Resolução.
+- Art. 2º. Revoga-se a Resolução TRE/PR nº 726/2016.
+- Art. 3º. Esta Resolução entra em vigor na data de sua publicação.
 
-- [[concepts/seguranca-informacao-justica-eleitoral]]
+**Indícios de revogação/substituição no texto:**
+- Revoga a Resolução TRE/PR nº 726/2016 e institui o Novo Planejamento Estratégico de Tecnologia de Informação – PETI da Justiça
+- Revoga-se a Resolução TRE/PR nº 726/2016
 
-## Raw Source
+## Interpretação operacional
 
-Source: `raw/tre-pr-resolucao-735-2016-peti-2016-2020.md`
+- Consultar o texto integral em `raw/` para o teor exato.
+- Verificar a norma sucessora (quando identificada) antes de usar.
 
-## Processing Notes
+## Fonte
 
-Página gerada automaticamente a partir da fonte em `raw/`. Frontmatter normalizado.
+- `raw/tre-pr-resolucao-735-2016-peti-2016-2020.md`

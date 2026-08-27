@@ -7,6 +7,8 @@ tags: [psi, glossario, tse, senha, criptografia]
 status: vigente
 curadoria: completa
 escopo: contextual
+sources: [raw/psi-termos-portaria-tse-444-2021.md]
+status_verificacao: "Verificado em 2026-08-26; consultar DJE/DOU para citação formal."
 ---
 
 # Portaria TSE 444/2021 - Glossário da PSI

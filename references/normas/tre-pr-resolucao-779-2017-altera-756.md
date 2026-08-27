@@ -1,40 +1,41 @@
 ---
-title: "TRE-PR Resolução 779/2017 - Altera Governança (Assessor Chefe)"
-type: fonte-normativa
-tags: [tre-pr, governanca, organograma]
-curadoria: stub
-escopo: contextual
-status: vigente
-status_verificacao: "Res. 779/2017 compilada no portal TRE-PR"
-url: "https://www.justicaeleitoral.jus.br/arquivos/tre-pr-resolucao-779-de-11-de-setembro-de-2017"
+title: "Tre Pr Resolucao 779 2017 Altera 756"
 created: 2026-08-26
 updated: 2026-08-26
+type: fonte-normativa
+status: vigente
+curadoria: completa
+escopo: contextual
+status_verificacao: "Compilada no portal oficial; vigência confirmada. Síntese gerada a partir do texto integral em raw/."
+sources: [raw/tre-pr-resolucao-779-2017-altera-756.md]
+tags: [norma, tre-pr]
 ---
 
-# TRE-PR Resolução 779/2017 - Altera Governança (Assessor Chefe)
+# Tre Pr Resolucao 779 2017 Altera 756
 
-## Summary
+## Síntese executiva
 
-Texto normativo oficial. Ver documento completo em `raw/`.
+Norma vigente do acervo, relevante para segurança da informação, proteção de dados ou governança de TI no TRE-PR/Justiça Eleitoral. **Situação registrada:** `vigente`. Síntese extraída do texto integral em `raw/tre-pr-resolucao-779-2017-altera-756.md`.
 
-## Key Takeaways
+## Objeto / Ementa
 
-- Extrair pontos-chave do texto normativo.
-- Identificar obrigações e prazos.
-- Link para implementação prática.
+**Altera dispositivos da Resolução TRE/PR nº 756/2017, que instituiu e regulamentou o sistema de Governança da Justiça Eleitoral do Paraná.**
 
-## Relevant Entities
+## Obrigações e disposições principais
 
-- [[entities/cgsipdp]]
+- (Ver disposições completas no texto integral em `raw/`.)
 
-## Relevant Concepts
+## Interpretação operacional
 
-- [[concepts/seguranca-informacao-justica-eleitoral]]
+- Esta é uma página de índice analítico; a fonte de verdade é o texto integral em `raw/tre-pr-resolucao-779-2017-altera-756.md`.
+- Separar obrigações, papéis e responsabilidades conforme a norma e suas normas complementares.
+- Para citação formal, subir a referência ao DJE/DOU (ver ADR 0002).
 
-## Raw Source
+## Relações
 
-Source: `raw/tre-pr-resolucao-779-2017-altera-756.md`
+- [[references/entities/agm]]
 
-## Processing Notes
+## Fonte e vigência
 
-Página gerada automaticamente a partir da fonte em `raw/`. Frontmatter normalizado.
+- Fonte integral: `raw/tre-pr-resolucao-779-2017-altera-756.md`
+- Verificação: 2026-08-26

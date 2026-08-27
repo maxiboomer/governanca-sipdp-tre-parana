@@ -8,6 +8,8 @@ updated: 2026-08-26
 status: vigente
 curadoria: completa
 escopo: contextual
+sources: [raw/tre-pr-resolucao-971-2026-regulamento-secretaria.md]
+status_verificacao: "Verificado em 2026-08-26; consultar DJE/DOU para citação formal."
 ---
 
 # TRE-PR Resolução 971/2026 — Regulamento da Secretaria (vigente)

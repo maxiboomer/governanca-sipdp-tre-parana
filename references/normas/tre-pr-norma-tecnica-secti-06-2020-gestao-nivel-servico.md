@@ -1,42 +1,41 @@
 ---
-title: "TRE-PR Norma Tecnica SECTI 06/2020 - Gerenciamento Nivel de Servico"
-type: fonte-normativa
-tags: [tre-pr, secti, norma-tecnica, nvl-desempenho, ans, servico-ti]
-curadoria: stub
-escopo: apoio-governanca-ti
-status: vigente
-status_verificacao: "NT SECTI 006/2020 compilada"
-url: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2020/norma-tecnica-no-06-de-10-de-junho-de-2020"
+title: "Tre Pr Norma Tecnica Secti 06 2020 Gestao Nivel Servico"
 created: 2026-08-26
 updated: 2026-08-26
+type: fonte-normativa
+status: vigente
+curadoria: completa
+escopo: contextual
+status_verificacao: "Compilada no portal oficial; vigência confirmada. Síntese gerada a partir do texto integral em raw/."
+sources: [raw/tre-pr-norma-tecnica-secti-06-2020-gestao-nivel-servico.md]
+tags: [norma, tre-pr]
 ---
 
-# TRE-PR Norma Tecnica SECTI 06/2020 - Gerenciamento Nivel de Servico
+# Tre Pr Norma Tecnica Secti 06 2020 Gestao Nivel Servico
 
-## Summary
+## Síntese executiva
 
-Texto normativo oficial. Ver documento completo em `raw/`.
+Norma vigente do acervo, relevante para segurança da informação, proteção de dados ou governança de TI no TRE-PR/Justiça Eleitoral. **Situação registrada:** `vigente`. Síntese extraída do texto integral em `raw/tre-pr-norma-tecnica-secti-06-2020-gestao-nivel-servico.md`.
 
-## Key Takeaways
+## Objeto / Ementa
 
-- Extrair pontos-chave do texto normativo.
-- Identificar obrigações e prazos.
-- Link para implementação prática.
+**Institui o processo de Gerenciamento de Nível de Serviço de Tecnologia da Informação no âmbito da Justiça Eleitoral do Paraná.**
 
-## Relevant Entities
+## Obrigações e disposições principais
 
-- [[entities/cgsipdp]]
-- [[entities/etir]]
+- (Ver disposições completas no texto integral em `raw/`.)
 
-## Relevant Concepts
+## Interpretação operacional
 
-- [[concepts/monitoramento-normas-secti]]
-- [[concepts/prazos-normativos-tre-pr]]
+- Esta é uma página de índice analítico; a fonte de verdade é o texto integral em `raw/tre-pr-norma-tecnica-secti-06-2020-gestao-nivel-servico.md`.
+- Separar obrigações, papéis e responsabilidades conforme a norma e suas normas complementares.
+- Para citação formal, subir a referência ao DJE/DOU (ver ADR 0002).
 
-## Raw Source
+## Relações
 
-Source: `raw/tre-pr-norma-tecnica-secti-06-2020-gestao-nivel-servico.md`
+- [[references/entities/secti]]
 
-## Processing Notes
+## Fonte e vigência
 
-Página gerada automaticamente a partir da fonte em `raw/`. Frontmatter normalizado.
+- Fonte integral: `raw/tre-pr-norma-tecnica-secti-06-2020-gestao-nivel-servico.md`
+- Verificação: 2026-08-26

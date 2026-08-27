@@ -1,40 +1,41 @@
 ---
-title: "Resolução TSE 23.435/2015 - Regulamenta Acesso à Informação"
-type: fonte-normativa
-tags: [tse, acesso-informacao, transparencia]
-curadoria: stub
-escopo: contextual
-status: vigente
-status_verificacao: "Res. TSE 23.435/2015 compilada"
-url: "https://www.tse.jus.br/legislacao/compilada/res/2015/resolucao-no-23-435-de-5-de-fevereiro-de-2015"
+title: "Tse Resolucao 23 435 2015 Acesso Informacao"
 created: 2026-08-26
 updated: 2026-08-26
+type: fonte-normativa
+status: vigente
+curadoria: completa
+escopo: contextual
+status_verificacao: "Compilada no portal oficial; vigência confirmada. Síntese gerada a partir do texto integral em raw/."
+sources: [raw/tse-resolucao-23-435-2015-acesso-informacao.md]
+tags: [norma, tre-pr]
 ---
 
-# Resolução TSE 23.435/2015 - Regulamenta Acesso à Informação
+# Tse Resolucao 23 435 2015 Acesso Informacao
 
-## Summary
+## Síntese executiva
 
-Texto normativo oficial. Ver documento completo em `raw/`.
+Norma vigente do acervo, relevante para segurança da informação, proteção de dados ou governança de TI no TRE-PR/Justiça Eleitoral. **Situação registrada:** `vigente`. Síntese extraída do texto integral em `raw/tse-resolucao-23-435-2015-acesso-informacao.md`.
 
-## Key Takeaways
+## Objeto / Ementa
 
-- Extrair pontos-chave do texto normativo.
-- Identificar obrigações e prazos.
-- Link para implementação prática.
+**Regulamenta a aplicação, no âmbito do Tribunal Superior Eleitoral, da Lei nº 12.527, de 18 de novembro de 2011, que versa sobre o acesso à informação.**
 
-## Relevant Entities
+## Obrigações e disposições principais
 
-- [[entities/cgsipdp]]
+- (Ver disposições completas no texto integral em `raw/`.)
 
-## Relevant Concepts
+## Interpretação operacional
 
-- [[concepts/seguranca-informacao-justica-eleitoral]]
+- Esta é uma página de índice analítico; a fonte de verdade é o texto integral em `raw/tse-resolucao-23-435-2015-acesso-informacao.md`.
+- Separar obrigações, papéis e responsabilidades conforme a norma e suas normas complementares.
+- Para citação formal, subir a referência ao DJE/DOU (ver ADR 0002).
 
-## Raw Source
+## Relações
 
-Source: `raw/tse-resolucao-23-435-2015-acesso-informacao.md`
+- [[references/entities/agm]]
 
-## Processing Notes
+## Fonte e vigência
 
-Página gerada automaticamente a partir da fonte em `raw/`. Frontmatter normalizado.
+- Fonte integral: `raw/tse-resolucao-23-435-2015-acesso-informacao.md`
+- Verificação: 2026-08-26

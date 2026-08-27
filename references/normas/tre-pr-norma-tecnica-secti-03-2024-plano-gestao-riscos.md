@@ -1,42 +1,37 @@
 ---
 title: "TRE-PR Norma Tecnica SECTI 03/2024 - Plano de Gestao de Riscos TI"
-type: fonte-normativa
-tags: [tre-pr, secti, norma-tecnica, gestao-riscos, seguranca-ti]
-curadoria: stub
-escopo: apoio-governanca-ti
-status: histórica
-status_verificacao: "Plano de gestão de riscos 2024; sucedido pela NT 001/2025 (Plano 2025-2026); verificado em 2026-08-26."
-url: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2024/norma-tecnica-no-03-de-27-de-junho-de-2024"
 created: 2026-08-26
 updated: 2026-08-26
+type: fonte-normativa
+status: histórica
+curadoria: completa
+escopo: contextual
+status_verificacao: "Plano de gestão de riscos 2024; sucedido pela NT 001/2025; verificado em 2026-08-26."
+sources: [raw/tre-pr-norma-tecnica-secti-03-2024-plano-gestao-riscos.md]
+tags: [norma, tre-pr]
 ---
 
 # TRE-PR Norma Tecnica SECTI 03/2024 - Plano de Gestao de Riscos TI
 
-## Summary
+## Síntese executiva
 
-Texto normativo oficial. Ver documento completo em `raw/`.
+**Situação registrada:** `histórica`. Plano de gestão de riscos 2024; sucedido pela NT 001/2025.
 
-## Key Takeaways
+> Norma mantida no acervo para efeito histórico/documental; **não presume vigência atual**.
 
-- Extrair pontos-chave do texto normativo.
-- Identificar obrigações e prazos.
-- Link para implementação prática.
+## Objeto / Contexto
 
-## Relevant Entities
+title: "TRE-PR Norma Tecnica SECTI 03/2024 - Plano de Gestao de Riscos TI"
 
-- [[entities/cgsipdp]]
-- [[entities/etir]]
+## Disposições relevantes
 
-## Relevant Concepts
+- (Ver disposições no texto integral em `raw/`.)
 
-- [[concepts/monitoramento-normas-secti]]
-- [[concepts/prazos-normativos-tre-pr]]
+## Interpretação operacional
 
-## Raw Source
+- Consultar o texto integral em `raw/` para o teor exato.
+- Verificar a norma sucessora (quando identificada) antes de usar.
 
-Source: `raw/tre-pr-norma-tecnica-secti-03-2024-plano-gestao-riscos.md`
+## Fonte
 
-## Processing Notes
-
-Página gerada automaticamente a partir da fonte em `raw/`. Frontmatter normalizado.
+- `raw/tre-pr-norma-tecnica-secti-03-2024-plano-gestao-riscos.md`

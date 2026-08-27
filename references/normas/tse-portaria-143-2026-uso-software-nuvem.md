@@ -8,6 +8,7 @@ sources: [raw/tse-portaria-143-2026-uso-software-nuvem.md]
 status: vigente
 curadoria: completa
 escopo: contextual
+status_verificacao: "Verificado em 2026-08-26; consultar DJE/DOU para citação formal."
 ---
 
 # Portaria TSE Nº 143/2026 — Uso de software e serviços de computação em nuvem

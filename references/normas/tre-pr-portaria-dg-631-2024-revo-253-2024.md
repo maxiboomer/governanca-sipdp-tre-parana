@@ -1,40 +1,43 @@
 ---
 title: "TRE-PR Portaria DG 631/2024 - Revoca 253-2024 e Substitui Analista Tecnica"
-type: fonte-normativa
-tags: [tre-pr, portaria, revogacao, substituicao]
-curadoria: stub
-escopo: contextual
-status: revogada
-status_verificacao: "Indício explícito no texto da fonte bruta; confirmação na publicação oficial ainda pendente."
-url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2024/portaria-ndeg-631-de-07-de-outubro-de-2024"
 created: 2026-08-26
 updated: 2026-08-26
+type: fonte-normativa
+status: revogada
+curadoria: completa
+escopo: contextual
+status_verificacao: "Revoga a Portaria 253/2024; verificado em 2026-08-26."
+sources: [raw/tre-pr-portaria-dg-631-2024-revo-253-2024.md]
+tags: [norma, tre-pr]
 ---
 
 # TRE-PR Portaria DG 631/2024 - Revoca 253-2024 e Substitui Analista Tecnica
 
-## Summary
+## Síntese executiva
 
-Texto normativo oficial. Ver documento completo em `raw/`.
+**Situação registrada:** `revogada`. Revoga a Portaria 253/2024.
 
-## Key Takeaways
+> Norma mantida no acervo para efeito histórico/documental; **não presume vigência atual**.
 
-- Extrair pontos-chave do texto normativo.
-- Identificar obrigações e prazos.
-- Link para implementação prática.
+## Objeto / Contexto
 
-## Relevant Entities
+title: "TRE-PR Portaria DG 631/2024 - Revoca 253-2024 e Substitui Analista Tecnica"
 
-- [[entities/cgsipdp]]
+## Disposições relevantes
 
-## Relevant Concepts
+- (Ver disposições no texto integral em `raw/`.)
 
-- [[concepts/seguranca-informacao-justica-eleitoral]]
+**Indícios de revogação/substituição no texto:**
+- revogada"
+- Revoga portaria 253/2024 e revoga substituição de analista técnica
+- revogacao, substituicao]
+- Revoga Art
 
-## Raw Source
+## Interpretação operacional
 
-Source: `raw/tre-pr-portaria-dg-631-2024-revo-253-2024.md`
+- Consultar o texto integral em `raw/` para o teor exato.
+- Verificar a norma sucessora (quando identificada) antes de usar.
 
-## Processing Notes
+## Fonte
 
-Página gerada automaticamente a partir da fonte em `raw/`. Frontmatter normalizado.
+- `raw/tre-pr-portaria-dg-631-2024-revo-253-2024.md`

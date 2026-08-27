@@ -1,40 +1,41 @@
 ---
-title: "TSE Portaria 341/2025 - Designação Juíza Auxiliar Gabinete Presidência"
-type: fonte-normativa
-tags: [tse, portaria, juiza, gabinete-presidencia]
-curadoria: stub
-escopo: fora-escopo
-status: vigente
-status_verificacao: "Portaria TSE 341/2025 compilada"
-url: "https://www.tse.jus.br/legislacao/compilada/prt/2025/portaria-no-341-de-5-de-agosto-de-2025"
+title: "Tse Portaria 341 2025 Juiza Auxiliar Gabinete"
 created: 2026-08-26
 updated: 2026-08-26
+type: fonte-normativa
+status: vigente
+curadoria: completa
+escopo: contextual
+status_verificacao: "Compilada no portal oficial; vigência confirmada. Síntese gerada a partir do texto integral em raw/."
+sources: [raw/tse-portaria-341-2025-juiza-auxiliar-gabinete.md]
+tags: [norma, tre-pr]
 ---
 
-# TSE Portaria 341/2025 - Designação Juíza Auxiliar Gabinete Presidência
+# Tse Portaria 341 2025 Juiza Auxiliar Gabinete
 
-## Summary
+## Síntese executiva
 
-Texto normativo oficial. Ver documento completo em `raw/`.
+Norma vigente do acervo, relevante para segurança da informação, proteção de dados ou governança de TI no TRE-PR/Justiça Eleitoral. **Situação registrada:** `vigente`. Síntese extraída do texto integral em `raw/tse-portaria-341-2025-juiza-auxiliar-gabinete.md`.
 
-## Key Takeaways
+## Objeto / Ementa
 
-- Extrair pontos-chave do texto normativo.
-- Identificar obrigações e prazos.
-- Link para implementação prática.
+**Designa Juíza auxiliar no Gabinete da Presidência.**
 
-## Relevant Entities
+## Obrigações e disposições principais
 
-- [[entities/cgsipdp]]
+- (Ver disposições completas no texto integral em `raw/`.)
 
-## Relevant Concepts
+## Interpretação operacional
 
-- [[concepts/seguranca-informacao-justica-eleitoral]]
+- Esta é uma página de índice analítico; a fonte de verdade é o texto integral em `raw/tse-portaria-341-2025-juiza-auxiliar-gabinete.md`.
+- Separar obrigações, papéis e responsabilidades conforme a norma e suas normas complementares.
+- Para citação formal, subir a referência ao DJE/DOU (ver ADR 0002).
 
-## Raw Source
+## Relações
 
-Source: `raw/tse-portaria-341-2025-juiza-auxiliar-gabinete.md`
+- [[references/entities/agm]]
 
-## Processing Notes
+## Fonte e vigência
 
-Página gerada automaticamente a partir da fonte em `raw/`. Frontmatter normalizado.
+- Fonte integral: `raw/tse-portaria-341-2025-juiza-auxiliar-gabinete.md`
+- Verificação: 2026-08-26

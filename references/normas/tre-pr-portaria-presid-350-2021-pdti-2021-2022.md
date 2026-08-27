@@ -1,40 +1,37 @@
 ---
 title: "Portaria TRE-PR 350/2021 - Plano Diretor TI 2021-2022"
-type: fonte-normativa
-tags: [tre-pr, tecnologia, planejamento, pdti]
-curadoria: stub
-escopo: apoio-governanca-ti
-status: histórica
-status_verificacao: "PDTI 2021-2022: período encerrado; sucedido por PDTIs posteriores; verificado em 2026-08-26."
-url: "https://sitdoc.tse.jus.br/sitdoc/DownloadFile?id=48c2e913-b759-4627-9390-4651cf6983c3&app=dje&extensao=pdf"
 created: 2026-08-26
 updated: 2026-08-26
+type: fonte-normativa
+status: histórica
+curadoria: completa
+escopo: contextual
+status_verificacao: "PDTI 2021-2022; período encerrado; verificado em 2026-08-26."
+sources: [raw/tre-pr-portaria-presid-350-2021-pdti-2021-2022.md]
+tags: [norma, tre-pr]
 ---
 
 # Portaria TRE-PR 350/2021 - Plano Diretor TI 2021-2022
 
-## Summary
+## Síntese executiva
 
-Texto normativo oficial. Ver documento completo em `raw/`.
+**Situação registrada:** `histórica`. PDTI 2021-2022; período encerrado.
 
-## Key Takeaways
+> Norma mantida no acervo para efeito histórico/documental; **não presume vigência atual**.
 
-- Extrair pontos-chave do texto normativo.
-- Identificar obrigações e prazos.
-- Link para implementação prática.
+## Objeto / Contexto
 
-## Relevant Entities
+title: "Portaria TRE-PR 350/2021 - Plano Diretor TI 2021-2022"
 
-- [[entities/cgsipdp]]
+## Disposições relevantes
 
-## Relevant Concepts
+- (Ver disposições no texto integral em `raw/`.)
 
-- [[concepts/seguranca-informacao-justica-eleitoral]]
+## Interpretação operacional
 
-## Raw Source
+- Consultar o texto integral em `raw/` para o teor exato.
+- Verificar a norma sucessora (quando identificada) antes de usar.
 
-Source: `raw/tre-pr-portaria-presid-350-2021-pdti-2021-2022.md`
+## Fonte
 
-## Processing Notes
-
-Página gerada automaticamente a partir da fonte em `raw/`. Frontmatter normalizado.
+- `raw/tre-pr-portaria-presid-350-2021-pdti-2021-2022.md`

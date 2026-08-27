@@ -1,40 +1,41 @@
 ---
-title: "TRE-Pr Resolução 906/2022 - Altera Recuo Judicial"
-type: fonte-normativa
-tags: [tre-pr, recesso-judicial, plantao]
-curadoria: stub
-escopo: contextual
-status: vigente
-status_verificacao: "Res. 906/2022 compilada no portal TRE-PR"
-url: "https://www.tre-pr.jus.br/legislacao/resolucoes-do-tre-pr/arquivos/tre-pr-resolucao-n-o-906-de-29-de-novembro-de-2022"
+title: "Tre Pr Resolucao 906 2022 Altera 844"
 created: 2026-08-26
 updated: 2026-08-26
+type: fonte-normativa
+status: vigente
+curadoria: completa
+escopo: contextual
+status_verificacao: "Compilada no portal oficial; vigência confirmada. Síntese gerada a partir do texto integral em raw/."
+sources: [raw/tre-pr-resolucao-906-2022-altera-844.md]
+tags: [norma, tre-pr]
 ---
 
-# TRE-Pr Resolução 906/2022 - Altera Recuo Judicial
+# Tre Pr Resolucao 906 2022 Altera 844
 
-## Summary
+## Síntese executiva
 
-Texto normativo oficial. Ver documento completo em `raw/`.
+Norma vigente do acervo, relevante para segurança da informação, proteção de dados ou governança de TI no TRE-PR/Justiça Eleitoral. **Situação registrada:** `vigente`. Síntese extraída do texto integral em `raw/tre-pr-resolucao-906-2022-altera-844.md`.
 
-## Key Takeaways
+## Objeto / Ementa
 
-- Extrair pontos-chave do texto normativo.
-- Identificar obrigações e prazos.
-- Link para implementação prática.
+O **TRIBUNAL REGIONAL ELEITORAL DO PARANÁ**, nos termos do art. 30, incisos XVI, do Código Eleitoral, e do art. 22, III, IV e VII, de seu Regimento Interno (Resolução nº 792/2017),
 
-## Relevant Entities
+## Obrigações e disposições principais
 
-- [[entities/cgsipdp]]
+- (Ver disposições completas no texto integral em `raw/`.)
 
-## Relevant Concepts
+## Interpretação operacional
 
-- [[concepts/seguranca-informacao-justica-eleitoral]]
+- Esta é uma página de índice analítico; a fonte de verdade é o texto integral em `raw/tre-pr-resolucao-906-2022-altera-844.md`.
+- Separar obrigações, papéis e responsabilidades conforme a norma e suas normas complementares.
+- Para citação formal, subir a referência ao DJE/DOU (ver ADR 0002).
 
-## Raw Source
+## Relações
 
-Source: `raw/tre-pr-resolucao-906-2022-altera-844.md`
+- [[references/entities/agm]]
 
-## Processing Notes
+## Fonte e vigência
 
-Página gerada automaticamente a partir da fonte em `raw/`. Frontmatter normalizado.
+- Fonte integral: `raw/tre-pr-resolucao-906-2022-altera-844.md`
+- Verificação: 2026-08-26

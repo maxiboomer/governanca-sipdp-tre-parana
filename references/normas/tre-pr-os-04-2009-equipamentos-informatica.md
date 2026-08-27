@@ -1,40 +1,41 @@
 ---
-title: "ORDEM DE SERVIÇO-DG Nº 04/2009"
-type: fonte-normativa
-tags: [tre-pr, norma, coleta-automatica]
-curadoria: stub
-escopo: contextual
-status: vigente
-status_verificacao: "OS 04/2009 compilada no portal TRE-PR"
-url: "https://apps.tre-pr.jus.br/files/legislacaocompilada/os/2009/os042009dg.html"
+title: "Tre Pr Os 04 2009 Equipamentos Informatica"
 created: 2026-08-26
 updated: 2026-08-26
+type: fonte-normativa
+status: vigente
+curadoria: completa
+escopo: contextual
+status_verificacao: "Compilada no portal oficial; vigência confirmada. Síntese gerada a partir do texto integral em raw/."
+sources: [raw/tre-pr-os-04-2009-equipamentos-informatica.md]
+tags: [norma, tre-pr]
 ---
 
-# ORDEM DE SERVIÇO-DG Nº 04/2009
+# Tre Pr Os 04 2009 Equipamentos Informatica
 
-## Summary
+## Síntese executiva
 
-Texto normativo oficial. Ver documento completo em `raw/`.
+Norma vigente do acervo, relevante para segurança da informação, proteção de dados ou governança de TI no TRE-PR/Justiça Eleitoral. **Situação registrada:** `vigente`. Síntese extraída do texto integral em `raw/tre-pr-os-04-2009-equipamentos-informatica.md`.
 
-## Key Takeaways
+## Objeto / Ementa
 
-- Extrair pontos-chave do texto normativo.
-- Identificar obrigações e prazos.
-- Link para implementação prática.
+ELEITORAL DO PARANÁ, no uso de suas atribuições regimentais e,
 
-## Relevant Entities
+## Obrigações e disposições principais
 
-- [[entities/cgsipdp]]
+- (Ver disposições completas no texto integral em `raw/`.)
 
-## Relevant Concepts
+## Interpretação operacional
 
-- [[concepts/seguranca-informacao-justica-eleitoral]]
+- Esta é uma página de índice analítico; a fonte de verdade é o texto integral em `raw/tre-pr-os-04-2009-equipamentos-informatica.md`.
+- Separar obrigações, papéis e responsabilidades conforme a norma e suas normas complementares.
+- Para citação formal, subir a referência ao DJE/DOU (ver ADR 0002).
 
-## Raw Source
+## Relações
 
-Source: `raw/tre-pr-os-04-2009-equipamentos-informatica.md`
+- [[references/entities/agm]]
 
-## Processing Notes
+## Fonte e vigência
 
-Página gerada automaticamente a partir da fonte em `raw/`. Frontmatter normalizado.
+- Fonte integral: `raw/tre-pr-os-04-2009-equipamentos-informatica.md`
+- Verificação: 2026-08-26

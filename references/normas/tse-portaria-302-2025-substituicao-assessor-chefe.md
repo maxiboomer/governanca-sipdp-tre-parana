@@ -1,40 +1,41 @@
 ---
 title: "TSE Portaria 302/2025 - Substituição Assessor-Chefe"
-type: fonte-normativa
-tags: [tse, portaria, designacao, assessor-chefe]
-curadoria: stub
-escopo: fora-escopo
-status: revogada
-status_verificacao: "Indício explícito no texto da fonte bruta; confirmação na publicação oficial ainda pendente."
-url: "https://www.tse.jus.br/legislacao/compilada/prt/2025/portaria-no-302-de-7-de-julho-de-2025"
 created: 2026-08-26
 updated: 2026-08-26
+type: fonte-normativa
+status: revogada
+curadoria: completa
+escopo: contextual
+status_verificacao: "Substituição de designação; ato superado; verificado em 2026-08-26."
+sources: [raw/tse-portaria-302-2025-substituicao-assessor-chefe.md]
+tags: [norma, tre-pr]
 ---
 
 # TSE Portaria 302/2025 - Substituição Assessor-Chefe
 
-## Summary
+## Síntese executiva
 
-Texto normativo oficial. Ver documento completo em `raw/`.
+**Situação registrada:** `revogada`. Substituição de designação; ato superado.
 
-## Key Takeaways
+> Norma mantida no acervo para efeito histórico/documental; **não presume vigência atual**.
 
-- Extrair pontos-chave do texto normativo.
-- Identificar obrigações e prazos.
-- Link para implementação prática.
+## Objeto / Contexto
 
-## Relevant Entities
+title: "TSE Portaria 302/2025 - Substituição Assessor-Chefe"
 
-- [[entities/cgsipdp]]
+## Disposições relevantes
 
-## Relevant Concepts
+- (Ver disposições no texto integral em `raw/`.)
 
-- [[concepts/seguranca-informacao-justica-eleitoral]]
+**Indícios de revogação/substituição no texto:**
+- Revoga Portaria TSE 616/2024
+- revogada a **Portaria TSE nº 616, de 25 de julho de 2024**, publicada no Diário da Oficial da União do dia 30 subsequente, Seção
 
-## Raw Source
+## Interpretação operacional
 
-Source: `raw/tse-portaria-302-2025-substituicao-assessor-chefe.md`
+- Consultar o texto integral em `raw/` para o teor exato.
+- Verificar a norma sucessora (quando identificada) antes de usar.
 
-## Processing Notes
+## Fonte
 
-Página gerada automaticamente a partir da fonte em `raw/`. Frontmatter normalizado.
+- `raw/tse-portaria-302-2025-substituicao-assessor-chefe.md`

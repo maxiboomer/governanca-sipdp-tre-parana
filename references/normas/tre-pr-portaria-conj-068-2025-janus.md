@@ -1,40 +1,42 @@
 ---
-title: "PORTARIA N° 068, DE 26 DE FEVEREIRO DE 2025. — Tribunal Regional Eleitoral do Paraná"
-type: fonte-normativa
-tags: [tre-pr, norma, coleta-automatica]
-curadoria: stub
-escopo: fora-escopo
-status: vigente
-status_verificacao: "Portaria Conjunta 068/2025 compilada"
-url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-conjunta-presid-cre/2025/portaria-ndeg-068-de-26-de-fevereiro-de-2025"
+title: "Tre Pr Portaria Conj 068 2025 Janus"
 created: 2026-08-26
 updated: 2026-08-26
+type: fonte-normativa
+status: vigente
+curadoria: completa
+escopo: contextual
+status_verificacao: "Compilada no portal oficial; vigência confirmada. Síntese gerada a partir do texto integral em raw/."
+sources: [raw/tre-pr-portaria-conj-068-2025-janus.md]
+tags: [norma, tre-pr]
 ---
 
-# PORTARIA N° 068, DE 26 DE FEVEREIRO DE 2025. — Tribunal Regional Eleitoral do Paraná
+# Tre Pr Portaria Conj 068 2025 Janus
 
-## Summary
+## Síntese executiva
 
-Texto normativo oficial. Ver documento completo em `raw/`.
+Norma vigente do acervo, relevante para segurança da informação, proteção de dados ou governança de TI no TRE-PR/Justiça Eleitoral. **Situação registrada:** `vigente`. Síntese extraída do texto integral em `raw/tre-pr-portaria-conj-068-2025-janus.md`.
 
-## Key Takeaways
+## Objeto / Ementa
 
-- Extrair pontos-chave do texto normativo.
-- Identificar obrigações e prazos.
-- Link para implementação prática.
+PORTARIA N° 068, DE 26 DE FEVEREIRO DE 2025. — Tribunal Regional Eleitoral do Paraná
 
-## Relevant Entities
+## Obrigações e disposições principais
 
-- [[entities/cgsipdp]]
+- Art. 1º A Portaria Conjunta PRESID/CRE nº 356/2024 passa a vigorar com a seguinte alteração:
+- Art. 2º Esta Portaria entrará em vigor nesta data.
 
-## Relevant Concepts
+## Interpretação operacional
 
-- [[concepts/seguranca-informacao-justica-eleitoral]]
+- Esta é uma página de índice analítico; a fonte de verdade é o texto integral em `raw/tre-pr-portaria-conj-068-2025-janus.md`.
+- Separar obrigações, papéis e responsabilidades conforme a norma e suas normas complementares.
+- Para citação formal, subir a referência ao DJE/DOU (ver ADR 0002).
 
-## Raw Source
+## Relações
 
-Source: `raw/tre-pr-portaria-conj-068-2025-janus.md`
+- [[references/entities/agm]]
 
-## Processing Notes
+## Fonte e vigência
 
-Página gerada automaticamente a partir da fonte em `raw/`. Frontmatter normalizado.
+- Fonte integral: `raw/tre-pr-portaria-conj-068-2025-janus.md`
+- Verificação: 2026-08-26

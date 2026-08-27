@@ -8,6 +8,8 @@ updated: 2026-08-26
 status: vigente
 curadoria: completa
 escopo: contextual
+sources: [raw/tre-pr-portaria-presid-302-2025-pgcn.md]
+status_verificacao: "Verificado em 2026-08-26; consultar DJE/DOU para citação formal."
 ---
 
 # PORTARIA 302/2025 — Política de Gestão da Continuidade de Negócios (PGCN)

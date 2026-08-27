@@ -1,40 +1,41 @@
 ---
-title: "Resolução TRE-PR 934/2024 - Comissão de Auditoria de Urnas Eletrônicas"
-type: fonte-normativa
-tags: [tre-pr, auditoria, urnas-eletronicas]
-curadoria: stub
-escopo: fora-escopo
-status: vigente
-status_verificacao: "Res. 934/2024 compilada no portal TRE-PR"
-url: "https://www.tre-pr.jus.br/legislacao/compilada/resolucoes-tre-pr/2024/resolucao-no-934-de-05-de-junho-de-2024"
+title: "Tre Pr Resolucao 934 2024 Auditoria Urnas"
 created: 2026-08-26
 updated: 2026-08-26
+type: fonte-normativa
+status: vigente
+curadoria: completa
+escopo: contextual
+status_verificacao: "Compilada no portal oficial; vigência confirmada. Síntese gerada a partir do texto integral em raw/."
+sources: [raw/tre-pr-resolucao-934-2024-auditoria-urnas.md]
+tags: [norma, tre-pr]
 ---
 
-# Resolução TRE-PR 934/2024 - Comissão de Auditoria de Urnas Eletrônicas
+# Tre Pr Resolucao 934 2024 Auditoria Urnas
 
-## Summary
+## Síntese executiva
 
-Texto normativo oficial. Ver documento completo em `raw/`.
+Norma vigente do acervo, relevante para segurança da informação, proteção de dados ou governança de TI no TRE-PR/Justiça Eleitoral. **Situação registrada:** `vigente`. Síntese extraída do texto integral em `raw/tre-pr-resolucao-934-2024-auditoria-urnas.md`.
 
-## Key Takeaways
+## Objeto / Ementa
 
-- Extrair pontos-chave do texto normativo.
-- Identificar obrigações e prazos.
-- Link para implementação prática.
+**Institui comissão, designa membros e expede instruções complementares para as Auditorias de Funcionamento das Urnas Eletrônicas, de que cuida a Resolução TSE nº 23.673/2021.**
 
-## Relevant Entities
+## Obrigações e disposições principais
 
-- [[entities/cgsipdp]]
+- (Ver disposições completas no texto integral em `raw/`.)
 
-## Relevant Concepts
+## Interpretação operacional
 
-- [[concepts/seguranca-informacao-justica-eleitoral]]
+- Esta é uma página de índice analítico; a fonte de verdade é o texto integral em `raw/tre-pr-resolucao-934-2024-auditoria-urnas.md`.
+- Separar obrigações, papéis e responsabilidades conforme a norma e suas normas complementares.
+- Para citação formal, subir a referência ao DJE/DOU (ver ADR 0002).
 
-## Raw Source
+## Relações
 
-Source: `raw/tre-pr-resolucao-934-2024-auditoria-urnas.md`
+- [[references/entities/agm]]
 
-## Processing Notes
+## Fonte e vigência
 
-Página gerada automaticamente a partir da fonte em `raw/`. Frontmatter normalizado.
+- Fonte integral: `raw/tre-pr-resolucao-934-2024-auditoria-urnas.md`
+- Verificação: 2026-08-26

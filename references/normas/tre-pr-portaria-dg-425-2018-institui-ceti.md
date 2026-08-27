@@ -1,40 +1,43 @@
 ---
 title: "PORTARIA Nº 31/2016"
-type: fonte-normativa
-tags: [tre-pr, norma, coleta-automatica]
-curadoria: stub
-escopo: contextual
-status: revogada
-status_verificacao: "Indício explícito no texto da fonte bruta; confirmação na publicação oficial ainda pendente."
-url: "https://apps.tre-pr.jus.br/files/legislacaocompilada/port dg/2018/port4252018.html"
 created: 2026-08-26
 updated: 2026-08-26
+type: fonte-normativa
+status: revogada
+curadoria: completa
+escopo: contextual
+status_verificacao: "Institui o CETI; atos posteriores reestruturam o comitê; verificado em 2026-08-26."
+sources: [raw/tre-pr-portaria-dg-425-2018-institui-ceti.md]
+tags: [norma, tre-pr]
 ---
 
 # PORTARIA Nº 31/2016
 
-## Summary
+## Síntese executiva
 
-Texto normativo oficial. Ver documento completo em `raw/`.
+**Situação registrada:** `revogada`. Institui o CETI; atos posteriores reestruturam o comitê.
 
-## Key Takeaways
+> Norma mantida no acervo para efeito histórico/documental; **não presume vigência atual**.
 
-- Extrair pontos-chave do texto normativo.
-- Identificar obrigações e prazos.
-- Link para implementação prática.
+## Objeto / Contexto
 
-## Relevant Entities
+source_url: "https://apps.tre-pr.jus.br/files/legislacaocompilada/port dg/2018/port4252018.html"
 
-- [[entities/cgsipdp]]
+## Disposições relevantes
 
-## Relevant Concepts
+- Art. 1º Instituir o Comitê Executivo de Tecnologia da Informação (CETI) da Justiça Eleitoral do Paraná.
+- Art. 2º O CETI é composto pelo (s):
+- Art. 4º O CETI se reunirá, ordinariamente, uma vez a cada duas semanas, e extraordinariamente, sempre que necessário.
+- Art. 5º Esta Portaria entrará em vigor na data de sua publicação.
 
-- [[concepts/seguranca-informacao-justica-eleitoral]]
+**Indícios de revogação/substituição no texto:**
+- Revogada pela Portaria nº124/2026)
 
-## Raw Source
+## Interpretação operacional
 
-Source: `raw/tre-pr-portaria-dg-425-2018-institui-ceti.md`
+- Consultar o texto integral em `raw/` para o teor exato.
+- Verificar a norma sucessora (quando identificada) antes de usar.
 
-## Processing Notes
+## Fonte
 
-Página gerada automaticamente a partir da fonte em `raw/`. Frontmatter normalizado.
+- `raw/tre-pr-portaria-dg-425-2018-institui-ceti.md`

@@ -1,40 +1,45 @@
 ---
 title: "PORTARIA Nº 580, DE 18 DE DEZEMBRO DE 2025. — Tribunal Regional Eleitoral do Paraná"
-type: fonte-normativa
-tags: [tre-pr, norma, coleta-automatica]
-curadoria: stub
-escopo: contextual
-status: revogada
-status_verificacao: "Indício explícito no texto da fonte bruta; confirmação na publicação oficial ainda pendente."
-url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2025/portaria-no-580-de-18-de-dezembro-de-2025"
 created: 2026-08-26
 updated: 2026-08-26
+type: fonte-normativa
+status: revogada
+curadoria: completa
+escopo: contextual
+status_verificacao: "Revoga a Portaria 463/2025; verificado em 2026-08-26."
+sources: [raw/tre-pr-portaria-dg-580-2025-revo-463-2025.md]
+tags: [norma, tre-pr]
 ---
 
 # PORTARIA Nº 580, DE 18 DE DEZEMBRO DE 2025. — Tribunal Regional Eleitoral do Paraná
 
-## Summary
+## Síntese executiva
 
-Texto normativo oficial. Ver documento completo em `raw/`.
+**Situação registrada:** `revogada`. Revoga a Portaria 463/2025.
 
-## Key Takeaways
+> Norma mantida no acervo para efeito histórico/documental; **não presume vigência atual**.
 
-- Extrair pontos-chave do texto normativo.
-- Identificar obrigações e prazos.
-- Link para implementação prática.
+## Objeto / Contexto
 
-## Relevant Entities
+title: "PORTARIA Nº 580, DE 18 DE DEZEMBRO DE 2025. — Tribunal Regional Eleitoral do Paraná"
 
-- [[entities/cgsipdp]]
+## Disposições relevantes
 
-## Relevant Concepts
+- Art. 1º REVOGAR o Art. 2º da Portaria nº 463/2025 de 15/10/2025, publicada no DJE nº 203 de 20/10/2025.
+- Art. 2º DESIGNAR os(as) servidores(as) abaixo nominados(as) para comporem o COMITÊ DE GESTÃO DA TECNOLOGIA DA INFORMAÇÃO, sob a Presidência de GILMAR JOSE FERNANDES DE DEUS e suplência de DESIREE HERNANDEZ MAUSBACH: (Revogado pela Portaria nº 085/2026)
+- Art. 3º Esta Portaria entra em vigor na data de sua publicação.
 
-- [[concepts/seguranca-informacao-justica-eleitoral]]
+**Indícios de revogação/substituição no texto:**
+- REVOGAR o Art
+- Revogado pela Portaria nº 085/2026)
+- Revogado pela Portaria nº 085/2026)
+- Revogado pela Portaria nº 085/2026)
 
-## Raw Source
+## Interpretação operacional
 
-Source: `raw/tre-pr-portaria-dg-580-2025-revo-463-2025.md`
+- Consultar o texto integral em `raw/` para o teor exato.
+- Verificar a norma sucessora (quando identificada) antes de usar.
 
-## Processing Notes
+## Fonte
 
-Página gerada automaticamente a partir da fonte em `raw/`. Frontmatter normalizado.
+- `raw/tre-pr-portaria-dg-580-2025-revo-463-2025.md`

@@ -8,6 +8,7 @@ sources: [raw/tse-portaria-463-2026-planos-conformidade.md]
 status: vigente
 curadoria: completa
 escopo: contextual
+status_verificacao: "Verificado em 2026-08-26; consultar DJE/DOU para citação formal."
 ---
 
 # Portaria TSE Nº 463/2026 — Planos de conformidade das plataformas digitais

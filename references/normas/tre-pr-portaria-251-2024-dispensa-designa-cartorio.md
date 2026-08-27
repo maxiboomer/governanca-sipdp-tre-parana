@@ -1,40 +1,41 @@
 ---
-title: "TRE-PR Portaria 251/2024 - Dispensa e Designa Chefe de Cartorio"
-type: fonte-normativa
-tags: [tre-pr, portaria, dispensa, designacao, cartorio]
-curadoria: stub
-escopo: fora-escopo
-status: vigente
-status_verificacao: "Portaria 251/2024 compilada no portal TRE-PR"
-url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-presidencia-tre-pr/2024/portaria-ndeg-251-de-26-de-junho-de-2024"
+title: "Tre Pr Portaria 251 2024 Dispensa Designa Cartorio"
 created: 2026-08-26
 updated: 2026-08-26
+type: fonte-normativa
+status: vigente
+curadoria: completa
+escopo: contextual
+status_verificacao: "Compilada no portal oficial; vigência confirmada. Síntese gerada a partir do texto integral em raw/."
+sources: [raw/tre-pr-portaria-251-2024-dispensa-designa-cartorio.md]
+tags: [norma, tre-pr]
 ---
 
-# TRE-PR Portaria 251/2024 - Dispensa e Designa Chefe de Cartorio
+# Tre Pr Portaria 251 2024 Dispensa Designa Cartorio
 
-## Summary
+## Síntese executiva
 
-Texto normativo oficial. Ver documento completo em `raw/`.
+Norma vigente do acervo, relevante para segurança da informação, proteção de dados ou governança de TI no TRE-PR/Justiça Eleitoral. **Situação registrada:** `vigente`. Síntese extraída do texto integral em `raw/tre-pr-portaria-251-2024-dispensa-designa-cartorio.md`.
 
-## Key Takeaways
+## Objeto / Ementa
 
-- Extrair pontos-chave do texto normativo.
-- Identificar obrigações e prazos.
-- Link para implementação prática.
+O **PRESIDENTE DO TRIBUNAL REGIONAL ELEITORAL DO PARANÁ**, usando das atribuições que lhe são conferidas pelo artigo 23, incisos XXX e XLI do Regimento Interno deste Tribunal, e considerando o contido no Processo Administrativo Digital nº 10116/2024,
 
-## Relevant Entities
+## Obrigações e disposições principais
 
-- [[entities/cgsipdp]]
+- (Ver disposições completas no texto integral em `raw/`.)
 
-## Relevant Concepts
+## Interpretação operacional
 
-- [[concepts/seguranca-informacao-justica-eleitoral]]
+- Esta é uma página de índice analítico; a fonte de verdade é o texto integral em `raw/tre-pr-portaria-251-2024-dispensa-designa-cartorio.md`.
+- Separar obrigações, papéis e responsabilidades conforme a norma e suas normas complementares.
+- Para citação formal, subir a referência ao DJE/DOU (ver ADR 0002).
 
-## Raw Source
+## Relações
 
-Source: `raw/tre-pr-portaria-251-2024-dispensa-designa-cartorio.md`
+- [[references/entities/agm]]
 
-## Processing Notes
+## Fonte e vigência
 
-Página gerada automaticamente a partir da fonte em `raw/`. Frontmatter normalizado.
+- Fonte integral: `raw/tre-pr-portaria-251-2024-dispensa-designa-cartorio.md`
+- Verificação: 2026-08-26

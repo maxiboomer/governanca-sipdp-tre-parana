@@ -1,42 +1,41 @@
 ---
-title: "NORMA TÉCNICA Nº 01, DE 08 DE ABRIL DE 2024. — Tribunal Regional Eleitoral do Paraná"
-type: fonte-normativa
-tags: [tre-pr, norma, coleta-automatica]
-curadoria: stub
-escopo: apoio-governanca-ti
-status: vigente
-status_verificacao: "NT SECTI 001/2024 compilada"
-url: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2024/norma-tecnica-no-01-de-08-de-abril-de-2024"
+title: "Tre Pr Nt Secti Norma Tecnica 01 De 08 De Abril De 2024"
 created: 2026-08-26
 updated: 2026-08-26
+type: fonte-normativa
+status: vigente
+curadoria: completa
+escopo: contextual
+status_verificacao: "Compilada no portal oficial; vigência confirmada. Síntese gerada a partir do texto integral em raw/."
+sources: [raw/tre-pr-nt-secti-norma-tecnica-01-de-08-de-abril-de-2024.md]
+tags: [norma, tre-pr]
 ---
 
-# NORMA TÉCNICA Nº 01, DE 08 DE ABRIL DE 2024. — Tribunal Regional Eleitoral do Paraná
+# Tre Pr Nt Secti Norma Tecnica 01 De 08 De Abril De 2024
 
-## Summary
+## Síntese executiva
 
-Texto normativo oficial. Ver documento completo em `raw/`.
+Norma vigente do acervo, relevante para segurança da informação, proteção de dados ou governança de TI no TRE-PR/Justiça Eleitoral. **Situação registrada:** `vigente`. Síntese extraída do texto integral em `raw/tre-pr-nt-secti-norma-tecnica-01-de-08-de-abril-de-2024.md`.
 
-## Key Takeaways
+## Objeto / Ementa
 
-- Extrair pontos-chave do texto normativo.
-- Identificar obrigações e prazos.
-- Link para implementação prática.
+NORMA TÉCNICA Nº 01, DE 08 DE ABRIL DE 2024. — Tribunal Regional Eleitoral do Paraná
 
-## Relevant Entities
+## Obrigações e disposições principais
 
-- [[entities/cgsipdp]]
-- [[entities/etir]]
+- Art. 1o A tecnologia que será utilizada para comunicações oficiais na Justiça Eleitoral é o sistema Fortics SZ.chat, conforme contrato 23/2022, firmado com a empresa OmniCentral.
 
-## Relevant Concepts
+## Interpretação operacional
 
-- [[concepts/monitoramento-normas-secti]]
-- [[concepts/prazos-normativos-tre-pr]]
+- Esta é uma página de índice analítico; a fonte de verdade é o texto integral em `raw/tre-pr-nt-secti-norma-tecnica-01-de-08-de-abril-de-2024.md`.
+- Separar obrigações, papéis e responsabilidades conforme a norma e suas normas complementares.
+- Para citação formal, subir a referência ao DJE/DOU (ver ADR 0002).
 
-## Raw Source
+## Relações
 
-Source: `raw/tre-pr-nt-secti-norma-tecnica-01-de-08-de-abril-de-2024.md`
+- [[references/entities/secti]]
 
-## Processing Notes
+## Fonte e vigência
 
-Página gerada automaticamente a partir da fonte em `raw/`. Frontmatter normalizado.
+- Fonte integral: `raw/tre-pr-nt-secti-norma-tecnica-01-de-08-de-abril-de-2024.md`
+- Verificação: 2026-08-26

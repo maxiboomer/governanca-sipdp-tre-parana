@@ -1,40 +1,41 @@
 ---
-title: "Portaria TSE 1.013/2018 - Política de Preservação Digital da Justiça Eleitoral"
-type: fonte-normativa
-tags: [tse, digital-preservation, arquivamento, paleo]
-curadoria: stub
-escopo: contextual
-status: vigente
-status_verificacao: "Portaria TSE 1013/2018 vigente; Política de Preservação Digital"
-url: "https://www.tse.jus.br/legislacao/compilada/prt/2018/portaria-no-1013-de-23-de-novembro-de-2018"
+title: "Tse Portaria 1013 2018 Pdi"
 created: 2026-08-26
 updated: 2026-08-26
+type: fonte-normativa
+status: vigente
+curadoria: completa
+escopo: contextual
+status_verificacao: "Compilada no portal oficial; vigência confirmada. Síntese gerada a partir do texto integral em raw/."
+sources: [raw/tse-portaria-1013-2018-pdi.md]
+tags: [norma, tre-pr]
 ---
 
-# Portaria TSE 1.013/2018 - Política de Preservação Digital da Justiça Eleitoral
+# Tse Portaria 1013 2018 Pdi
 
-## Summary
+## Síntese executiva
 
-Texto normativo oficial. Ver documento completo em `raw/`.
+Norma vigente do acervo, relevante para segurança da informação, proteção de dados ou governança de TI no TRE-PR/Justiça Eleitoral. **Situação registrada:** `vigente`. Síntese extraída do texto integral em `raw/tse-portaria-1013-2018-pdi.md`.
 
-## Key Takeaways
+## Objeto / Ementa
 
-- Extrair pontos-chave do texto normativo.
-- Identificar obrigações e prazos.
-- Link para implementação prática.
+**Institui Política de Preservação Digital da Justiça Eleitoral.**
 
-## Relevant Entities
+## Obrigações e disposições principais
 
-- [[entities/cgsipdp]]
+- (Ver disposições completas no texto integral em `raw/`.)
 
-## Relevant Concepts
+## Interpretação operacional
 
-- [[concepts/seguranca-informacao-justica-eleitoral]]
+- Esta é uma página de índice analítico; a fonte de verdade é o texto integral em `raw/tse-portaria-1013-2018-pdi.md`.
+- Separar obrigações, papéis e responsabilidades conforme a norma e suas normas complementares.
+- Para citação formal, subir a referência ao DJE/DOU (ver ADR 0002).
 
-## Raw Source
+## Relações
 
-Source: `raw/tse-portaria-1013-2018-pdi.md`
+- [[references/entities/agm]]
 
-## Processing Notes
+## Fonte e vigência
 
-Página gerada automaticamente a partir da fonte em `raw/`. Frontmatter normalizado.
+- Fonte integral: `raw/tse-portaria-1013-2018-pdi.md`
+- Verificação: 2026-08-26

@@ -8,6 +8,7 @@ sources: [raw/norma-tecnica-secti-005-2026-linux-estacoes.md]
 status: vigente
 curadoria: completa
 escopo: contextual
+status_verificacao: "Verificado em 2026-08-26; consultar DJE/DOU para citação formal."
 ---
 
 # Norma Técnica SECTI Nº 005/2026 — Linux em estações de trabalho

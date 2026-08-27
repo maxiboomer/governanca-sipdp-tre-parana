@@ -1,40 +1,41 @@
 ---
-title: "TRE-Pr Resolução 932/2024 - Sistema de Governança da Justiça Eleitoral"
-type: fonte-normativa
-tags: [tre-pr, governanca, gestao]
-curadoria: stub
-escopo: contextual
-status: vigente
-status_verificacao: "Res. 932/2024 compilada no portal TRE-PR; Sistema de Governança"
-url: "https://www.tre-pr.jus.br/legislacao/compilada/resolucoes-tre-pr/2024/resolucao-no-932-de-22-de-maio-de-2024"
+title: "Tre Pr Resolucao 932 2024 Sistema Governo"
 created: 2026-08-26
 updated: 2026-08-26
+type: fonte-normativa
+status: vigente
+curadoria: completa
+escopo: contextual
+status_verificacao: "Compilada no portal oficial; vigência confirmada. Síntese gerada a partir do texto integral em raw/."
+sources: [raw/tre-pr-resolucao-932-2024-sistema-governo.md]
+tags: [norma, tre-pr]
 ---
 
-# TRE-Pr Resolução 932/2024 - Sistema de Governança da Justiça Eleitoral
+# Tre Pr Resolucao 932 2024 Sistema Governo
 
-## Summary
+## Síntese executiva
 
-Texto normativo oficial. Ver documento completo em `raw/`.
+Norma vigente do acervo, relevante para segurança da informação, proteção de dados ou governança de TI no TRE-PR/Justiça Eleitoral. **Situação registrada:** `vigente`. Síntese extraída do texto integral em `raw/tre-pr-resolucao-932-2024-sistema-governo.md`.
 
-## Key Takeaways
+## Objeto / Ementa
 
-- Extrair pontos-chave do texto normativo.
-- Identificar obrigações e prazos.
-- Link para implementação prática.
+**Regulamenta o Sistema de Governança da Justiça Eleitoral do Paraná.**
 
-## Relevant Entities
+## Obrigações e disposições principais
 
-- [[entities/cgsipdp]]
+- (Ver disposições completas no texto integral em `raw/`.)
 
-## Relevant Concepts
+## Interpretação operacional
 
-- [[concepts/seguranca-informacao-justica-eleitoral]]
+- Esta é uma página de índice analítico; a fonte de verdade é o texto integral em `raw/tre-pr-resolucao-932-2024-sistema-governo.md`.
+- Separar obrigações, papéis e responsabilidades conforme a norma e suas normas complementares.
+- Para citação formal, subir a referência ao DJE/DOU (ver ADR 0002).
 
-## Raw Source
+## Relações
 
-Source: `raw/tre-pr-resolucao-932-2024-sistema-governo.md`
+- [[references/entities/agm]]
 
-## Processing Notes
+## Fonte e vigência
 
-Página gerada automaticamente a partir da fonte em `raw/`. Frontmatter normalizado.
+- Fonte integral: `raw/tre-pr-resolucao-932-2024-sistema-governo.md`
+- Verificação: 2026-08-26

@@ -1,40 +1,50 @@
 ---
-title: "RESOLUÇÃO Nº 815/2018"
-type: fonte-normativa
-tags: [tre-pr, norma, coleta-automatica]
-curadoria: stub
-escopo: contextual
-status: vigente
-status_verificacao: "Res. 815/2018 compilada no portal TRE-PR"
-url: "https://apps.tre-pr.jus.br/files/legislacaocompilada/res/2018/Res08152018.html"
+title: "Tre Pr Resolucao 815 2018 Gestao Contratacoes"
 created: 2026-08-26
 updated: 2026-08-26
+type: fonte-normativa
+status: vigente
+curadoria: completa
+escopo: contextual
+status_verificacao: "Compilada no portal oficial; vigência confirmada. Síntese gerada a partir do texto integral em raw/."
+sources: [raw/tre-pr-resolucao-815-2018-gestao-contratacoes.md]
+tags: [norma, tre-pr]
 ---
 
-# RESOLUÇÃO Nº 815/2018
+# Tre Pr Resolucao 815 2018 Gestao Contratacoes
 
-## Summary
+## Síntese executiva
 
-Texto normativo oficial. Ver documento completo em `raw/`.
+Norma vigente do acervo, relevante para segurança da informação, proteção de dados ou governança de TI no TRE-PR/Justiça Eleitoral. **Situação registrada:** `vigente`. Síntese extraída do texto integral em `raw/tre-pr-resolucao-815-2018-gestao-contratacoes.md`.
 
-## Key Takeaways
+## Objeto / Ementa
 
-- Extrair pontos-chave do texto normativo.
-- Identificar obrigações e prazos.
-- Link para implementação prática.
+O TRIBUNAL REGIONAL ELEITORAL DO PARANÁ, no uso das
 
-## Relevant Entities
+## Obrigações e disposições principais
 
-- [[entities/cgsipdp]]
+- Art. 1º Instituir a Política de Gestão de Contratações do Tribunal Regional Eleitoral do Paraná, visando à sistematização e à unificação dos
+- Art. 2e São diretrizes da política de contratações:
+- Art. 3º São objetivos da Política de Gestão de Contratações:
+- Art. 4º O TRE/PR privilegiará a terceirização dos serviços, de acordo com a legislação em vigor, desde que realizados os Estudos Técnicos Preliminares
+- Art. 5º A aquisição de produtos para formação de estoque ocorrerá
+- Art. 6º As contratações seguirão a Política de Sustentabilidade
+- Art. 7º A Diretoria-Geral poderá autorizar a realização de
+- Art. 8e A autorização para a contratação conjunta devera ser
+- Art. 9º Compete à Coordenadoria de Planejamento Estratégico, com subsídios fornecidos pelas Secretarias e pelo Comitê de Gestão Orçamentária e
+- Art. 10. Compete à Secretaria de Controle Interno e Auditoria, com
 
-## Relevant Concepts
+## Interpretação operacional
 
-- [[concepts/seguranca-informacao-justica-eleitoral]]
+- Esta é uma página de índice analítico; a fonte de verdade é o texto integral em `raw/tre-pr-resolucao-815-2018-gestao-contratacoes.md`.
+- Separar obrigações, papéis e responsabilidades conforme a norma e suas normas complementares.
+- Para citação formal, subir a referência ao DJE/DOU (ver ADR 0002).
 
-## Raw Source
+## Relações
 
-Source: `raw/tre-pr-resolucao-815-2018-gestao-contratacoes.md`
+- [[references/entities/agm]]
 
-## Processing Notes
+## Fonte e vigência
 
-Página gerada automaticamente a partir da fonte em `raw/`. Frontmatter normalizado.
+- Fonte integral: `raw/tre-pr-resolucao-815-2018-gestao-contratacoes.md`
+- Verificação: 2026-08-26

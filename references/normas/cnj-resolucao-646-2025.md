@@ -7,6 +7,8 @@ tags: [cnj, crise-socioambiental, protocolo, gestao-de-riscos, desastre]
 status: vigente
 curadoria: completa
 escopo: contextual
+sources: [raw/cnj-resolucao-646-2025.md]
+status_verificacao: "Verificado em 2026-08-26; consultar DJE/DOU para citação formal."
 ---
 
 # CNJ Resolução 646/2025 — Protocolo de Crise Socioambiental do Poder Judiciário

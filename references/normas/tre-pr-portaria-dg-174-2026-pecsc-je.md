@@ -1,40 +1,41 @@
 ---
-title: "TRE-Pr Portaria DG 174/2026 - PECSC-JE 2026-2027"
-type: fonte-normativa
-tags: [tre-pr, seguranca-cibernetica, educacao-cibernetica, 2026]
-curadoria: stub
-escopo: contextual
-status: vigente
-status_verificacao: "Portaria 174/2026 compilada"
-url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2026/portaria-no-174-de-13-de-abril-de-2026"
+title: "Tre Pr Portaria Dg 174 2026 Pecsc Je"
 created: 2026-08-26
 updated: 2026-08-26
+type: fonte-normativa
+status: vigente
+curadoria: completa
+escopo: contextual
+status_verificacao: "Compilada no portal oficial; vigência confirmada. Síntese gerada a partir do texto integral em raw/."
+sources: [raw/tre-pr-portaria-dg-174-2026-pecsc-je.md]
+tags: [norma, tre-pr]
 ---
 
-# TRE-Pr Portaria DG 174/2026 - PECSC-JE 2026-2027
+# Tre Pr Portaria Dg 174 2026 Pecsc Je
 
-## Summary
+## Síntese executiva
 
-Texto normativo oficial. Ver documento completo em `raw/`.
+Norma vigente do acervo, relevante para segurança da informação, proteção de dados ou governança de TI no TRE-PR/Justiça Eleitoral. **Situação registrada:** `vigente`. Síntese extraída do texto integral em `raw/tre-pr-portaria-dg-174-2026-pecsc-je.md`.
 
-## Key Takeaways
+## Objeto / Ementa
 
-- Extrair pontos-chave do texto normativo.
-- Identificar obrigações e prazos.
-- Link para implementação prática.
+**Institui o Plano de Educação e Cultura em Segurança Cibernética no âmbito da Justiça Eleitoral do Paraná (PECSC-JE/PR), para o biênio de 2026-2027.**
 
-## Relevant Entities
+## Obrigações e disposições principais
 
-- [[entities/cgsipdp]]
+- (Ver disposições completas no texto integral em `raw/`.)
 
-## Relevant Concepts
+## Interpretação operacional
 
-- [[concepts/seguranca-informacao-justica-eleitoral]]
+- Esta é uma página de índice analítico; a fonte de verdade é o texto integral em `raw/tre-pr-portaria-dg-174-2026-pecsc-je.md`.
+- Separar obrigações, papéis e responsabilidades conforme a norma e suas normas complementares.
+- Para citação formal, subir a referência ao DJE/DOU (ver ADR 0002).
 
-## Raw Source
+## Relações
 
-Source: `raw/tre-pr-portaria-dg-174-2026-pecsc-je.md`
+- [[references/entities/agm]]
 
-## Processing Notes
+## Fonte e vigência
 
-Página gerada automaticamente a partir da fonte em `raw/`. Frontmatter normalizado.
+- Fonte integral: `raw/tre-pr-portaria-dg-174-2026-pecsc-je.md`
+- Verificação: 2026-08-26

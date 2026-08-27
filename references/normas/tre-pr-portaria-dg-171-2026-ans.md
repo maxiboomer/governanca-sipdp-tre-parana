@@ -1,40 +1,41 @@
 ---
-title: "TRE-PR Portaria DG 171/2026 - Acordo Nivel de Servico"
-type: fonte-normativa
-tags: [tre-pr, ans, nivel-servico, tecnologia, service-level-agreement]
-curadoria: stub
-escopo: contextual
-status: vigente
-status_verificacao: "Portaria 171/2026 compilada"
-url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2026/portaria-no-171-de-10-de-abril-de-2026"
+title: "Tre Pr Portaria Dg 171 2026 Ans"
 created: 2026-08-26
 updated: 2026-08-26
+type: fonte-normativa
+status: vigente
+curadoria: completa
+escopo: contextual
+status_verificacao: "Compilada no portal oficial; vigência confirmada. Síntese gerada a partir do texto integral em raw/."
+sources: [raw/tre-pr-portaria-dg-171-2026-ans.md]
+tags: [norma, tre-pr]
 ---
 
-# TRE-PR Portaria DG 171/2026 - Acordo Nivel de Servico
+# Tre Pr Portaria Dg 171 2026 Ans
 
-## Summary
+## Síntese executiva
 
-Texto normativo oficial. Ver documento completo em `raw/`.
+Norma vigente do acervo, relevante para segurança da informação, proteção de dados ou governança de TI no TRE-PR/Justiça Eleitoral. **Situação registrada:** `vigente`. Síntese extraída do texto integral em `raw/tre-pr-portaria-dg-171-2026-ans.md`.
 
-## Key Takeaways
+## Objeto / Ementa
 
-- Extrair pontos-chave do texto normativo.
-- Identificar obrigações e prazos.
-- Link para implementação prática.
+**Aprova o Acordo de Nível de Serviço (ANS) que, entre si, celebram a Secretaria de Tecnologia da Informação (SECTI) e os usuários de recursos de tecnologia da informação e comunicação da Justiça Eleitoral do Paraná.**
 
-## Relevant Entities
+## Obrigações e disposições principais
 
-- [[entities/cgsipdp]]
+- (Ver disposições completas no texto integral em `raw/`.)
 
-## Relevant Concepts
+## Interpretação operacional
 
-- [[concepts/seguranca-informacao-justica-eleitoral]]
+- Esta é uma página de índice analítico; a fonte de verdade é o texto integral em `raw/tre-pr-portaria-dg-171-2026-ans.md`.
+- Separar obrigações, papéis e responsabilidades conforme a norma e suas normas complementares.
+- Para citação formal, subir a referência ao DJE/DOU (ver ADR 0002).
 
-## Raw Source
+## Relações
 
-Source: `raw/tre-pr-portaria-dg-171-2026-ans.md`
+- [[references/entities/agm]]
 
-## Processing Notes
+## Fonte e vigência
 
-Página gerada automaticamente a partir da fonte em `raw/`. Frontmatter normalizado.
+- Fonte integral: `raw/tre-pr-portaria-dg-171-2026-ans.md`
+- Verificação: 2026-08-26

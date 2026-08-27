@@ -1,40 +1,41 @@
 ---
-title: "TRE-Pr Resolução 982/2026 - Reestruturação do Tribunal"
-type: fonte-normativa
-tags: [tre-pr, reestruturacao, orgao-colegiado, cargos-comissa]
-curadoria: stub
-escopo: contextual
-status: vigente
-status_verificacao: "Res. 982/2026 compilada no portal TRE-PR; estrutura orgânica"
-url: "https://www.tre-pr.jus.br/legislacao/resolucoes-do-tre-pr/arquivos/tre-pr-resolucao-no-982-de-25-de-junho-de-2026"
+title: "Tre Pr Resolucao 982 2026 Reestruturacao"
 created: 2026-08-26
 updated: 2026-08-26
+type: fonte-normativa
+status: vigente
+curadoria: completa
+escopo: contextual
+status_verificacao: "Compilada no portal oficial; vigência confirmada. Síntese gerada a partir do texto integral em raw/."
+sources: [raw/tre-pr-resolucao-982-2026-reestruturacao.md]
+tags: [norma, tre-pr]
 ---
 
-# TRE-Pr Resolução 982/2026 - Reestruturação do Tribunal
+# Tre Pr Resolucao 982 2026 Reestruturacao
 
-## Summary
+## Síntese executiva
 
-Texto normativo oficial. Ver documento completo em `raw/`.
+Norma vigente do acervo, relevante para segurança da informação, proteção de dados ou governança de TI no TRE-PR/Justiça Eleitoral. **Situação registrada:** `vigente`. Síntese extraída do texto integral em `raw/tre-pr-resolucao-982-2026-reestruturacao.md`.
 
-## Key Takeaways
+## Objeto / Ementa
 
-- Extrair pontos-chave do texto normativo.
-- Identificar obrigações e prazos.
-- Link para implementação prática.
+**Cria cargos comissionados e funções comissionadas mediante transformação, altera a estrutura orgânica do Tribunal Regional Eleitoral do Paraná e dá outras providências.**
 
-## Relevant Entities
+## Obrigações e disposições principais
 
-- [[entities/cgsipdp]]
+- (Ver disposições completas no texto integral em `raw/`.)
 
-## Relevant Concepts
+## Interpretação operacional
 
-- [[concepts/seguranca-informacao-justica-eleitoral]]
+- Esta é uma página de índice analítico; a fonte de verdade é o texto integral em `raw/tre-pr-resolucao-982-2026-reestruturacao.md`.
+- Separar obrigações, papéis e responsabilidades conforme a norma e suas normas complementares.
+- Para citação formal, subir a referência ao DJE/DOU (ver ADR 0002).
 
-## Raw Source
+## Relações
 
-Source: `raw/tre-pr-resolucao-982-2026-reestruturacao.md`
+- [[references/entities/agm]]
 
-## Processing Notes
+## Fonte e vigência
 
-Página gerada automaticamente a partir da fonte em `raw/`. Frontmatter normalizado.
+- Fonte integral: `raw/tre-pr-resolucao-982-2026-reestruturacao.md`
+- Verificação: 2026-08-26

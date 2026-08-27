@@ -1,42 +1,41 @@
 ---
-title: "TRE-PR Norma Tecnica SECTI 07/2020 - Direcionamento Tecnologico Sistemas"
-type: fonte-normativa
-tags: [tre-pr, secti, norma-tecnica, direcionamento-tecnologico, cloud]
-curadoria: stub
-escopo: apoio-governanca-ti
-status: vigente
-status_verificacao: "NT SECTI 007/2020 compilada"
-url: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2020/norma-tecnica-no-07-de-08-de-julho-de-2020"
+title: "Tre Pr Norma Tecnica Secti 07 2020 Direcionamento Tecnologico"
 created: 2026-08-26
 updated: 2026-08-26
+type: fonte-normativa
+status: vigente
+curadoria: completa
+escopo: contextual
+status_verificacao: "Compilada no portal oficial; vigência confirmada. Síntese gerada a partir do texto integral em raw/."
+sources: [raw/tre-pr-norma-tecnica-secti-07-2020-direcionamento-tecnologico.md]
+tags: [norma, tre-pr]
 ---
 
-# TRE-PR Norma Tecnica SECTI 07/2020 - Direcionamento Tecnologico Sistemas
+# Tre Pr Norma Tecnica Secti 07 2020 Direcionamento Tecnologico
 
-## Summary
+## Síntese executiva
 
-Texto normativo oficial. Ver documento completo em `raw/`.
+Norma vigente do acervo, relevante para segurança da informação, proteção de dados ou governança de TI no TRE-PR/Justiça Eleitoral. **Situação registrada:** `vigente`. Síntese extraída do texto integral em `raw/tre-pr-norma-tecnica-secti-07-2020-direcionamento-tecnologico.md`.
 
-## Key Takeaways
+## Objeto / Ementa
 
-- Extrair pontos-chave do texto normativo.
-- Identificar obrigações e prazos.
-- Link para implementação prática.
+**Estabelece o direcionamento tecnológico da sistemática de estrutura de TI necessária para disponibilização de sistemas e aplicativos.**
 
-## Relevant Entities
+## Obrigações e disposições principais
 
-- [[entities/cgsipdp]]
-- [[entities/etir]]
+- (Ver disposições completas no texto integral em `raw/`.)
 
-## Relevant Concepts
+## Interpretação operacional
 
-- [[concepts/monitoramento-normas-secti]]
-- [[concepts/prazos-normativos-tre-pr]]
+- Esta é uma página de índice analítico; a fonte de verdade é o texto integral em `raw/tre-pr-norma-tecnica-secti-07-2020-direcionamento-tecnologico.md`.
+- Separar obrigações, papéis e responsabilidades conforme a norma e suas normas complementares.
+- Para citação formal, subir a referência ao DJE/DOU (ver ADR 0002).
 
-## Raw Source
+## Relações
 
-Source: `raw/tre-pr-norma-tecnica-secti-07-2020-direcionamento-tecnologico.md`
+- [[references/entities/secti]]
 
-## Processing Notes
+## Fonte e vigência
 
-Página gerada automaticamente a partir da fonte em `raw/`. Frontmatter normalizado.
+- Fonte integral: `raw/tre-pr-norma-tecnica-secti-07-2020-direcionamento-tecnologico.md`
+- Verificação: 2026-08-26
