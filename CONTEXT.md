@@ -58,8 +58,9 @@ Página com síntese escrita da norma. Afirma competências, prazos e efeitos, c
 _Avoid_: página pronta, página completa
 
 **Página não curada**:
-Marcador que aponta para o texto da norma sem sintetizá-lo. Marcada `curadoria: pendente`.
-Não é ausência de informação — a informação está no texto que ela indica.
+*(não se aplica mais — todas as 174 páginas de `normas/` estão curadas; mantido o termo para
+rastreabilidade histórica)*. Marcador que apontava para o texto da norma sem sintetizá-lo,
+marcado `curadoria: pendente`.
 _Avoid_: página vazia, stub, placeholder
 
 **Texto da norma**:

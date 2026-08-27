@@ -1,6 +1,6 @@
 ---
 name: governanca-sipdp-tre-pr
-description: Acervo de normas internas do TRE-PR e da Justiça Eleitoral (154 textos, 2016–2026), mantido pela AGM, com camada curada de Segurança da Informação, Proteção de Dados e continuidade. Use para responder qual norma rege um tema no TRE-PR, se ela está vigente ou foi revogada, com qual publicação isso se sustenta, e quem é a unidade competente — e para fundamentar despacho, parecer, minuta ou nota técnica com citação verificável. Ative ao mencionar PSI, LGPD no TRE-PR, CGSI/PDP, Encarregado/DPO, ETIR, ASC, AGM, SECTI, COSIG, Comitê de Crises Cibernéticas, PGCN, RIPD, RoPA, prazo normativo, vigência, revogação, inventário de normas, Res. TSE 23.763/2026, Res. TRE-PR 974/2026, 962/2025, 982/2026, 971/2026, 959/2025, 932/2024, Portaria DG 086/2026, Portaria 247/2021, Portaria 302/2025, IN-DG, Norma Técnica SECTI, Ordem de Serviço — ou ao pedir "qual norma diz", "isso está revogado?", "quem é competente por", "qual o prazo de", "onde foi publicada".
+description: Acervo de normas internas do TRE-PR e da Justiça Eleitoral (174 textos, 2016–2026), mantido pela AGM, com camada curada de Segurança da Informação, Proteção de Dados e continuidade. Use para responder qual norma rege um tema no TRE-PR, se ela está vigente ou foi revogada, com qual publicação isso se sustenta, e quem é a unidade competente — e para fundamentar despacho, parecer, minuta ou nota técnica com citação verificável. Ative ao mencionar PSI, LGPD no TRE-PR, CGSI/PDP, Encarregado/DPO, ETIR, ASC, AGM, SECTI, COSIG, Comitê de Crises Cibernéticas, PGCN, RIPD, RoPA, prazo normativo, vigência, revogação, inventário de normas, Res. TSE 23.763/2026, Res. TRE-PR 974/2026, 962/2025, 982/2026, 971/2026, 959/2025, 932/2024, Portaria DG 086/2026, Portaria 247/2021, Portaria 302/2025, IN-DG, Norma Técnica SECTI, Ordem de Serviço — ou ao pedir "qual norma diz", "isso está revogado?", "quem é competente por", "qual o prazo de", "onde foi publicada".
 ---
 
 # Acervo Normativo TRE-PR — SI/PDP
@@ -13,8 +13,8 @@ O vocabulário deste domínio está em `CONTEXT.md`. As decisões de desenho est
 `docs/adr/`. **Leia o `CONTEXT.md` antes de usar os termos "norma", "situação",
 "publicação", "curada" e "inventário"** — aqui eles têm sentido fixo.
 
-**Conteúdo:** 154 textos em `references/raw/`; 197 páginas em
-`references/{normas,entities,concepts,inventarios,sources}/`.
+**Conteúdo:** 174 páginas em `references/normas/` (todas curadas) + `entities`, `concepts`,
+`inventarios`, `sources`; textos integrais em `references/raw/`.
 
 ## Escopo
 
@@ -31,10 +31,9 @@ Todo link interno é caminho a partir da raiz do plugin:
 
 1. Abra `references/index.md` — catálogo com links resolvíveis.
 2. Vá à página do tema (`normas/`, `entities/`, `concepts/`, `inventarios/`).
-3. **Página com o aviso "Página não curada":** é marcador, não ausência de informação. Abra
-   o arquivo em `references/raw/` que ela indica e responda pelo texto. **Nunca responda que
-   a informação não existe com base numa página não curada** — 144 das 165 páginas de
-   `normas/` estão nesse estado.
+3. **Todas as páginas de `normas/` estão curadas** — têm síntese, objeto/ementa, obrigações e
+   status documentado. Responda pela síntese; para o teor exato, consulte o texto integral em
+   `references/raw/`.
 4. Nunca edite `references/raw/`. Correções vão nas páginas curadas.
 
 ## Regra de sustentação — a mais importante
@@ -70,6 +69,11 @@ Consulte `references/inventarios/normas-tre-pr-tse.md` e
 | PSI local (Res. TRE-PR 974/2026) | `references/normas/psi-tre-pr-974-2026.md` |
 | Comitê de crises cibernéticas (932/2024 e 962/2025) | `references/normas/governanca-e-crises-tre-pr.md` |
 | Estrutura orgânica atual (Res. 982/2026) | `references/normas/tre-pr-resolucao-982-2026-reestruturacao.md` |
+| Gestão da Inovação (Res. 970/2026) | `references/normas/tre-pr-resolucao-970-2026-gestao-inovacao.md` |
+| Captação audiovisual / LGPD (Res. 979/2026) | `references/normas/tre-pr-resolucao-979-2026-captacao-audiovisual.md` |
+| Mensagens instantâneas (Res. 983/2026, altera 852/2020) | `references/normas/tre-pr-resolucao-983-2026-altera-852-mensagens.md` |
+| Política Antirretaliação (Res. 946/2025) | `references/normas/tre-pr-resolucao-946-2025-antirretaliacao.md` |
+| PJe (Res. 958/2025) | `references/normas/tre-pr-resolucao-958-2025-pje.md` |
 | AGM — governança e monitoramento de SI | `references/entities/agm.md` |
 | CGSI/PDP (Port. DG 086/2026) | `references/entities/cgsipdp.md` |
 | Encarregado/DPO (Port. 247/2021, na SEGEI) | `references/entities/encarregado-dpo.md` |
@@ -108,6 +112,6 @@ Esta skill é **acervo e sustentação**: o que a norma diz, se vale, com que pu
 ## Avisos
 
 - Normas revogadas permanecem como histórico, sinalizadas.
-- 144 páginas de `normas/` estão marcadas `curadoria: pendente` — o texto existe em `raw/`,
-  a síntese é que não foi escrita.
+- Todas as 174 páginas de `normas/` estão curadas; o teor exato está em `references/raw/`.
 - Os Anexos I e II da Res. 982/2026 (cargos e organograma) não constam do acervo.
+- A NT SECTI 002/2026 (MDS) está catalogada, mas o texto integral ainda não foi coletado.
