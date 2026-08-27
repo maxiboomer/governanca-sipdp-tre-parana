@@ -16,5 +16,11 @@
     "continuidade",
     "normas",
     "monitoramento"
+  ],
+  "skills": [
+    {
+      "name": "governanca-sipdp-tre-pr",
+      "description": "Acervo de normas internas do TRE-PR e da Justiça Eleitoral (174 normas curadas) com camada curada de SI/PDP e continuidade."
+    }
   ]
 }
