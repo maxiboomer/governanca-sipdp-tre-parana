@@ -1,0 +1,76 @@
+---
+title: "TRE-PR Portaria DG 429/2024 - Revoga 476-2022 e Designa Comite Gestao TI"
+type: fonte-normativa
+fonte: "Tribunal Regional Eleitoral do Paraná"
+url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2024/portaria-ndeg-429-de-26-de-junho-de-2024"
+data_publicacao: "26/06/2024"
+status: "revogada"
+observacao: "Revoga portaria 476/2022 e designa membros do Comitê de Gestão da Tecnologia da Informação."
+created: 2026-08-05
+updated: 2026-08-05
+tags: [tre-pr, portaria, comite-gestao-ti, revogacao]
+
+---
+
+# PORTARIA Nº 429, DE 26 DE JUNHO DE 2024
+
+**Revoga o Art. 2º da Portaria nº 476/2022 e designa os servidores para compor o Comitê de Gestão da Tecnologia da Informação.**
+
+A **BACHARELA SOLANGE MARIA VIEIRA**, Diretora-Geral da Secretaria do Tribunal Regional Eleitoral do Paraná, usando das atribuições que lhe são conferidas pelo artigo 43, inciso XV, do Regulamento da Secretaria deste Tribunal, e considerando o contido no protocolo PAD nº 5816/2019,
+
+**RESOLVE:**
+
+## Art. 1º
+**REVOGAR** o Art. 2º da Portaria nº 476/2022 de 29/09/2022, publicada no DJE nº 251 de 05/10/2022.
+
+## Art. 2º
+**DESIGNAR** os(as) servidores(as) abaixo nominados(as) para compor o **COMITÊ DE GESTÃO DA TECNOLOGIA DA INFORMAÇÃO**, sob a Presidência de **GILMAR JOSE FERNANDES DE DEUS** e suplência de **DESIREE HERNANDEZ MAUSBACH RICCO**:
+
+**I** - GILMAR JOSE FERNANDES DE DEUS, Secretário de Tecnologia da Informação;
+
+**II** - IURI CAMARGO KISOVEC, Secretário de Administração;
+
+**III** - GABRIELLE ANA SELIG SHIOHARA, Secretária de Gestão de Pessoas;
+
+**IV** - SILVIA ALBUQUERQUE MEDICI METRI, Secretária da Corregedoria Regional Eleitoral;
+
+**V** - HELTON JOSE SANCHEZ, Secretário de Orçamento, Finanças e Contabilidade;
+
+**VI** - VALCIR MOMBACH, Secretário de Planejamento e Logística de Eleições e de Inovações;
+
+**VII** - DANIELLE CIDADE MORGADO MAEMURA, Secretária Judiciária;
+
+**VIII** - WILLIAN GALERA GARCIA, Secretário de Comunicação Social e Multimídia;
+
+**IX** - DESIREE HERNANDEZ MAUSBACH RICCO, Coordenadora de Sistemas;
+
+**X** - MARCOS FÁBIO PORTELA, Coordenador de Serviços e Ambientes;
+
+**XI** - MAX LUIZ DE CARVALHO, Coordenador de Infraestrutura de TI;
+
+**XII** - JILLIAN ROBERTO SERVAT, Assessor da Presidência;
+
+**XIII** - DANIELE CRISTINE FORNECK FRANZINI, Assessora Chefe da Assessoria Jurídica da Diretoria Geral;
+
+**XIV** - LUCAS BARKE BRUZON, Assessor de Segurança Cibernética;
+
+**XV** - HÉLIO DA CONCEIÇÃO CAMILLO JUNIOR, Chefe do Núcleo de Apoio à Governança de TI e também designado como Secretário do Comitê;
+
+**XVI** - LUIZ FERNANDO DO NASCIMENTO, Chefe de Cartório da 74ª Zona Eleitoral de Peabiru.
+
+## Art. 3º
+Esta Portaria entra em vigor na data de sua publicação.
+
+**Curitiba, 26 de junho de 2024.**
+
+**SOLANGE MARIA VIEIRA**
+Diretora-Geral
+
+---
+**Fonte:** [TRE-PR - Portaria DG 429/2024](https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2024/portaria-ndeg-429-de-26-de-junho-de-2024)
+
+**Base legal:** PAD 5816/2019; Regulamento da Secretaria (Art. 43, inciso XV)
+
+**Objetivo:** Revoga portaria 476/2022 e reatua Comitê de Gestão da TI (2024)
+
+**Status:** Revogada pela Portaria nº 593/2024**
