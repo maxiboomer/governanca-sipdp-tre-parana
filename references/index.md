@@ -202,7 +202,7 @@ Ver `CLAUDE.md` para convenções. Estrutura: `raw/` (fontes imutáveis) → `wi
 
 ## Inventários
 - [[wiki/inventarios/normas-cnj|Inventário de Normas — CNJ (referência de TIC/SI aplicáveis ao TRE-PR)]]
-- [[inventarios/lacunas-do-inventario|Lacunas conhecidas do inventário de vigências]]
+- [[wiki/inventarios/lacunas-do-inventario|Lacunas conhecidas do inventário de vigências]]
 - [[wiki/inventarios/normas-tre-pr-tse|Inventário de Normas — TRE-PR / TSE (SECTI)]]
 
 ## Sources (síntese das coletas em `raw/`)
