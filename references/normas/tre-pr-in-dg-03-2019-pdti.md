@@ -40,7 +40,7 @@ Institui o processo de Gestão do Plano Diretor de Tecnologia da Informação (P
 
 ## Relações
 
-- [[references/entities/agm]]
+- [[entities/agm]]
 
 ## Fonte e vigência
 

@@ -33,7 +33,7 @@ NORMA TÉCNICA Nº 01, DE 08 DE ABRIL DE 2024. — Tribunal Regional Eleitoral d
 
 ## Relações
 
-- [[references/entities/secti]]
+- [[entities/secti]]
 
 ## Fonte e vigência
 

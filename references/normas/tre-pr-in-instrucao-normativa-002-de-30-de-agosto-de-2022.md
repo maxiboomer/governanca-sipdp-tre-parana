@@ -42,7 +42,7 @@ INSTRUÇÃO NORMATIVA Nº 002, DE 30 DE AGOSTO DE 2022. — Tribunal Regional El
 
 ## Relações
 
-- [[references/entities/agm]]
+- [[entities/agm]]
 
 ## Fonte e vigência
 

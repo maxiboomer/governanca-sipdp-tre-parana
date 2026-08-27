@@ -33,7 +33,7 @@ O **BACHAREL VALCIR MOMBACH**, Diretor-Geral da Secretaria do Tribunal Regional 
 
 ## Relações
 
-- [[references/entities/agm]]
+- [[entities/agm]]
 
 ## Fonte e vigência
 

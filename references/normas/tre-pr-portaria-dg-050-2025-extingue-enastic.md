@@ -34,7 +34,7 @@ PORTARIA N° 050, DE 03 DE FEVEREIRO DE 2025. — Tribunal Regional Eleitoral do
 
 ## Relações
 
-- [[references/entities/agm]]
+- [[entities/agm]]
 
 ## Fonte e vigência
 

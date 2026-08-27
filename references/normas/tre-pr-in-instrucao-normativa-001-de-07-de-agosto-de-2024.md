@@ -42,7 +42,7 @@ INSTRUÇÃO NORMATIVA Nº 001, DE 07 DE AGOSTO DE 2024. — Tribunal Regional El
 
 ## Relações
 
-- [[references/entities/agm]]
+- [[entities/agm]]
 
 ## Fonte e vigência
 

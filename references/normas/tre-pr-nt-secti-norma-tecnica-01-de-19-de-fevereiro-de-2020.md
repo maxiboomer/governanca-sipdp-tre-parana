@@ -40,7 +40,7 @@ NORMA TÉCNICA Nº 01, DE 19 DE FEVEREIRO DE 2020. — Tribunal Regional Eleitor
 
 ## Relações
 
-- [[references/entities/secti]]
+- [[entities/secti]]
 
 ## Fonte e vigência
 

@@ -42,7 +42,7 @@ O TRIBUNAL REGIONAL ELEITORAL DO PARANÁ, no uso das
 
 ## Relações
 
-- [[references/entities/agm]]
+- [[entities/agm]]
 
 ## Fonte e vigência
 

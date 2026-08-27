@@ -42,7 +42,7 @@ PORTARIA N° 356, DE 12 DE SETEMBRO DE 2024. — Tribunal Regional Eleitoral do 
 
 ## Relações
 
-- [[references/entities/agm]]
+- [[entities/agm]]
 
 ## Fonte e vigência
 

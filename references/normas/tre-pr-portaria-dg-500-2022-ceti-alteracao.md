@@ -34,7 +34,7 @@ PORTARIA Nº 500, DE 14 DE OUTUBRO DE 2022. — Tribunal Regional Eleitoral do P
 
 ## Relações
 
-- [[references/entities/cgsipdp]]
+- [[entities/cgsipdp]]
 
 ## Fonte e vigência
 

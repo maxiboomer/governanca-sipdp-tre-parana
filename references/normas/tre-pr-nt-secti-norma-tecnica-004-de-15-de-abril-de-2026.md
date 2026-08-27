@@ -37,7 +37,7 @@ NORMA TÉCNICA N° 004, DE 15 DE ABRIL DE 2026. — Tribunal Regional Eleitoral 
 
 ## Relações
 
-- [[references/entities/secti]]
+- [[entities/secti]]
 
 ## Fonte e vigência
 

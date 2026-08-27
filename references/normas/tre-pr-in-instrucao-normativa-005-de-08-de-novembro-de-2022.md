@@ -35,7 +35,7 @@ INSTRUÇÃO NORMATIVA Nº 005, DE 08 DE NOVEMBRO DE 2022. — Tribunal Regional 
 
 ## Relações
 
-- [[references/entities/agm]]
+- [[entities/agm]]
 
 ## Fonte e vigência
 

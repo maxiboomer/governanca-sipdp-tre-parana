@@ -42,7 +42,7 @@ INSTRUÇÃO NORMATIVA Nº 011, DE 05 DE DEZEMBRO DE 2025. — Tribunal Regional 
 
 ## Relações
 
-- [[references/entities/agm]]
+- [[entities/agm]]
 
 ## Fonte e vigência
 

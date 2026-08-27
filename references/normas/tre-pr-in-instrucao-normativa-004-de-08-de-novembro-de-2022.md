@@ -42,7 +42,7 @@ INSTRUÇÃO NORMATIVA Nº 004, DE 27 DE OUTUBRO DE 2022. — Tribunal Regional E
 
 ## Relações
 
-- [[references/entities/agm]]
+- [[entities/agm]]
 
 ## Fonte e vigência
 

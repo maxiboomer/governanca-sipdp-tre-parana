@@ -39,7 +39,7 @@ NORMA TÉCNICA Nº 02, DE 26 DE JULHO DE 2019. — Tribunal Regional Eleitoral d
 
 ## Relações
 
-- [[references/entities/secti]]
+- [[entities/secti]]
 
 ## Fonte e vigência
 

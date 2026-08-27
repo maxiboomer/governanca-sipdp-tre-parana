@@ -33,7 +33,7 @@ ELEITORAL DO PARANÁ, no uso de suas atribuições regimentais e,
 
 ## Relações
 
-- [[references/entities/agm]]
+- [[entities/agm]]
 
 ## Fonte e vigência
 

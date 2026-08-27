@@ -38,7 +38,7 @@ NORMA TÉCNICA Nº 02, DE 26 DE FEVEREIRO DE 2020. — Tribunal Regional Eleitor
 
 ## Relações
 
-- [[references/entities/secti]]
+- [[entities/secti]]
 
 ## Fonte e vigência
 

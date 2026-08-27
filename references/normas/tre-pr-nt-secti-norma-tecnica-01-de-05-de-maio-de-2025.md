@@ -36,7 +36,7 @@ NORMA TÉCNICA Nº 01, DE 05 DE MAIO DE 2025. — Tribunal Regional Eleitoral do
 
 ## Relações
 
-- [[references/entities/secti]]
+- [[entities/secti]]
 
 ## Fonte e vigência
 

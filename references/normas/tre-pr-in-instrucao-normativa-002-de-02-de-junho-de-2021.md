@@ -34,7 +34,7 @@ INSTRUÇÃO NORMATIVA Nº 002, DE 02 DE JUNHO DE 2021. — Tribunal Regional Ele
 
 ## Relações
 
-- [[references/entities/agm]]
+- [[entities/agm]]
 
 ## Fonte e vigência
 

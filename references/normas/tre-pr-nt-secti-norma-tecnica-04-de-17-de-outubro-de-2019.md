@@ -39,7 +39,7 @@ NORMA TÉCNICA Nº 04, DE 17 DE OUTUBRO DE 2019. — Tribunal Regional Eleitoral
 
 ## Relações
 
-- [[references/entities/secti]]
+- [[entities/secti]]
 
 ## Fonte e vigência
 

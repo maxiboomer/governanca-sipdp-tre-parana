@@ -36,7 +36,7 @@ PORTARIA N° 103, DE 28 DE MARÇO DE 2025. — Tribunal Regional Eleitoral do Pa
 
 ## Relações
 
-- [[references/entities/agm]]
+- [[entities/agm]]
 
 ## Fonte e vigência
 

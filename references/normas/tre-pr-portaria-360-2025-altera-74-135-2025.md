@@ -33,7 +33,7 @@ Norma vigente do acervo, relevante para segurança da informação, proteção d
 
 ## Relações
 
-- [[references/entities/agm]]
+- [[entities/agm]]
 
 ## Fonte e vigência
 

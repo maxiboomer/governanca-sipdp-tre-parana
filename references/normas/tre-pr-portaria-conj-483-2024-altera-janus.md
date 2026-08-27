@@ -34,7 +34,7 @@ PORTARIA N° 483, DE 12 DE DEZEMBRO DE 2024. — Tribunal Regional Eleitoral do 
 
 ## Relações
 
-- [[references/entities/agm]]
+- [[entities/agm]]
 
 ## Fonte e vigência
 

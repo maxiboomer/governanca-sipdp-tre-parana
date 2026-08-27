@@ -42,7 +42,7 @@ INSTRUÇÃO NORMATIVA Nº 005, DE 29 DE MAIO DE 2025. — Tribunal Regional Elei
 
 ## Relações
 
-- [[references/entities/agm]]
+- [[entities/agm]]
 
 ## Fonte e vigência
 

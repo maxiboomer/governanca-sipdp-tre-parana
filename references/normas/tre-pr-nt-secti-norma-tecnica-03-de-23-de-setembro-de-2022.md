@@ -37,7 +37,7 @@ NORMA TÉCNICA Nº 03, DE 23 DE SETEMBRO DE 2022. — Tribunal Regional Eleitora
 
 ## Relações
 
-- [[references/entities/secti]]
+- [[entities/secti]]
 
 ## Fonte e vigência
 

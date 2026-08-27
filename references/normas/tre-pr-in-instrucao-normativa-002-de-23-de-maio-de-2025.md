@@ -42,7 +42,7 @@ INSTRUÇÃO NORMATIVA Nº 002, DE 23 DE MAIO DE 2025. — Tribunal Regional Elei
 
 ## Relações
 
-- [[references/entities/agm]]
+- [[entities/agm]]
 
 ## Fonte e vigência
 

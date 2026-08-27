@@ -36,7 +36,7 @@ PORTARIA Nº 204, DE 17 DE MAIO DE 2022. — Tribunal Regional Eleitoral do Para
 
 ## Relações
 
-- [[references/entities/agm]]
+- [[entities/agm]]
 
 ## Fonte e vigência
 

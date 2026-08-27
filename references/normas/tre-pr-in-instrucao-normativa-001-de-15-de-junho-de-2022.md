@@ -36,7 +36,7 @@ INSTRUÇÃO NORMATIVA Nº 001, DE 15 DE JUNHO DE 2022. — Tribunal Regional Ele
 
 ## Relações
 
-- [[references/entities/agm]]
+- [[entities/agm]]
 
 ## Fonte e vigência
 

@@ -42,7 +42,7 @@ NORMA TÉCNICA Nº 01, DE 28 DE ABRIL DE 2022. — Tribunal Regional Eleitoral d
 
 ## Relações
 
-- [[references/entities/secti]]
+- [[entities/secti]]
 
 ## Fonte e vigência
 

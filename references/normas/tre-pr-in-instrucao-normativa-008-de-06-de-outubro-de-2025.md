@@ -42,7 +42,7 @@ INSTRUÇÃO NORMATIVA Nº 008, DE 06 DE OUTUBRO DE 2025. — Tribunal Regional E
 
 ## Relações
 
-- [[references/entities/agm]]
+- [[entities/agm]]
 
 ## Fonte e vigência
 

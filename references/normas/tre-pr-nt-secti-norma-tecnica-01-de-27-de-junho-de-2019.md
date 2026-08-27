@@ -40,7 +40,7 @@ NORMA TÉCNICA Nº 01, DE 27 DE JUNHO DE 2019. — Tribunal Regional Eleitoral d
 
 ## Relações
 
-- [[references/entities/secti]]
+- [[entities/secti]]
 
 ## Fonte e vigência
 

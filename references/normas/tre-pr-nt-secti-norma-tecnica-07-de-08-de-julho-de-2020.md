@@ -38,7 +38,7 @@ NORMA TÉCNICA Nº 07, DE 08 DE JULHO DE 2020. — Tribunal Regional Eleitoral d
 
 ## Relações
 
-- [[references/entities/secti]]
+- [[entities/secti]]
 
 ## Fonte e vigência
 

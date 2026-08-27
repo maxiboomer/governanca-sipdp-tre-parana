@@ -38,7 +38,7 @@ NORMA TÉCNICA Nº 09, DE 04 DE SETEMBRO DE 2020. — Tribunal Regional Eleitora
 
 ## Relações
 
-- [[references/entities/secti]]
+- [[entities/secti]]
 
 ## Fonte e vigência
 

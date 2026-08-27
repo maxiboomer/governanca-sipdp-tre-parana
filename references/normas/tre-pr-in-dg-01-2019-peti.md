@@ -40,7 +40,7 @@ Institui o processo de Gestão do Planejamento Estratégico de Tecnologia da Inf
 
 ## Relações
 
-- [[references/entities/agm]]
+- [[entities/agm]]
 
 ## Fonte e vigência
 

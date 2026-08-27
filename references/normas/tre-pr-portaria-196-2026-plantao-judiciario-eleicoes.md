@@ -33,7 +33,7 @@ O **PRESIDENTE DO TRIBUNAL REGIONAL ELEITORAL DO PARANÁ**, no uso da atribuiç�
 
 ## Relações
 
-- [[references/entities/agm]]
+- [[entities/agm]]
 
 ## Fonte e vigência
 

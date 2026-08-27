@@ -38,7 +38,7 @@ NORMA TÉCNICA Nº 05, DE 29 DE MAIO DE 2020. — Tribunal Regional Eleitoral do
 
 ## Relações
 
-- [[references/entities/secti]]
+- [[entities/secti]]
 
 ## Fonte e vigência
 

@@ -42,7 +42,7 @@ INSTRUÇÃO NORMATIVA Nº 006, DE 13 DE AGOSTO DE 2025.
 
 ## Relações
 
-- [[references/entities/agm]]
+- [[entities/agm]]
 
 ## Fonte e vigência
 

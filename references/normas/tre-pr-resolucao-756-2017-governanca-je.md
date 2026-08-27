@@ -33,7 +33,7 @@ Norma vigente do acervo, relevante para segurança da informação, proteção d
 
 ## Relações
 
-- [[references/entities/cgsipdp]]
+- [[entities/cgsipdp]]
 
 ## Fonte e vigência
 

@@ -42,7 +42,7 @@ Regulamenta os procedimentos de designação de equipe de apoio no âmbito da Ju
 
 ## Relações
 
-- [[references/entities/agm]]
+- [[entities/agm]]
 
 ## Fonte e vigência
 

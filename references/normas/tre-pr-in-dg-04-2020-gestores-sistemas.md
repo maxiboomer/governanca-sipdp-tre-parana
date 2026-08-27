@@ -40,7 +40,7 @@ Institui e regulamenta as atribuições dos Gestores de Sistemas Informatizados 
 
 ## Relações
 
-- [[references/entities/agm]]
+- [[entities/agm]]
 
 ## Fonte e vigência
 

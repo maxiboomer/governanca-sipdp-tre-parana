@@ -42,7 +42,7 @@ NORMA TÉCNICA Nº 001, DE 04 DE FEVEREIRO DE 2026. — Tribunal Regional Eleito
 
 ## Relações
 
-- [[references/entities/secti]]
+- [[entities/secti]]
 
 ## Fonte e vigência
 

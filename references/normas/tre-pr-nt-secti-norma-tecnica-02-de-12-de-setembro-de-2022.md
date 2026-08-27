@@ -39,7 +39,7 @@ NORMA TÉCNICA Nº 02, DE 12 DE SETEMBRO DE 2022. — Tribunal Regional Eleitora
 
 ## Relações
 
-- [[references/entities/secti]]
+- [[entities/secti]]
 
 ## Fonte e vigência
 

@@ -35,7 +35,7 @@ INSTRUÇÃO NORMATIVA Nº 001, DE 24 DE MARÇO DE 2023. — Tribunal Regional El
 
 ## Relações
 
-- [[references/entities/agm]]
+- [[entities/agm]]
 
 ## Fonte e vigência
 

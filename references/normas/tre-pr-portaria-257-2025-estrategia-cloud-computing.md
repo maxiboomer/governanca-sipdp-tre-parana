@@ -33,7 +33,7 @@ Norma vigente do acervo, relevante para segurança da informação, proteção d
 
 ## Relações
 
-- [[references/concepts/continuidade-negocios-tre-pr]]
+- [[concepts/continuidade-negocios-tre-pr]]
 
 ## Fonte e vigência
 

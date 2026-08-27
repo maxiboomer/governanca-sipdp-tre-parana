@@ -42,7 +42,7 @@ INSTRUÇÃO NORMATIVA Nº 003, DE 07 DE DEZEMBRO DE 2024. — Tribunal Regional 
 
 ## Relações
 
-- [[references/entities/agm]]
+- [[entities/agm]]
 
 ## Fonte e vigência
 

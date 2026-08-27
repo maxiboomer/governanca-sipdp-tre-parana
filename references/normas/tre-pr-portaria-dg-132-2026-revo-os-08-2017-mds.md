@@ -35,7 +35,7 @@ PORTARIA N° 132, DE 18 DE MARÇO DE 2026. — Tribunal Regional Eleitoral do Pa
 
 ## Relações
 
-- [[references/entities/agm]]
+- [[entities/agm]]
 
 ## Fonte e vigência
 

@@ -36,7 +36,7 @@ NORMA TÉCNICA Nº 03, DE 27 DE JUNHO DE 2024. — Tribunal Regional Eleitoral d
 
 ## Relações
 
-- [[references/entities/secti]]
+- [[entities/secti]]
 
 ## Fonte e vigência
 

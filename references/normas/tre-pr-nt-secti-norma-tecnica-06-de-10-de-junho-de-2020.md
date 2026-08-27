@@ -38,7 +38,7 @@ NORMA TÉCNICA Nº 06, DE 10 DE JUNHO DE 2020. — Tribunal Regional Eleitoral d
 
 ## Relações
 
-- [[references/entities/secti]]
+- [[entities/secti]]
 
 ## Fonte e vigência
 

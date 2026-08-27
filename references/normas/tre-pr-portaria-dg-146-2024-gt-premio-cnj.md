@@ -34,7 +34,7 @@ PORTARIA N° 146, DE 08 DE MARÇO DE 2024. — Tribunal Regional Eleitoral do Pa
 
 ## Relações
 
-- [[references/entities/agm]]
+- [[entities/agm]]
 
 ## Fonte e vigência
 

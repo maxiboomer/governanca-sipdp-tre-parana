@@ -37,7 +37,7 @@ NORMA TÉCNICA Nº 04, DE 05 DE JULHO DE 2024. — Tribunal Regional Eleitoral d
 
 ## Relações
 
-- [[references/entities/secti]]
+- [[entities/secti]]
 
 ## Fonte e vigência
 

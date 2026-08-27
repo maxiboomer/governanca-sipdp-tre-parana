@@ -33,7 +33,7 @@ O **TRIBUNAL REGIONAL ELEITORAL DO PARANÁ**, nos termos do art. 30, incisos XVI
 
 ## Relações
 
-- [[references/entities/agm]]
+- [[entities/agm]]
 
 ## Fonte e vigência
 

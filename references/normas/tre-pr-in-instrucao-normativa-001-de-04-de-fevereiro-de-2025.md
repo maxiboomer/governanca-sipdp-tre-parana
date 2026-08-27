@@ -42,7 +42,7 @@ INSTRUÇÃO NORMATIVA Nº 001, DE 04 DE FEVEREIRO DE 2025. — Tribunal Regional
 
 ## Relações
 
-- [[references/entities/agm]]
+- [[entities/agm]]
 
 ## Fonte e vigência
 
