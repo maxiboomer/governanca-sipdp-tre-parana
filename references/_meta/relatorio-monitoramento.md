@@ -64,3 +64,39 @@ obras, comunicação social). Ficam fora da camada de curadoria.
 - Reconferir as listagens de 2026 (Resoluções/INs/NTs) periodicamente para novas publicações.
 - Coletar o texto integral da NT SECTI 002/2026 (MDS).
 - Reavaliar TSE/CNJ quando o acesso por extração permitir.
+
+## Rodada 2026-08-29
+
+### Fontes verificadas (via web_extract)
+
+| Fonte | URL | Status |
+|---|---|---|
+| TRE-PR Resoluções 2026 | `.../resolucoes-tre-pr/2026` | Acessível (até Res. 987/2026) |
+| TRE-PR Instruções Normativas 2026 | `.../instrucoes-normativas-tre-pr/2026` | Acessível (apenas IN 001/2026) |
+| TRE-PR Normas Técnicas SECTI 2026 | `.../normas-tecnicas-da-secti/2026` | Acessível (NT 001–005) |
+| TRE-PR Portarias DG 2026 | `.../portarias-da-diretoria-geral-tre-pr/2026` | Acessível (até Port. 434/2026) |
+| TRE-PR Portarias Presidência 2026 | `.../portarias-da-presidencia-tre-pr/2026` | Acessível (até Port. 293/2026) |
+| TSE Portarias/Resoluções 2026 | `tse.jus.br/legislacao` | Verificado por busca (23.763, 143, 463 já no acervo) |
+
+### Novas normas SI/PDP detectadas e adicionadas
+
+| Norma | Assunto | Ação |
+|---|---|---|
+| Portaria DG TRE-PR 124/2026 | Comitê Executivo de TI (CETI): composição e atribuições; revoga 425/2018 e 502/2022 | **Adicionada** (`não-confirmada`, `pendente`); raw preservado em `raw/` |
+
+### Revogações confirmadas por fonte oficial
+
+- Portaria DG 425/2018 e Portaria DG 502/2022 — já constavam como `revogada` no acervo; **confirmada a fonte revogadora: Portaria DG 124/2026, art. 4º** (DJE-TRE-PR nº 050, 19/03/2026, p. 11-12). Citação precisada na página de 502/2022.
+
+### Fora de escopo (verificadas, não adicionadas)
+
+- Res. TRE-PR 984–987/2026 (Plano de Obras, plebiscito, eleição suplementar) — administrativo/eleitoral.
+- IN TRE-PR 001/2026 (Sistema AcompVot) — tecnologia eleitoral operacional; decisão conservadora: fora do escopo SI/PDP estrito (análogo às comissões de auditoria de votação, excluídas na rodada anterior). **Pendente de revisão humana.**
+- TSE 334/2026 (acesso ao CT-TSE) e TSE 527/2026 (Sala Nacional de Situação Climática) — fora de escopo.
+- Demais Portarias DG/Presidência 2026 (designações de chefia, teletrabalho, lotações) — pessoal, sem teor de SI/PDP.
+
+### Pendências
+
+- Curadoria da Portaria DG 124/2026 (confirmar vigência/classificação; texto integral já obtido do portal).
+- Decisão de curadoria sobre IN 001/2026 (AcompVot) — item sinalizado para revisão humana.
+- Coletar texto integral da NT SECTI 002/2026 (MDS) — pendência de rodadas anteriores.

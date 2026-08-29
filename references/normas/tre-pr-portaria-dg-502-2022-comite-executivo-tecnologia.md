@@ -18,7 +18,7 @@ source_url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretor
 
 Esta norma é relevante para **segurança da informação, proteção de dados pessoais ou governança de TI** no TRE-PR/Justiça Eleitoral. A síntese abaixo foi extraída do texto integral em `raw/tre-pr-portaria-dg-502-2022-comite-executivo-tecnologia.md`; o arquivo bruto permanece imutável.
 
-**Situação registrada:** `revogada`. indicação de revogação no próprio corpus; confirmar publicação.
+**Situação registrada:** `revogada`. Revogada expressamente pela **Portaria DG TRE-PR 124/2026**, art. 4º (DJE-TRE-PR nº 050, 19/03/2026, p. 11-12), que reestabelece a composição e as atribuições do CETI. Confirmação obtida de fonte oficial em 2026-08-29.
 
 ## Obrigações, papéis e controles
 
