@@ -9,7 +9,7 @@ year: 2024
 status: não-confirmada
 curadoria: pendente
 escopo: central-si-pdp
-status_verificacao: "Detectada AUSENTE no vault em 2026-08-31. Texto integral obtido do portal oficial (legislacao/compilada/resolucoes-tre-pr/2024/resolucao-no-940-de-04-de-novembro-de-2024). Aguarda confirmação de curadoria/vigência. Norma vigente no portal."
+status_verificacao: "Detectada AUSENTE no vault em 2026-08-31. Texto integral obtido do portal oficial. Norma vigente no portal. Revisada em 2026-08-31: resumos dos artigos corrigidos conforme texto integral."
 fonte_publicacao: "https://www.tre-pr.jus.br/legislacao/compilada/resolucoes-tre-pr/2024/resolucao-no-940-de-04-de-novembro-de-2024"
 data_publicacao: "04/11/2024"
 tags: [norma, tre-pr, etica, integridade, governanca, si-pdp]
@@ -20,27 +20,36 @@ sources: [raw/tre-pr-resolucao-940-2024.md]
 
 ## Finalidade e escopo
 
-Esta norma integra o corpus de **SI/PDP e governança** do TRE-PR. Institui o **Código de Ética e Integridade** no âmbito da Justiça Eleitoral do Paraná, orientando condutas no ambiente de trabalho e interação com o público externo. Fonte bruta preservada em `raw/tre-pr-resolucao-940-2024.md`.
+Esta norma integra o corpus de **SI/PDP e governança** do TRE-PR. Institui o **Código de Ética e Integridade** no âmbito da Justiça Eleitoral do Paraná. Fonte bruta preservada em `raw/tre-pr-resolucao-940-2024.md`.
 
-Aplica-se a:
-- Servidores do quadro da JE do Paraná (efetivos, ocupantes de cargo/função comissionada);
-- Servidores de outros órgãos lotados nas unidades da JE do Paraná (removidos, requisitados, exercício provisório);
-- Colaboradores (empregados de empresas contratadas, estagiários, mesários).
+Aplica-se (Art. 2º) a: servidores do quadro da JE/PR (inclusive lotados em outros órgãos); servidores de outros órgãos lotados na JE/PR (removidos, requisitados, exercício provisório); e colaboradores (empregados contratados, estagiários, mesários), sem prejuízo de outros deveres legais.
 
-## Objeto (síntese da ementa / texto oficial)
+## Síntese estrutural do Código
 
-- **Art. 1º** Institui o Código de Ética e Integridade da Justiça Eleitoral do Paraná, com finalidade de orientar condutas a serem observadas no ambiente de trabalho e na interação com o público externo, em conformidade com o interesse público.
-- **Art. 2º** Aplica-se a servidores, colaboradores, estagiários e mesários (incluindo requisitados e exercício provisório).
-- **Art. 3º** Objetivos do Código.
-- **Art. 4º** Deveres gerais de conduta ética e integridade.
-- **Art. 5º** Vedações e proibições.
-- **Art. 6º** Compromisso de cumprimento das normas de conduta ética no ato de posse e em contratações de estágio/prestação de serviços.
-- **Art. 7º** Comissão de Ética e Integridade — competências e composição.
-- **Art. 8º** Processo ético-disciplinar — procedimentos.
-- **Art. 9º** Disposições gerais e transitórias.
-- **Art. 10º** Vigência a partir da publicação.
+- **Art. 1º** Institui o Código de Ética e Integridade da JE/PR (ambiente de trabalho e interação com o público).
+- **Art. 2º** Pessoas subordinadas ao Código (servidores, colaboradores, estagiários, mesários); §§ 1º-2º (compromisso na posse; cláusula em contratações).
+- **Art. 3º** Objetivos (incs. I-VI): explicitar princípios e normas de conduta; converter visão/missão/valores em atitudes; reduzir subjetividade interpretativa; preservar imagem e reputação; instância de consulta preventiva; fortalecer o Programa de Integridade.
+- **Art. 4º** Princípios e valores fundamentais (14 incs., incl. IV qualidade/eficiência, XI lealdade, XIII acessibilidade/inclusão, **XIV segurança institucional e da informação**).
+- **Art. 5º** Direitos (incs. I-VIII): ambiente adequado, equidade na avaliação, interlocução livre, capacitação, sigilo de dados pessoais (inclusive LGPD), jornada respeitada, conhecimento das políticas de prevenção ao assédio, ciência de decisões funcionais.
+- **Art. 6º** Deveres (21 incs., incl. III representar contra ato ilegal, XIX noticiar infração, **XXI conhecer e respeitar as Políticas de Segurança da Informação da JE e de Proteção de Dados Pessoais**).
+- **Art. 7º** Vedações (35 incs.): advocacia incompatível, consultoria a partidos/candidatos, discriminação, uso indevido de cargo/informação, conflito de interesses, uso indevido de sistemas de comunicação (fake news, pornografia, propaganda partidária), etc.
+- **Art. 8º** Regras específicas para gestores (deveres de orientação pedagógica, ambiente harmonioso, comunicação de desligamento de servidores com acesso a sistemas — inc. VII).
+- **Art. 9º** Deveres dos gestores (7 incs.).
+- **Art. 10** Vedações aos gestores (3 incs., v.g. punir quem reporta em boa-fé).
+- **Art. 11** Informação à imprensa e comportamento em ambientes on-line.
+- **Art. 12** Veracidade ao compartilhar notícias da JE.
+- **Art. 13** Manifestação em ambientes on-line (responsabilização por danos à imagem institucional).
+- **Art. 14** Situações de impedimento ou suspeição (5 hipóteses).
+- **Art. 15** Conflito de interesses (público × privado).
+- **Art. 16** Procedimentos diante de potencial conflito.
+- **Art. 17** Dever de acionar chefia/Comissão em possível conflito de terceiro.
+- **Art. 18** Prevenção a fraudes e corrupção.
+- **Arts. 19-27** **Comissão de Ética e Integridade** (natureza consultiva, composição de 1 magistrado + 1 suplente + 6 servidores; mandato de 2 anos; reuniões semestrais; competências de orientação e gestão do Código).
+- **Arts. 28-30** Disposições finais e vigência.
 
-Fundamenta-se na Constituição Federal (art. 37), Lei nº 8.112/90 (arts. 116-117), Res. CNJ 401/2021 (acessibilidade), Res. CNJ 410/2021 (sistemas de integridade), Res. CNJ 351/2020 (assédio), Provimento CNJ 165/2024, Res. TRE-PR 845/2019 (Programa de Integridade), Res. TRE-PR 874/2021 (Planejamento Estratégico) e Res. TRE-PR 930/2024 (assédio).
+## Fundamentos normativos
+
+Constituição Federal (art. 37), Lei nº 8.112/90 (arts. 116-117), Res. CNJ 401/2021 (acessibilidade), Res. CNJ 410/2021 (sistemas de integridade), Res. CNJ 351/2020 (assédio), Provimento CNJ 165/2024, Res. TRE-PR 845/2019 (Programa de Integridade), Res. TRE-PR 874/2021 (Planejamento Estratégico), Res. TRE-PR 930/2024 (assédio).
 
 ## Status normativo
 
@@ -49,6 +58,7 @@ Fundamenta-se na Constituição Federal (art. 37), Lei nº 8.112/90 (arts. 116-1
 - Vigente no portal oficial (acessível em 2026-08-31).
 - Não aparece na listagem compilada de 2024 do portal (que mostra apenas até 942/2024), embora a página individual funcione — possível desordem de indexação ou retificação não-refletida na sumarização.
 - **Citada como fundamento** da IN TRE-PR 004/2025 (gestão de identidade e controle de acesso lógico/físico).
+- **Relevância SI/PDP:** Art. 4º, XIV (segurança institucional e da informação como princípio ético); Art. 6º, XXI (dever de respeitar PSI e PDP da JE); Art. 8º, VII (gestor deve comunicar desligamento de quem tem acesso a sistemas).
 
 ## Relações
 
@@ -63,4 +73,4 @@ Fundamenta-se na Constituição Federal (art. 37), Lei nº 8.112/90 (arts. 116-1
 
 ## Nota de qualidade
 
-Página criada automaticamente em 2026-08-31. Não constitui certificação de vigência: o campo `status_verificacao` explicita a pendência de confirmação oficial de curadoria.
+Página criada em 2026-08-31 e revisada no mesmo dia para refletir a estrutura real do Código. Não constitui certificação de vigência: o campo `status_verificacao` explicita a pendência de confirmação oficial de curadoria.
