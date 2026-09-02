@@ -13,7 +13,7 @@ O vocabulário deste domínio está em `CONTEXT.md`. As decisões de desenho est
 `docs/adr/`. **Leia o `CONTEXT.md` antes de usar os termos "norma", "situação",
 "publicação", "curada" e "inventário"** — aqui eles têm sentido fixo.
 
-**Conteúdo:** 174 páginas em `references/normas/` (todas curadas) + `entities`, `concepts`,
+**Conteúdo:** 176 páginas em `references/normas/` (todas curadas) + `entities`, `concepts`,
 `inventarios`, `sources`; textos integrais em `references/raw/`.
 
 ## Escopo
@@ -76,6 +76,8 @@ Consulte `references/inventarios/normas-tre-pr-tse.md` e
 | PJe (Res. 958/2025) | `references/normas/tre-pr-resolucao-958-2025-pje.md` |
 | AGM — governança e monitoramento de SI | `references/entities/agm.md` |
 | CGSI/PDP (Port. DG 086/2026) | `references/entities/cgsipdp.md` |
+| Código de Ética e Integridade (Res. 940/2024) | `references/normas/tre-pr-resolucao-940-2024.md` |
+| Identidade e Controle de Acesso (IN 004/2025) | `references/normas/tre-pr-in-instrucao-normativa-004-de-28-de-maio-de-2025.md` |
 | Encarregado/DPO (Port. 247/2021, na SEGEI) | `references/entities/encarregado-dpo.md` |
 | ETIR | `references/entities/etir.md` |
 | ASC — Segurança Cibernética (COSIG/SECTI) | `references/entities/asc.md` |
@@ -112,6 +114,6 @@ Esta skill é **acervo e sustentação**: o que a norma diz, se vale, com que pu
 ## Avisos
 
 - Normas revogadas permanecem como histórico, sinalizadas.
-- Todas as 174 páginas de `normas/` estão curadas; o teor exato está em `references/raw/`.
+- Todas as 176 páginas de `normas/` estão curadas; o teor exato está em `references/raw/`.
 - Os Anexos I e II da Res. 982/2026 (cargos e organograma) não constam do acervo.
-- A NT SECTI 002/2026 (MDS) está catalogada, mas o texto integral ainda não foi coletado.
+- O Guia da MDS (anexo da NT SECTI 002/2026) não consta do acervo; o ato normativo (DJE-TRE-PR nº 052, 23/03/2026, p. 08-09) está em `references/raw/`.

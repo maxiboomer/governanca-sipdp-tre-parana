@@ -17,6 +17,8 @@ map_dirs={
  'wiki/inventarios':'references/inventarios',
  'wiki/sources':'references/sources',
  'wiki/_meta':'references/_meta',
+ 'raw':'references/raw',
+ 'wiki/raw':'references/raw',
  'wiki/index.md':'references/index.md',
  'wiki/log.md':'references/log.md',
 }

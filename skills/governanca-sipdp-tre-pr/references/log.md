@@ -1,4 +1,12 @@
 
+## [2026-08-31] update | Fechamento de pendências + evolução da skill
+- **NT SECTI 002/2026 (MDS)**: texto integral coletado (DJE-TRE-PR nº 052, 23/03/2026, p. 08-09) em `raw/tre-pr-nt-secti-002-2026-mds.md`; página promovida a `vigente`/`completa`.
+- **Portaria DG 124/2026 (CETI)**: curadoria concluída (`vigente`/`completa`), confirmada no compilado oficial + DJE-TRE-PR nº 050, 19/03/2026, p. 11-12.
+- **IN TRE-PR 001/2026 (AcompVot)**: decisão de escopo registrada — mantida FORA do acervo (tecnologia eleitoral operacional, sem teor SI/PDP); pendência de revisão humana encerrada.
+- `sync_vault_to_build.py` corrigido para incluir `raw/` e `wiki/raw/` (antes, textos integrais novos não chegavam ao `references/raw/` do repo).
+- SKILL.md atualizado: 174→176 páginas; mapa rápido ganhou Res. 940/2024 e IN 004/2025; aviso da NT 002/2026 atualizado.
+- index.md: estatísticas corrigidas (176 normas, 8 entities, 13 concepts, 3 inventários, 166 raws).
+
 ## [2026-08-31] update | Inclusão de normas ausentes detectadas em verificação manual
 - Identificada a **Resolução TRE-PR 940/2024** (Código de Ética e Integridade) — vigente no portal, mas sem página curada no vault (apenas citada como `CONSIDERANDO` na IN 004/2025).
 - Identificada a **Instrução Normativa TRE-PR 004/2025** (Gestão de Identidade e Controle de Acesso Lógico/Físico) — vigente no portal, mas sem página curada no vault (apenas em `raw/`).

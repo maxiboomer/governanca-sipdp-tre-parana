@@ -215,9 +215,9 @@ Ver `CLAUDE.md` para convenções. Estrutura: `raw/` (fontes imutáveis) → `wi
 - [[wiki/sources/resolu-es-tse|Resoluções TSE]]
 
 ## Estatísticas
-- Fontes brutas em `raw/`: 206 páginas wiki / 158 arquivos raw `.md` (excluindo README.md e INVENTARIO-NORMAS-COLETADAS.md)
-- Páginas curadas em `wiki/normas/`: 164 (uma para cada norma em raw/)
-- Entities: 5 · Concepts: 12 · Inventários: 2 · Sources: 7
+- Fontes brutas em `raw/`: 166 arquivos raw `.md` (165 na raiz + 1 em `wiki/raw/`)
+- Páginas curadas em `wiki/normas/`: 176 (uma para cada norma em raw/)
+- Entities: 8 · Concepts: 13 · Inventários: 3 · Sources: 7
 
 ## Normas (novas)
 - [[wiki/normas/tre-pr-resolucao-970-2026-gestao-inovacao|Resolução TRE-PR 970/2026 — Política de Gestão da Inovação]]

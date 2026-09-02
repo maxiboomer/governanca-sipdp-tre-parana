@@ -307,4 +307,4 @@ MINISTRO LUÍS ROBERTO BARROSO - RELATOR
 ---
 **Nota:** Este texto não substitui o publicado no DJE-TSE, nº 129, de 8.7.2021, p. 12-18.
 
-**Observação:** Esta resolução foi **revogada** pela Resolução TSE nº 23.763/2026, de 9 de junho de 2026. Para a versão atualizada, consulte: [psi-tse-23763-2026](references/normas/psi-tse-23763-2026.md)
+**Observação:** Esta resolução foi **revogada** pela Resolução TSE nº 23.763/2026, de 9 de junho de 2026. Para a versão atualizada, consulte: [[psi-tse-23763-2026]]

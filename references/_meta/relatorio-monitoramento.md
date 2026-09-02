@@ -100,3 +100,36 @@ obras, comunicação social). Ficam fora da camada de curadoria.
 - Curadoria da Portaria DG 124/2026 (confirmar vigência/classificação; texto integral já obtido do portal).
 - Decisão de curadoria sobre IN 001/2026 (AcompVot) — item sinalizado para revisão humana.
 - Coletar texto integral da NT SECTI 002/2026 (MDS) — pendência de rodadas anteriores.
+
+## Rodada 2026-08-31
+
+### Fontes verificadas (via web_extract)
+
+| Fonte | URL | Status |
+|---|---|---|
+| TRE-PR Resoluções 2024 | `.../resolucoes-tre-pr/2024` | Acessível (até Res. 942/2024; Res. 940/2024 acessível via página individual) |
+| TRE-PR Resoluções 2025/2026 | `.../resolucoes-tre-pr/2025` e `/2026` | Acessíveis |
+| TRE-PR INs 2025 | `.../instrucoes-normativas-tre-pr/2025` | Acessível |
+| TRE-PR NTs SECTI 2026 | `.../normas-tecnicas-da-secti/2026` | Acessível (NT 001–005) |
+| TRE-PR Portarias DG 2026 | `.../portarias-da-diretoria-geral-tre-pr/2026` | Acessível (até Port. 434/2026) |
+| TSE Res. 23.763/2026 (PSI) | `tse.jus.br/legislacao/compilada/res/2026` | Acessível (já no acervo) |
+
+### Normas SI/PDP-relevantes detectadas e adicionadas (verificação manual sob demanda)
+
+| Norma | Assunto | Ação |
+|---|---|---|
+| Res. TRE-PR 940/2024 | Código de Ética e Integridade da JE/PR (princípios, deveres, vedações, Comissão de Ética) | **Adicionada** ao vault (não-confirmada → revisada; vigente no portal) |
+| IN TRE-PR 004/2025 | Gestão de Identidade e Controle de Acesso Lógico e Físico (55 artigos) | **Adicionada** ao vault (não-confirmada → revisada; vigente no portal) |
+
+### Pendências fechadas nesta rodada
+
+- **NT SECTI 002/2026 (MDS)** — texto integral coletado (DJE-TRE-PR nº 052, 23/03/2026, p. 08-09); página atualizada para `vigente`/`completa`. O Guia da MDS (anexo) permanece fora do acervo.
+- **Portaria DG 124/2026 (CETI)** — curadoria concluída: `vigente`/`completa`, confirmada no compilado oficial + DJE-TRE-PR nº 050, 19/03/2026, p. 11-12.
+
+### Decisão de escopo registrada
+
+- **IN TRE-PR 001/2026 (Sistema AcompVot)** — **mantida FORA do escopo SI/PDP estrito**: é tecnologia eleitoral operacional (acompanhamento da votação), sem teor de segurança da informação/proteção de dados/governança de TI. Decisão revisada e confirmada nesta rodada; não será adicionada ao acervo. Registro encerra a pendência de revisão humana.
+
+### Infraestrutura
+
+- `sync_vault_to_build.py` corrigido para incluir `raw/` (raiz) e `wiki/raw/` na cópia vault→build — antes, textos integrais novos não chegavam ao `references/raw/` do repositório.

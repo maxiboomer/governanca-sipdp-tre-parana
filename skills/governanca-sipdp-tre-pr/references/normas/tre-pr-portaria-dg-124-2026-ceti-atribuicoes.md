@@ -6,13 +6,13 @@ updated: 2026-08-29
 type: fonte-normativa
 number: 124
 year: 2026
-status: não-confirmada
-curadoria: pendente
+status: vigente
+curadoria: completa
 escopo: central-si-pdp
-status_verificacao: "Detectada AUSENTE na listagem oficial de Portarias DG TRE-PR 2026 via web_extract em 2026-08-29. Texto integral obtido do portal oficial (DJE-TRE-PR nº 050, 19/03/2026, p. 11-12). Aguarda confirmação de curadoria/vigência."
+status_verificacao: "Confirmada vigente em 2026-08-31: página oficial no compilado TRE-PR (Portarias DG 2026) e publicação no DJE-TRE-PR nº 050, 19/03/2026, p. 11-12. Texto integral obtido do portal."
 fonte_publicacao: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2026/portaria-ndeg-124-de-17-de-marco-de-2026"
 data_publicacao: "17/03/2026"
-tags: [norma, tre-pr, seguranca-informacao, governanca-ti, si-pdp]
+tags: [norma, tre-pr, seguranca-informacao, governanca-ti, si-pdp, ceti]
 sources: [raw/tre-pr-portaria-dg-124-2026.md]
 ---
 
@@ -44,7 +44,7 @@ da Secretaria (Res. TRE-PR 971/2026).
 
 ## Status normativo
 
-**Não confirmada** (detectada em monitoramento; aguarda curadoria).
+**Vigente** (confirmada em 2026-08-31 — compilado oficial TRE-PR + DJE-TRE-PR nº 050, 19/03/2026, p. 11-12).
 
 - Revoga: Portaria DG 425/2018 (instituição do CETI) e Portaria DG 502/2022 (comitê executivo de
   tecnologia) — ambas já marcadas `revogada` no acervo, com esta portaria como sucessora para fins
@@ -62,5 +62,5 @@ da Secretaria (Res. TRE-PR 971/2026).
 
 ## Nota de qualidade
 
-Página criada automaticamente pelo monitoramento normativo em 2026-08-29. Não constitui certificação
-de vigência: o campo `status_verificacao` explicita a pendência de confirmação oficial de curadoria.
+Página criada pelo monitoramento normativo em 2026-08-29; curadoria concluída em 2026-08-31 com
+confirmação de vigência (compilado oficial + DJE-TRE-PR nº 050, 19/03/2026, p. 11-12).
