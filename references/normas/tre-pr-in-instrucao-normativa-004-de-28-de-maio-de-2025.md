@@ -1,50 +1,57 @@
 ---
-title: "Tre Pr In Instrucao Normativa 004 De 28 De Maio De 2025"
-created: 2026-08-26
-updated: 2026-08-26
+title: "Instrução Normativa TRE-PR 004/2025 — Gestão de Identidade e Controle de Acesso"
+name: "Instrução Normativa TRE-PR 004/2025 — Gestão de Identidade e Controle de Acesso"
+created: 2026-08-31
+updated: 2026-08-31
 type: fonte-normativa
-status: vigente
-curadoria: completa
-escopo: contextual
-status_verificacao: "Compilada no portal oficial; vigência confirmada. Síntese gerada a partir do texto integral em raw/."
+number: 004
+year: 2025
+status: não-confirmada
+curadoria: pendente
+escopo: central-si-pdp
+status_verificacao: "Detectada AUSENTE no vault em 2026-08-31. Texto integral obtido do portal oficial (legislacao/compilada/instrucoes-normativas-tre-pr/2025/instrucao-normativa-no-004-de-28-de-maio-de-2025). Aguarda confirmação de curadoria/vigência. Norma vigente no portal."
+fonte_publicacao: "https://www.tre-pr.jus.br/legislacao/compilada/instrucoes-normativas-tre-pr/2025/instrucao-normativa-no-004-de-28-de-maio-de-2025"
+data_publicacao: "28/05/2025"
+tags: [norma, tre-pr, seguranca-informacao, controle-acesso, identidade, si-pdp]
 sources: [raw/tre-pr-in-instrucao-normativa-004-de-28-de-maio-de-2025.md]
-tags: [norma, tre-pr]
 ---
 
-# Tre Pr In Instrucao Normativa 004 De 28 De Maio De 2025
+# Instrução Normativa TRE-PR 004/2025 — Gestão de Identidade e Controle de Acesso
 
-## Síntese executiva
+## Finalidade e escopo
 
-Norma vigente do acervo, relevante para segurança da informação, proteção de dados ou governança de TI no TRE-PR/Justiça Eleitoral. **Situação registrada:** `vigente`. Síntese extraída do texto integral em `raw/tre-pr-in-instrucao-normativa-004-de-28-de-maio-de-2025.md`.
+Esta norma integra o corpus de **SI/PDP e governança** do TRE-PR. Institui norma de **Gestão de Identidade e Controle de Acesso Lógico e Físico** ao ambiente de Tecnologia da Informação, relativa à segurança da informação e comunicação, no âmbito da Justiça Eleitoral do Paraná. Fonte bruta preservada em `raw/tre-pr-in-instrucao-normativa-004-de-28-de-maio-de-2025.md`.
 
-## Objeto / Ementa
+## Objeto (síntese da ementa / texto oficial)
 
-INSTRUÇÃO NORMATIVA Nº 004, DE 28 DE MAIO DE 2025. — Tribunal Regional Eleitoral do Paraná
+- **Art. 1º** Institui norma de Gestão de Identidade e Controle de Acesso Lógico e Físico ao ambiente de TI, relativa à segurança da informação e comunicação.
+- **Art. 2º** Observa a Política de Segurança da Informação da Justiça Eleitoral (Res. TSE 23.644/2021).
+- **Art. 3º** Conceitos e definições (Anexo Único).
+- **Cap. III** — Das diretrizes de gestão de identidade e controle de acesso.
+- **Cap. IV** — Das disposições gerais e transitórias.
 
-## Obrigações e disposições principais
+Fundamenta-se em: Res. CNJ 370/2021 (ENTIC-JUD), Res. CNJ 396/2021 (ENSEC-PJ), Res. TSE 23.644/2021 (PSI), **Res. TRE-PR 940/2024** (Código de Ética e Integridade), IN GSI/PR 01/2008, Norma Complementar 07/IN01/DSIC/GSIPR, ABNT NBR ISO/IEC 27001/27002/27701, Acórdão TCU 1.603/2008.
 
-- Art. 1º Fica instituída norma de Gestão de Identidade e Controle de Acesso Lógico e Físico ao ambiente de Tecnologia da Informação (TI), relativa à segurança da informação e comunicação, no âmbito da Justiça Eleitoral do Paraná.
-- Art. 2º Esta norma observa a Política de Segurança da Informação da Justiça Eleitoral, estabelecida pela Resolução TSE nº 23.644/2021.
-- Art. 3º Para efeitos desta instrução normativa, consideram-se os termos e definições previstos no Anexo Único.
-- Art. 4º O controle de acesso é regido pelos seguintes princípios:
-- Art. 5º São objetivos da presente instrução normativa:
-- Art. 6º Esta norma se aplica a todos os magistrados, servidores efetivos e requisitados, ocupantes de cargo em comissão sem vínculo efetivo, estagiários, prestadores de serviço, colaboradores e usuários externos, outros órgãos públicos ou entidades privadas contratadas ou com parcerias celebradas, acordos de cooperação de qualquer tipo, convênios e termos congêneres que fazem uso dos ativos de TI no âmbito da Justiça Eleitoral do Paraná.
-- Art. 7º O Comitê Gestor de Segurança da Informação e Proteção de Dados Pessoais (CGSIPDP) deve definir o perímetro de segurança física para proteção das instalações de processamento e armazenamento da informação (datacenter) e das demais áreas que contenham informações críticas ou sensíveis.
-- Art. 8º As instalações do datacenter devem atender às seguintes diretrizes:
-- Art. 9º As diretrizes para proteção das demais áreas que contenham informações críticas ou sensíveis que não estejam armazenadas no datacenter devem ser estabelecidas pelo CGSIPDP, observadas as legislações vigentes.
-- Art. 10. Para evitar perdas, danos, furtos ou comprometimento de ativos de TI e interrupção das operações da organização, o Tribunal deve observar as seguintes diretrizes:
+## Status normativo
 
-## Interpretação operacional
+**Não confirmada** (detectada em verificação; aguarda curadoria).
 
-- Esta é uma página de índice analítico; a fonte de verdade é o texto integral em `raw/tre-pr-in-instrucao-normativa-004-de-28-de-maio-de-2025.md`.
-- Separar obrigações, papéis e responsabilidades conforme a norma e suas normas complementares.
-- Para citação formal, subir a referência ao DJE/DOU (ver ADR 0002).
+- Vigente no portal oficial (acessível em 2026-08-31).
+- Norma operacional de SI/PDP: estabelece controles de acesso físico e lógico, alinhada à PSI-JE.
 
 ## Relações
 
-- [[entities/agm]]
+- [[wiki/concepts/seguranca-informacao-justica-eleitoral]]
+- [[wiki/entities/cgsipdp]]
+- [[wiki/entities/secti]]
+- [[wiki/normas/tre-pr-resolucao-940-2024]]
+- [[wiki/normas/psi-tse-23644-2021-revogada]]
 
-## Fonte e vigência
+## Fonte integral
 
-- Fonte integral: `raw/tre-pr-in-instrucao-normativa-004-de-28-de-maio-de-2025.md`
-- Verificação: 2026-08-26
+- `raw/tre-pr-in-instrucao-normativa-004-de-28-de-maio-de-2025.md`
+- Publicação/URL registrada: https://www.tre-pr.jus.br/legislacao/compilada/instrucoes-normativas-tre-pr/2025/instrucao-normativa-no-004-de-28-de-maio-de-2025
+
+## Nota de qualidade
+
+Página criada automaticamente em 2026-08-31. Não constitui certificação de vigência: o campo `status_verificacao` explicita a pendência de confirmação oficial de curadoria.

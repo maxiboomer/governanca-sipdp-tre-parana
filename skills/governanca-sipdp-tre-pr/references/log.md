@@ -1,4 +1,14 @@
 
+## [2026-08-31] update | Inclusão de normas ausentes detectadas em verificação manual
+- Identificada a **Resolução TRE-PR 940/2024** (Código de Ética e Integridade) — vigente no portal, mas sem página curada no vault (apenas citada como `CONSIDERANDO` na IN 004/2025).
+- Identificada a **Instrução Normativa TRE-PR 004/2025** (Gestão de Identidade e Controle de Acesso Lógico/Físico) — vigente no portal, mas sem página curada no vault (apenas em `raw/`).
+- Criadas as páginas curadas:
+  - `wiki/normas/tre-pr-resolucao-940-2024.md` (status: `não-confirmada`, curadoria: `pendente`)
+  - `wiki/normas/tre-pr-in-instrucao-normativa-004-de-28-de-maio-de-2025.md` (status: `não-confirmada`, curadoria: `pendente`)
+- Salvo o texto integral da Res. 940/2024 em `raw/tre-pr-resolucao-940-2024.md`.
+- Atualizados `index.md` (seção "Normas (novas)") e `log.md`.
+- Observação: a Res. 940/2024 não aparece na listagem compilada de 2024 do portal (que mostra apenas até 942/2024), embora a página individual funcione — possível desordem de indexação ou retificação não-refletida na sumarificação. Norma confirmada vigente via acesso direto à página.
+
 ## [2026-08-26] update | Reconciliação e correção do fluxo de curadoria
 - Identificado que a curadoria desta sessão havia sido gravada apenas no build (references/), não no vault (fonte da verdade).
 - Portadas 159 páginas curadas do build de volta ao vault; raw/ preservado. Vault e build agora sincronizados (0 divergências).
