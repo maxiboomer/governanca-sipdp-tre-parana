@@ -6,10 +6,10 @@ updated: 2026-08-31
 type: fonte-normativa
 number: 940
 year: 2024
-status: não-confirmada
-curadoria: pendente
+status: vigente
+curadoria: completa
 escopo: central-si-pdp
-status_verificacao: "Detectada AUSENTE no vault em 2026-08-31. Texto integral obtido do portal oficial. Norma vigente no portal. Revisada em 2026-08-31: resumos dos artigos corrigidos conforme texto integral."
+status_verificacao: "Confirmada vigente em 2026-08-31: página oficial no compilado TRE-PR (acesso individual) e publicação DJE-TRE-PR nº 325, 07/11/2024, p. 11-24. Texto integral coletado e revisado conforme fonte oficial."
 fonte_publicacao: "https://www.tre-pr.jus.br/legislacao/compilada/resolucoes-tre-pr/2024/resolucao-no-940-de-04-de-novembro-de-2024"
 data_publicacao: "04/11/2024"
 tags: [norma, tre-pr, etica, integridade, governanca, si-pdp]
@@ -53,10 +53,10 @@ Constituição Federal (art. 37), Lei nº 8.112/90 (arts. 116-117), Res. CNJ 401
 
 ## Status normativo
 
-**Não confirmada** (detectada em verificação; aguarda curadoria).
+**Vigente** — confirmada em 2026-08-31 (página oficial no compilado TRE-PR + DJE-TRE-PR nº 325, 07/11/2024, p. 11-24).
 
-- Vigente no portal oficial (acessível em 2026-08-31).
-- Não aparece na listagem compilada de 2024 do portal (que mostra apenas até 942/2024), embora a página individual funcione — possível desordem de indexação ou retificação não-refletida na sumarização.
+- Publicação: DJE-TRE-PR nº 325, 07/11/2024, p. 11-24.
+- Observação de indexação: não aparece na listagem compilada de 2024 do portal (que mostra apenas até 942/2024), embora a página individual funcione — possível desordem de indexação ou retificação não-refletida na sumarização. Não afeta a vigência, sustentada pelo DJE.
 - **Citada como fundamento** da IN TRE-PR 004/2025 (gestão de identidade e controle de acesso lógico/físico).
 - **Relevância SI/PDP:** Art. 4º, XIV (segurança institucional e da informação como princípio ético); Art. 6º, XXI (dever de respeitar PSI e PDP da JE); Art. 8º, VII (gestor deve comunicar desligamento de quem tem acesso a sistemas).
 

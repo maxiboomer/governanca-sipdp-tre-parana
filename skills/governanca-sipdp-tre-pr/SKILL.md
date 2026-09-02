@@ -107,9 +107,11 @@ Esta skill é **acervo e sustentação**: o que a norma diz, se vale, com que pu
 
 **Sobreposição conhecida** — nesses temas, confirme aqui antes de fechar:
 
-- `analise-normas-eleitorais` — fork da mesma base; cobre LAI, PSI-JE, PGPPDP e crises com
-  mais profundidade em LAI, LAI local, PGPPDP e Portaria TSE 444/2021.
-- `monitoramento-normas-secti` — carrega cópia do mesmo inventário, já divergente desta.
+- Nenhuma outra skill deste plugin cobre o mesmo acervo. Referências antigas a
+  `analise-normas-eleitorais` e `monitoramento-normas-secti` foram removidas: essas skills não
+  fazem parte deste plugin e não devem ser assumidas como instaladas. Se uma skill externa com
+  nome semelhante existir no ambiente, o acervo desta (vault + `references/`) continua sendo a
+  fonte de verdade a conferir antes de fechar resposta.
 
 ## Avisos
 

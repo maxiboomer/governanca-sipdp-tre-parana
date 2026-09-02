@@ -6,10 +6,10 @@ updated: 2026-08-31
 type: fonte-normativa
 number: 004
 year: 2025
-status: não-confirmada
-curadoria: pendente
+status: vigente
+curadoria: completa
 escopo: central-si-pdp
-status_verificacao: "Detectada AUSENTE no vault em 2026-08-31. Texto integral obtido do portal oficial. Norma vigente no portal. Revisada em 2026-08-31: resumos dos artigos corrigidos conforme texto integral."
+status_verificacao: "Confirmada vigente em 2026-08-31: compilado oficial TRE-PR e publicação DJE-TRE-PR nº 102, 30/05/2025, p. 05-15. Texto integral coletado e revisado conforme fonte oficial."
 fonte_publicacao: "https://www.tre-pr.jus.br/legislacao/compilada/instrucoes-normativas-tre-pr/2025/instrucao-normativa-no-004-de-28-de-maio-de-2025"
 data_publicacao: "28/05/2025"
 tags: [norma, tre-pr, seguranca-informacao, controle-acesso, identidade, si-pdp]
@@ -112,9 +112,9 @@ Res. CNJ 370/2021 (ENTIC-JUD), Res. CNJ 396/2021 (ENSEC-PJ), Res. TSE 23.644/202
 
 ## Status normativo
 
-**Não confirmada** (detectada em verificação; aguarda curadoria).
+**Vigente** — confirmada em 2026-08-31 (compilado oficial TRE-PR + DJE-TRE-PR nº 102, 30/05/2025, p. 05-15).
 
-- Vigente no portal oficial (acessível em 2026-08-31).
+- Publicação: DJE-TRE-PR nº 102, 30/05/2025, p. 05-15.
 - Norma operacional de SI/PDP: estabelece controles de acesso físico e lógico, alinhada à PSI-JE.
 - **Cita como fundamento** a Res. TRE-PR 940/2024 (Código de Ética e Integridade).
 

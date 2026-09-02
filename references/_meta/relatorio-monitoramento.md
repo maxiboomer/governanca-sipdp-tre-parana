@@ -133,3 +133,27 @@ obras, comunicação social). Ficam fora da camada de curadoria.
 ### Infraestrutura
 
 - `sync_vault_to_build.py` corrigido para incluir `raw/` (raiz) e `wiki/raw/` na cópia vault→build — antes, textos integrais novos não chegavam ao `references/raw/` do repositório.
+
+## Rodada 2026-09-02 (evolução / curadoria)
+
+### Normas promovidas a `vigente`/`completa`
+
+| Norma | Publicação que sustenta | Ação |
+|---|---|---|
+| Res. TRE-PR 940/2024 (Código de Ética e Integridade) | DJE-TRE-PR nº 325, 07/11/2024, p. 11-24 | Promovida de `não-confirmada` → `vigente`/`completa` |
+| IN TRE-PR 004/2025 (Gestão de Identidade e Controle de Acesso) | DJE-TRE-PR nº 102, 30/05/2025, p. 05-15 | Promovida de `não-confirmada` → `vigente`/`completa` |
+
+### Decisões de processo registradas (ADR 0003)
+
+- **Critério de confirmação**: página oficial individual com texto integral + referência DJE embutida
+  sustenta `vigente` (caso 940/2024: ausente da listagem 2024, mas DJE rastreado no rodapé).
+- **Auto-publicação pelo cron**: adição de norma nova com texto integral é publicada automaticamente
+  (nasce `não-confirmada`); revogação/alteração de status/decisão de escopo exigem revisão humana e
+  só são reportadas. Cron atualizado em 2026-09-02.
+- Referências a skills externas inexistentes (`analise-normas-eleitorais`, `monitoramento-normas-secti`)
+  removidas do SKILL.md — nenhuma outra skill do plugin cobre o acervo.
+
+### Estado do acervo
+
+- 176 páginas: 144 vigentes, 19 revogadas, 12 históricas, 1 não-aplicável; 0 não-confirmadas.
+- Curadoria: 175 completas, 1 resumo (todas sem pendência de curadoria).

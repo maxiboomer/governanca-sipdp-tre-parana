@@ -1,4 +1,10 @@
 
+## [2026-09-02] update | Curadoria concluída + ADR 0003 + cron auto-publicação
+- Res. TRE-PR 940/2024 e IN TRE-PR 004/2025 promovidas a `vigente`/`completa` (DJE-TRE-PR nº 325, 07/11/2024, p. 11-24 e nº 102, 30/05/2025, p. 05-15). Acervo sem páginas não-confirmadas.
+- ADR 0003 (docs/adr/0003): critério de confirmação de vigência (página oficial individual + DJE embutido) e auto-publicação de novas normas pelo cron (revogações/escopo só reportam).
+- Cron semanal atualizado com as regras do ADR 0003.
+- SKILL.md: removidas referências a skills externas inexistentes (`analise-normas-eleitorais`, `monitoramento-normas-secti`).
+
 ## [2026-08-31] update | Fechamento de pendências + evolução da skill
 - **NT SECTI 002/2026 (MDS)**: texto integral coletado (DJE-TRE-PR nº 052, 23/03/2026, p. 08-09) em `raw/tre-pr-nt-secti-002-2026-mds.md`; página promovida a `vigente`/`completa`.
 - **Portaria DG 124/2026 (CETI)**: curadoria concluída (`vigente`/`completa`), confirmada no compilado oficial + DJE-TRE-PR nº 050, 19/03/2026, p. 11-12.
