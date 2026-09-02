@@ -206,6 +206,7 @@ Ver `CLAUDE.md` para convenções. Estrutura: `raw/` (fontes imutáveis) → `wi
 - [[wiki/inventarios/normas-cnj|Inventário de Normas — CNJ (referência de TIC/SI aplicáveis ao TRE-PR)]]
 - [[wiki/inventarios/lacunas-do-inventario|Lacunas conhecidas do inventário de vigências]]
 - [[wiki/inventarios/normas-tre-pr-tse|Inventário de Normas — TRE-PR / TSE (SECTI)]]
+- [[wiki/inventarios/instrumentos-monitorados|Instrumentos monitorados (não são normas)]]
 
 ## Sources (síntese das coletas em `raw/`)
 - [[wiki/sources/instrucoes-normativas-tre-pr|Instruções Normativas TRE-PR]]
@@ -218,11 +219,12 @@ Ver `CLAUDE.md` para convenções. Estrutura: `raw/` (fontes imutáveis) → `wi
 
 ## Comparisons
 - [[wiki/comparisons/psi-je-23644-23763-974|PSI-JE: Res. 23.644/2021 × 23.763/2026 × TRE-PR 974/2026]]
+- [[wiki/comparisons/controle-acesso-in004-2025-vs-2022-vs-2018|Controle de Acesso: IN 004/2025 × IN 004/2022 × IN-DG 2018]]
 
 ## Estatísticas
 - Fontes brutas em `raw/`: 166 arquivos raw `.md` (todos com `sha256:` desde 2026-09-02)
 - Páginas curadas em `wiki/normas/`: 176 (uma para cada norma em raw/)
-- Entities: 8 · Concepts: 14 · Comparisons: 1 · Inventários: 3 · Sources: 7
+- Entities: 8 · Concepts: 14 · Comparisons: 2 · Inventários: 4 · Sources: 7
 
 ## Normas (novas)
 - [[wiki/normas/tre-pr-resolucao-970-2026-gestao-inovacao|Resolução TRE-PR 970/2026 — Política de Gestão da Inovação]]

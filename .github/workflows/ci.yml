@@ -1,0 +1,85 @@
+name: CI — Plugin integrity
+
+on:
+  push:
+    branches: [master]
+  pull_request:
+    branches: [master]
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Validate plugin structure and versions
+        run: |
+          python3 - <<'EOF'
+          import json, re, sys
+          from pathlib import Path
+
+          errors = []
+
+          # 1. plugin.json e marketplace.json com a mesma versão
+          pj = json.loads(Path('.claude-plugin/plugin.json').read_text())
+          mj = json.loads(Path('.claude-plugin/marketplace.json').read_text())
+          pv, mv = pj.get('version'), mj['plugins'][0].get('version')
+          if pv != mv:
+              errors.append(f"versão divergente: plugin.json={pv} marketplace={mv}")
+
+          # 2. Frontmatter obrigatório em páginas de references/
+          required = ['title', 'created', 'updated', 'type', 'status',
+                      'curadoria', 'escopo', 'tags']
+          for sub in ['normas', 'entities', 'concepts', 'comparisons',
+                      'inventarios', 'sources']:
+              for f in sorted((Path('references') / sub).glob('*.md')):
+                  t = f.read_text(errors='ignore')
+                  fm = t.split('---', 2)[1] if t.startswith('---') else ''
+                  if not fm:
+                      errors.append(f"{f}: sem frontmatter")
+                      continue
+                  for k in required:
+                      if not re.search(rf'^{k}:', fm, re.M):
+                          errors.append(f"{f}: falta campo '{k}'")
+
+          # 3. index.md lista todas as páginas de references/normas
+          #    (o index é copiado do vault e usa links [[wiki/normas/...]])
+          idx = Path('references/index.md').read_text(errors='ignore')
+          links = set(re.findall(r'\[\[([^\]|#]+)', idx))
+          for f in sorted((Path('references') / 'normas').glob('*.md')):
+              slug = f'wiki/normas/{f.stem}'
+              if slug not in links:
+                  errors.append(f"{f.name}: ausente do references/index.md (esperava [[{slug}]])")
+
+          # 4. broken wikilinks dentro de references/ (targets existem)
+          #    mapeia wiki/X -> references/X.md
+          ref_files = {p for p in Path('references').rglob('*.md')}
+          for f in ref_files:
+              t = f.read_text(errors='ignore')
+              for l in re.findall(r'\[\[([^\]|#]+)', t):
+                  if '...' in l:  # placeholder de documentação (ex.: [[wiki/...]])
+                      continue
+                  if l.startswith('wiki/'):
+                      # path relativo ao vault -> converte para references/
+                      target = Path('references') / (l[len('wiki/'):] + '.md')
+                      if not target.exists():
+                          errors.append(f"{f}: broken link [[{l}]] (sem correspondente em references/)")
+                  elif l.startswith('raw/'):
+                      target = Path('references') / (l + '.md')
+                      if not target.exists():
+                          errors.append(f"{f}: broken link [[{l}]] (sem raw no build)")
+
+          if errors:
+              print("CI FAILED:")
+              for e in errors:
+                  print(f"  - {e}")
+              sys.exit(1)
+          print(f"OK: plugin v{pv}, {len(list(Path('references/normas').glob('*.md')))} normas, "
+                f"frontmatter e index íntegros")
+          EOF

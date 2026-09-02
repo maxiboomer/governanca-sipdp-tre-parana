@@ -30,4 +30,14 @@ for p in files:
  for l in re.findall(r'\[\[references/[^\]|#]+',t): badlinks.append([rel(p),l])
 for p in files:
  if rel(p).startswith('wiki/') and rel(p)!='wiki/index.md' and rel(p)!='wiki/log.md' and rel(p)[:-3] not in indexed: missing.append(rel(p))
-print(json.dumps({'pages':len(files),'broken_links':broken,'index_missing':missing,'field_issues':fields,'stubs':stubs,'bad_wikilink_prefix':badlinks},ensure_ascii=False,indent=2))
+# review_candidates: páginas com confidence low ou contested true (não-fatal — para revisão humana)
+review=[]
+for p in files:
+ if p.name in ('index.md','log.md'): continue
+ t=p.read_text(errors='ignore'); fm=t.split('---',2)[1] if t.startswith('---') else ''
+ cm=re.search(r'^confidence:\\s*([^\\n]+)',fm,re.M)
+ ct=re.search(r'^contested:\\s*(true|false)',fm,re.M)
+ if (cm and cm.group(1).strip().strip('"')=='low') or (ct and ct.group(1)=='true'):
+  review.append({'page':rel(p),'confidence':cm.group(1).strip() if cm else None,
+                 'contested':ct.group(1) if ct else None})
+print(json.dumps({'pages':len(files),'broken_links':broken,'index_missing':missing,'field_issues':fields,'stubs':stubs,'bad_wikilink_prefix':badlinks,'review_candidates':review},ensure_ascii=False,indent=2))

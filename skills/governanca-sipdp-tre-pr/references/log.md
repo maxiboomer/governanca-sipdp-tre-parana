@@ -1,4 +1,18 @@
 
+## [2026-09-02] update | Blindagem do acervo: CI + lint + instrumentos monitorados
+- **Defeito corrigido**: `references/inventarios/instrumentos-monitorados.md` era referenciado
+  pelo SKILL.md mas não existia. Criado `wiki/inventarios/instrumentos-monitorados.md`
+  (Plano 371943/2023, NT CDTI 02/2014; regra: instrumento monitorado não fundamenta parecer).
+- **CI/CD**: criado `.github/workflows/ci.yml` — valida em todo push/PR ao master:
+  versão plugin.json==marketplace.json, frontmatter completo em references/*, index.md lista
+  todas as normas, sem broken wikilinks. Rede de segurança para o cron auto-publicar.
+- **Remote git** atualizado para `governanca-sipdp-tre-parana` (endereço canônico; silencia
+  warning de redirect em todo push).
+- **Lint aprofundado**: `lint_vault.py` agora sinaliza `review_candidates` (páginas com
+  `confidence: low` ou `contested: true`) para revisão humana — fecha o ciclo da v1.5.0.
+- **Nova comparison**: `wiki/comparisons/controle-acesso-in004-2025-vs-2022-vs-2018.md`
+  (IN 004/2025 atual × IN 004/2022 geral × IN-DG 2018 revogadas; cadeia de revogação).
+
 ## [2026-09-02] update | Higiene llm-wiki + confidence + sha256 + comparisons
 - **Lint zerado** (era: 1 broken link, 2 fora do index, 8 field_issues):
   - Criado `wiki/concepts/governanca-ti.md` (corrige broken link da página 124/2026).
