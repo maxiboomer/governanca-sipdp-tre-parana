@@ -2,10 +2,11 @@
 
 ## Camadas
 
-- `raw/`: fontes integrais imutáveis. Nunca editar.
+- `raw/`: fontes integrais imutáveis. Nunca editar. Todo raw deve ter frontmatter com `source_url` (quando aplicável) e `sha256` do corpo (detecção de drift em re-coleta).
 - `wiki/normas/`: uma página por instrumento normativo, com status e fonte.
 - `wiki/concepts/`: sínteses temáticas e operacionais.
 - `wiki/entities/`: órgãos, comitês, unidades e responsáveis.
+- `wiki/comparisons/`: comparações lado a lado de normas/temas relacionados (síntese compilada).
 - `wiki/inventarios/`: inventários e tabelas de cobertura.
 - `wiki/_meta/`: changelogs, qualidade, mapa temático e pendências.
 
@@ -38,9 +39,15 @@ Páginas de norma devem registrar também `fonte_publicacao`, quando disponível
 
 - `curadoria: completa | resumo | stub` identifica profundidade, não vigência.
 - `escopo: central-si-pdp | apoio-governanca-ti | contextual | fora-escopo | duplicada` identifica utilidade.
+- `confidence: high | medium | low` (opcional) indica robustez das afirmações: `high` exige
+  DJE/DOU nomeado no `status_verificacao`; `medium` = compilado oficial sem DJE rastreado;
+  `low` = monitoramento sem confirmação. O lint sinaliza páginas `low` para revisão.
+- `contested: true` (opcional) marca páginas com contradições não resolvidas — o lint as
+  lista para revisão humana.
 - Toda norma curada deve apontar para a fonte bruta e, quando possível, para sucessoras/alteradoras.
-- Sínteses de múltiplas fontes devem indicar as fontes usadas.
+- Sínteses de múltiplas fontes devem indicar as fontes usadas (`sources:` e marcadores `^[...]`).
 - Links Obsidian usam `[[wiki/...]]`.
+- Páginas de comparação (`type: comparison`) seguem o mesmo frontmatter, com `status: não-aplicável`.
 
 ## Convenções de manutenção
 

@@ -1,11 +1,11 @@
 ---
-title: "RESOLUÇÃO Nº 971, DE 30 DE JANEIRO DE 2026. — Tribunal Regional Eleitoral do Paraná"
+title: RESOLUÇÃO Nº 971, DE 30 DE JANEIRO DE 2026. — Tribunal Regional Eleitoral do Paraná
 type: fonte-normativa
-source_url: "https://www.tre-pr.jus.br/legislacao/compilada/resolucoes-tre-pr/2026/resolucao-no-971-de-30-de-janeiro-de-2026"
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/resolucoes-tre-pr/2026/resolucao-no-971-de-30-de-janeiro-de-2026
 coletado: 2026-08-11
 tags: [tre-pr, norma, regulamento-secretaria, coleta-automatica]
+sha256: e3d22648b6fe014b0497945609f3c0dcdc3ca3c98fa2e7d1bba84b194171c8ae
 ---
-
 RESOLUÇÃO Nº 971, DE 30 DE JANEIRO DE 2026.
 
 Aprova o Regulamento da Secretaria do Tribunal Regional Eleitoral do Paraná.

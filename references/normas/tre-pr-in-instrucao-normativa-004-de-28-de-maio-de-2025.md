@@ -10,6 +10,7 @@ status: vigente
 curadoria: completa
 escopo: central-si-pdp
 status_verificacao: "Confirmada vigente em 2026-08-31: compilado oficial TRE-PR e publicação DJE-TRE-PR nº 102, 30/05/2025, p. 05-15. Texto integral coletado e revisado conforme fonte oficial."
+confidence: high
 fonte_publicacao: "https://www.tre-pr.jus.br/legislacao/compilada/instrucoes-normativas-tre-pr/2025/instrucao-normativa-no-004-de-28-de-maio-de-2025"
 data_publicacao: "28/05/2025"
 tags: [norma, tre-pr, seguranca-informacao, controle-acesso, identidade, si-pdp]

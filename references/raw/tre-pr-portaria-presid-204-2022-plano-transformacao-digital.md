@@ -1,11 +1,11 @@
 ---
-title: "PORTARIA Nº 204, DE 17 DE MAIO DE 2022. — Tribunal Regional Eleitoral do Paraná"
+title: PORTARIA Nº 204, DE 17 DE MAIO DE 2022. — Tribunal Regional Eleitoral do Paraná
 type: fonte-normativa
-source_url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-presidencia-tre-pr/2022/portaria-no-204-de-17-de-maio-de-2022"
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-presidencia-tre-pr/2022/portaria-no-204-de-17-de-maio-de-2022
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: ee575860784a12b73d1cf104f09e42a284bcef2322298c895e7b14acafb3eb68
 ---
-
 PORTARIA Nº 204, DE 17 DE MAIO DE 2022. — Tribunal Regional Eleitoral do Paraná
 
 Acessibilidade

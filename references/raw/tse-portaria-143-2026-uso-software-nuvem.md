@@ -1,13 +1,13 @@
 ---
+title: Portaria TSE Nº 143, de 14 de abril de 2026 — Uso de software e serviços de computação em nuvem
 type: fonte-normativa
-title: "Portaria TSE Nº 143, de 14 de abril de 2026 — Uso de software e serviços de computação em nuvem"
-fonte: "TSE"
-url: "https://www.tse.jus.br/legislacao/compilada/prt/2026/portaria-no-143-de-14-de-abril-de-2026"
-data_publicacao: "2026-04-14"
+fonte: TSE
+url: https://www.tse.jus.br/legislacao/compilada/prt/2026/portaria-no-143-de-14-de-abril-de-2026
+data_publicacao: 2026-04-14
 status: Vigente
-tags: [tse, nuvem, cloud-computing, software, seguranca-informacao]sha256: "74db1f53d98b57710275bd78ac6f95d2861c5d6d54280916c52215acc93b8f39"
+tags: [tse, nuvem, cloud-computing, software, seguranca-informacao]sha256: "74db1f53d98b57710275bd78ac6f95d2861c5d6d54280916c52215acc93b8f39
+sha256: 74db1f53d98b57710275bd78ac6f95d2861c5d6d54280916c52215acc93b8f39
 ---
-
 - Acessibilidade
   - Rybená acessibilidades adicionais
   - Rybená Libras

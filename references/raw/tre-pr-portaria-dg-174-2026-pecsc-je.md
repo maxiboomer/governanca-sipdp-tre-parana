@@ -1,16 +1,16 @@
 ---
-title: "TRE-Pr Portaria DG 174/2026 - PECSC-JE 2026-2027"
+title: TRE-Pr Portaria DG 174/2026 - PECSC-JE 2026-2027
 type: fonte-normativa
-fonte: "Tribunal Regional Eleitoral do Paraná"
-url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2026/portaria-no-174-de-13-de-abril-de-2026"
-data_publicacao: "13/04/2026"
-status: "vigente"
-observacao: "Institui Plano de Educação e Cultura em Segurança Cibernética (PECSC-JE/PR) para o biênio 2026-2027."
+fonte: Tribunal Regional Eleitoral do Paraná
+url: https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2026/portaria-no-174-de-13-de-abril-de-2026
+data_publicacao: 13/04/2026
+status: vigente
 created: 2026-08-05
 updated: 2026-08-05
 tags: [tre-pr, seguranca-cibernetica, educacao-cibernetica, 2026]
+observacao: Institui Plano de Educação e Cultura em Segurança Cibernética (PECSC-JE/PR) para o biênio 2026-2027.
+sha256: 71def33e3795a1afc66aaac23f19311f3958c549a0c88fe48ccdd54654de1043
 ---
-
 # PORTARIA Nº 174, DE 13 DE ABRIL DE 2026
 
 **Institui o Plano de Educação e Cultura em Segurança Cibernética no âmbito da Justiça Eleitoral do Paraná (PECSC-JE/PR), para o biênio de 2026-2027.**

@@ -7,6 +7,7 @@ status: revogada
 curadoria: completa
 escopo: central-si-pdp
 status_verificacao: "Revisão do texto integral e da publicação oficial registrada no corpus; confirmar alterações posteriores antes de uso jurídico."
+confidence: medium
 sources: [raw/tre-pr-portaria-dg-502-2022-comite-executivo-tecnologia.md]
 tags: [norma, seguranca-informacao, si-pdp]
 source_url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2022/portaria-no-502-de-14-de-outubro-de-2022"

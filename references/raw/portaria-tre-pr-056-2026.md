@@ -1,15 +1,16 @@
 ---
-title: "Portaria TRE-PR 056/2026 - Protocolo de Crise Socioambiental da Justiça Eleitoral do Paraná"
+title: Portaria TRE-PR 056/2026 - Protocolo de Crise Socioambiental da Justiça Eleitoral do Paraná
 type: fonte-normativa
-fonte: "Tribunal Regional Eleitoral do Paraná"
-url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-presidencia-tre-pr/2026/portaria-ndeg-056-de-19-de-fevereiro-de-2026"
-data_publicacao: "19/02/2026"
-status: "vigente"
-observacao: "Republicada no DJE-TRE-PR nº 073, de 24/04/2026"
+fonte: Tribunal Regional Eleitoral do Paraná
+url: https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-presidencia-tre-pr/2026/portaria-ndeg-056-de-19-de-fevereiro-de-2026
+data_publicacao: 19/02/2026
+status: vigente
 created: 2026-08-07
 updated: 2026-08-07
 tags: [tre-pr, crise-socioambiental, desastre, continuidade-negocios, pgcn, pcsa, cgcsad]
-dje: "DJE-TRE-PR nº 041, de 06/03/2026, p. 03-05"
+observacao: Republicada no DJE-TRE-PR nº 073, de 24/04/2026
+dje: DJE-TRE-PR nº 041, de 06/03/2026, p. 03-05
+sha256: d1ed55fd2ae831f7a7c40567ebedb267e25fb2b787fd2a0fe844bf573597419e
 ---
 # PORTARIA Nº 056, DE 19 DE FEVEREIRO DE 2026
 

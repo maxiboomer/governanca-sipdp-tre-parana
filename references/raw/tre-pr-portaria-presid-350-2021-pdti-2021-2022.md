@@ -1,16 +1,16 @@
 ---
-title: "Portaria TRE-PR 350/2021 - Plano Diretor TI 2021-2022"
+title: Portaria TRE-PR 350/2021 - Plano Diretor TI 2021-2022
 type: fonte-normativa
-fonte: "Tribunal Regional Eleitoral do Paraná"
-url: "https://sitdoc.tse.jus.br/sitdoc/DownloadFile?id=48c2e913-b759-4627-9390-4651cf6983c3&app=dje&extensao=pdf"
-data_publicacao: "23/07/2021"
-status: "vigente"
-observacao: "Estabelece o Plano Diretor de Tecnologia da Informação (PDTI) da Justiça Eleitoral do Paraná para o biênio 2021-2022."
+fonte: Tribunal Regional Eleitoral do Paraná
+url: https://sitdoc.tse.jus.br/sitdoc/DownloadFile?id=48c2e913-b759-4627-9390-4651cf6983c3&app=dje&extensao=pdf
+data_publicacao: 23/07/2021
+status: vigente
 created: 2026-08-05
 updated: 2026-08-05
 tags: [tre-pr, tecnologia, planejamento, pdti]
+observacao: Estabelece o Plano Diretor de Tecnologia da Informação (PDTI) da Justiça Eleitoral do Paraná para o biênio 2021-2022.
+sha256: 3ba2e1302e809aab6f03fc54efeec569d6fbe1427a30f06b56002826293e502e
 ---
-
 # PORTARIA Nº 350, DE 23 DE JULHO DE 2021
 
 **Institui o Plano Diretor de Tecnologia da Informação (PDTI) da Justiça Eleitoral do Paraná para o biênio 2021-2022 e dá outras providências.**

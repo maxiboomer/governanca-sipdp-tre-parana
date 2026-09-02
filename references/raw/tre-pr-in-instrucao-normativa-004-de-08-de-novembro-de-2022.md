@@ -1,11 +1,11 @@
 ---
-title: "INSTRUÇÃO NORMATIVA Nº 004, DE 27 DE OUTUBRO DE 2022. — Tribunal Regional Eleitoral do Paraná"
+title: INSTRUÇÃO NORMATIVA Nº 004, DE 27 DE OUTUBRO DE 2022. — Tribunal Regional Eleitoral do Paraná
 type: fonte-normativa
-source_url: "https://www.tre-pr.jus.br/legislacao/compilada/instrucoes-normativas-tre-pr/2022/instrucao-normativa-no-004-de-08-de-novembro-de-2022"
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/instrucoes-normativas-tre-pr/2022/instrucao-normativa-no-004-de-08-de-novembro-de-2022
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: 329c335a03a7416a98a48277573152edcc12907251ecd9fb4a8f8965eb5331cd
 ---
-
 INSTRUÇÃO NORMATIVA Nº 004, DE 27 DE OUTUBRO DE 2022. — Tribunal Regional Eleitoral do Paraná
 
 Acessibilidade

@@ -14,7 +14,9 @@ O vocabulário deste domínio está em `CONTEXT.md`. As decisões de desenho est
 "publicação", "curada" e "inventário"** — aqui eles têm sentido fixo.
 
 **Conteúdo:** 176 páginas em `references/normas/` (todas curadas) + `entities`, `concepts`,
-`inventarios`, `sources`; textos integrais em `references/raw/`.
+`comparisons`, `inventarios`, `sources`; textos integrais em `references/raw/` (com `sha256` para
+detecção de drift). Páginas curadas carregam `confidence: high|medium|low` (high = DJE/DOU
+nomeado; medium = compilado sem DJE; low = monitoramento sem confirmação).
 
 ## Escopo
 

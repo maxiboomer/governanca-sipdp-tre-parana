@@ -1,11 +1,11 @@
 ---
-title: "INSTRUÇÃO NORMATIVA Nº 12/2018"
+title: INSTRUÇÃO NORMATIVA Nº 12/2018
 type: fonte-normativa
-source_url: "https://apps.tre-pr.jus.br/files/legislacaocompilada/in/2018/in122018.html"
+source_url: https://apps.tre-pr.jus.br/files/legislacaocompilada/in/2018/in122018.html
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: 636c6e1b1ca26f5b03c8a4c3e88eac2fb08f83a585b3b42e8c46fd8555ddc4ec
 ---
-
 INSTRUÇÃO NORMATIVA Nº 12/2018
 
 

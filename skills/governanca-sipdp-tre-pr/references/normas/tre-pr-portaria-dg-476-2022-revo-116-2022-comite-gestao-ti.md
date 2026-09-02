@@ -7,6 +7,7 @@ status: histórica
 curadoria: completa
 escopo: central-si-pdp
 status_verificacao: "Revisão do texto integral e da publicação oficial registrada no corpus; confirmar alterações posteriores antes de uso jurídico."
+confidence: medium
 sources: [raw/tre-pr-portaria-dg-476-2022-revo-116-2022-comite-gestao-ti.md]
 tags: [norma, seguranca-informacao, si-pdp]
 source_url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2022/portaria-no-476-de-29-de-setembro-de-2022"

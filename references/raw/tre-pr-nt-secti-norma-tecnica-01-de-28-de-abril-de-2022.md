@@ -1,11 +1,11 @@
 ---
-title: "NORMA TÉCNICA Nº 01, DE 28 DE ABRIL DE 2022. — Tribunal Regional Eleitoral do Paraná"
+title: NORMA TÉCNICA Nº 01, DE 28 DE ABRIL DE 2022. — Tribunal Regional Eleitoral do Paraná
 type: fonte-normativa
-source_url: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2022/norma-tecnica-no-01-de-28-de-abril-de-2022"
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2022/norma-tecnica-no-01-de-28-de-abril-de-2022
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: 15be35645e59837210cda0ec1d71860c6c86f9f8e83358aa99be194e4d0e6b40
 ---
-
 NORMA TÉCNICA Nº 01, DE 28 DE ABRIL DE 2022. — Tribunal Regional Eleitoral do Paraná
 
 Acessibilidade

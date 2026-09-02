@@ -10,6 +10,7 @@ status: vigente
 curadoria: completa
 escopo: central-si-pdp
 status_verificacao: "Confirmada vigente em 2026-08-31: página oficial no compilado TRE-PR (Portarias DG 2026) e publicação no DJE-TRE-PR nº 050, 19/03/2026, p. 11-12. Texto integral obtido do portal."
+confidence: high
 fonte_publicacao: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2026/portaria-ndeg-124-de-17-de-marco-de-2026"
 data_publicacao: "17/03/2026"
 tags: [norma, tre-pr, seguranca-informacao, governanca-ti, si-pdp, ceti]

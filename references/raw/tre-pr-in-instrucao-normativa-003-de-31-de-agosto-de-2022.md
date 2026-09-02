@@ -1,11 +1,11 @@
 ---
-title: "INSTRUÇÃO NORMATIVA Nº 003, DE 31 DE AGOSTO DE 2022. — Tribunal Regional Eleitoral do Paraná"
+title: INSTRUÇÃO NORMATIVA Nº 003, DE 31 DE AGOSTO DE 2022. — Tribunal Regional Eleitoral do Paraná
 type: fonte-normativa
-source_url: "https://www.tre-pr.jus.br/legislacao/compilada/instrucoes-normativas-tre-pr/2022/instrucao-normativa-no-003-de-31-de-agosto-de-2022"
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/instrucoes-normativas-tre-pr/2022/instrucao-normativa-no-003-de-31-de-agosto-de-2022
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: f6dd62cacbc58b2a1347b0a7d7ac1b89e78492b0174e44d0b15e97e91f5cba8a
 ---
-
 INSTRUÇÃO NORMATIVA Nº 003, DE 31 DE AGOSTO DE 2022. — Tribunal Regional Eleitoral do Paraná
 
 Acessibilidade

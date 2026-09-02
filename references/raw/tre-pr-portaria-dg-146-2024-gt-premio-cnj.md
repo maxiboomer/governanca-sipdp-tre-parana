@@ -1,11 +1,11 @@
 ---
-title: "PORTARIA N° 146, DE 08 DE MARÇO DE 2024. — Tribunal Regional Eleitoral do Paraná"
+title: PORTARIA N° 146, DE 08 DE MARÇO DE 2024. — Tribunal Regional Eleitoral do Paraná
 type: fonte-normativa
-source_url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2024/portaria-ndeg-146-de-08-de-marco-de-2024"
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2024/portaria-ndeg-146-de-08-de-marco-de-2024
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: f8020637cd12515920e0a4c19df1ac2a48beb4228fd71e65dde5821deefbccc6
 ---
-
 PORTARIA N° 146, DE 08 DE MARÇO DE 2024. — Tribunal Regional Eleitoral do Paraná
 
 Acessibilidade

@@ -1,11 +1,11 @@
 ---
-title: "NORMA TÉCNICA N° 003, DE 06 DE ABRIL DE 2026. — Tribunal Regional Eleitoral do Paraná"
+title: NORMA TÉCNICA N° 003, DE 06 DE ABRIL DE 2026. — Tribunal Regional Eleitoral do Paraná
 type: fonte-normativa
-source_url: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2026/norma-tecnica-ndeg-003-de-06-de-abril-de-2026"
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2026/norma-tecnica-ndeg-003-de-06-de-abril-de-2026
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: f26773fc3b76e930aa4a5f78e8eca5d88e5d5eab59b832f64bc9962af4c77a0b
 ---
-
 NORMA TÉCNICA N° 003, DE 06 DE ABRIL DE 2026. — Tribunal Regional Eleitoral do Paraná
 
 Acessibilidade

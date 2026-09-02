@@ -1,11 +1,11 @@
 ---
-title: "NORMA TÉCNICA Nº 04, DE 17 DE OUTUBRO DE 2019. — Tribunal Regional Eleitoral do Paraná"
+title: NORMA TÉCNICA Nº 04, DE 17 DE OUTUBRO DE 2019. — Tribunal Regional Eleitoral do Paraná
 type: fonte-normativa
-source_url: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2019/norma-tecnica-no-04-de-17-de-outubro-de-2019"
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2019/norma-tecnica-no-04-de-17-de-outubro-de-2019
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: f350c0954f9b8cf5c684c3c1eead006478902fa79e6fa13bca18cd79909d8e69
 ---
-
 NORMA TÉCNICA Nº 04, DE 17 DE OUTUBRO DE 2019. — Tribunal Regional Eleitoral do Paraná
 
 Acessibilidade

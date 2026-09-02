@@ -1,11 +1,11 @@
 ---
-title: "NORMA TÉCNICA Nº 08, DE 15 DE JULHO DE 2020. — Tribunal Regional Eleitoral do Paraná"
+title: NORMA TÉCNICA Nº 08, DE 15 DE JULHO DE 2020. — Tribunal Regional Eleitoral do Paraná
 type: fonte-normativa
-source_url: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2020/norma-tecnica-no-08-de-15-de-julho-de-2020"
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2020/norma-tecnica-no-08-de-15-de-julho-de-2020
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: 6bc28afd065ad69d7c629e62d35575847fabe24aba4842fbe43a05d6d696f185
 ---
-
 NORMA TÉCNICA Nº 08, DE 15 DE JULHO DE 2020. — Tribunal Regional Eleitoral do Paraná
 
 Acessibilidade

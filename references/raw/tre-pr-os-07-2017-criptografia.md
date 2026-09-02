@@ -1,11 +1,11 @@
 ---
-title: "ORDEM DE SERVIÇO Nº 07/2017"
+title: ORDEM DE SERVIÇO Nº 07/2017
 type: fonte-normativa
-source_url: "https://apps.tre-pr.jus.br/files/legislacaocompilada/os/2017/os072017dg.html"
+source_url: https://apps.tre-pr.jus.br/files/legislacaocompilada/os/2017/os072017dg.html
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: 0e8f028953cc004ab415b9cdab144b54d4d895978758aa56ed0f732c0da6ff8f
 ---
-
 ORDEM DE SERVIÇO Nº 07/2017
 
 

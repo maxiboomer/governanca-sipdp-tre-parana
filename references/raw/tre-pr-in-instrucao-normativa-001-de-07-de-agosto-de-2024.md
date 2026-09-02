@@ -1,11 +1,11 @@
 ---
-title: "INSTRUÇÃO NORMATIVA Nº 001, DE 07 DE AGOSTO DE 2024. — Tribunal Regional Eleitoral do Paraná"
+title: INSTRUÇÃO NORMATIVA Nº 001, DE 07 DE AGOSTO DE 2024. — Tribunal Regional Eleitoral do Paraná
 type: fonte-normativa
-source_url: "https://www.tre-pr.jus.br/legislacao/compilada/instrucoes-normativas-tre-pr/2024/instrucao-normativa-no-001-de-07-de-agosto-de-2024"
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/instrucoes-normativas-tre-pr/2024/instrucao-normativa-no-001-de-07-de-agosto-de-2024
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: 238d7ab79d62086ebc2c0e2c57b894fcf6c9ea274479559774cb1fb1b2b541f5
 ---
-
 INSTRUÇÃO NORMATIVA Nº 001, DE 07 DE AGOSTO DE 2024. — Tribunal Regional Eleitoral do Paraná
 
 Acessibilidade

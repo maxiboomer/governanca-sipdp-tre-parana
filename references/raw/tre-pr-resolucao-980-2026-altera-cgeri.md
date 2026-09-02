@@ -1,16 +1,16 @@
 ---
-title: "TRE-Pr Resolução 980/2026 - Altera CGERI e Governança"
+title: TRE-Pr Resolução 980/2026 - Altera CGERI e Governança
 type: fonte-normativa
-fonte: "Tribunal Regional Eleitoral do Paraná"
-url: "https://www.tre-pr.jus.br/legislacao/compilada/resolucoes-tre-pr/2026/resolucao-no-980-de-10-de-junho-de-2026"
-data_publicacao: "10/06/2026"
-status: "vigente"
-observacao: "Altera Resolução 932/2024 - altera Comitê de Gestão Estratégica, Riscos e Inovação (CGERI). Atualiza diretrizes de inovação."
+fonte: Tribunal Regional Eleitoral do Paraná
+url: https://www.tre-pr.jus.br/legislacao/compilada/resolucoes-tre-pr/2026/resolucao-no-980-de-10-de-junho-de-2026
+data_publicacao: 10/06/2026
+status: vigente
 created: 2026-08-05
 updated: 2026-08-05
 tags: [tre-pr, governanca, inovacao, cgeri]
+observacao: Altera Resolução 932/2024 - altera Comitê de Gestão Estratégica, Riscos e Inovação (CGERI). Atualiza diretrizes de inovação.
+sha256: f69fd5543797945dadb1a31bd3070a64c969a1160da52a34c89eb17d06248ec7
 ---
-
 # RESOLUÇÃO Nº 980, DE 10 DE JUNHO DE 2026
 
 **Altera a Resolução nº 932/2024, que regulamenta o sistema de governança da Justiça Eleitoral do Paraná, e dá outras providências.**

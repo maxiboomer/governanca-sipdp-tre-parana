@@ -1,11 +1,11 @@
 ---
-title: "INSTRUÇÃO NORMATIVA Nº 05/2019"
+title: INSTRUÇÃO NORMATIVA Nº 05/2019
 type: fonte-normativa
-source_url: "https://apps.tre-pr.jus.br/files/legislacaocompilada/in/2019/in052019.html"
+source_url: https://apps.tre-pr.jus.br/files/legislacaocompilada/in/2019/in052019.html
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: 95637ae5bf9d00754e943cedf682d7ecbe4f65a1117e3b606eb7f067f10bc8cd
 ---
-
 INSTRUÇÃO NORMATIVA Nº 05/2019
 
 

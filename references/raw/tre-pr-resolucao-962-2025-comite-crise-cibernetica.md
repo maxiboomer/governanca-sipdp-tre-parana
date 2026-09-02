@@ -1,17 +1,17 @@
 ---
-title: "Resolução TRE-PR 962/2025 - Comitê de Crises Cibernéticas"
+title: Resolução TRE-PR 962/2025 - Comitê de Crises Cibernéticas
 type: fonte-normativa
-fonte: "Tribunal Regional Eleitoral do Paraná"
-url: "https://www.tre-pr.jus.br/legislacao/compilada/resolucoes-tre-pr/2025/resolucao-no-962-de-09-de-dezembro-de-2025"
-data_publicacao: "09/12/2025"
-status: "vigente"
-observacao: "Institui Comitê de Crises Cibernéticas e protocolos de prevenção, gerenciamento e investigação de ilícitos cibernéticos."
+fonte: Tribunal Regional Eleitoral do Paraná
+url: https://www.tre-pr.jus.br/legislacao/compilada/resolucoes-tre-pr/2025/resolucao-no-962-de-09-de-dezembro-de-2025
+data_publicacao: 09/12/2025
+status: vigente
 created: 2026-08-05
 updated: 2026-08-05
 tags: [tre-pr, ciberseguranca, crises, comite]
-dje: "DJE-TRE-PR, nº 244, de 19 de dezembro de 2025, p. 31-40."
+observacao: Institui Comitê de Crises Cibernéticas e protocolos de prevenção, gerenciamento e investigação de ilícitos cibernéticos.
+dje: DJE-TRE-PR, nº 244, de 19 de dezembro de 2025, p. 31-40.
+sha256: 87d7050de1ba659ce23842772c831ab4c0b96d3ceb307268cf74b0932683fee4
 ---
-
 # RESOLUÇÃO Nº 962, DE 09 DE DEZEMBRO DE 2025
 
 **Institui o Comitê de Crises Cibernéticas e os Protocolos de Prevenção de Incidentes Cibernéticos, de Gerenciamento de Crises Cibernéticas e de Investigação para Ilícitos Cibernéticos, no âmbito da Justiça Eleitoral do Paraná.**

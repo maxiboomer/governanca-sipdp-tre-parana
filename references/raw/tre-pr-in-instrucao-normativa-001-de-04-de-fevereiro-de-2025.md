@@ -1,11 +1,11 @@
 ---
-title: "INSTRUÇÃO NORMATIVA Nº 001, DE 04 DE FEVEREIRO DE 2025. — Tribunal Regional Eleitoral do Paraná"
+title: INSTRUÇÃO NORMATIVA Nº 001, DE 04 DE FEVEREIRO DE 2025. — Tribunal Regional Eleitoral do Paraná
 type: fonte-normativa
-source_url: "https://www.tre-pr.jus.br/legislacao/compilada/instrucoes-normativas-tre-pr/2025/instrucao-normativa-no-001-de-04-de-fevereiro-de-2025"
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/instrucoes-normativas-tre-pr/2025/instrucao-normativa-no-001-de-04-de-fevereiro-de-2025
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: 742e7419dba6129517b821a73b43b0acc9ded8010e1751fc73a155f620e81a53
 ---
-
 INSTRUÇÃO NORMATIVA Nº 001, DE 04 DE FEVEREIRO DE 2025. — Tribunal Regional Eleitoral do Paraná
 
 Acessibilidade

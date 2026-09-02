@@ -1,11 +1,11 @@
 ---
-title: "INSTRUÇÃO NORMATIVA Nº 03/2019"
+title: INSTRUÇÃO NORMATIVA Nº 03/2019
 type: fonte-normativa
-source_url: "https://apps.tre-pr.jus.br/files/legislacaocompilada/in/2019/in032019.html"
+source_url: https://apps.tre-pr.jus.br/files/legislacaocompilada/in/2019/in032019.html
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: 391b46dd0bb4aa0b42973af5bece66e53674ce08d392fc6f790fadd6b1be6cd7
 ---
-
 INSTRUÇÃO NORMATIVA Nº 03/2019
 
 

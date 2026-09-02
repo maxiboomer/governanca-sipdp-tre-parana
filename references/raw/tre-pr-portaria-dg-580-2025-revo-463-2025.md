@@ -1,11 +1,11 @@
 ---
-title: "PORTARIA Nº 580, DE 18 DE DEZEMBRO DE 2025. — Tribunal Regional Eleitoral do Paraná"
+title: PORTARIA Nº 580, DE 18 DE DEZEMBRO DE 2025. — Tribunal Regional Eleitoral do Paraná
 type: fonte-normativa
-source_url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2025/portaria-no-580-de-18-de-dezembro-de-2025"
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2025/portaria-no-580-de-18-de-dezembro-de-2025
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: 891b199fafb80ca809326ee39adcabd8530d5d638d52936a7eaf92010900e21c
 ---
-
 PORTARIA Nº 580, DE 18 DE DEZEMBRO DE 2025. — Tribunal Regional Eleitoral do Paraná
 
 Acessibilidade

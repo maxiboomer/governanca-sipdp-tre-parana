@@ -1,11 +1,11 @@
 ---
-title: "NORMA TÉCNICA Nº 02, DE 26 DE FEVEREIRO DE 2020. — Tribunal Regional Eleitoral do Paraná"
+title: NORMA TÉCNICA Nº 02, DE 26 DE FEVEREIRO DE 2020. — Tribunal Regional Eleitoral do Paraná
 type: fonte-normativa
-source_url: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2020/norma-tecnica-no-02-de-26-de-fevereiro-de-2020"
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2020/norma-tecnica-no-02-de-26-de-fevereiro-de-2020
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: 02bf1f9cd095c12f755fbe4e93215fac01e1abd042554737a573619c9d5c71db
 ---
-
 NORMA TÉCNICA Nº 02, DE 26 DE FEVEREIRO DE 2020. — Tribunal Regional Eleitoral do Paraná
 
 Acessibilidade

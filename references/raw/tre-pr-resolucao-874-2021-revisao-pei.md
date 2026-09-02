@@ -1,16 +1,16 @@
 ---
-title: "TRE-Pr Resolução 874/2021 - Revisão Planejamento Estratégico 2021-2026"
+title: TRE-Pr Resolução 874/2021 - Revisão Planejamento Estratégico 2021-2026
 type: fonte-normativa
-fonte: "Tribunal Regional Eleitoral do Paraná"
-url: "https://www.tre-pr.jus.br/legislacao/compilada/resolucoes-tre-pr/2021/resolucao-no-874-de-24-de-junho-de-2021"
-data_publicacao: "24/06/2021"
-status: "vigente"
-observacao: "Aprova a revisão do Planejamento Estratégico 2021-2026, alinhando à Estratégia Nacional CNJ 325/2020."
+fonte: Tribunal Regional Eleitoral do Paraná
+url: https://www.tre-pr.jus.br/legislacao/compilada/resolucoes-tre-pr/2021/resolucao-no-874-de-24-de-junho-de-2021
+data_publicacao: 24/06/2021
+status: vigente
 created: 2026-08-05
 updated: 2026-08-05
 tags: [tre-pr, planejamento-estrategico, estrategia]
+observacao: Aprova a revisão do Planejamento Estratégico 2021-2026, alinhando à Estratégia Nacional CNJ 325/2020.
+sha256: e1268567392e45fa4429e2a59fd87588d5ec2a0d4a1cb63c3ba7570ab927dd9b
 ---
-
 # RESOLUÇÃO Nº 874, DE 24 DE JUNHO DE 2021
 
 **Aprova a revisão do Planejamento Estratégico para o período 2021-2026 no âmbito da Justiça Eleitoral do Paraná e dá outras providências.**

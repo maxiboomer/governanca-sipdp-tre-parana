@@ -1,17 +1,16 @@
 ---
-title: "TRE-PR Portaria 257/2025 - Estrategia Cloud Computing"
+title: TRE-PR Portaria 257/2025 - Estrategia Cloud Computing
 type: fonte-normativa
-fonte: "Tribunal Regional Eleitoral do Paraná"
-url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-presidencia-tre-pr/2025/portaria-no-257-de-21-de-agosto-de-2025"
-data_publicacao: "21/08/2025"
-status: "vigente"
-observacao: "Institui estratégia para uso de software e serviços de computação em nuvem. Base: LGPD, PSI, ENTIC-JUD."
+fonte: Tribunal Regional Eleitoral do Paraná
+url: https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-presidencia-tre-pr/2025/portaria-no-257-de-21-de-agosto-de-2025
+data_publicacao: 21/08/2025
+status: vigente
 created: 2026-08-05
 updated: 2026-08-05
 tags: [tre-pr, portaria, cloud, nuvem, governanca-ti]
-
+observacao: Institui estratégia para uso de software e serviços de computação em nuvem. Base: LGPD, PSI, ENTIC-JUD.
+sha256: 803c43f2c71304019d2b5a0af1c6c7dd911c86a35539fd716393601b28a96162
 ---
-
 # PORTARIA Nº 257, DE 21 DE AGOSTO DE 2025
 
 **Institui a estratégia para uso de software e serviços de computação em nuvem, no âmbito da Justiça Eleitoral do Paraná.**

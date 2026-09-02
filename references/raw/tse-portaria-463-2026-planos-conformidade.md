@@ -1,13 +1,13 @@
 ---
+title: Portaria TSE Nº 463, de 27 de julho de 2026 — Planos de conformidade dos provedores de aplicação de internet (Eleições 2026)
 type: fonte-normativa
-title: "Portaria TSE Nº 463, de 27 de julho de 2026 — Planos de conformidade dos provedores de aplicação de internet (Eleições 2026)"
-fonte: "TSE (Presidência)"
-url: "https://www.tse.jus.br/legislacao/compilada/prt/2026/portaria-no-463-de-27-de-julho-de-2026"
-data_publicacao: "2026-07-27"
+fonte: TSE (Presidência)
+url: https://www.tse.jus.br/legislacao/compilada/prt/2026/portaria-no-463-de-27-de-julho-de-2026
+data_publicacao: 2026-07-27
 status: Vigente
-tags: [tse, plataformas-digitais, planos-conformidade, eleicoes-2026, res-23-610-2019]sha256: "3616ca17cb70c4e8e8f0bf597710c5c6bc594c6967c93c98e55f4d1589e54c46"
+tags: [tse, plataformas-digitais, planos-conformidade, eleicoes-2026, res-23-610-2019]sha256: "3616ca17cb70c4e8e8f0bf597710c5c6bc594c6967c93c98e55f4d1589e54c46
+sha256: 3616ca17cb70c4e8e8f0bf597710c5c6bc594c6967c93c98e55f4d1589e54c46
 ---
-
 - Acessibilidade
   - Rybená acessibilidades adicionais
   - Rybená Libras

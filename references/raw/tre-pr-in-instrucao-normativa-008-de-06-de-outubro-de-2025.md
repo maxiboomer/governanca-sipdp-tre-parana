@@ -1,11 +1,11 @@
 ---
-title: "INSTRUÇÃO NORMATIVA Nº 008, DE 06 DE OUTUBRO DE 2025. — Tribunal Regional Eleitoral do Paraná"
+title: INSTRUÇÃO NORMATIVA Nº 008, DE 06 DE OUTUBRO DE 2025. — Tribunal Regional Eleitoral do Paraná
 type: fonte-normativa
-source_url: "https://www.tre-pr.jus.br/legislacao/compilada/instrucoes-normativas-tre-pr/2025/instrucao-normativa-no-008-de-06-de-outubro-de-2025"
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/instrucoes-normativas-tre-pr/2025/instrucao-normativa-no-008-de-06-de-outubro-de-2025
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: 3143ffbbeac4ddb73b6d0aa3e93af3a29e9aef1f6515f62e9ce3b02e1faa49e9
 ---
-
 INSTRUÇÃO NORMATIVA Nº 008, DE 06 DE OUTUBRO DE 2025. — Tribunal Regional Eleitoral do Paraná
 
 Acessibilidade

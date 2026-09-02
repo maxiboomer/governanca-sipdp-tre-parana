@@ -1,15 +1,16 @@
 ---
-title: "Resolução CNJ 646/2025 - Protocolo de Crise Socioambiental do Poder Judiciário"
+title: Resolução CNJ 646/2025 - Protocolo de Crise Socioambiental do Poder Judiciário
 type: fonte-normativa
-fonte: "Conselho Nacional de Justiça"
-url: "https://atos.cnj.jus.br/atos/detalhar/6339"
-data_publicacao: "26/09/2025"
-status: "vigente"
-observacao: "Institui o Protocolo de Crise Socioambiental do Poder Judiciário"
+fonte: Conselho Nacional de Justiça
+url: https://atos.cnj.jus.br/atos/detalhar/6339
+data_publicacao: 26/09/2025
+status: vigente
 created: 2026-08-07
 updated: 2026-08-07
 tags: [cnj, crise-socioambiental, desastre, continuidade-negocios, gestao-de-riscos, protocolo]
-dje: "DJe/CNJ n. 212/2025, de 29/09/2025, p. 4-7"
+observacao: Institui o Protocolo de Crise Socioambiental do Poder Judiciário
+dje: DJe/CNJ n. 212/2025, de 29/09/2025, p. 4-7
+sha256: a1d7b46aa1e823d717f8df538d2b74ee8051461621398fc1609dc9db1139f05e
 ---
 # RESOLUÇÃO Nº 646, DE 26 DE SETEMBRO DE 2025
 

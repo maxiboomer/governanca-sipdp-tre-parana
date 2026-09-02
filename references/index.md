@@ -14,6 +14,7 @@ Ver `CLAUDE.md` para convenções. Estrutura: `raw/` (fontes imutáveis) → `wi
 - [[wiki/entities/etir|ETIR - Equipe de Tratamento e Resposta a Incidentes]]
 
 ## Concepts
+- [[wiki/concepts/governanca-ti|Governança de TI no TRE-PR (CETI e comitês)]]
 - [[wiki/concepts/implementacao-cnj-363-2021|Implementação da Resolução CNJ 363/2021]]
 - [[wiki/concepts/lgpd-diagnostico-fase1|Fase 1 — Diagnóstico (Gap Analysis LGPD)]]
 - [[wiki/concepts/lgpd-framework-documental|Framework Documental do Programa LGPD]]
@@ -144,6 +145,7 @@ Ver `CLAUDE.md` para convenções. Estrutura: `raw/` (fontes imutáveis) → `wi
 - [[wiki/normas/tre-pr-portaria-dg-050-2025-extingue-enastic|PORTARIA N° 050, DE 03 DE FEVEREIRO DE 2025. — Tribunal Regional Eleitoral do Paraná]]
 - [[wiki/normas/tre-pr-portaria-dg-086-2026-cgsi-pdp|Portaria DG TRE-PR 086/2026 - CGSIPD]]
 - [[wiki/normas/tre-pr-portaria-dg-116-2022-revo-287-2021|PORTARIA Nº 116, DE 16 DE MARÇO DE 2022. — Tribunal Regional Eleitoral do Paraná]]
+- [[wiki/normas/tre-pr-portaria-dg-124-2026-ceti-atribuicoes|PORTARIA N° 124, DE 17 DE MARÇO DE 2026. — CETI (composição e atribuições; revoga 425/2018 e 502/2022)]]
 - [[wiki/normas/tre-pr-portaria-dg-132-2026-revo-os-08-2017-mds|PORTARIA N° 132, DE 18 DE MARÇO DE 2026. — Tribunal Regional Eleitoral do Paraná]]
 - [[wiki/normas/tre-pr-portaria-dg-146-2024-gt-premio-cnj|PORTARIA N° 146, DE 08 DE MARÇO DE 2024. — Tribunal Regional Eleitoral do Paraná]]
 - [[wiki/normas/tre-pr-portaria-dg-171-2026-ans|TRE-PR Portaria DG 171/2026 - Acordo Nivel de Servico]]
@@ -214,10 +216,13 @@ Ver `CLAUDE.md` para convenções. Estrutura: `raw/` (fontes imutáveis) → `wi
 - [[wiki/sources/resolu-es-tre-pr|Resoluções TRE-PR]]
 - [[wiki/sources/resolu-es-tse|Resoluções TSE]]
 
+## Comparisons
+- [[wiki/comparisons/psi-je-23644-23763-974|PSI-JE: Res. 23.644/2021 × 23.763/2026 × TRE-PR 974/2026]]
+
 ## Estatísticas
-- Fontes brutas em `raw/`: 166 arquivos raw `.md` (165 na raiz + 1 em `wiki/raw/`)
+- Fontes brutas em `raw/`: 166 arquivos raw `.md` (todos com `sha256:` desde 2026-09-02)
 - Páginas curadas em `wiki/normas/`: 176 (uma para cada norma em raw/)
-- Entities: 8 · Concepts: 13 · Inventários: 3 · Sources: 7
+- Entities: 8 · Concepts: 14 · Comparisons: 1 · Inventários: 3 · Sources: 7
 
 ## Normas (novas)
 - [[wiki/normas/tre-pr-resolucao-970-2026-gestao-inovacao|Resolução TRE-PR 970/2026 — Política de Gestão da Inovação]]

@@ -7,6 +7,7 @@ status: vigente
 curadoria: completa
 escopo: central-si-pdp
 status_verificacao: "Revisão do texto integral e da publicação oficial registrada no corpus; confirmar alterações posteriores antes de uso jurídico."
+confidence: medium
 sources: [raw/tre-pr-in-dg-02-2019-csti.md]
 tags: [norma, seguranca-informacao, si-pdp]
 source_url: "https://apps.tre-pr.jus.br/files/legislacaocompilada/in/2019/in022019.html"

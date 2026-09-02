@@ -1,17 +1,16 @@
 ---
-title: "TRE-PR Norma Tecnica SECTI 001/2026 - Modelo Operacional de Nuvem"
+title: TRE-PR Norma Tecnica SECTI 001/2026 - Modelo Operacional de Nuvem
 type: fonte-normativa
-fonte: "Tribunal Regional Eleitoral do Paraná"
-url: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2026/norma-tecnica-no-01-de-04-de-fevereiro-de-2026"
-data_publicacao: "04/02/2026"
-status: "vigente"
-observacao: "Estabelece procedimentos para Modelo Operacional de Nuvem no TRE-PR."
+fonte: Tribunal Regional Eleitoral do Paraná
+url: https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2026/norma-tecnica-no-01-de-04-de-fevereiro-de-2026
+data_publicacao: 04/02/2026
+status: vigente
 created: 2026-08-05
 updated: 2026-08-05
 tags: [tre-pr, secti, norma-tecnica, cloud, nuvem, seguranca]
-
+observacao: Estabelece procedimentos para Modelo Operacional de Nuvem no TRE-PR.
+sha256: 9117235cf127c19d2ac0d4a28186eb183fcf0d4ed926d761aebf7e9ef50a6fb2
 ---
-
 # NORMA TÉCNICA Nº 001, DE 04 DE FEVEREIRO DE 2026
 
 **Estabelece os procedimentos para o Modelo Operacional de Nuvem (Cloud Operating Model), abrangendo a gestão do ciclo de vida, inventário e segurança de recursos no âmbito do Tribunal Regional Eleitoral do Paraná.**

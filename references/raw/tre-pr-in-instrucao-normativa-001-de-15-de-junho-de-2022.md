@@ -1,11 +1,11 @@
 ---
-title: "INSTRUÇÃO NORMATIVA Nº 001, DE 15 DE JUNHO DE 2022. — Tribunal Regional Eleitoral do Paraná"
+title: INSTRUÇÃO NORMATIVA Nº 001, DE 15 DE JUNHO DE 2022. — Tribunal Regional Eleitoral do Paraná
 type: fonte-normativa
-source_url: "https://www.tre-pr.jus.br/legislacao/compilada/instrucoes-normativas-tre-pr/2022/instrucao-normativa-no-001-de-15-de-junho-de-2022"
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/instrucoes-normativas-tre-pr/2022/instrucao-normativa-no-001-de-15-de-junho-de-2022
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: 251773002f8d645c8f280dd1aec1ee8d0ef13c083544bbee270af13aa5659ce8
 ---
-
 INSTRUÇÃO NORMATIVA Nº 001, DE 15 DE JUNHO DE 2022. — Tribunal Regional Eleitoral do Paraná
 
 Acessibilidade

@@ -1,11 +1,11 @@
 ---
-title: "PORTARIA N° 103, DE 28 DE MARÇO DE 2025. — Tribunal Regional Eleitoral do Paraná"
+title: PORTARIA N° 103, DE 28 DE MARÇO DE 2025. — Tribunal Regional Eleitoral do Paraná
 type: fonte-normativa
-source_url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-presidencia-tre-pr/2025/portaria-ndeg-103-de-28-de-marco-de-2025"
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-presidencia-tre-pr/2025/portaria-ndeg-103-de-28-de-marco-de-2025
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: 22e6f010bafd0e42c6e2b0809920430f48c45b864112bb418ee0fd98792eae92
 ---
-
 PORTARIA N° 103, DE 28 DE MARÇO DE 2025. — Tribunal Regional Eleitoral do Paraná
 
 Acessibilidade

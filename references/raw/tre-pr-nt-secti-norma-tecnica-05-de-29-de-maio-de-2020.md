@@ -1,11 +1,11 @@
 ---
-title: "NORMA TÉCNICA Nº 05, DE 29 DE MAIO DE 2020. — Tribunal Regional Eleitoral do Paraná"
+title: NORMA TÉCNICA Nº 05, DE 29 DE MAIO DE 2020. — Tribunal Regional Eleitoral do Paraná
 type: fonte-normativa
-source_url: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2020/norma-tecnica-no-05-de-29-de-maio-de-2020"
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2020/norma-tecnica-no-05-de-29-de-maio-de-2020
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: de1eba17f4a904c1d15b234d64542d4c4fbde848ad48f264b39ebead7a7c625b
 ---
-
 NORMA TÉCNICA Nº 05, DE 29 DE MAIO DE 2020. — Tribunal Regional Eleitoral do Paraná
 
 Acessibilidade

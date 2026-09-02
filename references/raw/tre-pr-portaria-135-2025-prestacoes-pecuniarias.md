@@ -1,16 +1,16 @@
 ---
-title: "TRE-Pr Portaria 135/2025 - Prestacoes Pecuniarias"
+title: TRE-Pr Portaria 135/2025 - Prestacoes Pecuniarias
 type: fonte-normativa
-fonte: "Tribunal Regional Eleitoral do Paraná"
-url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-presidencia-tre-pr/2025/portaria-ndeg-135-de-30-de-abril-de-2025"
-data_publicacao: "30/04/2025"
-status: "vigente"
-observacao: "Regulamenta recolhimento e destinação de prestações pecuniárias em transações penais e acordos de não persecução penal."
+fonte: Tribunal Regional Eleitoral do Paraná
+url: https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-presidencia-tre-pr/2025/portaria-ndeg-135-de-30-de-abril-de-2025
+data_publicacao: 30/04/2025
+status: vigente
 created: 2026-08-05
 updated: 2026-08-05
 tags: [tre-pr, portaria, prestacoes-pecuniarias, transacoes-penais, acordos-nao-persecucao]
+observacao: Regulamenta recolhimento e destinação de prestações pecuniárias em transações penais e acordos de não persecução penal.
+sha256: 0c9a5d14d06b8c665cf3b244c7b2d1911ee3f66a27731d89b42aa3b6ee51070d
 ---
-
 # PORTARIA Nº 135, DE 30 DE ABRIL DE 2025
 
 **Regulamenta o recolhimento e a destinação das prestações pecuniárias.**

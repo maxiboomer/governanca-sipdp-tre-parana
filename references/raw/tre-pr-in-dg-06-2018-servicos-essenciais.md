@@ -1,11 +1,11 @@
 ---
-title: "INSTRUÇÃO NORMATIVA Nº 06/2018 [REVOGADA]"
+title: INSTRUÇÃO NORMATIVA Nº 06/2018 [REVOGADA]
 type: fonte-normativa
-source_url: "https://apps.tre-pr.jus.br/files/legislacaocompilada/in/2018/in062018.html"
+source_url: https://apps.tre-pr.jus.br/files/legislacaocompilada/in/2018/in062018.html
 coletado: 2026-08-06
 tags: [tre-pr, norma, revogada, coleta-automatica]
+sha256: 9803d4c93a5f86200238a739f0a676cb9a29011f8624806013433d92e8de0bb3
 ---
-
 **⚠️ NORMA REVOGADA pela Instrução Normativa TRE-PR nº 010/2025** (14/nov/2025, DJE nº 243, 18/dez/2025).
 
 Dispunha sobre a classificação dos serviços essenciais (estratégicos) de TI no âmbito da Justiça Eleitoral do Paraná. Substituída pela IN 010/2025, que redefine a lista de 8 serviços essenciais (Art. 1º).

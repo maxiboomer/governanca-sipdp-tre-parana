@@ -1,16 +1,16 @@
 ---
-title: "TRE-PR Portaria DG 388/2026 - Autoriza Trabalho Hibrido Servidora"
+title: TRE-PR Portaria DG 388/2026 - Autoriza Trabalho Hibrido Servidora
 type: fonte-normativa
-fonte: "Tribunal Regional Eleitoral do Paraná"
-url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2026/portaria-ndeg-388-de-30-de-julho-de-2026"
-data_publicacao: "30/07/2026"
-status: "vigente"
-observacao: "Autoriza trabalho híbrido da servidora Luciana Campanholi por 2 anos com suspensão em agosto, setembro e outubro."
+fonte: Tribunal Regional Eleitoral do Paraná
+url: https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2026/portaria-ndeg-388-de-30-de-julho-de-2026
+data_publicacao: 30/07/2026
+status: vigente
 created: 2026-08-05
 updated: 2026-08-05
 tags: [tre-pr, portaria, trabalho-hibrido, teletrabalho]
+observacao: Autoriza trabalho híbrido da servidora Luciana Campanholi por 2 anos com suspensão em agosto, setembro e outubro.
+sha256: 1fa41affb4a9ce25434434ff0b3b11bebe1f2ad95b9d11989350d841fbd0ce31
 ---
-
 # PORTARIA Nº 388, DE 30 DE JULHO DE 2026
 
 **Autoriza trabalho híbrido de servidora.**

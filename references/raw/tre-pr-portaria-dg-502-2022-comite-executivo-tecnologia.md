@@ -1,17 +1,17 @@
 ---
-title: "TRE-PR Portaria DG 502/2022 - Comite Executivo de Tecnologia"
+title: TRE-PR Portaria DG 502/2022 - Comite Executivo de Tecnologia
 type: fonte-normativa
-fonte: "Tribunal Regional Eleitoral do Paraná"
-url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2022/portaria-no-502-de-14-de-outubro-de-2022"
-data_publicacao: "14/10/2022"
-status: "revogada"
-revogacao: "Portaria DG 124/2026"
-observacao: "Designa servidores para compor o Comitê Executivo de Tecnologia da Informação."
+fonte: Tribunal Regional Eleitoral do Paraná
+url: https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2022/portaria-no-502-de-14-de-outubro-de-2022
+data_publicacao: 14/10/2022
+status: revogada
 created: 2026-08-05
 updated: 2026-08-05
 tags: [tre-pr, portaria, comite-executivo, tecnologia, revogada]
+revogacao: Portaria DG 124/2026
+observacao: Designa servidores para compor o Comitê Executivo de Tecnologia da Informação.
+sha256: 3065bdfcd55fc7289cc553df1639b24437d8e3149b15d50080a374ff8712bb07
 ---
-
 # PORTARIA N° 502, DE 14 DE OUTUBRO DE 2022
 
 **Designa CETI - Comitê Executivo de Tecnologia da Informação.**

@@ -3,10 +3,8 @@ title: INSTRUÇÃO NORMATIVA Nº 006, DE 13 DE AGOSTO DE 2025. — Tribunal Regi
 type: fonte-normativa
 source_url: https://www.tre-pr.jus.br/legislacao/compilada/instrucoes-normativas-tre-pr/2025/instrucao-normativa-no-006-de-13-de-agosto-de-2025
 coletado: 2026-08-06
-tags:
-  - tre-pr
-  - norma
-  - coleta-automatica
+tags: []
+sha256: 645694039aa6f49eddec85db242711f7922179979ce8139b7a475cee48c3bd95
 ---
 INSTRUÇÃO NORMATIVA Nº 006, DE 13 DE AGOSTO DE 2025.
 

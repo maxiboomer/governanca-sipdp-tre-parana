@@ -7,6 +7,7 @@ status: revogada
 curadoria: completa
 escopo: central-si-pdp
 status_verificacao: "Revisão do texto integral e da publicação oficial registrada no corpus; confirmar alterações posteriores antes de uso jurídico."
+confidence: medium
 sources: [raw/in-gsi-pr-003-2021-gestao-seguranca-informacao.md]
 tags: [norma, seguranca-informacao, si-pdp]
 source_url: "https://www.gov.br/gsi/pt-br/seguranca-da-informacao-e-cibernetica/legislacao/copy_of_IN03_consolidada.pdf"

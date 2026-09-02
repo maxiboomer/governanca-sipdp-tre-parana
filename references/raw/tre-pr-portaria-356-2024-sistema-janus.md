@@ -1,16 +1,16 @@
 ---
-title: "TRE-PR R 356/2024 - Sistema Janus Automação Processual"
+title: TRE-PR R 356/2024 - Sistema Janus Automação Processual
 type: fonte-normativa
-fonte: "Tribunal Regional Eleitoral do Paraná"
-url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-presidencia-tre-pr/2024/portaria-ndeg-356-de-12-de-setembro-de-2024"
-data_publicacao: "12/09/2024"
-status: "vigente"
-observacao: "Institui uso do Sistema Janus para automação e IA na tramitação processual. Revoga comissão implantação pelo art. 8º-A."
+fonte: Tribunal Regional Eleitoral do Paraná
+url: https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-presidencia-tre-pr/2024/portaria-ndeg-356-de-12-de-setembro-de-2024
+data_publicacao: 12/09/2024
+status: vigente
 created: 2026-08-05
 updated: 2026-08-05
 tags: [tre-pr, processo-judicial, automacao, inteligencia-artificial, janus]
+observacao: Institui uso do Sistema Janus para automação e IA na tramitação processual. Revoga comissão implantação pelo art. 8º-A.
+sha256: 605f40070caea7eb28bdffe17d25b2f1ff816f4c6e76bdc7efabc5e4a12538fd
 ---
-
 # PORTARIA Nº 356, DE 12 DE SETEMBRO DE 2024
 
 **Institui o uso da Solução de Automação Processual - Sistema "Janus", no âmbito da Justiça Eleitoral do Paraná.**

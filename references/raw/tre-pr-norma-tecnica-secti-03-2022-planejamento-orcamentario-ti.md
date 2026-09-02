@@ -1,17 +1,16 @@
 ---
-title: "TRE-PR Norma Tecnica SECTI 03/2022 - Planejamento Orcamentario TI"
+title: TRE-PR Norma Tecnica SECTI 03/2022 - Planejamento Orcamentario TI
 type: fonte-normativa
-fonte: "Tribunal Regional Eleitoral do Paraná"
-url: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2022/norma-tecnica-no-03-de-23-de-setembro-de-2022"
-data_publicacao: "23/09/2022"
-status: "vigente"
-observacao: "Institui processo de Planejamento Orçamentário de TI."
+fonte: Tribunal Regional Eleitoral do Paraná
+url: https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2022/norma-tecnica-no-03-de-23-de-setembro-de-2022
+data_publicacao: 23/09/2022
+status: vigente
 created: 2026-08-05
 updated: 2026-08-05
 tags: [tre-pr, secti, norma-tecnica, planejamento-orcamentario, ti]
-
+observacao: Institui processo de Planejamento Orçamentário de TI.
+sha256: 30afc90b333d45ed1b6a22333a6d3c1b13f8a18377c9c9fb9863ebce3f0fd627
 ---
-
 # NORMA TÉCNICA Nº 03, DE 23 DE SETEMBRO DE 2022
 
 **Institui o processo de Planejamento Orçamentário de Tecnologia da Informação no âmbito da Justiça Eleitoral do Paraná.**

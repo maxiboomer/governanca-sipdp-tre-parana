@@ -7,6 +7,7 @@ status: vigente
 curadoria: completa
 escopo: central-si-pdp
 status_verificacao: "Res. TSE 23.763/2026 em vigor"
+confidence: medium
 sources: [raw/tse-resolucao-23-763-2026-psi-nacional.md]
 tags: [norma, seguranca-informacao, si-pdp]
 source_url: "https://www.tse.jus.br/legislacao/compilada/res/2026/resolucao-no-23-763-de-9-de-junho-de-2026"

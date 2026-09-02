@@ -1,17 +1,16 @@
 ---
-title: "TRE-PR Norma Tecnica SECTI 02/2022 - Gerenciamento de Ativos e configuracao"
+title: TRE-PR Norma Tecnica SECTI 02/2022 - Gerenciamento de Ativos e configuracao
 type: fonte-normativa
-fonte: "Tribunal Regional Eleitoral do Paraná"
-url: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2022/norma-tecnica-no-02-de-12-de-setembro-de-2022"
-data_publicacao: "12/09/2022"
-status: "vigente"
-observacao: "Institui processo de Gerenciamento de Ativos e Configuração de TI."
+fonte: Tribunal Regional Eleitoral do Paraná
+url: https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2022/norma-tecnica-no-02-de-12-de-setembro-de-2022
+data_publicacao: 12/09/2022
+status: vigente
 created: 2026-08-05
 updated: 2026-08-05
 tags: [tre-pr, secti, norma-tecnica, ativos-ti, configuracao]
-
+observacao: Institui processo de Gerenciamento de Ativos e Configuração de TI.
+sha256: 09ff3def218d62d29657545d59db836a8cf44815bd67bd5d8c5bc723f8b2bb0f
 ---
-
 # NORMA TÉCNICA Nº 02, DE 12 DE SETEMBRO DE 2022
 
 **Institui o processo de Gerenciamento de Ativos e Configuração de Tecnologia da Informação no âmbito da Justiça Eleitoral do Paraná.**

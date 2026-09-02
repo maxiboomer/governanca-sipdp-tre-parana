@@ -1,11 +1,11 @@
 ---
-title: "NORMA TÉCNICA Nº 01, DE 19 DE FEVEREIRO DE 2020. — Tribunal Regional Eleitoral do Paraná"
+title: NORMA TÉCNICA Nº 01, DE 19 DE FEVEREIRO DE 2020. — Tribunal Regional Eleitoral do Paraná
 type: fonte-normativa
-source_url: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2020/norma-tecnica-no-01-de-19-de-fevereiro-de-2020"
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2020/norma-tecnica-no-01-de-19-de-fevereiro-de-2020
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: 37fc7bdf394640c9403eb82bf01652db608ac9b7691529007c30c5827fd4251e
 ---
-
 NORMA TÉCNICA Nº 01, DE 19 DE FEVEREIRO DE 2020. — Tribunal Regional Eleitoral do Paraná
 
 Acessibilidade

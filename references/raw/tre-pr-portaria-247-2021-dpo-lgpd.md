@@ -1,16 +1,16 @@
 ---
-title: "TRE-Pr Portaria 247/2021 - Unidade Encarregada Dados LGPD"
+title: TRE-Pr Portaria 247/2021 - Unidade Encarregada Dados LGPD
 type: fonte-normativa
-fonte: "Tribunal Regional Eleitoral do Paraná"
-url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-presidencia-tre-pr/2021/portaria-ndeg-247-de"
-data_publicacao: "24/05/2021"
-status: "vigente"
-observacao: "Designa a Coordenadoria de Planejamento de Estratégia e Gestão como nova Unidade Encarregada pela Proteção de Dados Pessoais (DPO). Revoga Portaria 108/2021 art. 2º."
+fonte: Tribunal Regional Eleitoral do Paraná
+url: https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-presidencia-tre-pr/2021/portaria-ndeg-247-de
+data_publicacao: 24/05/2021
+status: vigente
 created: 2026-08-05
 updated: 2026-08-05
 tags: [tre-pr, lgpd, dpo, privacidade]
+observacao: Designa a Coordenadoria de Planejamento de Estratégia e Gestão como nova Unidade Encarregada pela Proteção de Dados Pessoais (DPO). Revoga Portaria 108/2021 art. 2º.
+sha256: 4f0838e354c1c31db3ce743664d93214c070b991f34a321c02c9b18ad8572658
 ---
-
 # PORTARIA Nº 247, DE 24 DE MAIO DE 2021
 
 **Designa a Coordenadoria de Planejamento de Estratégia e Gestão como nova Unidade Encarregada pela Proteção de Dados Pessoais no âmbito do Tribunal Regional Eleitoral do Paraná.**

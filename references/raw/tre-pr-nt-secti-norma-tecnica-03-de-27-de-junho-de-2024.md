@@ -1,11 +1,11 @@
 ---
-title: "NORMA TÉCNICA Nº 03, DE 27 DE JUNHO DE 2024. — Tribunal Regional Eleitoral do Paraná"
+title: NORMA TÉCNICA Nº 03, DE 27 DE JUNHO DE 2024. — Tribunal Regional Eleitoral do Paraná
 type: fonte-normativa
-source_url: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2024/norma-tecnica-no-03-de-27-de-junho-de-2024"
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2024/norma-tecnica-no-03-de-27-de-junho-de-2024
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: 679d0f007349c28715b1f4ecd5a40eca180137447bd70f617b45c8971d2e65d3
 ---
-
 NORMA TÉCNICA Nº 03, DE 27 DE JUNHO DE 2024. — Tribunal Regional Eleitoral do Paraná
 
 Acessibilidade

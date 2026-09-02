@@ -1,16 +1,16 @@
 ---
-title: "TRE-PR Portaria DG 365/2026 - Proroga Teletrabalho Servidora"
+title: TRE-PR Portaria DG 365/2026 - Proroga Teletrabalho Servidora
 type: fonte-normativa
-fonte: "Tribunal Regional Eleitoral do Paraná"
-url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2026/portaria-ndeg-365-de-22-de-julho-de-2026"
-data_publicacao: "22/07/2026"
-status: "vigente"
-observacao: "Proroga teletrabalho da servidora Cintia Yukari Shibukawa Mihara."
+fonte: Tribunal Regional Eleitoral do Paraná
+url: https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2026/portaria-ndeg-365-de-22-de-julho-de-2026
+data_publicacao: 22/07/2026
+status: vigente
 created: 2026-08-05
 updated: 2026-08-05
 tags: [tre-pr, portaria, teletrabalho, prorrogação]
+observacao: Proroga teletrabalho da servidora Cintia Yukari Shibukawa Mihara.
+sha256: 6f47980f1e577570314277840424b4fc770b27fdcc7ef0c5cfc24187c6fc49c5
 ---
-
 # PORTARIA Nº 365, DE 22 DE JULHO DE 2026
 
 **Proroagar teletrabalho da servidora.**

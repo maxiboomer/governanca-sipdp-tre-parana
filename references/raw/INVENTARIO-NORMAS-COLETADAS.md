@@ -1,3 +1,6 @@
+---
+sha256: d3f30be9108dda641ad83f1147552fb28fdbd69be85d43dac00549983e9e1275
+---
 # Índice de Normas Coletadas
 
 **Atualizado em:** 2026-08-05

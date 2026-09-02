@@ -10,6 +10,7 @@ status: vigente
 curadoria: completa
 escopo: central-si-pdp
 status_verificacao: "Confirmada vigente em 2026-08-31: página oficial no compilado TRE-PR (acesso individual) e publicação DJE-TRE-PR nº 325, 07/11/2024, p. 11-24. Texto integral coletado e revisado conforme fonte oficial."
+confidence: high
 fonte_publicacao: "https://www.tre-pr.jus.br/legislacao/compilada/resolucoes-tre-pr/2024/resolucao-no-940-de-04-de-novembro-de-2024"
 data_publicacao: "04/11/2024"
 tags: [norma, tre-pr, etica, integridade, governanca, si-pdp]

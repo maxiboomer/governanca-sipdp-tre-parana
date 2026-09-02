@@ -1,11 +1,11 @@
 ---
-title: "PORTARIA Nº 500, DE 14 DE OUTUBRO DE 2022. — Tribunal Regional Eleitoral do Paraná"
+title: PORTARIA Nº 500, DE 14 DE OUTUBRO DE 2022. — Tribunal Regional Eleitoral do Paraná
 type: fonte-normativa
-source_url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2022/portaria-no-500-de-11-de-outubro-de-2022"
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2022/portaria-no-500-de-11-de-outubro-de-2022
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: 763c0aa6e82834fef47ccc2238436f966381f15ccf9394beeb73d2a6d2599d9a
 ---
-
 PORTARIA Nº 500, DE 14 DE OUTUBRO DE 2022. — Tribunal Regional Eleitoral do Paraná
 
 Acessibilidade

@@ -1,17 +1,17 @@
 ---
-title: "Resolução TRE-PR 934/2024 - Comissão de Auditoria de Urnas Eletrônicas"
+title: Resolução TRE-PR 934/2024 - Comissão de Auditoria de Urnas Eletrônicas
 type: fonte-normativa
-fonte: "Tribunal Regional Eleitoral do Paraná"
-url: "https://www.tre-pr.jus.br/legislacao/compilada/resolucoes-tre-pr/2024/resolucao-no-934-de-05-de-junho-de-2024"
-data_publicacao: "05/06/2024"
-status: "vigente"
-observacao: "Institui Comissão de Auditoria da Votação Eletrônica (complementa Res. TSE 23.673/2021)."
+fonte: Tribunal Regional Eleitoral do Paraná
+url: https://www.tre-pr.jus.br/legislacao/compilada/resolucoes-tre-pr/2024/resolucao-no-934-de-05-de-junho-de-2024
+data_publicacao: 05/06/2024
+status: vigente
 created: 2026-08-05
 updated: 2026-08-05
 tags: [tre-pr, auditoria, urnas-eletronicas]
-dje: "DJE-TRE-PR, nº 109, de 07 de junho de 2024, p. 23-25."
+observacao: Institui Comissão de Auditoria da Votação Eletrônica (complementa Res. TSE 23.673/2021).
+dje: DJE-TRE-PR, nº 109, de 07 de junho de 2024, p. 23-25.
+sha256: c4a1a65543ab39f321718962ac9141a06a492fee8da9856de52bec121ff70f29
 ---
-
 # RESOLUÇÃO Nº 934, DE 05 DE JUNHO DE 2024
 
 **Institui comissão, designa membros e expede instruções complementares para as Auditorias de Funcionamento das Urnas Eletrônicas, de que cuida a Resolução TSE nº 23.673/2021.**

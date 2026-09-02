@@ -1,16 +1,16 @@
 ---
-title: "TRE-PR Portaria 068/2025 - Altera Portaria 356 Janus"
+title: TRE-PR Portaria 068/2025 - Altera Portaria 356 Janus
 type: fonte-normativa
-fonte: "Tribunal Regional Eleitoral do Paraná"
-url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-presidencia-tre-pr/2025/portaria-ndeg-068-de-26-de-fevereiro-de-2025"
-data_publicacao: "26/02/2025"
-status: "vigente"
-observacao: "Altera Portaria 356/2024 - Sistema Janus - ajusta período piloto para 27 fev 2025."
+fonte: Tribunal Regional Eleitoral do Paraná
+url: https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-presidencia-tre-pr/2025/portaria-ndeg-068-de-26-de-fevereiro-de-2025
+data_publicacao: 26/02/2025
+status: vigente
 created: 2026-08-05
 updated: 2026-08-05
 tags: [tre-pr, janus, automacao, alteracao]
+observacao: Altera Portaria 356/2024 - Sistema Janus - ajusta período piloto para 27 fev 2025.
+sha256: 6205b4c35b8132f076fcc3c5236365cbfc36bb1f685a79c1dff00d6c1b4d38cd
 ---
-
 # PORTARIA Nº 068, DE 26 DE FEVEREIRO DE 2025
 
 **Altera Portaria Conjunta PRESID/CRE nº 356/2024.**

@@ -1,16 +1,16 @@
 ---
-title: "TRE-PR Resolução 959/2025 - Inteligencia Artificial"
+title: TRE-PR Resolução 959/2025 - Inteligencia Artificial
 type: fonte-normativa
-fonte: "Tribunal Regional Eleitoral do Paraná"
-url: "https://www.tre-pr.jus.br/legislacao/compilada/resolucoes-tre-pr/2025/resolucao-no-959-de-13-de-outubro-de-2025"
-data_publicacao: "13/10/2025"
-status: "vigente"
-observacao: "Regulamenta desenvolvimento, utilização, monitoramento e governança de soluções de IA no TRE-PR. Institui CGIA."
+fonte: Tribunal Regional Eleitoral do Paraná
+url: https://www.tre-pr.jus.br/legislacao/compilada/resolucoes-tre-pr/2025/resolucao-no-959-de-13-de-outubro-de-2025
+data_publicacao: 13/10/2025
+status: vigente
 created: 2026-08-05
 updated: 2026-08-05
 tags: [tre-pr, inteligencia-artificial, ia, governanca-ia]
+observacao: Regulamenta desenvolvimento, utilização, monitoramento e governança de soluções de IA no TRE-PR. Institui CGIA.
+sha256: 0157490c6fbc7b732428731b928c61563fed54dd68b0f26f74a12b31021ce104
 ---
-
 # RESOLUÇÃO Nº 959, DE 13 DE OUTUBRO DE 2025
 
 **Regulamenta o desenvolvimento, a utilização, a monitoramento e a governança das soluções de Inteligência Artificial (IA) no âmbito da Justiça Eleitoral do Paraná.**

@@ -1,11 +1,11 @@
 ---
-title: "RESOLUÇÃO Nº 735/2016"
+title: RESOLUÇÃO Nº 735/2016
 type: fonte-normativa
-source_url: "https://apps.tre-pr.jus.br/files/legislacaocompilada/res/2016/Res07352016.html"
+source_url: https://apps.tre-pr.jus.br/files/legislacaocompilada/res/2016/Res07352016.html
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: 0a93be581a6c0a37c5c74edec8b43ac56ddc75134c1cd8af0a4581d93569529a
 ---
-
 RESOLUÇÃO Nº 735/2016
 
 

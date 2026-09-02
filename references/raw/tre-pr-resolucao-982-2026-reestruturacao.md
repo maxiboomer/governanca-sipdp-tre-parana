@@ -1,16 +1,16 @@
 ---
-title: "TRE-Pr Resolução 982/2026 - Reestruturação do Tribunal"
+title: TRE-Pr Resolução 982/2026 - Reestruturação do Tribunal
 type: fonte-normativa
-fonte: "Tribunal Regional Eleitoral do Paraná"
-url: "https://www.tre-pr.jus.br/legislacao/resolucoes-do-tre-pr/arquivos/tre-pr-resolucao-no-982-de-25-de-junho-de-2026"
-data_publicacao: "25/06/2026"
-status: "vigente"
-observacao: "Cria cargos comissionados e funções comissionadas, transforma cargos em comissão e reestrutura a Secretaria do Tribunal."
+fonte: Tribunal Regional Eleitoral do Paraná
+url: https://www.tre-pr.jus.br/legislacao/resolucoes-do-tre-pr/arquivos/tre-pr-resolucao-no-982-de-25-de-junho-de-2026
+data_publicacao: 25/06/2026
+status: vigente
 created: 2026-08-05
 updated: 2026-08-05
 tags: [tre-pr, reestruturacao, orgao-colegiado, cargos-comissa]
+observacao: Cria cargos comissionados e funções comissionadas, transforma cargos em comissão e reestrutura a Secretaria do Tribunal.
+sha256: 05fbefa6cb4a3a5946495197d6f11f680ecc8124bcc3f179a81352536492c827
 ---
-
 # RESOLUÇÃO Nº 982, DE 25 DE JUNHO DE 2026
 
 **Cria cargos comissionados e funções comissionadas mediante transformação, altera a estrutura orgânica do Tribunal Regional Eleitoral do Paraná e dá outras providências.**

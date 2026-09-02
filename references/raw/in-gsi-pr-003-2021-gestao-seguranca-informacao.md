@@ -1,16 +1,16 @@
 ---
-title: "Instrução Normativa GSI/PR Nº 3/2021 - Gestão de Segurança da Informação"
+title: Instrução Normativa GSI/PR Nº 3/2021 - Gestão de Segurança da Informação
 type: fonte-normativa
-fonte: "Gabinete de Segurança Institucional da Presidência da República"
-url: "https://www.gov.br/gsi/pt-br/seguranca-da-informacao-e-cibernetica/legislacao/copy_of_IN03_consolidada.pdf"
-data_publicacao: "01/07/2021"
-status: "vigente"
-observacao: "Dispõe sobre os processos relacionados à gestão de segurança da informação nos órgãos e entidades da administração pública federal."
+fonte: Gabinete de Segurança Institucional da Presidência da República
+url: https://www.gov.br/gsi/pt-br/seguranca-da-informacao-e-cibernetica/legislacao/copy_of_IN03_consolidada.pdf
+data_publicacao: 01/07/2021
+status: vigente
 created: 2026-08-05
 updated: 2026-08-05
 tags: [gsi-pr, seguranca-informacao, gestao-ativos, riscos]
+observacao: Dispõe sobre os processos relacionados à gestão de segurança da informação nos órgãos e entidades da administração pública federal.
+sha256: 89602aa7635953fd52a6a34bc41418bcd30436ad32b3aa9f4651de18b06ad21d
 ---
-
 # INSTRUÇÃO NORMATIVA GSI/PR Nº 3, DE 28 DE MAIO DE 2021
 
 **Dispõe sobre os processos relacionados à gestão de segurança da informação nos órgãos e nas entidades da administração pública federal.**

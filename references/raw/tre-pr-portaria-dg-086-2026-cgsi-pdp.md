@@ -1,16 +1,16 @@
 ---
-title: "Portaria DG TRE-PR 086/2026 - CGSIPD"
+title: Portaria DG TRE-PR 086/2026 - CGSIPD
 type: fonte-normativa
-fonte: "Tribunal Regional Eleitoral do Paraná"
-url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2026/portaria-ndeg-086-de-25-de-fevereiro-de-2026"
-data_publicacao: "25/02/2026"
-status: "vigente"
-observacao: "Designa membros para o Comitê Gestor de Segurança da Informação e Proteção de Dados Pessoais. Revoga art. 2º da Portaria DG 29/2026."
+fonte: Tribunal Regional Eleitoral do Paraná
+url: https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2026/portaria-ndeg-086-de-25-de-fevereiro-de-2026
+data_publicacao: 25/02/2026
+status: vigente
 created: 2026-08-05
 updated: 2026-08-05
 tags: [tre-pr, cgsi-pdp, seguranca-informacao, lgpd]
+observacao: Designa membros para o Comitê Gestor de Segurança da Informação e Proteção de Dados Pessoais. Revoga art. 2º da Portaria DG 29/2026.
+sha256: a42bebf6a7ce90404db51110f89939feb81470e1b19c572c0e4115765a2cf776
 ---
-
 # PORTARIA Nº 086, DE 25 DE FEVEREIRO DE 2026
 
 **Designa membros para o Comitê Gestor de Segurança da Informação e de Proteção de Dados Pessoais.**

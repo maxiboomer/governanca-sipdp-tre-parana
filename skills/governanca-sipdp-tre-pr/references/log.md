@@ -1,4 +1,17 @@
 
+## [2026-09-02] update | Higiene llm-wiki + confidence + sha256 + comparisons
+- **Lint zerado** (era: 1 broken link, 2 fora do index, 8 field_issues):
+  - Criado `wiki/concepts/governanca-ti.md` (corrige broken link da página 124/2026).
+  - Movido `wiki/raw/tre-pr-portaria-dg-124-2026.md` → `raw/` com frontmatter (corrige 8 field_issues; raw agora em local canônico).
+  - Adicionadas ao index: página 124/2026 (estava ausente), concept governanca-ti, seção Comparisons.
+- **confidence** adicionado às 20 páginas `central-si-pdp` (12 high com DJE/DOU nomeado, 8 medium).
+- **sha256** adicionado aos 166 raws (detecção de drift em re-coleta); `source_url` derivado onde faltava.
+- **Camada `wiki/comparisons/`** criada: `psi-je-23644-23763-974.md` (comparação PSI antiga × nacional × local).
+- **SCHEMA.md**: camada comparisons, campos `confidence`/`contested`, exigência de `sha256` nos raws.
+- **ADR 0004**: revogadas/históricas permanecem em `wiki/normas/` (decisão consciente vs `_archive/` do llm-wiki).
+- **Páginas >200 linhas** (6) registradas como dívida técnica — dividir quando passarem de ~500 linhas.
+- sync_vault_to_build.py: inclui `wiki/comparisons`.
+
 ## [2026-09-02] update | Curadoria concluída + ADR 0003 + cron auto-publicação
 - Res. TRE-PR 940/2024 e IN TRE-PR 004/2025 promovidas a `vigente`/`completa` (DJE-TRE-PR nº 325, 07/11/2024, p. 11-24 e nº 102, 30/05/2025, p. 05-15). Acervo sem páginas não-confirmadas.
 - ADR 0003 (docs/adr/0003): critério de confirmação de vigência (página oficial individual + DJE embutido) e auto-publicação de novas normas pelo cron (revogações/escopo só reportam).

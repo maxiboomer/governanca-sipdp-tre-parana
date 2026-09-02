@@ -7,6 +7,7 @@ status: histórica
 curadoria: completa
 escopo: central-si-pdp
 status_verificacao: "Revisão do texto integral e da publicação oficial registrada no corpus; confirmar alterações posteriores antes de uso jurídico."
+confidence: medium
 sources: [raw/tre-pr-portaria-dg-593-2024-revo-429-reatua-comite-gestao-ti.md]
 tags: [norma, seguranca-informacao, si-pdp]
 source_url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2024/portaria-ndeg-593-de-20-de-setembro-de-2024"

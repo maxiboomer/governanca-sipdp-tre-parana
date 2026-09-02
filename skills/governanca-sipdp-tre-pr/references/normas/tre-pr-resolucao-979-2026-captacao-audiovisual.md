@@ -7,6 +7,7 @@ status: vigente
 curadoria: completa
 escopo: central-si-pdp
 status_verificacao: "Extraída do compilado oficial do TRE-PR em 2026-08-26; publicação no DJE confirmada."
+confidence: high
 sources: [raw/tre-pr-resolucao-979-2026-captacao-audiovisual.md]
 tags: [norma, tre-pr, central-si-pdp]
 source_url: "https://www.tre-pr.jus.br/legislacao/compilada/resolucoes-tre-pr/2026/resolucao-no-979-de-3-de-junho-de-2026"

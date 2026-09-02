@@ -1,11 +1,11 @@
 ---
-title: "INSTRUÇÃO NORMATIVA - DG Nº 01/2018"
+title: INSTRUÇÃO NORMATIVA - DG Nº 01/2018
 type: fonte-normativa
-source_url: "https://apps.tre-pr.jus.br/files/legislacaocompilada/in/2018/in012018dg.html"
+source_url: https://apps.tre-pr.jus.br/files/legislacaocompilada/in/2018/in012018dg.html
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: c2eb34d277f43d074d6e00311ffa044c1acba03491f3af547bcc0fe712621022
 ---
-
 INSTRUÇÃO NORMATIVA - DG Nº 01/2018
 
 

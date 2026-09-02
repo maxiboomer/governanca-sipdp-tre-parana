@@ -1,16 +1,16 @@
 ---
-title: "TRE-Pr Resolução 893/2022 - Comissão de Auditoria de Urnas Eletrônicas"
+title: TRE-Pr Resolução 893/2022 - Comissão de Auditoria de Urnas Eletrônicas
 type: fonte-normativa
-fonte: "Tribunal Regional Eleitoral do Paraná"
-url: "https://www.tre-pr.jus.br/legislacao/resolucoes-do-tre-pr/arquivos/tre-pr-resolucao-n-o-893-de-25-de-maio-de-2022"
-data_publicacao: "23/05/2022"
-status: "vigente"
-observacao: "Institui Comissão de Auditoria da Votação Eletrônica. Reflete Resolução TSE 23.673/2021."
+fonte: Tribunal Regional Eleitoral do Paraná
+url: https://www.tre-pr.jus.br/legislacao/resolucoes-do-tre-pr/arquivos/tre-pr-resolucao-n-o-893-de-25-de-maio-de-2022
+data_publicacao: 23/05/2022
+status: vigente
 created: 2026-08-05
 updated: 2026-08-05
 tags: [tre-pr, auditoria, urnas-eletronicas, comissao]
+observacao: Institui Comissão de Auditoria da Votação Eletrônica. Reflete Resolução TSE 23.673/2021.
+sha256: 00c7021d74ef86ee772fe07ce9d306486c9a5cb24aea449ad87799e65b258c91
 ---
-
 # RESOLUÇÃO Nº 893, DE 23 DE MAIO DE 2022
 
 **Institui comissão, designa membros e expede instruções complementares para as Auditorias de Funcionamento das Urnas Eletrônicas, de que cuida a Resolução TSE nº 23.673/2021.**

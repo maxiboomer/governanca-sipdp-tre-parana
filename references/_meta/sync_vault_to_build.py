@@ -16,6 +16,7 @@ map_dirs={
  'wiki/concepts':'references/concepts',
  'wiki/inventarios':'references/inventarios',
  'wiki/sources':'references/sources',
+ 'wiki/comparisons':'references/comparisons',
  'wiki/_meta':'references/_meta',
  'raw':'references/raw',
  'wiki/raw':'references/raw',
@@ -43,7 +44,7 @@ for f in META:
 # Copiar references também para dentro da skill (skills/<nome>/references/)
 SKILL_REF=REPO/'skills/governanca-sipdp-tre-pr/references'
 SKILL_DIR=REPO/'skills/governanca-sipdp-tre-pr'
-for src_dir in ['normas','entities','concepts','inventarios','sources','_meta']:
+for src_dir in ['normas','entities','concepts','inventarios','sources','comparisons','_meta']:
  s=VAULT/'wiki'/src_dir
  if s.exists(): copied+=copytree(s, SKILL_REF/src_dir)
 for f,sub in [('wiki/index.md','index.md'),('wiki/log.md','log.md'),('SCHEMA.md','SCHEMA.md')]:

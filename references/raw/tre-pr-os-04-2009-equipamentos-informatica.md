@@ -1,11 +1,11 @@
 ---
-title: "ORDEM DE SERVIÇO-DG Nº 04/2009"
+title: ORDEM DE SERVIÇO-DG Nº 04/2009
 type: fonte-normativa
-source_url: "https://apps.tre-pr.jus.br/files/legislacaocompilada/os/2009/os042009dg.html"
+source_url: https://apps.tre-pr.jus.br/files/legislacaocompilada/os/2009/os042009dg.html
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: af0ac38898f3a3b707f8b542df6c56e6f12b8c602b3cc3edf2d1b3bd2a639e57
 ---
-
 ORDEM DE SERVIÇO-DG Nº 04/2009
 
 

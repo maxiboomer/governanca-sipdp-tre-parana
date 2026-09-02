@@ -1,17 +1,16 @@
 ---
-title: "TRE-PR Norma Tecnica SECTI 07/2020 - Direcionamento Tecnologico Sistemas"
+title: TRE-PR Norma Tecnica SECTI 07/2020 - Direcionamento Tecnologico Sistemas
 type: fonte-normativa
-fonte: "Tribunal Regional Eleitoral do Paraná"
-url: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2020/norma-tecnica-no-07-de-08-de-julho-de-2020"
-data_publicacao: "08/07/2020"
-status: "vigente"
-observacao: "Estabelece direcionamento tecnológico da sistemática de TI para sistemas e aplicativos. Prioriza cloud computing."
+fonte: Tribunal Regional Eleitoral do Paraná
+url: https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2020/norma-tecnica-no-07-de-08-de-julho-de-2020
+data_publicacao: 08/07/2020
+status: vigente
 created: 2026-08-05
 updated: 2026-08-05
 tags: [tre-pr, secti, norma-tecnica, direcionamento-tecnologico, cloud]
-
+observacao: Estabelece direcionamento tecnológico da sistemática de TI para sistemas e aplicativos. Prioriza cloud computing.
+sha256: 56d2ec27be4f837414c09929d0c607d84ee2885f66ff8e46914afee64b5e2021
 ---
-
 # NORMA TÉCNICA Nº 07, DE 08 DE JULHO DE 2020
 
 **Estabelece o direcionamento tecnológico da sistemática de estrutura de TI necessária para disponibilização de sistemas e aplicativos.**

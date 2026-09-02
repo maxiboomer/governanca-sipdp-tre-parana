@@ -6,6 +6,7 @@ curadoria: completa
 escopo: central-si-pdp
 status: vigente
 status_verificacao: "Publicada no compilado oficial do TSE (res/2021/resolucao-no-23-650-de-9-de-setembro-de-2021); institui a PGPPDP da Justiça Eleitoral."
+confidence: medium
 url: "https://www.tse.jus.br/legislacao/compilada/res/2021/resolucao-no-23-650-de-9-de-setembro-de-2021"
 created: 2026-08-26
 updated: 2026-08-26

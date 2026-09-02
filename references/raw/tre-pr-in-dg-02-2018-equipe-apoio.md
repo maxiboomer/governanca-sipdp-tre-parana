@@ -1,11 +1,11 @@
 ---
-title: "INSTRUÇÃO NORMATIVA Nº 02/2018"
+title: INSTRUÇÃO NORMATIVA Nº 02/2018
 type: fonte-normativa
-source_url: "https://apps.tre-pr.jus.br/files/legislacaocompilada/in/2018/in022018.html"
+source_url: https://apps.tre-pr.jus.br/files/legislacaocompilada/in/2018/in022018.html
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: 02d9d7888d88553126b752508e8f49852063fdaed5eef00adfd32f4ef4e555cf
 ---
-
 INSTRUÇÃO NORMATIVA Nº 02/2018
 
 

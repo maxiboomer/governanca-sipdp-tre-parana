@@ -7,6 +7,7 @@ status: vigente
 curadoria: completa
 escopo: central-si-pdp
 status_verificacao: "Res. 974/2026 compilada no portal TRE-PR; PSI local"
+confidence: medium
 sources: [raw/tre-pr-resolucao-974-2026-psi-local.md]
 tags: [norma, seguranca-informacao, si-pdp]
 source_url: "https://www.tre-pr.jus.br/legislacao/compilada/resolucoes-tre-pr/2026/resolucao-no-974-de-15-de-abril-de-2026"

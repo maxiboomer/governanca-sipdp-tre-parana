@@ -1,11 +1,11 @@
 ---
-title: "NORMA TÉCNICA Nº 01, DE 05 DE MAIO DE 2025. — Tribunal Regional Eleitoral do Paraná"
+title: NORMA TÉCNICA Nº 01, DE 05 DE MAIO DE 2025. — Tribunal Regional Eleitoral do Paraná
 type: fonte-normativa
-source_url: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2025/norma-tecnica-no-01-de-05-de-maio-de-2025"
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2025/norma-tecnica-no-01-de-05-de-maio-de-2025
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: e50aa2b6fa0be58b600dac2fbfbec1f4deeff718b31e4e86c493c2075b7bc34c
 ---
-
 NORMA TÉCNICA Nº 01, DE 05 DE MAIO DE 2025. — Tribunal Regional Eleitoral do Paraná
 
 Acessibilidade

@@ -1,11 +1,11 @@
 ---
-title: "PORTARIA Nº 116, DE 16 DE MARÇO DE 2022. — Tribunal Regional Eleitoral do Paraná"
+title: PORTARIA Nº 116, DE 16 DE MARÇO DE 2022. — Tribunal Regional Eleitoral do Paraná
 type: fonte-normativa
-source_url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2022/portaria-no-116-de-23-de-marco-de-2022"
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2022/portaria-no-116-de-23-de-marco-de-2022
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: b63450434d3389d2daf872aac39bcae91eb7afaefe8dcc41ea7e18f3de545cc5
 ---
-
 PORTARIA Nº 116, DE 16 DE MARÇO DE 2022. — Tribunal Regional Eleitoral do Paraná
 
 Acessibilidade

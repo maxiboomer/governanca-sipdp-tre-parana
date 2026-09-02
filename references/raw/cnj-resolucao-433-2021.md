@@ -1,15 +1,16 @@
 ---
-title: "Resolução CNJ 433/2021 - Política Nacional do Poder Judiciário para o Clima e Meio Ambiente"
+title: Resolução CNJ 433/2021 - Política Nacional do Poder Judiciário para o Clima e Meio Ambiente
 type: fonte-normativa
-fonte: "Conselho Nacional de Justiça"
-url: "https://atos.cnj.jus.br/atos/detalhar/4214"
-data_publicacao: "27/10/2021"
-status: "alterado"
-observacao: "Alterada pela Resolução CNJ nº 611/2024"
+fonte: Conselho Nacional de Justiça
+url: https://atos.cnj.jus.br/atos/detalhar/4214
+data_publicacao: 27/10/2021
+status: alterado
 created: 2026-08-07
 updated: 2026-08-07
 tags: [cnj, meio-ambiente, clima, sustentabilidade, politica-nacional, responsabilidade-social]
-dje: "DJe/CNJ nº 284/2021, de 03/11/2021, p. 5-8"
+observacao: Alterada pela Resolução CNJ nº 611/2024
+dje: DJe/CNJ nº 284/2021, de 03/11/2021, p. 5-8
+sha256: 0ac1764e3e430afe8e795592d111ead2bbcac322913b6832ecf695d31eb5ac8f
 ---
 # RESOLUÇÃO Nº 433, DE 27 DE OUTUBRO DE 2021
 

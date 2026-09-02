@@ -1,11 +1,11 @@
 ---
-title: "PORTARIA Nº 575, DE 12 DE DEZEMBRO DE 2025. — Tribunal Regional Eleitoral do Paraná"
+title: PORTARIA Nº 575, DE 12 DE DEZEMBRO DE 2025. — Tribunal Regional Eleitoral do Paraná
 type: fonte-normativa
-source_url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2025/portaria-no-575-de-12-de-dezembro-de-2025"
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2025/portaria-no-575-de-12-de-dezembro-de-2025
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: 23eb7715ca3305e0bd13ac8967b8fb724f4eed2172c0724eedd21a9319235a69
 ---
-
 PORTARIA Nº 575, DE 12 DE DEZEMBRO DE 2025. — Tribunal Regional Eleitoral do Paraná
 
 Acessibilidade

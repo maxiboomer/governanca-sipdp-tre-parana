@@ -1,11 +1,11 @@
 ---
-title: "INSTRUÇÃO NORMATIVA Nº 003, DE 28 DE MAIO DE 2025. — Tribunal Regional Eleitoral do Paraná"
+title: INSTRUÇÃO NORMATIVA Nº 003, DE 28 DE MAIO DE 2025. — Tribunal Regional Eleitoral do Paraná
 type: fonte-normativa
-source_url: "https://www.tre-pr.jus.br/legislacao/compilada/instrucoes-normativas-tre-pr/2025/instrucao-normativa-no-003-de-28-de-maio-de-2025"
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/instrucoes-normativas-tre-pr/2025/instrucao-normativa-no-003-de-28-de-maio-de-2025
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: 5d8d86ece713d97684234f9ad4233a02ae18b68962378a0240802a9bb5d31b52
 ---
-
 INSTRUÇÃO NORMATIVA Nº 003, DE 28 DE MAIO DE 2025. — Tribunal Regional Eleitoral do Paraná
 
 Acessibilidade

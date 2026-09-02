@@ -1,11 +1,11 @@
 ---
-title: "NORMA TÉCNICA Nº 02, DE 12 DE SETEMBRO DE 2022. — Tribunal Regional Eleitoral do Paraná"
+title: NORMA TÉCNICA Nº 02, DE 12 DE SETEMBRO DE 2022. — Tribunal Regional Eleitoral do Paraná
 type: fonte-normativa
-source_url: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2022/norma-tecnica-no-02-de-12-de-setembro-de-2022"
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2022/norma-tecnica-no-02-de-12-de-setembro-de-2022
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: 5e1bc9dcb0dc9a66066d49f399f6f58c963aa50956a107ddbb64fa75ebb5905f
 ---
-
 NORMA TÉCNICA Nº 02, DE 12 DE SETEMBRO DE 2022. — Tribunal Regional Eleitoral do Paraná
 
 Acessibilidade

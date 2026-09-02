@@ -1,17 +1,17 @@
 ---
-title: "Resolução TSE 23.435/2015 - Regulamenta Acesso à Informação"
+title: Resolução TSE 23.435/2015 - Regulamenta Acesso à Informação
 type: fonte-normativa
-fonte: "Tribunal Superior Eleitoral"
-url: "https://www.tse.jus.br/legislacao/compilada/res/2015/resolucao-no-23-435-de-5-de-fevereiro-de-2015"
-data_publicacao: "05/02/2015"
-status: "vigente (atualizada)"
-observacao: "Alterada pela Resolução TSE nº 23.583/2018"
+fonte: Tribunal Superior Eleitoral
+url: https://www.tse.jus.br/legislacao/compilada/res/2015/resolucao-no-23-435-de-5-de-fevereiro-de-2015
+data_publicacao: 05/02/2015
+status: vigente (atualizada)
 created: 2026-08-05
 updated: 2026-08-05
 tags: [tse, acesso-informacao, transparencia]
-dje: "DJE-TSE, nº 56, de 23.3.2015, p. 35-40"
+observacao: Alterada pela Resolução TSE nº 23.583/2018
+dje: DJE-TSE, nº 56, de 23.3.2015, p. 35-40
+sha256: 1ba82c2231c8a72ffa3200482eb1e930c4856beadabec356a700e7d1de027aed
 ---
-
 # RESOLUÇÃO Nº 23.435, DE 5 DE FEVEREIRO DE 2015
 
 **Regulamenta a aplicação, no âmbito do Tribunal Superior Eleitoral, da Lei nº 12.527, de 18 de novembro de 2011, que versa sobre o acesso à informação.**

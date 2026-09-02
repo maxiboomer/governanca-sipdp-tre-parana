@@ -1,11 +1,11 @@
 ---
-title: "PORTARIA N° 132, DE 18 DE MARÇO DE 2026. — Tribunal Regional Eleitoral do Paraná"
+title: PORTARIA N° 132, DE 18 DE MARÇO DE 2026. — Tribunal Regional Eleitoral do Paraná
 type: fonte-normativa
-source_url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2026/portaria-ndeg-132-de-18-de-marco-de-2026"
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2026/portaria-ndeg-132-de-18-de-marco-de-2026
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: 2bf88fc9b8686694f523b8040e02429521a14de0d3e5f9a8527052ee417e6452
 ---
-
 PORTARIA N° 132, DE 18 DE MARÇO DE 2026. — Tribunal Regional Eleitoral do Paraná
 
 Acessibilidade

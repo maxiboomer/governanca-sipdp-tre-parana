@@ -1,17 +1,17 @@
 ---
-title: "Resolução CNJ 363/2021 - Adequação dos Tribunais à LGPD"
+title: Resolução CNJ 363/2021 - Adequação dos Tribunais à LGPD
 type: fonte-normativa
-fonte: "Conselho Nacional de Justiça"
-url: "https://atos.cnj.jus.br/atos/detalhar/3668"
-data_publicacao: "12/01/2021"
-status: "vigente"
-observacao: "Alterada pela Portaria CNJ nº 181/2025"
+fonte: Conselho Nacional de Justiça
+url: https://atos.cnj.jus.br/atos/detalhar/3668
+data_publicacao: 12/01/2021
+status: vigente
 created: 2026-08-05
 updated: 2026-08-05
 tags: [cnj, lgpd, dados-pessoais, tribunais]
-dje: "DJe/CNJ nº 11/2021, de 18/1/2021, p. 2-4"
+observacao: Alterada pela Portaria CNJ nº 181/2025
+dje: DJe/CNJ nº 11/2021, de 18/1/2021, p. 2-4
+sha256: a68220d279945229785d8b5ae6041e6f7b693a6e430da81e46cfa9a2e8aaa0bc
 ---
-
 # RESOLUÇÃO Nº 363, DE 12 DE JANEIRO DE 2021
 
 **Estabelece medidas para o processo de adequação à Lei Geral de Proteção de Dados Pessoais a serem adotadas pelos tribunais.**

@@ -1,11 +1,11 @@
 ---
-title: "PORTARIA N° 483, DE 12 DE DEZEMBRO DE 2024. — Tribunal Regional Eleitoral do Paraná"
+title: PORTARIA N° 483, DE 12 DE DEZEMBRO DE 2024. — Tribunal Regional Eleitoral do Paraná
 type: fonte-normativa
-source_url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-presidencia-tre-pr/2024/portaria-ndeg-483-de-12-de-dezembro-de-2024"
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-presidencia-tre-pr/2024/portaria-ndeg-483-de-12-de-dezembro-de-2024
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: a0cb8f2971b79f95ccba9956fcb8756ebda2b95cebdb222f1fe7900d403054aa
 ---
-
 PORTARIA N° 483, DE 12 DE DEZEMBRO DE 2024. — Tribunal Regional Eleitoral do Paraná
 
 Acessibilidade

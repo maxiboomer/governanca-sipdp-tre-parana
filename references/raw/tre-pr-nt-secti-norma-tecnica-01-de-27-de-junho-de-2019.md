@@ -1,11 +1,11 @@
 ---
-title: "NORMA TÉCNICA Nº 01, DE 27 DE JUNHO DE 2019. — Tribunal Regional Eleitoral do Paraná"
+title: NORMA TÉCNICA Nº 01, DE 27 DE JUNHO DE 2019. — Tribunal Regional Eleitoral do Paraná
 type: fonte-normativa
-source_url: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2019/norma-tecnica-no-01-de-27-de-junho-de-2019"
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2019/norma-tecnica-no-01-de-27-de-junho-de-2019
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: d5a8098ddf89ba8e1ae03a18faee0e30bd67801e105d28f137bce75f90d37fd1
 ---
-
 NORMA TÉCNICA Nº 01, DE 27 DE JUNHO DE 2019. — Tribunal Regional Eleitoral do Paraná
 
 Acessibilidade

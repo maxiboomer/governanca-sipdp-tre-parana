@@ -1,16 +1,16 @@
 ---
-title: "TRE-PR Portaria DG 294/2026 - Proroga Teletrabalho servidor"
+title: TRE-PR Portaria DG 294/2026 - Proroga Teletrabalho servidor
 type: fonte-normativa
-fonte: "Tribunal Regional Eleitoral do Paraná"
-url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2026/portaria-ndeg-294-de-25-de-junho-de-2026"
-data_publicacao: "25/06/2026"
-status: "vigente"
-observacao: "Proroga participação em teletrabalho do servidor José Augusto Hillmann Xavier."
+fonte: Tribunal Regional Eleitoral do Paraná
+url: https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2026/portaria-ndeg-294-de-25-de-junho-de-2026
+data_publicacao: 25/06/2026
+status: vigente
 created: 2026-08-05
 updated: 2026-08-05
 tags: [tre-pr, portaria, teletrabalho, prorrogação]
+observacao: Proroga participação em teletrabalho do servidor José Augusto Hillmann Xavier.
+sha256: 0ed4f1a354078cc60a61c2bf70a0933327ba9a63da1089e8fe093e23ea5e5c4d
 ---
-
 # PORTARIA Nº 294, DE 25 DE JUNHO DE 2026
 
 **Prorrogar teletrabalho do servidor.**

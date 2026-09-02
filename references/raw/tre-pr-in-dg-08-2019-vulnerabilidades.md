@@ -1,11 +1,11 @@
 ---
-title: "INSTRUÇÃO NORMATIVA Nº 08/2019"
+title: INSTRUÇÃO NORMATIVA Nº 08/2019
 type: fonte-normativa
-source_url: "https://apps.tre-pr.jus.br/files/legislacaocompilada/in/2019/in082019.html"
+source_url: https://apps.tre-pr.jus.br/files/legislacaocompilada/in/2019/in082019.html
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: b0d0ffe0d7bc621675d5d468beb85308edceb60d0a13215d700ec64a5532dda0
 ---
-
 INSTRUÇÃO NORMATIVA Nº 08/2019
 
 

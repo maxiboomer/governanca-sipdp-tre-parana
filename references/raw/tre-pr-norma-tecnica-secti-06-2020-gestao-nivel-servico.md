@@ -1,16 +1,16 @@
 ---
-title: "TRE-PR Norma Tecnica SECTI 06/2020 - Gerenciamento Nivel de Servico"
+title: TRE-PR Norma Tecnica SECTI 06/2020 - Gerenciamento Nivel de Servico
 type: fonte-normativa
-fonte: "Tribunal Regional Eleitoral do Paraná"
-url: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2020/norma-tecnica-no-06-de-10-de-junho-de-2020"
-data_publicacao: "10/06/2020"
-status: "vigente"
-observacao: "Institui processo de Gerenciamento de Nível de Serviço de TI no TRE-PR."
+fonte: Tribunal Regional Eleitoral do Paraná
+url: https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2020/norma-tecnica-no-06-de-10-de-junho-de-2020
+data_publicacao: 10/06/2020
+status: vigente
 created: 2026-08-05
 updated: 2026-08-05
 tags: [tre-pr, secti, norma-tecnica, nvl-desempenho, ans, servico-ti]
+observacao: Institui processo de Gerenciamento de Nível de Serviço de TI no TRE-PR.
+sha256: c8b9b7bb978432b1d780fa344def3ee01426db564dd1224e9cee4ddcfb092ad7
 ---
-
 # NORMA TÉCNICA Nº 06, DE 10 DE JUNHO DE 2020
 
 **Institui o processo de Gerenciamento de Nível de Serviço de Tecnologia da Informação no âmbito da Justiça Eleitoral do Paraná.**

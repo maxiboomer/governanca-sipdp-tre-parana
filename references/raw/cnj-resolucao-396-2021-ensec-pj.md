@@ -1,17 +1,17 @@
 ---
-title: "CNJ 396/2021 - Estratégia Nacional de Segurança Cibernética"
+title: CNJ 396/2021 - Estratégia Nacional de Segurança Cibernética
 type: fonte-normativa
-url: "https://atos.cnj.jus.br/atos/detalhar/3975"
-data_publicacao: "07/06/2021"
-status: "vigente"
-observacao: "Revogada as Resoluções CNJ nº 360/2020, 361/2020 e 362/2020. Revogada parte dos arts. 39 e 40 da CNJ 370/2021."
+url: https://atos.cnj.jus.br/atos/detalhar/3975
+data_publicacao: 07/06/2021
+status: vigente
 created: 2026-08-05
 updated: 2026-08-05
 tags: [cnj, ciberseguranca, seguranca-informacao]
-fontse: "Conselho Nacional de Justiça"
-dje: "DJe/CNJ nº 248/2021, de 24 de setembro de 2021, p. 3-10 (republicação)"
+observacao: Revogada as Resoluções CNJ nº 360/2020, 361/2020 e 362/2020. Revogada parte dos arts. 39 e 40 da CNJ 370/2021.
+fontse: Conselho Nacional de Justiça
+dje: DJe/CNJ nº 248/2021, de 24 de setembro de 2021, p. 3-10 (republicação)
+sha256: 69f3a2490d9c042ca79ab05fc2514a12a8bdf70da1277efcc05674932bf2d346
 ---
-
 # RESOLUÇÃO Nº 396, DE 7 DE JUNHO DE 2021
 
 **Institui a Estratégia Nacional de Segurança Cibernética do Poder Judiciário (ENSEC-PJ).**

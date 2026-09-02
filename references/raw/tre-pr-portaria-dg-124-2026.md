@@ -1,3 +1,11 @@
+---
+title: PORTARIA N° 124, DE 17 DE MARÇO DE 2026 — CETI (fonte bruta)
+type: fonte-normativa
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2026/portaria-ndeg-124-de-17-de-marco-de-2026
+coletado: 2026-08-29
+tags: [tre-pr, norma, ceti, governanca-ti, coleta-automatica]
+sha256: d0cfe1263666c4a3cac89c8d8252d49dd8ce57b7f1b7fe5d4d403d06b67e64ed
+---
 # Fonte bruta — Portaria DG TRE-PR 124/2026 (extração oficial)
 
 URL: https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2026/portaria-ndeg-124-de-17-de-marco-de-2026

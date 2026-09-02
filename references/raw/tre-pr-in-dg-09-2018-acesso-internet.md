@@ -1,11 +1,11 @@
 ---
-title: "INSTRUÇÃO NORMATIVA Nº 09/2018"
+title: INSTRUÇÃO NORMATIVA Nº 09/2018
 type: fonte-normativa
-source_url: "https://apps.tre-pr.jus.br/files/legislacaocompilada/in/2018/in092018.html"
+source_url: https://apps.tre-pr.jus.br/files/legislacaocompilada/in/2018/in092018.html
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: 3e8668b2a30ca768a71d3ed496828b9362f11eb99a0477e8741eed5541b41e14
 ---
-
 INSTRUÇÃO NORMATIVA Nº 09/2018
 
 

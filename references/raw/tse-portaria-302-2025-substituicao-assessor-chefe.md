@@ -1,16 +1,16 @@
 ---
-title: "TSE Portaria 302/2025 - Substituição Assessor-Chefe"
+title: TSE Portaria 302/2025 - Substituição Assessor-Chefe
 type: fonte-normativa
-fonte: "Tribunal Superior Eleitoral"
-url: "https://www.tse.jus.br/legislacao/compilada/prt/2025/portaria-no-302-de-7-de-julho-de-2025"
-data_publicacao: "07/07/2025"
-status: "vigente"
-observacao: "Designa substitutos para o Assessor-Chefe do Gabinete do Ministro André Luiz de Almeida Mendonça. Revoga Portaria TSE 616/2024."
+fonte: Tribunal Superior Eleitoral
+url: https://www.tse.jus.br/legislacao/compilada/prt/2025/portaria-no-302-de-7-de-julho-de-2025
+data_publicacao: 07/07/2025
+status: vigente
 created: 2026-08-05
 updated: 2026-08-05
 tags: [tse, portaria, designacao, assessor-chefe]
+observacao: Designa substitutos para o Assessor-Chefe do Gabinete do Ministro André Luiz de Almeida Mendonça. Revoga Portaria TSE 616/2024.
+sha256: eabc3908a3b37c660d66fa898f8c96ab76ea1fa233f18ad11de47f8e8e9ecaed
 ---
-
 # PORTARIA Nº 302, DE 7 DE JULHO DE 2025
 
 **Designa substitutos para o Assessor-Chefe do Gabinete do Ministro André Luiz de Almeida Mendonça.**

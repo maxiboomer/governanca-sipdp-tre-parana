@@ -1,17 +1,17 @@
 ---
-title: "Resolução TSE 23.501/2016 - Política de Segurança da Informação"
+title: Resolução TSE 23.501/2016 - Política de Segurança da Informação
 type: fonte-normativa
-fonte: "Tribunal Superior Eleitoral"
-url: "https://www.tse.jus.br/legislacao/compilada/res/2016/resolucao-no-23-501-de-19-de-dezembro-de-2016"
-data_publicacao: "19/12/2016"
-status: "revogada"
-observacao: "Revogada pela Resolução TSE nº 23.644/2021"
+fonte: Tribunal Superior Eleitoral
+url: https://www.tse.jus.br/legislacao/compilada/res/2016/resolucao-no-23-501-de-19-de-dezembro-de-2016
+data_publicacao: 19/12/2016
+status: revogada
 created: 2026-08-05
 updated: 2026-08-05
 tags: [tse, psi, seguranca-informacao]
-dje: "DJE-TSE, nº 243, de 23.12.2016, p. 62-69"
+observacao: Revogada pela Resolução TSE nº 23.644/2021
+dje: DJE-TSE, nº 243, de 23.12.2016, p. 62-69
+sha256: 46e367555e2ad06e85682f3cad4761657d4dd9e384e0a7b5841fc6135d15ad53
 ---
-
 # RESOLUÇÃO Nº 23.501, DE 19 DE DEZEMBRO DE 2016
 
 **Institui a Política de Segurança da Informação (PSI) no âmbito da Justiça Eleitoral.**

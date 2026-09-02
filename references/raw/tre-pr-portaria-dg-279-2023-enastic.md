@@ -1,17 +1,16 @@
 ---
-title: "TRE-PR Portaria DG 279/2023 - Enastic Encontro Nacional TI Inovacao"
+title: TRE-PR Portaria DG 279/2023 - Enastic Encontro Nacional TI Inovacao
 type: fonte-normativa
-fonte: "Tribunal Regional Eleitoral do Paraná"
-url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2023/portaria-ndeg-279-de-13-de-junho-de-2023"
-data_publicacao: "13/06/2023"
-status: "extinta"
-observacao: "Designa grupo de trabalho para Encontro Nacional de Tecnologia e Inovação da Justiça Eleitoral."
+fonte: Tribunal Regional Eleitoral do Paraná
+url: https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2023/portaria-ndeg-279-de-13-de-junho-de-2023
+data_publicacao: 13/06/2023
+status: extinta
 created: 2026-08-05
 updated: 2026-08-05
 tags: [tre-pr, portaria, enastic, tecnologia, inovacao]
-
+observacao: Designa grupo de trabalho para Encontro Nacional de Tecnologia e Inovação da Justiça Eleitoral.
+sha256: 3f6a91eed726f2eee36be005536d1b7c29894b810bc8d98e4349616f8ef6bc46
 ---
-
 # PORTARIA Nº 279, DE 13 DE JUNHO DE 2023
 
 **Designa os servidores para compor Grupo de Trabalho para Realização do Encontro Nacional de Tecnologia e Inovação da Justiça Eleitoral - ENASTIC.**

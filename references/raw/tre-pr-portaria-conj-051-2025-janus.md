@@ -1,11 +1,11 @@
 ---
-title: "PORTARIA N° 051, DE 17 DE FEVEREIRO DE 2025. — Tribunal Regional Eleitoral do Paraná"
+title: PORTARIA N° 051, DE 17 DE FEVEREIRO DE 2025. — Tribunal Regional Eleitoral do Paraná
 type: fonte-normativa
-source_url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-conjunta-presid-cre/2025/portaria-ndeg-051-de-17-de-fevereiro-de-2025"
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/portarias-conjunta-presid-cre/2025/portaria-ndeg-051-de-17-de-fevereiro-de-2025
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: 5ed24267bbf63028efc063bfa3b87402af0f66ae63a21ab718949063765d0f42
 ---
-
 PORTARIA N° 051, DE 17 DE FEVEREIRO DE 2025. — Tribunal Regional Eleitoral do Paraná
 
 Acessibilidade

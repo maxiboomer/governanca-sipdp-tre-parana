@@ -1,11 +1,11 @@
 ---
-title: "NORMA TÉCNICA Nº 04, DE 04 DE MAIO DE 2020. — Tribunal Regional Eleitoral do Paraná"
+title: NORMA TÉCNICA Nº 04, DE 04 DE MAIO DE 2020. — Tribunal Regional Eleitoral do Paraná
 type: fonte-normativa
-source_url: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2020/norma-tecnica-no-04-de-04-de-maio-de-2020"
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2020/norma-tecnica-no-04-de-04-de-maio-de-2020
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: 4e8b4a641ee7ff0053c1ddeda5a5b572bf6550c6f76c6dd1404c012ce5bdc29b
 ---
-
 NORMA TÉCNICA Nº 04, DE 04 DE MAIO DE 2020. — Tribunal Regional Eleitoral do Paraná
 
 Acessibilidade

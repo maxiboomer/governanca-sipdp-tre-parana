@@ -1,11 +1,11 @@
 ---
-title: "NORMA TÉCNICA N° 002, DE 19 DE MARÇO DE 2026. — Tribunal Regional Eleitoral do Paraná"
+title: NORMA TÉCNICA N° 002, DE 19 DE MARÇO DE 2026. — Tribunal Regional Eleitoral do Paraná
 type: fonte-normativa
-source_url: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2026/portaria-ndeg-002-de-19-de-marco-de-2026"
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2026/portaria-ndeg-002-de-19-de-marco-de-2026
 coletado: 2026-08-31
 tags: [tre-pr, norma, secti, mds, coleta-automatica]
+sha256: d2e1720420489678741157611d020a3253091bc8eca499de2ea8657cdfe00b26
 ---
-
 # NORMA TÉCNICA N° 002, DE 19 DE MARÇO DE 2026.
 
 Estabelece a Metodologia de Desenvolvimento de Sistemas (MDS) no âmbito da Justiça Eleitoral do Paraná.

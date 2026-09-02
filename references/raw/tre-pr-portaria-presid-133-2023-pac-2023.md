@@ -1,11 +1,11 @@
 ---
-title: "PORTARIA N° 133, DE 15 DE MARÇO DE 2023. — Tribunal Regional Eleitoral do Paraná"
+title: PORTARIA N° 133, DE 15 DE MARÇO DE 2023. — Tribunal Regional Eleitoral do Paraná
 type: fonte-normativa
-source_url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-presidencia-tre-pr/2023/portaria-ndeg-133-de-09-de-marco-de-2023"
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-presidencia-tre-pr/2023/portaria-ndeg-133-de-09-de-marco-de-2023
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: d5affc313b1e25a03499af6b8da5ca3a13f66a525af6afe8db5e4c0f84aecc25
 ---
-
 PORTARIA N° 133, DE 15 DE MARÇO DE 2023. — Tribunal Regional Eleitoral do Paraná
 
 Acessibilidade

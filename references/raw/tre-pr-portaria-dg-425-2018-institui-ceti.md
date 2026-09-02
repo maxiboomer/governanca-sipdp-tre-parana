@@ -1,11 +1,11 @@
 ---
-title: "PORTARIA Nº 31/2016"
+title: PORTARIA Nº 31/2016
 type: fonte-normativa
-source_url: "https://apps.tre-pr.jus.br/files/legislacaocompilada/port dg/2018/port4252018.html"
+source_url: https://apps.tre-pr.jus.br/files/legislacaocompilada/port dg/2018/port4252018.html
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: b89ed579d5be288f09e91a3b3344709db599f95ed1e943d1f21b575ebf341acc
 ---
-
 PORTARIA Nº 31/2016
 
 

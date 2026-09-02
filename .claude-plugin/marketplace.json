@@ -8,7 +8,7 @@
       "name": "governanca-sipdp-tre-pr",
       "source": "./",
       "description": "Acervo de normas internas do TRE-PR e da Justiça Eleitoral (174 normas, 2016–2026, todas curadas) com camada curada de Segurança da Informação, Proteção de Dados e continuidade; inventário de vigências com a publicação que sustenta cada situação; relatório de monitoramento normativo.",
-      "version": "1.4.4",
+      "version": "1.5.0",
       "author": {
         "name": "Fabio (maxiboomer)"
       },

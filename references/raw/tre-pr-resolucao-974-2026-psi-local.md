@@ -1,16 +1,16 @@
 ---
-title: "TRE-Pr Resolução 974/2026 - Política de Segurança da Informação (PSI) Local"
+title: TRE-Pr Resolução 974/2026 - Política de Segurança da Informação (PSI) Local
 type: fonte-normativa
-fonte: "Tribunal Regional Eleitoral do Paraná"
-url: "https://www.tre-pr.jus.br/legislacao/compilada/resolucoes-tre-pr/2026/resolucao-no-974-de-15-de-abril-de-2026"
-data_publicacao: "15/04/2026"
-status: "vigente"
-observacao: "Institui a Política de Segurança da Informação no âmbito da Justiça Eleitoral do Paraná. Atualiza e substitui normas anteriores."
+fonte: Tribunal Regional Eleitoral do Paraná
+url: https://www.tre-pr.jus.br/legislacao/compilada/resolucoes-tre-pr/2026/resolucao-no-974-de-15-de-abril-de-2026
+data_publicacao: 15/04/2026
+status: vigente
 created: 2026-08-05
 updated: 2026-08-05
 tags: [tre-pr, psi-local, seguranca-informacao, lgpd]
+observacao: Institui a Política de Segurança da Informação no âmbito da Justiça Eleitoral do Paraná. Atualiza e substitui normas anteriores.
+sha256: a52e6ad0e9d60c346f4e22e0075a972ea6eee20b958e05ba83a6852dcdf1aaac
 ---
-
 # RESOLUÇÃO Nº 974, DE 15 DE ABRIL DE 2026
 
 **Institui a Política de Segurança da Informação (PSI) no âmbito da Justiça Eleitoral do Paraná.**

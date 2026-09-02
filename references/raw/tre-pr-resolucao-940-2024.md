@@ -1,3 +1,7 @@
+---
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/resolucoes-tre-pr/2024/resolucao-no-940-de-04-de-novembro-de-2024
+sha256: 0df09765b4b6d26ccec9ade855a9a2e8d498c6c40a067c855abbc2212af93ec0
+---
 # RESOLUÇÃO Nº 940, DE 04 DE NOVEMBRO DE 2024.
 
 Institui o Código de Ética e Integridade no âmbito da Justiça Eleitoral do Paraná, e dá outras providências.

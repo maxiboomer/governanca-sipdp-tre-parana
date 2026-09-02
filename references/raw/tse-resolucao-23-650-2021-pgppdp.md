@@ -1,17 +1,17 @@
 ---
-title: "Resolução TSE 23.650/2021 - Política Geral de Privacidade e Proteção de Dados Pessoais"
+title: Resolução TSE 23.650/2021 - Política Geral de Privacidade e Proteção de Dados Pessoais
 type: fonte-normativa
-fonte: "Tribunal Superior Eleitoral"
-url: "https://www.tse.jus.br/legislacao/compilada/res/2021/resolucao-no-23-650-de-9-de-setembro-de-2021"
-data_publicacao: "09/09/2021"
-status: "vigente"
-observacao: "Complementar à Resolução TSE 23.644/2021 e à Resolução TSE 23.763/2026"
+fonte: Tribunal Superior Eleitoral
+url: https://www.tse.jus.br/legislacao/compilada/res/2021/resolucao-no-23-650-de-9-de-setembro-de-2021
+data_publicacao: 09/09/2021
+status: vigente
 created: 2026-08-05
 updated: 2026-08-05
 tags: [tse, lgpd, protecao-dados, privacidade]
-dje: "DJE-TSE, nº 170, de 15.9.2021, p. 137-154"
+observacao: Complementar à Resolução TSE 23.644/2021 e à Resolução TSE 23.763/2026
+dje: DJE-TSE, nº 170, de 15.9.2021, p. 137-154
+sha256: a37fdb76ae88db44cf3511c6c910eea713e5595f101446996fe6448f88ebce55
 ---
-
 # RESOLUÇÃO Nº 23.650, DE 9 DE SETEMBRO DE 2021
 
 **Institui a Política Geral de Privacidade e Proteção de Dados Pessoais no âmbito da Justiça Eleitoral.**

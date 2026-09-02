@@ -1,15 +1,15 @@
 ---
-title: "Lei nº 12.527/2011 - Acesso à Informação"
+title: Lei nº 12.527/2011 - Acesso à Informação
 type: fonte-normativa
-fonte: "Presidente da República"
-url: "http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm"
-data_publicacao: "18/11/2011"
+fonte: Presidente da República
+url: http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm
+data_publicacao: 18/11/2011
 status: vigente
 created: 2026-08-05
 updated: 2026-08-05
 tags: [lei-federal, acesso-informacao, transparency, lgpd]
+sha256: abeb7c93de2e57d9f742456354d76863e46cb4eef000250f82f1bd639ceed383
 ---
-
 # Lei nº 12.527, de 18 de novembro de 2011
 
 **Estabelece disposições para o acesso a informações previstas no inciso XXXIII do art. 5º da Constituição Federal, no inciso II do § 3º do art. 37 e no § 2º do art. 216 da Constituição Federal; altera a Lei nº 8.112, de 11 de dezembro de 1990; revoga a Lei nº 11.111, de 5 de maio de 2005, e dispositivos da Lei nº 8.159, de 8 de janeiro de 1991; e dá outras providências.**

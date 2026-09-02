@@ -1,11 +1,11 @@
 ---
-title: "ORDEM DE SERVIÇO Nº 08/2017"
+title: ORDEM DE SERVIÇO Nº 08/2017
 type: fonte-normativa
-source_url: "https://apps.tre-pr.jus.br/files/legislacaocompilada/os/2017/os082017dg.html"
+source_url: https://apps.tre-pr.jus.br/files/legislacaocompilada/os/2017/os082017dg.html
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: ea5e8cdf315185283d04d5d7f5ae8780ad1e86c70fab788d487d77a9dc4d176b
 ---
-
 ORDEM DE SERVIÇO Nº 08/2017
 
 

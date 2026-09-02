@@ -7,6 +7,7 @@ status: histórica
 curadoria: completa
 escopo: central-si-pdp
 status_verificacao: "Revisão do texto integral e da publicação oficial registrada no corpus; confirmar alterações posteriores antes de uso jurídico."
+confidence: medium
 sources: [raw/tre-pr-portaria-dg-287-2021-comite-gestao-ti.md]
 tags: [norma, seguranca-informacao, si-pdp]
 source_url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2021-1-criar-arq-port-dg/portaria-no-287-de-xx-de-dezembro-de-2021"

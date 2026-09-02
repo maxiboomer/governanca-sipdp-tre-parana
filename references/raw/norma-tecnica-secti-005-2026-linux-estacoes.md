@@ -1,13 +1,13 @@
 ---
+title: Norma Técnica SECTI Nº 005, de 05 de agosto de 2026 — Utilização do Linux em estações de trabalho
 type: fonte-normativa
-title: "Norma Técnica SECTI Nº 005, de 05 de agosto de 2026 — Utilização do Linux em estações de trabalho"
-fonte: "TRE-PR (SECTI)"
-url: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2026/norma-tecnica-ndeg-005-de-05-de-agosto-de-2026"
-data_publicacao: "2026-08-05"
+fonte: TRE-PR (SECTI)
+url: https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2026/norma-tecnica-ndeg-005-de-05-de-agosto-de-2026
+data_publicacao: 2026-08-05
 status: Vigente
-tags: [secti, norma-tecnica, linux, seguranca-cibernetica, estacoes-trabalho]sha256: "307d88b15b0bd1f07946d60153c0b23946f955f165c58ff906cf1dc8e3ab38ca"
+tags: [secti, norma-tecnica, linux, seguranca-cibernetica, estacoes-trabalho]sha256: "307d88b15b0bd1f07946d60153c0b23946f955f165c58ff906cf1dc8e3ab38ca
+sha256: 307d88b15b0bd1f07946d60153c0b23946f955f165c58ff906cf1dc8e3ab38ca
 ---
-
 - Acessibilidade
   - Rybená acessibilidades adicionais
   - Rybená Libras

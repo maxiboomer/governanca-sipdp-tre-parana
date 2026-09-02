@@ -1,11 +1,11 @@
 ---
-title: "RESOLUÇÃO Nº 815/2018"
+title: RESOLUÇÃO Nº 815/2018
 type: fonte-normativa
-source_url: "https://apps.tre-pr.jus.br/files/legislacaocompilada/res/2018/Res08152018.html"
+source_url: https://apps.tre-pr.jus.br/files/legislacaocompilada/res/2018/Res08152018.html
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: df1e3f6366d4050287e34a5d267700b8e295307dd767daa96aed609f8c274cb2
 ---
-
 RESOLUÇÃO Nº 815/2018
 
 
