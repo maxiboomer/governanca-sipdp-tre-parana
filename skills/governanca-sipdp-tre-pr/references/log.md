@@ -1,4 +1,22 @@
 
+## [2026-09-02] update | Correção de defeitos da auditoria (links + duplicação + caminhos)
+- **Defeito 1 — links quebrados no build**: ~464 ocorrências de wikilinks no formato do
+  Obsidian (`references/...`, sem prefixo `references/`) em 51 arquivos do build — formato que não
+  resolve no plugin. `sync_vault_to_build.py` agora reescreve esses wikilinks para o formato
+  `references/...` (e caminhos `references/raw/...` → `references/raw/...`, `sources: [references/raw/` →
+  `sources: [references/raw/`) na cópia do build; o vault preserva o formato do Obsidian.
+  O CI passou a **falhar** se um wikilink `references/...` aparecer no build.
+- **Defeito 2 — duplicação do acervo**: removida `references/` da raiz do repo; a skill é
+  autocontida com **uma única cópia** em `skills/governanca-sipdp-tre-pr/references/` (a que o
+  Claude lê). `references/raw/` sincronizado na cópia da skill (166 arquivos; antes 158 e desatualizado).
+  ADRs completos dentro da skill (4); órfãos removidos (`references/SCHEMA.md` duplicado,
+  `SCHEMA-vault.md`, `cave.md`, `teste-integridade-2026.md`). CONTEXT/CLAUDE/SCHEMA removidos
+  da raiz do repo (vivem dentro da skill).
+- **Defeito 3 — pendencias-curadoria.md**: caminho `references/_meta/classificacao-normas.md`
+  reescrito para `references/_meta/classificacao-normas.md` no build.
+- Descrições do plugin corrigidas (174 → 176 normas); SKILL.md frontmatter atualizado;
+  README estrutura corrigida. Publicado como v1.5.2.
+
 ## [2026-09-02] update | Blindagem do acervo: CI + lint + instrumentos monitorados
 - **Defeito corrigido**: `references/inventarios/instrumentos-monitorados.md` era referenciado
   pelo SKILL.md mas não existia. Criado `references/inventarios/instrumentos-monitorados.md`
