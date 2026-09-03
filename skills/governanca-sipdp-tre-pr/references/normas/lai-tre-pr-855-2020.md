@@ -8,6 +8,9 @@ status: vigente
 curadoria: completa
 escopo: contextual
 sources: [references/raw/lai-tre-pr-855-2020.md]
+sha256: b22c4244cc561ae249d2431f6e8a085837bd98a22951391abe4de840fcca3bb9
+source_url: https://apps.tre-pr.jus.br/files/legislacaocompilada/res/2020/Res08552020.html
+confidence: medium
 status_verificacao: "Verificado em 2026-08-26; consultar DJE/DOU para citação formal."
 ---
 
