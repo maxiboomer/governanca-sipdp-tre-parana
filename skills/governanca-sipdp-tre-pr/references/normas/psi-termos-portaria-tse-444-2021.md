@@ -8,6 +8,8 @@ status: vigente
 curadoria: completa
 escopo: contextual
 sources: [references/raw/psi-termos-portaria-tse-444-2021.md]
+sha256: e7e1d7e6b2a6a55f9f149583d67a79688d1c9c57953bc5a9f1157b2d95c987c1
+source_url: https://www.tse.jus.br/legislacao/compilada/prt/2021/portaria-no-444-de-08-de-julho-de-2021
 status_verificacao: "Verificado em 2026-08-26; consultar DJE/DOU para citação formal."
 ---
 

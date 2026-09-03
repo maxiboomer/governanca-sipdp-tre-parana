@@ -8,6 +8,8 @@ status: revogada
 curadoria: completa
 escopo: contextual
 sources: [references/raw/psi-tse-23644-2021-revogada.md]
+sha256: 0939c6f207c22d2de611b2d951b39ab3ed1a468aa141a9b826ed19ec86fe3fd7
+source_url: https://www.tse.jus.br/legislacao/compilada/res/2021/resolucao-no-23-644-de-1o-de-julho-de-2021
 status_verificacao: "Verificado em 2026-08-26; consultar DJE/DOU para citação formal."
 ---
 

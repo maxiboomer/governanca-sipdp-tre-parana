@@ -3,12 +3,15 @@ title: CNJ Resolução 363/2021
 type: norma
 created: 2024-01-15
 updated: 2026-08-04
-tags: [cnj, lgpd, tribunais]
+tags: [lgpd, adequacao, protecao-dados, privacidade]
 status: vigente
 curadoria: completa
-escopo: contextual
+escopo: central-si-pdp
 sources: [references/raw/cnj-resolucao-363-2021.md]
-status_verificacao: "Verificado em 2026-08-26; consultar DJE/DOU para citação formal."
+sha256: dc033cc6fab634106deae76e10d1cec4d16171770bd630d34a9da2f3dc5b3ba9
+source_url: https://atos.cnj.jus.br/atos/detalhar/3668
+confidence: high
+status_verificacao: "Verificado em 2026-08-26; DJe/CNJ nº 11/2021, p. 2-4."
 ---
 
 # Resolução CNJ 363/2021

@@ -8,6 +8,8 @@ status: vigente
 curadoria: completa
 escopo: contextual
 sources: [references/raw/psi-tre-pr-974-2026.md]
+sha256: 340cb515e100eabc1c0499f3e5420e475f14aa1a5136b3de7d4065720d010149
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/resolucoes-tre-pr/2026/resolucao-no-974-de-15-de-abril-de-2026
 status_verificacao: "Verificado em 2026-08-26; consultar DJE/DOU para citação formal."
 ---
 

@@ -8,6 +8,8 @@ status: vigente
 curadoria: completa
 escopo: contextual
 sources: [references/raw/governanca-e-crises-tre-pr.md]
+sha256: 060d17b63050f75a98c027b8ed0c795a748122734cb28d28012681c59420a3da
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/resolucoes-tre-pr/2024/resolucao-no-932-de-19-de-setembro-de-2024
 status_verificacao: "Verificado em 2026-08-26; consultar DJE/DOU para citação formal."
 ---
 

@@ -8,6 +8,8 @@ status: vigente
 curadoria: completa
 escopo: contextual
 sources: [references/raw/resolucao-tre-pr-962-2025.md]
+sha256: a9b276acf41e92c845dcc0cae39027608a6b82fe7c5dd98afa1a35156ac8dcc6
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/resolucoes-tre-pr/2025/resolucao-no-962-de-09-de-dezembro-de-2025
 status_verificacao: "Verificado em 2026-08-26; consultar DJE/DOU para citação formal."
 ---
 

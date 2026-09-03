@@ -8,6 +8,8 @@ status: vigente
 curadoria: completa
 escopo: contextual
 sources: [references/raw/portaria-tre-pr-302-2025.md]
+sha256: d2d10a0ae3a426abc0d69a3d2746243b1e4d6d1fec1a339ed8ebced896d91dc4
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-presidencia-tre-pr/2025/portaria-no-302-de-29-de-outubro-de-2025
 status_verificacao: "Verificado em 2026-08-26; consultar DJE/DOU para citação formal."
 ---
 
