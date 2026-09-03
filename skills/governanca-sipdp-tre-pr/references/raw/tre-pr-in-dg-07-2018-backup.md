@@ -1,11 +1,11 @@
 ---
-title: "INSTRUÇÃO NORMATIVA Nº 07/2018"
+title: INSTRUÇÃO NORMATIVA Nº 07/2018
 type: fonte-normativa
-source_url: "https://apps.tre-pr.jus.br/files/legislacaocompilada/in/2018/in072018.html"
+source_url: https://apps.tre-pr.jus.br/files/legislacaocompilada/in/2018/in072018.html
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: 4a5a27ad02439ddc3e608fa66f5f6ca265b888d79d0f14bd13a34cc14280c12a
 ---
-
 INSTRUÇÃO NORMATIVA Nº 07/2018
 
 

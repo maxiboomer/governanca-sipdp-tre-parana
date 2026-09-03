@@ -8,7 +8,7 @@ curadoria: completa
 escopo: central-si-pdp
 status_verificacao: "Substituída pela Res. TSE 23.644/2021"
 confidence: medium
-sources: [raw/tse-resolucao-23-501-2016-psi-anterior.md]
+sources: [references/raw/tse-resolucao-23-501-2016-psi-anterior.md]
 tags: [norma, seguranca-informacao, si-pdp]
 source_url: "https://www.tse.jus.br/legislacao/compilada/res/2016/resolucao-no-23-501-de-19-de-dezembro-de-2016"
 ---
@@ -17,7 +17,7 @@ source_url: "https://www.tse.jus.br/legislacao/compilada/res/2016/resolucao-no-2
 
 ## Síntese executiva
 
-Esta norma é relevante para **segurança da informação, proteção de dados pessoais ou governança de TI** no TRE-PR/Justiça Eleitoral. A síntese abaixo foi extraída do texto integral em `raw/tse-resolucao-23-501-2016-psi-anterior.md`; o arquivo bruto permanece imutável.
+Esta norma é relevante para **segurança da informação, proteção de dados pessoais ou governança de TI** no TRE-PR/Justiça Eleitoral. A síntese abaixo foi extraída do texto integral em `references/raw/tse-resolucao-23-501-2016-psi-anterior.md`; o arquivo bruto permanece imutável.
 
 **Situação registrada:** `revogada`. PSI anterior substituída por Res. TSE 23.644/2021.
 
@@ -39,12 +39,12 @@ Esta norma é relevante para **segurança da informação, proteção de dados p
 
 ## Relações
 
-[[wiki/concepts/seguranca-informacao-justica-eleitoral]]
-- [[wiki/entities/cgsipdp]]
+[[references/concepts/seguranca-informacao-justica-eleitoral]]
+- [[references/entities/cgsipdp]]
 
 ## Fonte e vigência
 
-- Fonte integral: `raw/tse-resolucao-23-501-2016-psi-anterior.md`
+- Fonte integral: `references/raw/tse-resolucao-23-501-2016-psi-anterior.md`
 - Publicação registrada: https://www.tse.jus.br/legislacao/compilada/res/2016/resolucao-no-23-501-de-19-de-dezembro-de-2016
 - Verificação realizada em: 2026-08-26
 - Situação para uso: **não presumir vigência além do que está documentado acima**.

@@ -1,11 +1,11 @@
 ---
-title: "INSTRUÇÃO NORMATIVA Nº 002, DE 01 DE DEZEMBRO DE 2024. — Tribunal Regional Eleitoral do Paraná"
+title: INSTRUÇÃO NORMATIVA Nº 002, DE 01 DE DEZEMBRO DE 2024. — Tribunal Regional Eleitoral do Paraná
 type: fonte-normativa
-source_url: "https://www.tre-pr.jus.br/legislacao/compilada/instrucoes-normativas-tre-pr/2024/instrucao-normativa-no-002-de-01-de-dezembro-de-2024"
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/instrucoes-normativas-tre-pr/2024/instrucao-normativa-no-002-de-01-de-dezembro-de-2024
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: 32a1257fce78b9d2d1755a2095bf338390f56a2ea588e46df0072b6917c01b3f
 ---
-
 INSTRUÇÃO NORMATIVA Nº 002, DE 01 DE DEZEMBRO DE 2024. — Tribunal Regional Eleitoral do Paraná
 
 Acessibilidade

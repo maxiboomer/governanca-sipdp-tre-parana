@@ -1,11 +1,11 @@
 ---
-title: "NORMA TÉCNICA Nº 04, DE 05 DE JULHO DE 2024. — Tribunal Regional Eleitoral do Paraná"
+title: NORMA TÉCNICA Nº 04, DE 05 DE JULHO DE 2024. — Tribunal Regional Eleitoral do Paraná
 type: fonte-normativa
-source_url: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2024/norma-tecnica-no-04-de-05-de-julho-de-2024"
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2024/norma-tecnica-no-04-de-05-de-julho-de-2024
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: a90ff101012842f26bc1129e33d6c8a73078e9612c7de7972fcfc8bd508363d2
 ---
-
 NORMA TÉCNICA Nº 04, DE 05 DE JULHO DE 2024. — Tribunal Regional Eleitoral do Paraná
 
 Acessibilidade

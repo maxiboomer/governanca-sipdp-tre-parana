@@ -1,7 +1,7 @@
 
 ## [2026-09-02] update | Blindagem do acervo: CI + lint + instrumentos monitorados
 - **Defeito corrigido**: `references/inventarios/instrumentos-monitorados.md` era referenciado
-  pelo SKILL.md mas não existia. Criado `wiki/inventarios/instrumentos-monitorados.md`
+  pelo SKILL.md mas não existia. Criado `references/inventarios/instrumentos-monitorados.md`
   (Plano 371943/2023, NT CDTI 02/2014; regra: instrumento monitorado não fundamenta parecer).
 - **CI/CD**: criado `.github/workflows/ci.yml` — valida em todo push/PR ao master:
   versão plugin.json==marketplace.json, frontmatter completo em references/*, index.md lista
@@ -10,21 +10,21 @@
   warning de redirect em todo push).
 - **Lint aprofundado**: `lint_vault.py` agora sinaliza `review_candidates` (páginas com
   `confidence: low` ou `contested: true`) para revisão humana — fecha o ciclo da v1.5.0.
-- **Nova comparison**: `wiki/comparisons/controle-acesso-in004-2025-vs-2022-vs-2018.md`
+- **Nova comparison**: `references/comparisons/controle-acesso-in004-2025-vs-2022-vs-2018.md`
   (IN 004/2025 atual × IN 004/2022 geral × IN-DG 2018 revogadas; cadeia de revogação).
 
 ## [2026-09-02] update | Higiene llm-wiki + confidence + sha256 + comparisons
 - **Lint zerado** (era: 1 broken link, 2 fora do index, 8 field_issues):
-  - Criado `wiki/concepts/governanca-ti.md` (corrige broken link da página 124/2026).
-  - Movido `wiki/raw/tre-pr-portaria-dg-124-2026.md` → `raw/` com frontmatter (corrige 8 field_issues; raw agora em local canônico).
+  - Criado `references/concepts/governanca-ti.md` (corrige broken link da página 124/2026).
+  - Movido `references/raw/tre-pr-portaria-dg-124-2026.md` → `references/raw/` com frontmatter (corrige 8 field_issues; raw agora em local canônico).
   - Adicionadas ao index: página 124/2026 (estava ausente), concept governanca-ti, seção Comparisons.
 - **confidence** adicionado às 20 páginas `central-si-pdp` (12 high com DJE/DOU nomeado, 8 medium).
 - **sha256** adicionado aos 166 raws (detecção de drift em re-coleta); `source_url` derivado onde faltava.
-- **Camada `wiki/comparisons/`** criada: `psi-je-23644-23763-974.md` (comparação PSI antiga × nacional × local).
+- **Camada `references/comparisons/`** criada: `psi-je-23644-23763-974.md` (comparação PSI antiga × nacional × local).
 - **SCHEMA.md**: camada comparisons, campos `confidence`/`contested`, exigência de `sha256` nos raws.
-- **ADR 0004**: revogadas/históricas permanecem em `wiki/normas/` (decisão consciente vs `_archive/` do llm-wiki).
+- **ADR 0004**: revogadas/históricas permanecem em `references/normas/` (decisão consciente vs `_archive/` do llm-wiki).
 - **Páginas >200 linhas** (6) registradas como dívida técnica — dividir quando passarem de ~500 linhas.
-- sync_vault_to_build.py: inclui `wiki/comparisons`.
+- sync_vault_to_build.py: inclui `references/comparisons`.
 
 ## [2026-09-02] update | Curadoria concluída + ADR 0003 + cron auto-publicação
 - Res. TRE-PR 940/2024 e IN TRE-PR 004/2025 promovidas a `vigente`/`completa` (DJE-TRE-PR nº 325, 07/11/2024, p. 11-24 e nº 102, 30/05/2025, p. 05-15). Acervo sem páginas não-confirmadas.
@@ -33,20 +33,20 @@
 - SKILL.md: removidas referências a skills externas inexistentes (`analise-normas-eleitorais`, `monitoramento-normas-secti`).
 
 ## [2026-08-31] update | Fechamento de pendências + evolução da skill
-- **NT SECTI 002/2026 (MDS)**: texto integral coletado (DJE-TRE-PR nº 052, 23/03/2026, p. 08-09) em `raw/tre-pr-nt-secti-002-2026-mds.md`; página promovida a `vigente`/`completa`.
+- **NT SECTI 002/2026 (MDS)**: texto integral coletado (DJE-TRE-PR nº 052, 23/03/2026, p. 08-09) em `references/raw/tre-pr-nt-secti-002-2026-mds.md`; página promovida a `vigente`/`completa`.
 - **Portaria DG 124/2026 (CETI)**: curadoria concluída (`vigente`/`completa`), confirmada no compilado oficial + DJE-TRE-PR nº 050, 19/03/2026, p. 11-12.
 - **IN TRE-PR 001/2026 (AcompVot)**: decisão de escopo registrada — mantida FORA do acervo (tecnologia eleitoral operacional, sem teor SI/PDP); pendência de revisão humana encerrada.
-- `sync_vault_to_build.py` corrigido para incluir `raw/` e `wiki/raw/` (antes, textos integrais novos não chegavam ao `references/raw/` do repo).
+- `sync_vault_to_build.py` corrigido para incluir `references/raw/` e `references/raw/` (antes, textos integrais novos não chegavam ao `references/raw/` do repo).
 - SKILL.md atualizado: 174→176 páginas; mapa rápido ganhou Res. 940/2024 e IN 004/2025; aviso da NT 002/2026 atualizado.
 - index.md: estatísticas corrigidas (176 normas, 8 entities, 13 concepts, 3 inventários, 166 raws).
 
 ## [2026-08-31] update | Inclusão de normas ausentes detectadas em verificação manual
 - Identificada a **Resolução TRE-PR 940/2024** (Código de Ética e Integridade) — vigente no portal, mas sem página curada no vault (apenas citada como `CONSIDERANDO` na IN 004/2025).
-- Identificada a **Instrução Normativa TRE-PR 004/2025** (Gestão de Identidade e Controle de Acesso Lógico/Físico) — vigente no portal, mas sem página curada no vault (apenas em `raw/`).
+- Identificada a **Instrução Normativa TRE-PR 004/2025** (Gestão de Identidade e Controle de Acesso Lógico/Físico) — vigente no portal, mas sem página curada no vault (apenas em `references/raw/`).
 - Criadas as páginas curadas:
-  - `wiki/normas/tre-pr-resolucao-940-2024.md` (status: `não-confirmada`, curadoria: `pendente`)
-  - `wiki/normas/tre-pr-in-instrucao-normativa-004-de-28-de-maio-de-2025.md` (status: `não-confirmada`, curadoria: `pendente`)
-- Salvo o texto integral da Res. 940/2024 em `raw/tre-pr-resolucao-940-2024.md`.
+  - `references/normas/tre-pr-resolucao-940-2024.md` (status: `não-confirmada`, curadoria: `pendente`)
+  - `references/normas/tre-pr-in-instrucao-normativa-004-de-28-de-maio-de-2025.md` (status: `não-confirmada`, curadoria: `pendente`)
+- Salvo o texto integral da Res. 940/2024 em `references/raw/tre-pr-resolucao-940-2024.md`.
 - Atualizados `index.md` (seção "Normas (novas)") e `log.md`.
 - Observação: a Res. 940/2024 não aparece na listagem compilada de 2024 do portal (que mostra apenas até 942/2024), embora a página individual funcione — possível desordem de indexação ou retificação não-refletida na sumarificação. Norma confirmada vigente via acesso direto à página.
 

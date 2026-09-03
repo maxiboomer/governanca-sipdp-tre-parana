@@ -8,12 +8,12 @@ curadoria: resumo
 escopo: duplicada
 canonical: wiki/normas/lai-12527-2011
 tags: [metadados, alias]
-sources: [raw/lei-12527-2011-acesso-informacao.md]
+sources: [references/raw/lei-12527-2011-acesso-informacao.md]
 status_verificacao: "Verificado em 2026-08-26; consultar DJE/DOU para citação formal."
 ---
 
 # Alias
 
-Esta página foi consolidada na página canônica [[wiki/normas/lai-12527-2011]].
+Esta página foi consolidada na página canônica [[references/normas/lai-12527-2011]].
 
-O documento bruto original permanece preservado em `raw/lei-12527-2011-acesso-informacao.md`.
+O documento bruto original permanece preservado em `references/raw/lei-12527-2011-acesso-informacao.md`.

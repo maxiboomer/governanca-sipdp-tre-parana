@@ -7,7 +7,7 @@ status: histórica
 curadoria: completa
 escopo: contextual
 status_verificacao: "PDTI 2023-2024; PDTI atual 103/2025; verificado em 2026-08-26."
-sources: [raw/tre-pr-portaria-presid-341-2023-pdti-2023-2024.md]
+sources: [references/raw/tre-pr-portaria-presid-341-2023-pdti-2023-2024.md]
 tags: [norma, tre-pr]
 ---
 
@@ -32,9 +32,9 @@ title: "PORTARIA N° 341, DE 16 DE AGOSTO DE 2023. — Tribunal Regional Eleitor
 
 ## Interpretação operacional
 
-- Consultar o texto integral em `raw/` para o teor exato.
+- Consultar o texto integral em `references/raw/` para o teor exato.
 - Verificar a norma sucessora (quando identificada) antes de usar.
 
 ## Fonte
 
-- `raw/tre-pr-portaria-presid-341-2023-pdti-2023-2024.md`
+- `references/raw/tre-pr-portaria-presid-341-2023-pdti-2023-2024.md`

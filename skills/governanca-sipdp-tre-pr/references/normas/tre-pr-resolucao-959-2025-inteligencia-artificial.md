@@ -8,7 +8,7 @@ status_verificacao: "Res. 959/2025 vigente; regulamenta o uso de IA na JE-PR; ve
 fonte_publicacao: "https://www.tre-pr.jus.br/legislacao/compilada/resolucoes-tre-pr/2025/resolucao-no-959-de-13-de-outubro-de-2025"
 data_publicacao: "13/10/2025"
 tags: [norma, curadoria, si-pdp]
-sources: [raw/tre-pr-resolucao-959-2025-inteligencia-artificial.md]
+sources: [references/raw/tre-pr-resolucao-959-2025-inteligencia-artificial.md]
 curadoria: completa
 escopo: contextual
 ---
@@ -17,7 +17,7 @@ escopo: contextual
 
 ## Finalidade e escopo
 
-Esta norma integra o corpus de **SI/PDP e governança tecnológica**. A página foi curada a partir do texto integral preservado em `raw/tre-pr-resolucao-959-2025-inteligencia-artificial.md`; a fonte bruta permanece imutável.
+Esta norma integra o corpus de **SI/PDP e governança tecnológica**. A página foi curada a partir do texto integral preservado em `references/raw/tre-pr-resolucao-959-2025-inteligencia-artificial.md`; a fonte bruta permanece imutável.
 
 Regulamenta desenvolvimento, utilização, monitoramento e governança de soluções de IA no TRE-PR. Institui CGIA.
 
@@ -35,12 +35,12 @@ Regulamenta desenvolvimento, utilização, monitoramento e governança de soluç
 
 ## Relações
 
-[[wiki/concepts/lgpd-ia-governanca]]
-- [[wiki/entities/cgsipdp]]
+[[references/concepts/lgpd-ia-governanca]]
+- [[references/entities/cgsipdp]]
 
 ## Fonte integral
 
-- `raw/tre-pr-resolucao-959-2025-inteligencia-artificial.md`
+- `references/raw/tre-pr-resolucao-959-2025-inteligencia-artificial.md`
 - Publicação/URL registrada: https://www.tre-pr.jus.br/legislacao/compilada/resolucoes-tre-pr/2025/resolucao-no-959-de-13-de-outubro-de-2025
 
 ## Nota de qualidade

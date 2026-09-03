@@ -1,17 +1,16 @@
 ---
-title: "TRE-PR Norma Tecnica SECTI 03/2024 - Plano de Gestao de Riscos TI"
+title: TRE-PR Norma Tecnica SECTI 03/2024 - Plano de Gestao de Riscos TI
 type: fonte-normativa
-fonte: "Tribunal Regional Eleitoral do Paraná"
-url: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2024/norma-tecnica-no-03-de-27-de-junho-de-2024"
-data_publicacao: "27/06/2024"
-status: "vigente"
-observacao: "Institui Plano de Gestão de Riscos de TI para o exercício 2024."
+fonte: Tribunal Regional Eleitoral do Paraná
+url: https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2024/norma-tecnica-no-03-de-27-de-junho-de-2024
+data_publicacao: 27/06/2024
+status: vigente
 created: 2026-08-05
 updated: 2026-08-05
 tags: [tre-pr, secti, norma-tecnica, gestao-riscos, seguranca-ti]
-
+observacao: Institui Plano de Gestão de Riscos de TI para o exercício 2024.
+sha256: be259285f0997da7b7f13eb96f6bd27bc351ad4665a7f2e07285500096288d9e
 ---
-
 # NORMA TÉCNICA Nº 03, DE 27 DE JUNHO DE 2024
 
 **Institui o Plano de Gestão de Riscos de Tecnologia da Informação para a Justiça Eleitoral do Paraná no ano de 2024.**

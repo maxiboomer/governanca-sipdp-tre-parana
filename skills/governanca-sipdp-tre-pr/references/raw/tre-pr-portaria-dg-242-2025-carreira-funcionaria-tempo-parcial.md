@@ -1,16 +1,16 @@
 ---
-title: "TRE-PR Portaria DG 242/2025 - Carreira Functionaria Tempo Parcial"
+title: TRE-PR Portaria DG 242/2025 - Carreira Functionaria Tempo Parcial
 type: fonte-normativa
-fonte: "Tribunal Regional Eleitoral do Paraná"
-url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2025/portaria-ndeg-242-de-18-de-junho-de-2025"
-data_publicacao: "18/06/2025"
-status: "vigente"
-observacao: "Autoriza contagem de tempo de serviço parcial para aposentadoria."
+fonte: Tribunal Regional Eleitoral do Paraná
+url: https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2025/portaria-ndeg-242-de-18-de-junho-de-2025
+data_publicacao: 18/06/2025
+status: vigente
 created: 2026-08-05
 updated: 2026-08-05
 tags: [tre-pr, portaria, carreira, funcionaria, tempo-parcial]
+observacao: Autoriza contagem de tempo de serviço parcial para aposentadoria.
+sha256: 85c94d4ec65bb70ad2d07f628b25d638bfc7e508dd60cb3e6a8a309e16ee8050
 ---
-
 # PORTARIA Nº 242, DE 18 DE JUNHO DE 2025
 
 **Autoriza contagem de tempo de serviço parcial para aposentadoria.**

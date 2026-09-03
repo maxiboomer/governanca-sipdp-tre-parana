@@ -1,11 +1,11 @@
 ---
-title: "NORMA TÉCNICA Nº 02, DE 26 DE JULHO DE 2019. — Tribunal Regional Eleitoral do Paraná"
+title: NORMA TÉCNICA Nº 02, DE 26 DE JULHO DE 2019. — Tribunal Regional Eleitoral do Paraná
 type: fonte-normativa
-source_url: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2019/norma-tecnica-no-02-de-26-de-julho-de-2019"
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2019/norma-tecnica-no-02-de-26-de-julho-de-2019
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: 18b24a7fded255aaedca5099eb7fa57554799be71648709730fbd47f928f4f99
 ---
-
 NORMA TÉCNICA Nº 02, DE 26 DE JULHO DE 2019. — Tribunal Regional Eleitoral do Paraná
 
 Acessibilidade

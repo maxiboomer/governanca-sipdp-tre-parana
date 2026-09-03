@@ -1,11 +1,11 @@
 ---
-title: "INSTRUÇÃO NORMATIVA Nº 010, DE 14 DE NOVEMBRO DE 2025. — Tribunal Regional Eleitoral do Paraná"
+title: INSTRUÇÃO NORMATIVA Nº 010, DE 14 DE NOVEMBRO DE 2025. — Tribunal Regional Eleitoral do Paraná
 type: fonte-normativa
-source_url: "https://www.tre-pr.jus.br/legislacao/compilada/instrucoes-normativas-tre-pr/2025/instrucao-normativa-no-010-de-14-de-novembro-de-2025"
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/instrucoes-normativas-tre-pr/2025/instrucao-normativa-no-010-de-14-de-novembro-de-2025
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: 494fda940a09b18add97106869c28879e32698b7e6de01f77b25a44f6a64c929
 ---
-
 INSTRUÇÃO NORMATIVA Nº 010, DE 14 DE NOVEMBRO DE 2025. — Tribunal Regional Eleitoral do Paraná
 
 Acessibilidade

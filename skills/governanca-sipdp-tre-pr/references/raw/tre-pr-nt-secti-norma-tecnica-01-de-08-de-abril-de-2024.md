@@ -1,11 +1,11 @@
 ---
-title: "NORMA TÉCNICA Nº 01, DE 08 DE ABRIL DE 2024. — Tribunal Regional Eleitoral do Paraná"
+title: NORMA TÉCNICA Nº 01, DE 08 DE ABRIL DE 2024. — Tribunal Regional Eleitoral do Paraná
 type: fonte-normativa
-source_url: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2024/norma-tecnica-no-01-de-08-de-abril-de-2024"
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2024/norma-tecnica-no-01-de-08-de-abril-de-2024
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: 5e979230cb9f1ee8c2b651ad2e4626aa3c234614dd8e260bf0809565af9ec2dc
 ---
-
 NORMA TÉCNICA Nº 01, DE 08 DE ABRIL DE 2024. — Tribunal Regional Eleitoral do Paraná
 
 Acessibilidade

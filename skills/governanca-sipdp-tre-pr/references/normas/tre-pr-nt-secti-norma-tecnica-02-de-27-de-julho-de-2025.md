@@ -7,7 +7,7 @@ status: vigente
 curadoria: completa
 escopo: contextual
 status_verificacao: "Compilada no portal oficial; vigência confirmada. Síntese gerada a partir do texto integral em raw/."
-sources: [raw/tre-pr-nt-secti-norma-tecnica-02-de-27-de-julho-de-2025.md]
+sources: [references/raw/tre-pr-nt-secti-norma-tecnica-02-de-27-de-julho-de-2025.md]
 tags: [norma, tre-pr]
 ---
 
@@ -15,7 +15,7 @@ tags: [norma, tre-pr]
 
 ## Síntese executiva
 
-Norma vigente do acervo, relevante para segurança da informação, proteção de dados ou governança de TI no TRE-PR/Justiça Eleitoral. **Situação registrada:** `vigente`. Síntese extraída do texto integral em `raw/tre-pr-nt-secti-norma-tecnica-02-de-27-de-julho-de-2025.md`.
+Norma vigente do acervo, relevante para segurança da informação, proteção de dados ou governança de TI no TRE-PR/Justiça Eleitoral. **Situação registrada:** `vigente`. Síntese extraída do texto integral em `references/raw/tre-pr-nt-secti-norma-tecnica-02-de-27-de-julho-de-2025.md`.
 
 ## Objeto / Ementa
 
@@ -34,7 +34,7 @@ NORMA TÉCNICA Nº 02, DE 27 DE JULHO DE 2025. — Tribunal Regional Eleitoral d
 
 ## Interpretação operacional
 
-- Esta é uma página de índice analítico; a fonte de verdade é o texto integral em `raw/tre-pr-nt-secti-norma-tecnica-02-de-27-de-julho-de-2025.md`.
+- Esta é uma página de índice analítico; a fonte de verdade é o texto integral em `references/raw/tre-pr-nt-secti-norma-tecnica-02-de-27-de-julho-de-2025.md`.
 - Separar obrigações, papéis e responsabilidades conforme a norma e suas normas complementares.
 - Para citação formal, subir a referência ao DJE/DOU (ver ADR 0002).
 
@@ -44,5 +44,5 @@ NORMA TÉCNICA Nº 02, DE 27 DE JULHO DE 2025. — Tribunal Regional Eleitoral d
 
 ## Fonte e vigência
 
-- Fonte integral: `raw/tre-pr-nt-secti-norma-tecnica-02-de-27-de-julho-de-2025.md`
+- Fonte integral: `references/raw/tre-pr-nt-secti-norma-tecnica-02-de-27-de-julho-de-2025.md`
 - Verificação: 2026-08-26

@@ -8,7 +8,7 @@ updated: 2026-08-26
 status: vigente
 curadoria: completa
 escopo: contextual
-sources: [raw/tre-pr-resolucao-971-2026-regulamento-secretaria.md]
+sources: [references/raw/tre-pr-resolucao-971-2026-regulamento-secretaria.md]
 status_verificacao: "Verificado em 2026-08-26; consultar DJE/DOU para citação formal."
 ---
 
@@ -41,4 +41,4 @@ Aprova o Regulamento da Secretaria do TRE-PR, revogando a Resolução 903/2022 (
 
 ## Raw Source
 
-Source: `raw/tre-pr-resolucao-971-2026-regulamento-secretaria.md`
+Source: `references/raw/tre-pr-resolucao-971-2026-regulamento-secretaria.md`

@@ -7,7 +7,7 @@ status: vigente
 curadoria: completa
 escopo: contextual
 status_verificacao: "Compilada no portal oficial; vigência confirmada. Síntese gerada a partir do texto integral em raw/."
-sources: [raw/tre-pr-in-dg-03-2019-pdti.md]
+sources: [references/raw/tre-pr-in-dg-03-2019-pdti.md]
 tags: [norma, tre-pr]
 ---
 
@@ -15,7 +15,7 @@ tags: [norma, tre-pr]
 
 ## Síntese executiva
 
-Norma vigente do acervo, relevante para segurança da informação, proteção de dados ou governança de TI no TRE-PR/Justiça Eleitoral. **Situação registrada:** `vigente`. Síntese extraída do texto integral em `raw/tre-pr-in-dg-03-2019-pdti.md`.
+Norma vigente do acervo, relevante para segurança da informação, proteção de dados ou governança de TI no TRE-PR/Justiça Eleitoral. **Situação registrada:** `vigente`. Síntese extraída do texto integral em `references/raw/tre-pr-in-dg-03-2019-pdti.md`.
 
 ## Objeto / Ementa
 
@@ -34,7 +34,7 @@ Institui o processo de Gestão do Plano Diretor de Tecnologia da Informação (P
 
 ## Interpretação operacional
 
-- Esta é uma página de índice analítico; a fonte de verdade é o texto integral em `raw/tre-pr-in-dg-03-2019-pdti.md`.
+- Esta é uma página de índice analítico; a fonte de verdade é o texto integral em `references/raw/tre-pr-in-dg-03-2019-pdti.md`.
 - Separar obrigações, papéis e responsabilidades conforme a norma e suas normas complementares.
 - Para citação formal, subir a referência ao DJE/DOU (ver ADR 0002).
 
@@ -44,5 +44,5 @@ Institui o processo de Gestão do Plano Diretor de Tecnologia da Informação (P
 
 ## Fonte e vigência
 
-- Fonte integral: `raw/tre-pr-in-dg-03-2019-pdti.md`
+- Fonte integral: `references/raw/tre-pr-in-dg-03-2019-pdti.md`
 - Verificação: 2026-08-26

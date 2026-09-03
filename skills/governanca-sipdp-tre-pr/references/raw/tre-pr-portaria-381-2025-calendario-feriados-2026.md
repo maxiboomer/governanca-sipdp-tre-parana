@@ -1,16 +1,16 @@
 ---
-title: "TRE-PR Portaria 381/2025 - Calendario Feriados 2026"
+title: TRE-PR Portaria 381/2025 - Calendario Feriados 2026
 type: fonte-normativa
-fonte: "Tribunal Regional Eleitoral do Paraná"
-url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-presidencia-tre-pr/2025/portaria-no-381-de-04-de-dezembro-de-2025"
-data_publicacao: "04/12/2025"
-status: "vigente"
-observacao: "Torna público calendário de feriados 2026 e define pontos facultativos."
+fonte: Tribunal Regional Eleitoral do Paraná
+url: https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-presidencia-tre-pr/2025/portaria-no-381-de-04-de-dezembro-de-2025
+data_publicacao: 04/12/2025
+status: vigente
 created: 2026-08-05
 updated: 2026-08-05
 tags: [tre-pr, portaria, feriados, 2026, calendario]
+observacao: Torna público calendário de feriados 2026 e define pontos facultativos.
+sha256: dd523daa555b5109d325dac114f879870582a55469f6220356dddee1551388d0
 ---
-
 # PORTARIA Nº 381, DE 04 DE DEZEMBRO DE 2025
 
 **Torna público calendário de feriados 2026.**

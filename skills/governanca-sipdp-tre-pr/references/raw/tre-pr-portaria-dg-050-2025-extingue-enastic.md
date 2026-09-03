@@ -1,11 +1,11 @@
 ---
-title: "PORTARIA N° 050, DE 03 DE FEVEREIRO DE 2025. — Tribunal Regional Eleitoral do Paraná"
+title: PORTARIA N° 050, DE 03 DE FEVEREIRO DE 2025. — Tribunal Regional Eleitoral do Paraná
 type: fonte-normativa
-source_url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2025/portaria-ndeg-050-de-03-de-fevereiro-de-2025"
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2025/portaria-ndeg-050-de-03-de-fevereiro-de-2025
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: 0cb4dd1d3b0ab343350f143f132d4bdaab942cc335967c995333b7f375f8c56d
 ---
-
 PORTARIA N° 050, DE 03 DE FEVEREIRO DE 2025. — Tribunal Regional Eleitoral do Paraná
 
 Acessibilidade

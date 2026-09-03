@@ -1,16 +1,16 @@
 ---
-title: "TRE-PR Resolução 756/2017 - Sistema de Governança da Justiça Eleitoral"
+title: TRE-PR Resolução 756/2017 - Sistema de Governança da Justiça Eleitoral
 type: fonte-normativa
-fonte: "Tribunal Regional Eleitoral do Paraná"
-url: "https://www.justicaeleitoral.jus.br/arquivos/tre-pr-resolucao-756-de-23-de-marco-de-2017"
-data_publicacao: "23/03/2017"
-status: "vigente com alterações"
-observacao: "Institui e regulamenta o sistema de Governança da Justiça Eleitoral do Paraná. Alterada pela RES 779/2017, 796/2017, 841/2019, 849/2019, 882/2021."
+fonte: Tribunal Regional Eleitoral do Paraná
+url: https://www.justicaeleitoral.jus.br/arquivos/tre-pr-resolucao-756-de-23-de-marco-de-2017
+data_publicacao: 23/03/2017
+status: vigente com alterações
 created: 2026-08-05
 updated: 2026-08-05
 tags: [tre-pr, governanca, seguranca-informacao]
+observacao: Institui e regulamenta o sistema de Governança da Justiça Eleitoral do Paraná. Alterada pela RES 779/2017, 796/2017, 841/2019, 849/2019, 882/2021.
+sha256: db6a3bbb7980e82f5cbda2d68bc65166bcfde5098125de96d9e868011a5fce67
 ---
-
 # RESOLUÇÃO Nº 756, DE 23 DE MARCO DE 2017
 
 **Institui e regulamenta o sistema de Governança da Justiça Eleitoral do Paraná.**

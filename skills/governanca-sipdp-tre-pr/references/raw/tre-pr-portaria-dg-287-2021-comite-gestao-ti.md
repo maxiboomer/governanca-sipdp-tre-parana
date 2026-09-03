@@ -1,11 +1,11 @@
 ---
-title: "PORTARIA Nº 287, DE 06 DE DEZEMBRO DE 2021. — Tribunal Regional Eleitoral do Paraná"
+title: PORTARIA Nº 287, DE 06 DE DEZEMBRO DE 2021. — Tribunal Regional Eleitoral do Paraná
 type: fonte-normativa
-source_url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2021-1-criar-arq-port-dg/portaria-no-287-de-xx-de-dezembro-de-2021"
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2021-1-criar-arq-port-dg/portaria-no-287-de-xx-de-dezembro-de-2021
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: 6532aa4955082119dae816c899489536771024d18466594273c90a924c6ecdde
 ---
-
 PORTARIA Nº 287, DE 06 DE DEZEMBRO DE 2021. — Tribunal Regional Eleitoral do Paraná
 
 Acessibilidade

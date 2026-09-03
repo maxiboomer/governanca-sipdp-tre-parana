@@ -1,16 +1,16 @@
 ---
-title: "TRE-Pr Resolução 932/2024 - Sistema de Governança da Justiça Eleitoral"
+title: TRE-Pr Resolução 932/2024 - Sistema de Governança da Justiça Eleitoral
 type: fonte-normativa
-fonte: "Tribunal Regional Eleitoral do Paraná"
-url: "https://www.tre-pr.jus.br/legislacao/compilada/resolucoes-tre-pr/2024/resolucao-no-932-de-22-de-maio-de-2024"
-data_publicacao: "22/05/2024"
-status: "vigente"
-observacao: "Regulamenta o Sistema de Governança da Justiça Eleitoral do Paraná. Base para governança institucional."
+fonte: Tribunal Regional Eleitoral do Paraná
+url: https://www.tre-pr.jus.br/legislacao/compilada/resolucoes-tre-pr/2024/resolucao-no-932-de-22-de-maio-de-2024
+data_publicacao: 22/05/2024
+status: vigente
 created: 2026-08-05
 updated: 2026-08-05
 tags: [tre-pr, governanca, gestao]
+observacao: Regulamenta o Sistema de Governança da Justiça Eleitoral do Paraná. Base para governança institucional.
+sha256: a9da95970f35f4faa37f39ee2af23b66caea38d26055cc9a10b9928aee74fa57
 ---
-
 # RESOLUÇÃO Nº 932, DE 22 DE MAIO DE 2024
 
 **Regulamenta o Sistema de Governança da Justiça Eleitoral do Paraná.**

@@ -8,7 +8,7 @@ curadoria: completa
 escopo: central-si-pdp
 status_verificacao: "Res. 974/2026 compilada no portal TRE-PR; PSI local"
 confidence: medium
-sources: [raw/tre-pr-resolucao-974-2026-psi-local.md]
+sources: [references/raw/tre-pr-resolucao-974-2026-psi-local.md]
 tags: [norma, seguranca-informacao, si-pdp]
 source_url: "https://www.tre-pr.jus.br/legislacao/compilada/resolucoes-tre-pr/2026/resolucao-no-974-de-15-de-abril-de-2026"
 ---
@@ -17,7 +17,7 @@ source_url: "https://www.tre-pr.jus.br/legislacao/compilada/resolucoes-tre-pr/20
 
 ## Síntese executiva
 
-Esta norma é relevante para **segurança da informação, proteção de dados pessoais ou governança de TI** no TRE-PR/Justiça Eleitoral. A síntese abaixo foi extraída do texto integral em `raw/tre-pr-resolucao-974-2026-psi-local.md`; o arquivo bruto permanece imutável.
+Esta norma é relevante para **segurança da informação, proteção de dados pessoais ou governança de TI** no TRE-PR/Justiça Eleitoral. A síntese abaixo foi extraída do texto integral em `references/raw/tre-pr-resolucao-974-2026-psi-local.md`; o arquivo bruto permanece imutável.
 
 **Situação registrada:** `vigente`. vigência indicada pela publicação oficial existente no corpus; revalidar periodicamente.
 
@@ -33,12 +33,12 @@ Esta norma é relevante para **segurança da informação, proteção de dados p
 
 ## Relações
 
-[[wiki/concepts/seguranca-informacao-justica-eleitoral]]
-- [[wiki/entities/cgsipdp]]
+[[references/concepts/seguranca-informacao-justica-eleitoral]]
+- [[references/entities/cgsipdp]]
 
 ## Fonte e vigência
 
-- Fonte integral: `raw/tre-pr-resolucao-974-2026-psi-local.md`
+- Fonte integral: `references/raw/tre-pr-resolucao-974-2026-psi-local.md`
 - Publicação registrada: https://www.tre-pr.jus.br/legislacao/compilada/resolucoes-tre-pr/2026/resolucao-no-974-de-15-de-abril-de-2026
 - Verificação realizada em: 2026-08-26
 - Situação para uso: **não presumir vigência além do que está documentado acima**.

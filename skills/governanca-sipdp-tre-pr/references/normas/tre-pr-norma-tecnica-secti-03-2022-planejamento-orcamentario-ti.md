@@ -7,7 +7,7 @@ status: histórica
 curadoria: completa
 escopo: contextual
 status_verificacao: "Planejamento orçamentário de TI; tema atual regulado pela NT SECTI 004/2026; verificado em 2026-08-26."
-sources: [raw/tre-pr-norma-tecnica-secti-03-2022-planejamento-orcamentario-ti.md]
+sources: [references/raw/tre-pr-norma-tecnica-secti-03-2022-planejamento-orcamentario-ti.md]
 tags: [norma, tre-pr]
 ---
 
@@ -25,13 +25,13 @@ title: "TRE-PR Norma Tecnica SECTI 03/2022 - Planejamento Orcamentario TI"
 
 ## Disposições relevantes
 
-- (Ver disposições no texto integral em `raw/`.)
+- (Ver disposições no texto integral em `references/raw/`.)
 
 ## Interpretação operacional
 
-- Consultar o texto integral em `raw/` para o teor exato.
+- Consultar o texto integral em `references/raw/` para o teor exato.
 - Verificar a norma sucessora (quando identificada) antes de usar.
 
 ## Fonte
 
-- `raw/tre-pr-norma-tecnica-secti-03-2022-planejamento-orcamentario-ti.md`
+- `references/raw/tre-pr-norma-tecnica-secti-03-2022-planejamento-orcamentario-ti.md`

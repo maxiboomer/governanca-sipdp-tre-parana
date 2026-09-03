@@ -24,6 +24,7 @@ jobs:
           import json, re, sys
           from pathlib import Path
 
+          REF = Path('skills/governanca-sipdp-tre-pr/references')
           errors = []
 
           # 1. plugin.json e marketplace.json com a mesma versão
@@ -33,12 +34,12 @@ jobs:
           if pv != mv:
               errors.append(f"versão divergente: plugin.json={pv} marketplace={mv}")
 
-          # 2. Frontmatter obrigatório em páginas de references/
+          # 2. Frontmatter obrigatório em páginas de references/ (cópia única da skill)
           required = ['title', 'created', 'updated', 'type', 'status',
                       'curadoria', 'escopo', 'tags']
           for sub in ['normas', 'entities', 'concepts', 'comparisons',
                       'inventarios', 'sources']:
-              for f in sorted((Path('references') / sub).glob('*.md')):
+              for f in sorted((REF / sub).glob('*.md')):
                   t = f.read_text(errors='ignore')
                   fm = t.split('---', 2)[1] if t.startswith('---') else ''
                   if not fm:
@@ -49,37 +50,33 @@ jobs:
                           errors.append(f"{f}: falta campo '{k}'")
 
           # 3. index.md lista todas as páginas de references/normas
-          #    (o index é copiado do vault e usa links [[wiki/normas/...]])
-          idx = Path('references/index.md').read_text(errors='ignore')
+          idx = (REF / 'index.md').read_text(errors='ignore')
           links = set(re.findall(r'\[\[([^\]|#]+)', idx))
-          for f in sorted((Path('references') / 'normas').glob('*.md')):
-              slug = f'wiki/normas/{f.stem}'
+          for f in sorted((REF / 'normas').glob('*.md')):
+              slug = f'references/normas/{f.stem}'
               if slug not in links:
                   errors.append(f"{f.name}: ausente do references/index.md (esperava [[{slug}]])")
 
           # 4. broken wikilinks dentro de references/ (targets existem)
-          #    mapeia wiki/X -> references/X.md
-          ref_files = {p for p in Path('references').rglob('*.md')}
+          ref_files = {p for p in REF.rglob('*.md')}
           for f in ref_files:
               t = f.read_text(errors='ignore')
               for l in re.findall(r'\[\[([^\]|#]+)', t):
                   if '...' in l:  # placeholder de documentação (ex.: [[wiki/...]])
                       continue
-                  if l.startswith('wiki/'):
-                      # path relativo ao vault -> converte para references/
-                      target = Path('references') / (l[len('wiki/'):] + '.md')
+                  if l.startswith('references/'):
+                      target = REF / (l[len('references/'):] + '.md')
                       if not target.exists():
-                          errors.append(f"{f}: broken link [[{l}]] (sem correspondente em references/)")
-                  elif l.startswith('raw/'):
-                      target = Path('references') / (l + '.md')
-                      if not target.exists():
-                          errors.append(f"{f}: broken link [[{l}]] (sem raw no build)")
+                          errors.append(f"{f}: broken link [[{l}]]")
+                  elif l.startswith('wiki/'):
+                      # links wiki/ no build são defeito: devem ser references/
+                      errors.append(f"{f}: link de vault [[{l}]] não reescrito (deve ser references/)")
 
           if errors:
               print("CI FAILED:")
               for e in errors:
                   print(f"  - {e}")
               sys.exit(1)
-          print(f"OK: plugin v{pv}, {len(list(Path('references/normas').glob('*.md')))} normas, "
-                f"frontmatter e index íntegros")
+          print(f"OK: plugin v{pv}, {len(list((REF/'normas').glob('*.md')))} normas, "
+                f"frontmatter e index íntegros, zero links wiki/ no build")
           EOF

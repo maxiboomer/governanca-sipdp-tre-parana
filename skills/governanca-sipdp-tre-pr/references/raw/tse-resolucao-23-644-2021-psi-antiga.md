@@ -1,17 +1,17 @@
 ---
-title: "Resolução TSE 23.644/2021 - Política de Segurança da Informação (PSI) Antiga"
+title: Resolução TSE 23.644/2021 - Política de Segurança da Informação (PSI) Antiga
 type: fonte-normativa
-fonte: "Tribunal Superior Eleitoral"
-url: "https://www.tse.jus.br/legislacao/compilada/res/2021/resolucao-no-23-644-de-1o-de-julho-de-2021"
-data_publicacao: "01/07/2021"
-status: "revogada"
-observacao: "Revogada pela Resolução TSE nº 23.763/2026, de 9 de junho de 2026"
+fonte: Tribunal Superior Eleitoral
+url: https://www.tse.jus.br/legislacao/compilada/res/2021/resolucao-no-23-644-de-1o-de-julho-de-2021
+data_publicacao: 01/07/2021
+status: revogada
 created: 2026-08-05
 updated: 2026-08-05
 tags: [tse, psi, seguranca-informacao, lgpd, ciberseguranca, revogada]
-dje: "DJE-TSE, nº 129, de 8.7.2021, p. 12-18"
+observacao: Revogada pela Resolução TSE nº 23.763/2026, de 9 de junho de 2026
+dje: DJE-TSE, nº 129, de 8.7.2021, p. 12-18
+sha256: af5a7626a401542963c3e5a5b593f90b009e3da4483ddcedba080e12a93a2649
 ---
-
 # RESOLUÇÃO Nº 23.644, DE 1º DE JULHO DE 2021
 
 **Dispõe sobre a Política de Segurança da Informação (PSI) no âmbito da Justiça Eleitoral.**
@@ -307,4 +307,4 @@ MINISTRO LUÍS ROBERTO BARROSO - RELATOR
 ---
 **Nota:** Este texto não substitui o publicado no DJE-TSE, nº 129, de 8.7.2021, p. 12-18.
 
-**Observação:** Esta resolução foi **revogada** pela Resolução TSE nº 23.763/2026, de 9 de junho de 2026. Para a versão atualizada, consulte: [psi-tse-23763-2026](references/normas/psi-tse-23763-2026.md)
+**Observação:** Esta resolução foi **revogada** pela Resolução TSE nº 23.763/2026, de 9 de junho de 2026. Para a versão atualizada, consulte: [[psi-tse-23763-2026]]

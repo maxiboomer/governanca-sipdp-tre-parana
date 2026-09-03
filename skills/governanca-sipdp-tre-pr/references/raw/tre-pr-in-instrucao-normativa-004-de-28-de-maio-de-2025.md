@@ -1,11 +1,11 @@
 ---
-title: "INSTRUÇÃO NORMATIVA Nº 004, DE 28 DE MAIO DE 2025. — Tribunal Regional Eleitoral do Paraná"
+title: INSTRUÇÃO NORMATIVA Nº 004, DE 28 DE MAIO DE 2025. — Tribunal Regional Eleitoral do Paraná
 type: fonte-normativa
-source_url: "https://www.tre-pr.jus.br/legislacao/compilada/instrucoes-normativas-tre-pr/2025/instrucao-normativa-no-004-de-28-de-maio-de-2025"
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/instrucoes-normativas-tre-pr/2025/instrucao-normativa-no-004-de-28-de-maio-de-2025
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: cdc75ffe09d8363f8c805c50891e3dd498ff80e0c1e7b5dbff339d44105785fc
 ---
-
 INSTRUÇÃO NORMATIVA Nº 004, DE 28 DE MAIO DE 2025. — Tribunal Regional Eleitoral do Paraná
 
 Acessibilidade

@@ -1,16 +1,16 @@
 ---
-title: "TRE-Pr Resolução 855/2020 - Acesso à Informação"
+title: TRE-Pr Resolução 855/2020 - Acesso à Informação
 type: fonte-normativa
-fonte: "Tribunal Regional Eleitoral do Paraná"
-url: "https://apps.tre-pr.jus.br/files/legislacaocompilada/res/2020/Res08552020.html"
-data_publicacao: "28/05/2020"
-status: "vigente"
-observacao: "Regulamenta o acesso à informação, previsto na Lei 12.527/2011, no âmbito do TRE-PR. Rejeita Resolução 289/2019."
+fonte: Tribunal Regional Eleitoral do Paraná
+url: https://apps.tre-pr.jus.br/files/legislacaocompilada/res/2020/Res08552020.html
+data_publicacao: 28/05/2020
+status: vigente
 created: 2026-08-05
 updated: 2026-08-05
 tags: [tre-pr, acesso-informacao, transparencia, lgpd]
+observacao: Regulamenta o acesso à informação, previsto na Lei 12.527/2011, no âmbito do TRE-PR. Rejeita Resolução 289/2019.
+sha256: bd41b1575dd738ac4e2dac082fd1230f8831a7852256f3274858603bec6efacf
 ---
-
 # RESOLUÇÃO Nº 855, DE 28 DE MAIO DE 2020
 
 **Regulamenta o acesso à informação, previsto na Lei nº 12.527, de 18 de novembro de 2011, no âmbito do Tribunal Regional Eleitoral do Paraná.**

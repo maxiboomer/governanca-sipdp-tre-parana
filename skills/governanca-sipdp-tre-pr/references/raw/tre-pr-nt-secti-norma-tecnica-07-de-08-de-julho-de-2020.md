@@ -1,11 +1,11 @@
 ---
-title: "NORMA TÉCNICA Nº 07, DE 08 DE JULHO DE 2020. — Tribunal Regional Eleitoral do Paraná"
+title: NORMA TÉCNICA Nº 07, DE 08 DE JULHO DE 2020. — Tribunal Regional Eleitoral do Paraná
 type: fonte-normativa
-source_url: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2020/norma-tecnica-no-07-de-08-de-julho-de-2020"
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2020/norma-tecnica-no-07-de-08-de-julho-de-2020
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: 69718396faa315bbbc322a03a9047deaa03fb19a4d50d1f1f324c7de5b89055c
 ---
-
 NORMA TÉCNICA Nº 07, DE 08 DE JULHO DE 2020. — Tribunal Regional Eleitoral do Paraná
 
 Acessibilidade

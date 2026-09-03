@@ -4,8 +4,10 @@ Acervo de **normas internas do TRE-PR e da Justiça Eleitoral**, mantido pela AG
 (Assessoria Técnica de Governança e Monitoramento da Segurança da Informação), com uma
 camada curada de Segurança da Informação, Proteção de Dados Pessoais e continuidade.
 
-O vocabulário do domínio está em [`CONTEXT.md`](./CONTEXT.md). As decisões de desenho estão
-em [`docs/adr/`](./docs/adr/).
+O vocabulário do domínio está em
+[`skills/governanca-sipdp-tre-pr/CONTEXT.md`](./skills/governanca-sipdp-tre-pr/CONTEXT.md).
+As decisões de desenho estão em [`docs/adr/`](./docs/adr/) (cópia dentro da skill em
+`skills/governanca-sipdp-tre-pr/docs/adr/`).
 
 ## Escopo
 
@@ -26,19 +28,29 @@ recorte de SI/PDP é a camada de curadoria, não o acervo. Ver
 
 ## Estrutura
 
+O plugin é autocontido: a skill e o acervo vivem em `skills/governanca-sipdp-tre-pr/`,
+com **uma única cópia** de `references/` (a raiz do repo não duplica o acervo).
+
 ```
-SKILL.md                          entrada da skill
-CONTEXT.md                        glossário do domínio
-docs/adr/                         decisões de desenho
-references/index.md               catálogo (200 páginas)
-references/normas/         168    página por norma
-references/entities/         8    AGM, CGSI/PDP, ETIR, ASC, DPO, SECTI, ANPD, CSI
-references/concepts/        13    LGPD, continuidade, prazos, monitoramento SECTI
-references/inventarios/      4    vigências TRE-PR/TSE e CNJ, lacunas, instrumentos monitorados
-references/sources/          7    sínteses por tipo de norma
-references/raw/            158    textos das normas (camada imutável)
-references/_meta/            6    matriz de verificação, classificação, pendências, qualidade
+skills/governanca-sipdp-tre-pr/
+├── SKILL.md                        entrada da skill
+├── CONTEXT.md                      glossário do domínio
+├── SCHEMA.md                       schema do vault
+├── docs/adr/                       decisões de desenho
+└── references/
+    ├── index.md                    catálogo (todas as páginas)
+    ├── normas/             176     página por norma
+    ├── entities/             8     AGM, CGSI/PDP, ETIR, ASC, DPO, SECTI, ANPD, CSI
+    ├── concepts/           14      LGPD, continuidade, prazos, governança, monitoramento SECTI
+    ├── comparisons/         2      PSI-JE, controle de acesso
+    ├── inventarios/         4      vigências TRE-PR/TSE e CNJ, lacunas, instrumentos monitorados
+    ├── sources/             7      sínteses por tipo de norma
+    ├── raw/               166      textos das normas (camada imutável, com sha256)
+    └── _meta/               6      matriz de verificação, classificação, pendências, qualidade
 ```
+
+Links internos usam `[[references/...]]` (caminho a partir da raiz da skill); o sync
+reescreve automaticamente os wikilinks `[[wiki/...]]` do vault nesse formato ao publicar.
 
 ## Regra de sustentação
 

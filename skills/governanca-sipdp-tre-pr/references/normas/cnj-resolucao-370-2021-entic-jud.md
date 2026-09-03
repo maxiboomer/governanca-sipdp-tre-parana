@@ -7,7 +7,7 @@ status: vigente
 curadoria: completa
 escopo: contextual
 status_verificacao: "Compilada no portal oficial; vigência confirmada. Síntese gerada a partir do texto integral em raw/."
-sources: [raw/cnj-resolucao-370-2021-entic-jud.md]
+sources: [references/raw/cnj-resolucao-370-2021-entic-jud.md]
 tags: [norma, tre-pr]
 ---
 
@@ -15,7 +15,7 @@ tags: [norma, tre-pr]
 
 ## Síntese executiva
 
-Norma vigente do acervo, relevante para segurança da informação, proteção de dados ou governança de TI no TRE-PR/Justiça Eleitoral. **Situação registrada:** `vigente`. Síntese extraída do texto integral em `raw/cnj-resolucao-370-2021-entic-jud.md`.
+Norma vigente do acervo, relevante para segurança da informação, proteção de dados ou governança de TI no TRE-PR/Justiça Eleitoral. **Situação registrada:** `vigente`. Síntese extraída do texto integral em `references/raw/cnj-resolucao-370-2021-entic-jud.md`.
 
 ## Objeto / Ementa
 
@@ -23,11 +23,11 @@ Norma vigente do acervo, relevante para segurança da informação, proteção d
 
 ## Obrigações e disposições principais
 
-- (Ver disposições completas no texto integral em `raw/`.)
+- (Ver disposições completas no texto integral em `references/raw/`.)
 
 ## Interpretação operacional
 
-- Esta é uma página de índice analítico; a fonte de verdade é o texto integral em `raw/cnj-resolucao-370-2021-entic-jud.md`.
+- Esta é uma página de índice analítico; a fonte de verdade é o texto integral em `references/raw/cnj-resolucao-370-2021-entic-jud.md`.
 - Separar obrigações, papéis e responsabilidades conforme a norma e suas normas complementares.
 - Para citação formal, subir a referência ao DJE/DOU (ver ADR 0002).
 
@@ -37,5 +37,5 @@ Norma vigente do acervo, relevante para segurança da informação, proteção d
 
 ## Fonte e vigência
 
-- Fonte integral: `raw/cnj-resolucao-370-2021-entic-jud.md`
+- Fonte integral: `references/raw/cnj-resolucao-370-2021-entic-jud.md`
 - Verificação: 2026-08-26

@@ -7,7 +7,7 @@ status: vigente
 curadoria: completa
 escopo: contextual
 status_verificacao: "Compilada no portal oficial; vigência confirmada. Síntese gerada a partir do texto integral em raw/."
-sources: [raw/tre-pr-portaria-conj-051-2025-janus.md]
+sources: [references/raw/tre-pr-portaria-conj-051-2025-janus.md]
 tags: [norma, tre-pr]
 ---
 
@@ -15,7 +15,7 @@ tags: [norma, tre-pr]
 
 ## Síntese executiva
 
-Norma vigente do acervo, relevante para segurança da informação, proteção de dados ou governança de TI no TRE-PR/Justiça Eleitoral. **Situação registrada:** `vigente`. Síntese extraída do texto integral em `raw/tre-pr-portaria-conj-051-2025-janus.md`.
+Norma vigente do acervo, relevante para segurança da informação, proteção de dados ou governança de TI no TRE-PR/Justiça Eleitoral. **Situação registrada:** `vigente`. Síntese extraída do texto integral em `references/raw/tre-pr-portaria-conj-051-2025-janus.md`.
 
 ## Objeto / Ementa
 
@@ -28,7 +28,7 @@ PORTARIA N° 051, DE 17 DE FEVEREIRO DE 2025. — Tribunal Regional Eleitoral do
 
 ## Interpretação operacional
 
-- Esta é uma página de índice analítico; a fonte de verdade é o texto integral em `raw/tre-pr-portaria-conj-051-2025-janus.md`.
+- Esta é uma página de índice analítico; a fonte de verdade é o texto integral em `references/raw/tre-pr-portaria-conj-051-2025-janus.md`.
 - Separar obrigações, papéis e responsabilidades conforme a norma e suas normas complementares.
 - Para citação formal, subir a referência ao DJE/DOU (ver ADR 0002).
 
@@ -38,5 +38,5 @@ PORTARIA N° 051, DE 17 DE FEVEREIRO DE 2025. — Tribunal Regional Eleitoral do
 
 ## Fonte e vigência
 
-- Fonte integral: `raw/tre-pr-portaria-conj-051-2025-janus.md`
+- Fonte integral: `references/raw/tre-pr-portaria-conj-051-2025-janus.md`
 - Verificação: 2026-08-26

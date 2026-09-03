@@ -8,7 +8,7 @@ status_verificacao: "Portaria 247/2021 vigente; unidade encarregada de dados (DP
 fonte_publicacao: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-presidencia-tre-pr/2021/portaria-ndeg-247-de"
 data_publicacao: "24/05/2021"
 tags: [norma, curadoria, si-pdp]
-sources: [raw/tre-pr-portaria-247-2021-dpo-lgpd.md]
+sources: [references/raw/tre-pr-portaria-247-2021-dpo-lgpd.md]
 curadoria: completa
 escopo: contextual
 ---
@@ -17,7 +17,7 @@ escopo: contextual
 
 ## Finalidade e escopo
 
-Esta norma integra o corpus de **SI/PDP e governança tecnológica**. A página foi curada a partir do texto integral preservado em `raw/tre-pr-portaria-247-2021-dpo-lgpd.md`; a fonte bruta permanece imutável.
+Esta norma integra o corpus de **SI/PDP e governança tecnológica**. A página foi curada a partir do texto integral preservado em `references/raw/tre-pr-portaria-247-2021-dpo-lgpd.md`; a fonte bruta permanece imutável.
 
 Designa a Coordenadoria de Planejamento de Estratégia e Gestão como nova Unidade Encarregada pela Proteção de Dados Pessoais (DPO). Revoga Portaria 108/2021 art. 2º.
 
@@ -35,12 +35,12 @@ Designa a Coordenadoria de Planejamento de Estratégia e Gestão como nova Unida
 
 ## Relações
 
-[[wiki/concepts/lgpd-ia-governanca]]
-- [[wiki/entities/cgsipdp]]
+[[references/concepts/lgpd-ia-governanca]]
+- [[references/entities/cgsipdp]]
 
 ## Fonte integral
 
-- `raw/tre-pr-portaria-247-2021-dpo-lgpd.md`
+- `references/raw/tre-pr-portaria-247-2021-dpo-lgpd.md`
 - Publicação/URL registrada: https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-presidencia-tre-pr/2021/portaria-ndeg-247-de
 
 ## Nota de qualidade

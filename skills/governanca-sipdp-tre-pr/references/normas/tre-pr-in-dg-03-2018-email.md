@@ -7,7 +7,7 @@ status: revogada
 curadoria: completa
 escopo: contextual
 status_verificacao: "Revogada/superada; tema de e-mail regulado em normativo posterior; verificado em 2026-08-26."
-sources: [raw/tre-pr-in-dg-03-2018-email.md]
+sources: [references/raw/tre-pr-in-dg-03-2018-email.md]
 tags: [norma, tre-pr]
 ---
 
@@ -39,9 +39,9 @@ source_url: "https://apps.tre-pr.jus.br/files/legislacaocompilada/in/2018/in0320
 
 ## Interpretação operacional
 
-- Consultar o texto integral em `raw/` para o teor exato.
+- Consultar o texto integral em `references/raw/` para o teor exato.
 - Verificar a norma sucessora (quando identificada) antes de usar.
 
 ## Fonte
 
-- `raw/tre-pr-in-dg-03-2018-email.md`
+- `references/raw/tre-pr-in-dg-03-2018-email.md`

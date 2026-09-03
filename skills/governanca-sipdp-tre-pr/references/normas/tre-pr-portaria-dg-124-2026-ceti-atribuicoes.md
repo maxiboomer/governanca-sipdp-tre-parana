@@ -14,7 +14,7 @@ confidence: high
 fonte_publicacao: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2026/portaria-ndeg-124-de-17-de-marco-de-2026"
 data_publicacao: "17/03/2026"
 tags: [norma, tre-pr, seguranca-informacao, governanca-ti, si-pdp, ceti]
-sources: [raw/tre-pr-portaria-dg-124-2026.md]
+sources: [references/raw/tre-pr-portaria-dg-124-2026.md]
 ---
 
 # Portaria DG TRE-PR 124/2026 — CETI (atribuições)
@@ -23,7 +23,7 @@ sources: [raw/tre-pr-portaria-dg-124-2026.md]
 
 Esta norma integra o corpus de **SI/PDP e governança tecnológica** do TRE-PR. Dispõe sobre a
 composição e as atribuições do Comitê Executivo de Tecnologia da Informação (CETI) e **revoga**
-as Portarias DG 425/2018 e 502/2022. Fonte bruta preservada em `raw/tre-pr-portaria-dg-124-2026.md`.
+as Portarias DG 425/2018 e 502/2022. Fonte bruta preservada em `references/raw/tre-pr-portaria-dg-124-2026.md`.
 
 ## Objeto (síntese da ementa / texto oficial)
 
@@ -53,12 +53,12 @@ da Secretaria (Res. TRE-PR 971/2026).
 
 ## Relações
 
-- [[wiki/entities/secti]]
-- [[wiki/concepts/governanca-ti]]
+- [[references/entities/secti]]
+- [[references/concepts/governanca-ti]]
 
 ## Fonte integral
 
-- `raw/tre-pr-portaria-dg-124-2026.md`
+- `references/raw/tre-pr-portaria-dg-124-2026.md`
 - Publicação/URL registrada: https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2026/portaria-ndeg-124-de-17-de-marco-de-2026
 
 ## Nota de qualidade

@@ -8,7 +8,7 @@ curadoria: completa
 escopo: central-si-pdp
 status_verificacao: "Revisão do texto integral e da publicação oficial registrada no corpus; confirmar alterações posteriores antes de uso jurídico."
 confidence: medium
-sources: [raw/tre-pr-in-dg-05-2019-etir.md]
+sources: [references/raw/tre-pr-in-dg-05-2019-etir.md]
 tags: [norma, seguranca-informacao, si-pdp]
 source_url: "https://apps.tre-pr.jus.br/files/legislacaocompilada/in/2019/in052019.html"
 ---
@@ -17,7 +17,7 @@ source_url: "https://apps.tre-pr.jus.br/files/legislacaocompilada/in/2019/in0520
 
 ## Síntese executiva
 
-Esta norma é relevante para **segurança da informação, proteção de dados pessoais ou governança de TI** no TRE-PR/Justiça Eleitoral. A síntese abaixo foi extraída do texto integral em `raw/tre-pr-in-dg-05-2019-etir.md`; o arquivo bruto permanece imutável.
+Esta norma é relevante para **segurança da informação, proteção de dados pessoais ou governança de TI** no TRE-PR/Justiça Eleitoral. A síntese abaixo foi extraída do texto integral em `references/raw/tre-pr-in-dg-05-2019-etir.md`; o arquivo bruto permanece imutável.
 
 **Situação registrada:** `vigente`. vigência indicada pela publicação oficial existente no corpus; revalidar periodicamente.
 
@@ -45,12 +45,12 @@ Esta norma é relevante para **segurança da informação, proteção de dados p
 
 ## Relações
 
-[[wiki/entities/etir]]
-- [[wiki/normas/resolucao-tre-pr-962-2025]]
+[[references/entities/etir]]
+- [[references/normas/resolucao-tre-pr-962-2025]]
 
 ## Fonte e vigência
 
-- Fonte integral: `raw/tre-pr-in-dg-05-2019-etir.md`
+- Fonte integral: `references/raw/tre-pr-in-dg-05-2019-etir.md`
 - Publicação registrada: https://apps.tre-pr.jus.br/files/legislacaocompilada/in/2019/in052019.html
 - Verificação realizada em: 2026-08-26
 - Situação para uso: **não presumir vigência além do que está documentado acima**.

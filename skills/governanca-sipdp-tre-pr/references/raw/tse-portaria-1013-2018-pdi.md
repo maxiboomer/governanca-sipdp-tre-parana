@@ -1,16 +1,16 @@
 ---
-title: "Portaria TSE 1.013/2018 - Política de Preservação Digital da Justiça Eleitoral"
+title: Portaria TSE 1.013/2018 - Política de Preservação Digital da Justiça Eleitoral
 type: fonte-normativa
-fonte: "Tribunal Superior Eleitoral"
-url: "https://www.tse.jus.br/legislacao/compilada/prt/2018/portaria-no-1013-de-23-de-novembro-de-2018"
-data_publicacao: "23/11/2018"
-status: "vigente"
+fonte: Tribunal Superior Eleitoral
+url: https://www.tse.jus.br/legislacao/compilada/prt/2018/portaria-no-1013-de-23-de-novembro-de-2018
+data_publicacao: 23/11/2018
+status: vigente
 created: 2026-08-05
 updated: 2026-08-05
 tags: [tse, digital-preservation, arquivamento, paleo]
-dje: "DJE-TSE, nº 237, de 30.11.2018, p. 24-28"
+dje: DJE-TSE, nº 237, de 30.11.2018, p. 24-28
+sha256: da4ef3946dcbced5c6ad47ae9c1cadfd982c02bc15784ed271cfefaeacc52f59
 ---
-
 # PORTARIA Nº 1.013, DE 23 DE NOVEMBRO DE 2018
 
 **Institui Política de Preservação Digital da Justiça Eleitoral.**

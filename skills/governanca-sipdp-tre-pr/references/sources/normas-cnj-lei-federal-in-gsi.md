@@ -20,7 +20,7 @@ Lei 12.527/2011 (LAI) e IN GSI/PR 003/2021 (SGSI). Total de 8 documentos.
 ## Key Takeaways
 
 - Texto original extraído dos portais oficiais (cnj.jus.br, planalto.gov.br, gov.br).
-- Cada arquivo em `raw/` preserva o texto normativo integral + metadados (URL, data, status).
+- Cada arquivo em `references/raw/` preserva o texto normativo integral + metadados (URL, data, status).
 - Aplicáveis em conjunto com as normas locais (ex.: CNJ 363/2021 ↔ PGPPDP TSE 23.650/2021).
 
 ## Documentos (8)
@@ -44,7 +44,7 @@ Lei 12.527/2011 (LAI) e IN GSI/PR 003/2021 (SGSI). Total de 8 documentos.
 
 ## Raw Source
 
-Fonte primária: `raw/`.
+Fonte primária: `references/raw/`.
 
 ## Processing Notes
 

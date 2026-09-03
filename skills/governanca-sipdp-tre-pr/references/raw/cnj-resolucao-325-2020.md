@@ -1,15 +1,16 @@
 ---
-title: "Resolução CNJ 325/2020 - Estratégia Nacional do Poder Judiciário 2021-2026"
+title: Resolução CNJ 325/2020 - Estratégia Nacional do Poder Judiciário 2021-2026
 type: fonte-normativa
-fonte: "Conselho Nacional de Justiça"
-url: "https://atos.cnj.jus.br/atos/detalhar/3365"
-data_publicacao: "29/06/2020"
-status: "alterado"
-observacao: "Alterada pela Resolução CNJ nº 463/2022 e Portaria CNJ nº 24/2026"
+fonte: Conselho Nacional de Justiça
+url: https://atos.cnj.jus.br/atos/detalhar/3365
+data_publicacao: 29/06/2020
+status: alterado
 created: 2026-08-07
 updated: 2026-08-07
 tags: [cnj, estrategia-nacional, governanca, gestao-estrategica, gestao-de-riscos, macrodesafios]
-dje: "DJe/CNJ nº 201, de 30/06/2020, p. 2-10"
+observacao: Alterada pela Resolução CNJ nº 463/2022 e Portaria CNJ nº 24/2026
+dje: DJe/CNJ nº 201, de 30/06/2020, p. 2-10
+sha256: 117ce8ee69c18255a8a74a1eae79b36cab8e47d7925850366d1cf6ca5d551b9e
 ---
 # RESOLUÇÃO Nº 325, DE 29 DE JUNHO DE 2020
 

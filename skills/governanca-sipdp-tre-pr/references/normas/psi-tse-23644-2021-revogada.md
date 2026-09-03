@@ -7,7 +7,7 @@ tags: [tse, psi, revogada, seguranca-informacao, tre-pr]
 status: revogada
 curadoria: completa
 escopo: contextual
-sources: [raw/psi-tse-23644-2021-revogada.md]
+sources: [references/raw/psi-tse-23644-2021-revogada.md]
 status_verificacao: "Verificado em 2026-08-26; consultar DJE/DOU para citação formal."
 ---
 

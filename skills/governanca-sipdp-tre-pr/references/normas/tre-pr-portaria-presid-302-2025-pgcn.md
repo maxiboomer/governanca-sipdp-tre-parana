@@ -8,7 +8,7 @@ updated: 2026-08-26
 status: vigente
 curadoria: completa
 escopo: contextual
-sources: [raw/tre-pr-portaria-presid-302-2025-pgcn.md]
+sources: [references/raw/tre-pr-portaria-presid-302-2025-pgcn.md]
 status_verificacao: "Verificado em 2026-08-26; consultar DJE/DOU para citação formal."
 ---
 
@@ -48,4 +48,4 @@ Institui a PGCN no TRE-PR, alinhada à ISO 22301/22313, LGPD, ENSEC-PJ (CNJ 396/
 
 ## Raw Source
 
-Source: `raw/tre-pr-portaria-presid-302-2025-pgcn.md`
+Source: `references/raw/tre-pr-portaria-presid-302-2025-pgcn.md`

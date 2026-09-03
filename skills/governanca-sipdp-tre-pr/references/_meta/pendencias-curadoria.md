@@ -13,7 +13,7 @@ tags: [metadados, curadoria, vigencia]
 
 ## Prioridade 1 — SI/PDP e governança diretamente operacional
 
-- Classificação inicial aplicada aos stubs; consultar `wiki/_meta/classificacao-normas.md`.
+- Classificação inicial aplicada aos stubs; consultar `references/_meta/classificacao-normas.md`.
 - Curar prioritariamente as páginas com `escopo: central-si-pdp`.
 - Confirmar no DJE/DOU a vigência das normas marcadas como `não-confirmada`.
 - Relacionar sucessoras, alterações e revogações com links entre as páginas.
@@ -26,7 +26,7 @@ tags: [metadados, curadoria, vigencia]
 ## Prioridade 3 — arquivo histórico e fora de escopo
 
 - Identificar normas revogadas sem efeito residual e arquivá-las em `_archive/normas/`.
-- Manter o texto integral correspondente em `raw/`.
+- Manter o texto integral correspondente em `references/raw/`.
 - Não investir em portarias casuísticas, calendários, designações e matérias sem relação com SI/PDP.
 
 ## Regra de segurança

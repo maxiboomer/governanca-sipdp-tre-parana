@@ -7,7 +7,7 @@ status: revogada
 curadoria: completa
 escopo: contextual
 status_verificacao: "Substituição de designação; ato superado; verificado em 2026-08-26."
-sources: [raw/tse-portaria-302-2025-substituicao-assessor-chefe.md]
+sources: [references/raw/tse-portaria-302-2025-substituicao-assessor-chefe.md]
 tags: [norma, tre-pr]
 ---
 
@@ -25,7 +25,7 @@ title: "TSE Portaria 302/2025 - Substituição Assessor-Chefe"
 
 ## Disposições relevantes
 
-- (Ver disposições no texto integral em `raw/`.)
+- (Ver disposições no texto integral em `references/raw/`.)
 
 **Indícios de revogação/substituição no texto:**
 - Revoga Portaria TSE 616/2024
@@ -33,9 +33,9 @@ title: "TSE Portaria 302/2025 - Substituição Assessor-Chefe"
 
 ## Interpretação operacional
 
-- Consultar o texto integral em `raw/` para o teor exato.
+- Consultar o texto integral em `references/raw/` para o teor exato.
 - Verificar a norma sucessora (quando identificada) antes de usar.
 
 ## Fonte
 
-- `raw/tse-portaria-302-2025-substituicao-assessor-chefe.md`
+- `references/raw/tse-portaria-302-2025-substituicao-assessor-chefe.md`

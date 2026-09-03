@@ -7,7 +7,7 @@ tags: [lai, tribel-pr, classificacao, seguranca]
 status: vigente
 curadoria: completa
 escopo: contextual
-sources: [raw/lai-tre-pr-855-2020.md]
+sources: [references/raw/lai-tre-pr-855-2020.md]
 status_verificacao: "Verificado em 2026-08-26; consultar DJE/DOU para citação formal."
 ---
 

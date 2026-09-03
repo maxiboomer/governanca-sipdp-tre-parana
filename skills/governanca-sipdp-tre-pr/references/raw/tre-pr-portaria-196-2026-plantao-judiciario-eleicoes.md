@@ -1,16 +1,16 @@
 ---
-title: "TRE-PR Portaria 196/2026 - Plantao Judiciario Eleicoes 2026"
+title: TRE-PR Portaria 196/2026 - Plantao Judiciario Eleicoes 2026
 type: fonte-normativa
-fonte: "Tribunal Regional Eleitoral do Paraná"
-url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-presidencia-tre-pr/2026/portaria-ndeg-196-de-17-de-junho-de-2026"
-data_publicacao: "17/06/2026"
-status: "vigente"
-observacao: "Define o plantão judiciário nos Cartórios Eleitorais e na Secretaria do TRE-PR nas Eleições 2026."
+fonte: Tribunal Regional Eleitoral do Paraná
+url: https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-presidencia-tre-pr/2026/portaria-ndeg-196-de-17-de-junho-de-2026
+data_publicacao: 17/06/2026
+status: vigente
 created: 2026-08-05
 updated: 2026-08-05
 tags: [tre-pr, portaria, plantao, eleicoes-2026, judiciaria]
+observacao: Define o plantão judiciário nos Cartórios Eleitorais e na Secretaria do TRE-PR nas Eleições 2026.
+sha256: 149a236d748df34b0b530c35b8136a2154136a3986c2c4e1139e73edec0dd36d
 ---
-
 # PORTARIA Nº 196, DE 17 DE JUNHO DE 2026
 
 **Define o plantão judiciário nas Eleições 2026.**

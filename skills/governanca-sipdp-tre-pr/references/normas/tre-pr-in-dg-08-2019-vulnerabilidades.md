@@ -8,7 +8,7 @@ status_verificacao: "IN DG 08/2019 compilada no portal TRE-PR; gestão de vulner
 fonte_publicacao: "https://apps.tre-pr.jus.br/files/legislacaocompilada/in/2019/in082019.html"
 data_publicacao: ""
 tags: [norma, curadoria, si-pdp]
-sources: [raw/tre-pr-in-dg-08-2019-vulnerabilidades.md]
+sources: [references/raw/tre-pr-in-dg-08-2019-vulnerabilidades.md]
 curadoria: completa
 escopo: contextual
 ---
@@ -17,7 +17,7 @@ escopo: contextual
 
 ## Finalidade e escopo
 
-Esta norma integra o corpus de **SI/PDP e governança tecnológica**. A página foi curada a partir do texto integral preservado em `raw/tre-pr-in-dg-08-2019-vulnerabilidades.md`; a fonte bruta permanece imutável.
+Esta norma integra o corpus de **SI/PDP e governança tecnológica**. A página foi curada a partir do texto integral preservado em `references/raw/tre-pr-in-dg-08-2019-vulnerabilidades.md`; a fonte bruta permanece imutável.
 
 A finalidade específica deve ser interpretada diretamente com o texto integral e as normas supervenientes.
 
@@ -42,12 +42,12 @@ A finalidade específica deve ser interpretada diretamente com o texto integral 
 
 ## Relações
 
-[[wiki/concepts/seguranca-informacao-justica-eleitoral]]
-- [[wiki/entities/secti]]
+[[references/concepts/seguranca-informacao-justica-eleitoral]]
+- [[references/entities/secti]]
 
 ## Fonte integral
 
-- `raw/tre-pr-in-dg-08-2019-vulnerabilidades.md`
+- `references/raw/tre-pr-in-dg-08-2019-vulnerabilidades.md`
 - Publicação/URL registrada: https://apps.tre-pr.jus.br/files/legislacaocompilada/in/2019/in082019.html
 
 ## Nota de qualidade

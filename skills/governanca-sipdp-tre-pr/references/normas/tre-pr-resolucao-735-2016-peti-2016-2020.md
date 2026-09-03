@@ -7,7 +7,7 @@ status: histórica
 curadoria: completa
 escopo: contextual
 status_verificacao: "PETI 2016-2020; período encerrado; verificado em 2026-08-26."
-sources: [raw/tre-pr-resolucao-735-2016-peti-2016-2020.md]
+sources: [references/raw/tre-pr-resolucao-735-2016-peti-2016-2020.md]
 tags: [norma, tre-pr]
 ---
 
@@ -35,9 +35,9 @@ source_url: "https://apps.tre-pr.jus.br/files/legislacaocompilada/res/2016/Res07
 
 ## Interpretação operacional
 
-- Consultar o texto integral em `raw/` para o teor exato.
+- Consultar o texto integral em `references/raw/` para o teor exato.
 - Verificar a norma sucessora (quando identificada) antes de usar.
 
 ## Fonte
 
-- `raw/tre-pr-resolucao-735-2016-peti-2016-2020.md`
+- `references/raw/tre-pr-resolucao-735-2016-peti-2016-2020.md`

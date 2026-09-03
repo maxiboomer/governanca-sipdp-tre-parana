@@ -1,16 +1,16 @@
 ---
-title: "TRE-Pr Resolução 906/2022 - Altera Recuo Judicial"
+title: TRE-Pr Resolução 906/2022 - Altera Recuo Judicial
 type: fonte-normativa
-fonte: "Tribunal Regional Eleitoral do Paraná"
-url: "https://www.tre-pr.jus.br/legislacao/resolucoes-do-tre-pr/arquivos/tre-pr-resolucao-n-o-906-de-29-de-novembro-de-2022"
-data_publicacao: "29/11/2022"
-status: "vigente"
-observacao: "Altera a Resolução nº 844/2019, com vistas a contemplar inovações legislativas. Ref. PAD 019509/2021."
+fonte: Tribunal Regional Eleitoral do Paraná
+url: https://www.tre-pr.jus.br/legislacao/resolucoes-do-tre-pr/arquivos/tre-pr-resolucao-n-o-906-de-29-de-novembro-de-2022
+data_publicacao: 29/11/2022
+status: vigente
 created: 2026-08-05
 updated: 2026-08-05
 tags: [tre-pr, recesso-judicial, plantao]
+observacao: Altera a Resolução nº 844/2019, com vistas a contemplar inovações legislativas. Ref. PAD 019509/2021.
+sha256: 2546379022ef96b5aa78ad22345fdd808247e16c356c2e6b3a0d291cd466973c
 ---
-
 # RESOLUÇÃO Nº 906, DE 29 DE NOVEMBRO DE 2022
 
 **Altera a Resolução nº 844/2019.**

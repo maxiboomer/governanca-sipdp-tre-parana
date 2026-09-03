@@ -11,7 +11,7 @@ tags: [metadados, qualidade, lint]
 
 # Relatório de qualidade
 
-Validação executada em 2026-08-26 pelo script `wiki/_meta/lint_vault.py`.
+Validação executada em 2026-08-26 pelo script `references/_meta/lint_vault.py`.
 
 - Páginas wiki: **205**
 - Stubs normativos restantes: **127**

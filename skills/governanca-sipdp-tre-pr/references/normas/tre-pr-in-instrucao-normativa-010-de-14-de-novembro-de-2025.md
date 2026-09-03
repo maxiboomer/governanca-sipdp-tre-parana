@@ -8,7 +8,7 @@ updated: 2026-08-26
 status: vigente
 curadoria: completa
 escopo: contextual
-sources: [raw/tre-pr-in-instrucao-normativa-010-de-14-de-novembro-de-2025.md]
+sources: [references/raw/tre-pr-in-instrucao-normativa-010-de-14-de-novembro-de-2025.md]
 status_verificacao: "Verificado em 2026-08-26; consultar DJE/DOU para citação formal."
 ---
 
@@ -50,4 +50,4 @@ A IN 010 fundamenta a competência da Diretoria-Geral no **art. 43, VII, da Reso
 
 ## Raw Source
 
-Source: `raw/tre-pr-in-instrucao-normativa-010-de-14-de-novembro-de-2025.md`
+Source: `references/raw/tre-pr-in-instrucao-normativa-010-de-14-de-novembro-de-2025.md`

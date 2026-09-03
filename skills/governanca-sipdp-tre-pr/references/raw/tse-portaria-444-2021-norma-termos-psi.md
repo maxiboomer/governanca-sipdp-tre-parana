@@ -1,16 +1,16 @@
 ---
-title: "Portaria TSE 444/2021 - Norma de Termos e Definições da PSI"
+title: Portaria TSE 444/2021 - Norma de Termos e Definições da PSI
 type: fonte-normativa
-fonte: "Tribunal Superior Eleitoral"
-url: "https://www.tse.jus.br/legislacao/compilada/prt/2021/portaria-no-444-de-08-de-julho-de-2021"
-data_publicacao: "08/07/2021"
-status: "vigente"
-observacao: "Institui a norma de termos e definições da Política de Segurança da Informação do TSE. Atualiza glossário da Resolução 23.501/2016."
+fonte: Tribunal Superior Eleitoral
+url: https://www.tse.jus.br/legislacao/compilada/prt/2021/portaria-no-444-de-08-de-julho-de-2021
+data_publicacao: 08/07/2021
+status: vigente
 created: 2026-08-05
 updated: 2026-08-05
 tags: [tse, seguranca-informacao, psi, glossario]
+observacao: Institui a norma de termos e definições da Política de Segurança da Informação do TSE. Atualiza glossário da Resolução 23.501/2016.
+sha256: f200135b492674799378d48193b6f844d9c9ea2fc1b60f422f628c814773d314
 ---
-
 # PORTARIA Nº 444, DE 8 DE JULHO DE 2021
 
 **Dispõe sobre a instituição da norma de termos e definições relativa à Política de Segurança da Informação do Tribunal Superior Eleitoral.**

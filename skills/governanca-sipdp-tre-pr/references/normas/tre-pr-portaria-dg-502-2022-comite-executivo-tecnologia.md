@@ -8,7 +8,7 @@ curadoria: completa
 escopo: central-si-pdp
 status_verificacao: "Revisão do texto integral e da publicação oficial registrada no corpus; confirmar alterações posteriores antes de uso jurídico."
 confidence: medium
-sources: [raw/tre-pr-portaria-dg-502-2022-comite-executivo-tecnologia.md]
+sources: [references/raw/tre-pr-portaria-dg-502-2022-comite-executivo-tecnologia.md]
 tags: [norma, seguranca-informacao, si-pdp]
 source_url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2022/portaria-no-502-de-14-de-outubro-de-2022"
 ---
@@ -17,7 +17,7 @@ source_url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretor
 
 ## Síntese executiva
 
-Esta norma é relevante para **segurança da informação, proteção de dados pessoais ou governança de TI** no TRE-PR/Justiça Eleitoral. A síntese abaixo foi extraída do texto integral em `raw/tre-pr-portaria-dg-502-2022-comite-executivo-tecnologia.md`; o arquivo bruto permanece imutável.
+Esta norma é relevante para **segurança da informação, proteção de dados pessoais ou governança de TI** no TRE-PR/Justiça Eleitoral. A síntese abaixo foi extraída do texto integral em `references/raw/tre-pr-portaria-dg-502-2022-comite-executivo-tecnologia.md`; o arquivo bruto permanece imutável.
 
 **Situação registrada:** `revogada`. Revogada expressamente pela **Portaria DG TRE-PR 124/2026**, art. 4º (DJE-TRE-PR nº 050, 19/03/2026, p. 11-12), que reestabelece a composição e as atribuições do CETI. Confirmação obtida de fonte oficial em 2026-08-29.
 
@@ -33,12 +33,12 @@ Esta norma é relevante para **segurança da informação, proteção de dados p
 
 ## Relações
 
-[[wiki/entities/cgsipdp]]
-- [[wiki/entities/secti]]
+[[references/entities/cgsipdp]]
+- [[references/entities/secti]]
 
 ## Fonte e vigência
 
-- Fonte integral: `raw/tre-pr-portaria-dg-502-2022-comite-executivo-tecnologia.md`
+- Fonte integral: `references/raw/tre-pr-portaria-dg-502-2022-comite-executivo-tecnologia.md`
 - Publicação registrada: https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2022/portaria-no-502-de-14-de-outubro-de-2022
 - Verificação realizada em: 2026-08-26
 - Situação para uso: **não presumir vigência além do que está documentado acima**.

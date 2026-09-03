@@ -7,7 +7,7 @@ tags: [cnj, lgpd, tribunais]
 status: vigente
 curadoria: completa
 escopo: contextual
-sources: [raw/cnj-resolucao-363-2021.md]
+sources: [references/raw/cnj-resolucao-363-2021.md]
 status_verificacao: "Verificado em 2026-08-26; consultar DJE/DOU para citação formal."
 ---
 

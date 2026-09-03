@@ -8,7 +8,7 @@ curadoria: completa
 escopo: central-si-pdp
 status_verificacao: "Revisão do texto integral e da publicação oficial registrada no corpus; confirmar alterações posteriores antes de uso jurídico."
 confidence: medium
-sources: [raw/in-gsi-pr-003-2021-gestao-seguranca-informacao.md]
+sources: [references/raw/in-gsi-pr-003-2021-gestao-seguranca-informacao.md]
 tags: [norma, seguranca-informacao, si-pdp]
 source_url: "https://www.gov.br/gsi/pt-br/seguranca-da-informacao-e-cibernetica/legislacao/copy_of_IN03_consolidada.pdf"
 ---
@@ -17,7 +17,7 @@ source_url: "https://www.gov.br/gsi/pt-br/seguranca-da-informacao-e-cibernetica/
 
 ## Síntese executiva
 
-Esta norma é relevante para **segurança da informação, proteção de dados pessoais ou governança de TI** no TRE-PR/Justiça Eleitoral. A síntese abaixo foi extraída do texto integral em `raw/in-gsi-pr-003-2021-gestao-seguranca-informacao.md`; o arquivo bruto permanece imutável.
+Esta norma é relevante para **segurança da informação, proteção de dados pessoais ou governança de TI** no TRE-PR/Justiça Eleitoral. A síntese abaixo foi extraída do texto integral em `references/raw/in-gsi-pr-003-2021-gestao-seguranca-informacao.md`; o arquivo bruto permanece imutável.
 
 **Situação registrada:** `revogada`. substituída pelas normas posteriores do GSI/PR; confirmar ato sucessor específico.
 
@@ -45,12 +45,12 @@ Esta norma é relevante para **segurança da informação, proteção de dados p
 
 ## Relações
 
-[[wiki/concepts/seguranca-informacao-justica-eleitoral]]
-- [[wiki/concepts/lgpd-fundamentos]]
+[[references/concepts/seguranca-informacao-justica-eleitoral]]
+- [[references/concepts/lgpd-fundamentos]]
 
 ## Fonte e vigência
 
-- Fonte integral: `raw/in-gsi-pr-003-2021-gestao-seguranca-informacao.md`
+- Fonte integral: `references/raw/in-gsi-pr-003-2021-gestao-seguranca-informacao.md`
 - Publicação registrada: https://www.gov.br/gsi/pt-br/seguranca-da-informacao-e-cibernetica/legislacao/copy_of_IN03_consolidada.pdf
 - Verificação realizada em: 2026-08-26
 - Situação para uso: **não presumir vigência além do que está documentado acima**.

@@ -7,7 +7,7 @@ status: histórica
 curadoria: completa
 escopo: contextual
 status_verificacao: "PDTI 2021-2022; período encerrado; verificado em 2026-08-26."
-sources: [raw/tre-pr-portaria-presid-350-2021-pdti-2021-2022.md]
+sources: [references/raw/tre-pr-portaria-presid-350-2021-pdti-2021-2022.md]
 tags: [norma, tre-pr]
 ---
 
@@ -25,13 +25,13 @@ title: "Portaria TRE-PR 350/2021 - Plano Diretor TI 2021-2022"
 
 ## Disposições relevantes
 
-- (Ver disposições no texto integral em `raw/`.)
+- (Ver disposições no texto integral em `references/raw/`.)
 
 ## Interpretação operacional
 
-- Consultar o texto integral em `raw/` para o teor exato.
+- Consultar o texto integral em `references/raw/` para o teor exato.
 - Verificar a norma sucessora (quando identificada) antes de usar.
 
 ## Fonte
 
-- `raw/tre-pr-portaria-presid-350-2021-pdti-2021-2022.md`
+- `references/raw/tre-pr-portaria-presid-350-2021-pdti-2021-2022.md`

@@ -1,16 +1,16 @@
 ---
-title: "TRE-PR Portaria DG 171/2026 - Acordo Nivel de Servico"
+title: TRE-PR Portaria DG 171/2026 - Acordo Nivel de Servico
 type: fonte-normativa
-fonte: "Tribunal Regional Eleitoral do Paraná"
-url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2026/portaria-no-171-de-10-de-abril-de-2026"
-data_publicacao: "10/04/2026"
-status: "vigente"
-observacao: "Aprova Acordo de Nível de Serviço (ANS) entre SECTI e usuários de TI. Base: Resolução CNJ 370/2021, Norma Técnica SECTI 06/2020."
+fonte: Tribunal Regional Eleitoral do Paraná
+url: https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2026/portaria-no-171-de-10-de-abril-de-2026
+data_publicacao: 10/04/2026
+status: vigente
 created: 2026-08-05
 updated: 2026-08-05
 tags: [tre-pr, ans, nivel-servico, tecnologia, service-level-agreement]
+observacao: Aprova Acordo de Nível de Serviço (ANS) entre SECTI e usuários de TI. Base: Resolução CNJ 370/2021, Norma Técnica SECTI 06/2020.
+sha256: fc6dafe9aada561dabf0ed9a3c2e3e504412e35f1fcdd50242331831f558d86c
 ---
-
 # PORTARIA Nº 171, DE 10 DE ABRIL DE 2026
 
 **Aprova o Acordo de Nível de Serviço (ANS) que, entre si, celebram a Secretaria de Tecnologia da Informação (SECTI) e os usuários de recursos de tecnologia da informação e comunicação da Justiça Eleitoral do Paraná.**

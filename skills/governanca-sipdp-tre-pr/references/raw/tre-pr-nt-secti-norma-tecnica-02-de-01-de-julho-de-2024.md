@@ -1,11 +1,11 @@
 ---
-title: "NORMA TÉCNICA Nº 02, DE 01 DE JULHO DE 2024. — Tribunal Regional Eleitoral do Paraná"
+title: NORMA TÉCNICA Nº 02, DE 01 DE JULHO DE 2024. — Tribunal Regional Eleitoral do Paraná
 type: fonte-normativa
-source_url: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2024/norma-tecnica-no-02-de-01-de-julho-de-2024"
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2024/norma-tecnica-no-02-de-01-de-julho-de-2024
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: 8af4f80c3396f83a64f75986008e8e48bfd27fc22997118662e3a4597e0751fc
 ---
-
 NORMA TÉCNICA Nº 02, DE 01 DE JULHO DE 2024. — Tribunal Regional Eleitoral do Paraná
 
 Acessibilidade

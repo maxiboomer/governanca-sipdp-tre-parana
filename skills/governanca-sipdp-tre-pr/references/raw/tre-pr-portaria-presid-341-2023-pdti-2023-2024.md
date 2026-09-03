@@ -1,11 +1,11 @@
 ---
-title: "PORTARIA N° 341, DE 16 DE AGOSTO DE 2023. — Tribunal Regional Eleitoral do Paraná"
+title: PORTARIA N° 341, DE 16 DE AGOSTO DE 2023. — Tribunal Regional Eleitoral do Paraná
 type: fonte-normativa
-source_url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-presidencia-tre-pr/2023/portaria-ndeg-341-de-03-de-agosto-de-2023"
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-presidencia-tre-pr/2023/portaria-ndeg-341-de-03-de-agosto-de-2023
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: 4b73a3cec33923ecf9e3928e2d9c6b8fbd3c74527479c0aa37cabeed90d16e0a
 ---
-
 PORTARIA N° 341, DE 16 DE AGOSTO DE 2023. — Tribunal Regional Eleitoral do Paraná
 
 Acessibilidade

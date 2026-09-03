@@ -7,7 +7,7 @@ status: vigente
 curadoria: completa
 escopo: apoio-governanca-ti
 status_verificacao: "Extraída do compilado oficial do TRE-PR em 2026-08-26; publicação no DJE confirmada."
-sources: [raw/tre-pr-resolucao-958-2025-pje.md]
+sources: [references/raw/tre-pr-resolucao-958-2025-pje.md]
 tags: [norma, tre-pr, apoio-governanca-ti]
 source_url: "https://www.tre-pr.jus.br/legislacao/compilada/resolucoes-tre-pr/2025/resolucao-no-958-de-13-de-outubro-de-2025"
 ---
@@ -30,7 +30,7 @@ Processos judiciais tramitam exclusivamente via PJe (1º e 2º grau); procedimen
 
 ## Fonte e vigência
 
-- Fonte integral: `raw/tre-pr-resolucao-958-2025-pje.md`
+- Fonte integral: `references/raw/tre-pr-resolucao-958-2025-pje.md`
 - URL oficial: https://www.tre-pr.jus.br/legislacao/compilada/resolucoes-tre-pr/2025/resolucao-no-958-de-13-de-outubro-de-2025
 - Publicação: DJE-TRE-PR nº 202, de 17/10/2025, p. 90-92
 - Verificação: 2026-08-26

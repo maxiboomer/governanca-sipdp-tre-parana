@@ -1,11 +1,11 @@
 ---
-title: "NORMA TÉCNICA Nº 09, DE 04 DE SETEMBRO DE 2020. — Tribunal Regional Eleitoral do Paraná"
+title: NORMA TÉCNICA Nº 09, DE 04 DE SETEMBRO DE 2020. — Tribunal Regional Eleitoral do Paraná
 type: fonte-normativa
-source_url: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2020/norma-tecnica-no-09-de-04-de-setembro-de-2020"
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2020/norma-tecnica-no-09-de-04-de-setembro-de-2020
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: f8512a8c67724a3f3a7a79feecd210b81df45082f4c36210fd2eebdb66495d45
 ---
-
 NORMA TÉCNICA Nº 09, DE 04 DE SETEMBRO DE 2020. — Tribunal Regional Eleitoral do Paraná
 
 Acessibilidade

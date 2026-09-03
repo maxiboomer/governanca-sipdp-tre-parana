@@ -7,7 +7,7 @@ status: revogada
 curadoria: completa
 escopo: contextual
 status_verificacao: "Institui o CETI; atos posteriores reestruturam o comitê; verificado em 2026-08-26."
-sources: [raw/tre-pr-portaria-dg-425-2018-institui-ceti.md]
+sources: [references/raw/tre-pr-portaria-dg-425-2018-institui-ceti.md]
 tags: [norma, tre-pr]
 ---
 
@@ -35,9 +35,9 @@ source_url: "https://apps.tre-pr.jus.br/files/legislacaocompilada/port dg/2018/p
 
 ## Interpretação operacional
 
-- Consultar o texto integral em `raw/` para o teor exato.
+- Consultar o texto integral em `references/raw/` para o teor exato.
 - Verificar a norma sucessora (quando identificada) antes de usar.
 
 ## Fonte
 
-- `raw/tre-pr-portaria-dg-425-2018-institui-ceti.md`
+- `references/raw/tre-pr-portaria-dg-425-2018-institui-ceti.md`

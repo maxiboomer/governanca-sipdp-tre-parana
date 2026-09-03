@@ -15,12 +15,12 @@ escopo: contextual
 ## Summary
 
 Ordens de Serviço do TRE-PR (criptografia, MDS, equipamentos de TI). Coletadas automaticamente em 06/08/2026 a partir do acervo compilado oficial dos portais
-[[wiki/inventarios/normas-tre-pr-tse|inventário SECTI]] do TRE-PR/TSE. Total de 3 documentos.
+[[references/inventarios/normas-tre-pr-tse|inventário SECTI]] do TRE-PR/TSE. Total de 3 documentos.
 
 ## Key Takeaways
 
 - Texto original extraído dos portais oficiais (tre-pr.jus.br, tse.jus.br, cnj.jus.br).
-- Cada arquivo em `raw/` preserva o texto normativo integral + metadados (URL, data, status).
+- Cada arquivo em `references/raw/` preserva o texto normativo integral + metadados (URL, data, status).
 - Normas revogadas/indisponíveis estão registradas no inventário, não duplicadas aqui.
 
 ## Documentos (3)
@@ -39,7 +39,7 @@ Ordens de Serviço do TRE-PR (criptografia, MDS, equipamentos de TI). Coletadas 
 
 ## Raw Source
 
-Fonte primária: `raw/` (um arquivo `.md` por norma).
+Fonte primária: `references/raw/` (um arquivo `.md` por norma).
 
 ## Processing Notes
 

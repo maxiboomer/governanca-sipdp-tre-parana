@@ -10,7 +10,7 @@ confidence: medium
 url: "https://www.tse.jus.br/legislacao/compilada/res/2021/resolucao-no-23-650-de-9-de-setembro-de-2021"
 created: 2026-08-26
 updated: 2026-08-26
-sources: [raw/tse-resolucao-23-650-2021-pgppdp.md]
+sources: [references/raw/tse-resolucao-23-650-2021-pgppdp.md]
 ---
 
 # Resolução TSE 23.650/2021 — Política Geral de Privacidade e Proteção de Dados Pessoais (PGPPDP)
@@ -54,12 +54,12 @@ atualmente, Res. TSE 23.763/2026).
 
 ## Relações
 
-- [[wiki/entities/cgsipdp]]
-- [[wiki/concepts/lgpd-fundamentos]]
-- [[wiki/normas/psi-tse-23763-2026]]
+- [[references/entities/cgsipdp]]
+- [[references/concepts/lgpd-fundamentos]]
+- [[references/normas/psi-tse-23763-2026]]
 
 ## Fonte e vigência
 
-- Fonte integral: `raw/tse-resolucao-23-650-2021-pgppdp.md`
+- Fonte integral: `references/raw/tse-resolucao-23-650-2021-pgppdp.md`
 - Publicação: compilado oficial TSE — Resolução 23.650, de 9 de setembro de 2021
 - Verificação: 2026-08-26

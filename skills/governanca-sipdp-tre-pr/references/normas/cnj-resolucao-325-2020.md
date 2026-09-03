@@ -7,7 +7,7 @@ tags: [cnj, estrategia-nacional, governanca, gerenciamento-de-riscos, desastre]
 status: vigente
 curadoria: completa
 escopo: contextual
-sources: [raw/cnj-resolucao-325-2020.md]
+sources: [references/raw/cnj-resolucao-325-2020.md]
 status_verificacao: "Verificado em 2026-08-26; consultar DJE/DOU para citação formal."
 ---
 

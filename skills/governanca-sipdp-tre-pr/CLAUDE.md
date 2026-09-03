@@ -24,10 +24,10 @@ llm-wiki/
 ## Operations
 
 ### Ingest
-1. Read the new source in `raw/`
+1. Read the new source in `references/raw/`
 2. Discuss key takeaways with the human
-3. Write/update `wiki/sources/<name>.md`
-4. Update every `wiki/entities/` and `wiki/concepts/` page
+3. Write/update `references/sources/<name>.md`
+4. Update every `references/entities/` and `references/concepts/` page
 5. Update `index.md` for anything created or changed
 6. Append to `log.md`
 

@@ -1,16 +1,16 @@
 ---
-title: "TRE-PR Portaria DG 486/2024 - Gestao Contratos TI"
+title: TRE-PR Portaria DG 486/2024 - Gestao Contratos TI
 type: fonte-normativa
-fonte: "Tribunal Regional Eleitoral do Paraná"
-url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2024/portaria-no-486-de-15-de-julho-de-2024"
-data_publicacao: "15/07/2024"
-status: "vigente"
-observacao: "Dispõe sobre o processo de Gestão e Fiscalização de Contratos de Tecnologia da Informação. Base: CNJ 370/2021, 468/2022, Guia de Contratações de TI do CNJ."
+fonte: Tribunal Regional Eleitoral do Paraná
+url: https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2024/portaria-no-486-de-15-de-julho-de-2024
+data_publicacao: 15/07/2024
+status: vigente
 created: 2026-08-05
 updated: 2026-08-05
 tags: [tre-pr, contrato-ti, gestao-contratos, tecnologia]
+observacao: Dispõe sobre o processo de Gestão e Fiscalização de Contratos de Tecnologia da Informação. Base: CNJ 370/2021, 468/2022, Guia de Contratações de TI do CNJ.
+sha256: 2fd050245472762c4456e10aad47af5f19bab519db032b6ad4379c10ee33a4d0
 ---
-
 # PORTARIA Nº 486, DE 15 DE JULHO DE 2024
 
 **Dispõe sobre o processo de Gestão e Fiscalização de Contratos de Tecnologia da Informação, no âmbito da Justiça Eleitoral do Paraná.**

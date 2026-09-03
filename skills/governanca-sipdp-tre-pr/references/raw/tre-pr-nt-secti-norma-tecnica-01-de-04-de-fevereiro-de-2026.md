@@ -1,11 +1,11 @@
 ---
-title: "NORMA TÉCNICA Nº 001, DE 04 DE FEVEREIRO DE 2026. — Tribunal Regional Eleitoral do Paraná"
+title: NORMA TÉCNICA Nº 001, DE 04 DE FEVEREIRO DE 2026. — Tribunal Regional Eleitoral do Paraná
 type: fonte-normativa
-source_url: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2026/norma-tecnica-no-01-de-04-de-fevereiro-de-2026"
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2026/norma-tecnica-no-01-de-04-de-fevereiro-de-2026
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: 1755f485a950c2f33778ca1d8c42cc9312be7bb631151f51fbc2071a953dfbf0
 ---
-
 NORMA TÉCNICA Nº 001, DE 04 DE FEVEREIRO DE 2026. — Tribunal Regional Eleitoral do Paraná
 
 Acessibilidade

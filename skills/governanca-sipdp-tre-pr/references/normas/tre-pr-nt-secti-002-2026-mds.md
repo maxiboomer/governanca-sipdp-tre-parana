@@ -10,7 +10,7 @@ status: vigente
 curadoria: completa
 escopo: apoio-governanca-ti
 status_verificacao: "Confirmada no compilado oficial TRE-PR (NT SECTI 002/2026, de 19/03/2026) e com texto integral coletado em 2026-08-31. Publicação: DJE-TRE-PR nº 052, 23/03/2026, p. 08-09."
-sources: [raw/tre-pr-nt-secti-002-2026-mds.md]
+sources: [references/raw/tre-pr-nt-secti-002-2026-mds.md]
 tags: [norma, tre-pr, secti, mds, desenvolvimento-sistemas, governanca-ti]
 source_url: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2026/portaria-ndeg-002-de-19-de-marco-de-2026"
 ---
@@ -19,7 +19,7 @@ source_url: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-s
 
 ## Síntese executiva
 
-**Estabelece a Metodologia de Desenvolvimento de Sistemas (MDS) no âmbito da Justiça Eleitoral do Paraná.** Fonte bruta preservada em `raw/tre-pr-nt-secti-002-2026-mds.md`.
+**Estabelece a Metodologia de Desenvolvimento de Sistemas (MDS) no âmbito da Justiça Eleitoral do Paraná.** Fonte bruta preservada em `references/raw/tre-pr-nt-secti-002-2026-mds.md`.
 
 **Situação registrada:** `vigente`. Publicada no DJE-TRE-PR nº 052, 23/03/2026, p. 08-09.
 
@@ -43,14 +43,14 @@ Fundamenta-se na Res. CNJ 370/2021 (ENTIC-JUD) e no IGOVTIC-JUD 2025 (item 27.2 
 
 ## Relações
 
-- [[wiki/entities/secti]]
-- [[wiki/concepts/monitoramento-normas-secti]]
-- [[wiki/normas/tre-pr-os-08-2017-mds]]
-- [[wiki/normas/tre-pr-portaria-dg-132-2026-revo-os-08-2017-mds]]
+- [[references/entities/secti]]
+- [[references/concepts/monitoramento-normas-secti]]
+- [[references/normas/tre-pr-os-08-2017-mds]]
+- [[references/normas/tre-pr-portaria-dg-132-2026-revo-os-08-2017-mds]]
 
 ## Fonte integral
 
-- `raw/tre-pr-nt-secti-002-2026-mds.md`
+- `references/raw/tre-pr-nt-secti-002-2026-mds.md`
 - Publicação/URL registrada: https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2026/portaria-ndeg-002-de-19-de-marco-de-2026
 
 ## Nota de qualidade

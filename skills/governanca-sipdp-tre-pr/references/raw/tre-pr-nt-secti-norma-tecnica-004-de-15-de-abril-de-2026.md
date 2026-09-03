@@ -1,11 +1,11 @@
 ---
-title: "NORMA TÉCNICA N° 004, DE 15 DE ABRIL DE 2026. — Tribunal Regional Eleitoral do Paraná"
+title: NORMA TÉCNICA N° 004, DE 15 DE ABRIL DE 2026. — Tribunal Regional Eleitoral do Paraná
 type: fonte-normativa
-source_url: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2026/norma-tecnica-ndeg-004-de-15-de-abril-de-2026"
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2026/norma-tecnica-ndeg-004-de-15-de-abril-de-2026
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: 27f679d06a7a145729cc4baab0794736ad6b5b226535a5b453baca95e24b3fa0
 ---
-
 NORMA TÉCNICA N° 004, DE 15 DE ABRIL DE 2026. — Tribunal Regional Eleitoral do Paraná
 
 Acessibilidade

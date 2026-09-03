@@ -1,11 +1,11 @@
 ---
-title: "PORTARIA N° 356, DE 12 DE SETEMBRO DE 2024. — Tribunal Regional Eleitoral do Paraná"
+title: PORTARIA N° 356, DE 12 DE SETEMBRO DE 2024. — Tribunal Regional Eleitoral do Paraná
 type: fonte-normativa
-source_url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-conjunta-presid-cre/2024/portaria-ndeg-356-de-12-de-setembro-de-2024"
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/portarias-conjunta-presid-cre/2024/portaria-ndeg-356-de-12-de-setembro-de-2024
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: c4c6c59b809c8bdb32fd154d97179313cca9235fe66ab5adf2633d07d6a62769
 ---
-
 PORTARIA N° 356, DE 12 DE SETEMBRO DE 2024. — Tribunal Regional Eleitoral do Paraná
 
 Acessibilidade

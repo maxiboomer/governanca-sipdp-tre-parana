@@ -7,7 +7,7 @@ status: vigente
 curadoria: completa
 escopo: contextual
 status_verificacao: "Extraída do compilado oficial do TRE-PR em 2026-08-26; publicação no DJE confirmada."
-sources: [raw/tre-pr-resolucao-946-2025-antirretaliacao.md]
+sources: [references/raw/tre-pr-resolucao-946-2025-antirretaliacao.md]
 tags: [norma, tre-pr, contextual]
 source_url: "https://www.tre-pr.jus.br/legislacao/compilada/resolucoes-tre-pr/2025/resolucao-no-946-de-09-de-abril-de-2025"
 ---
@@ -30,7 +30,7 @@ Prevê e coíbe retaliação a denunciantes e testemunhas de boa-fé (assédio, 
 
 ## Fonte e vigência
 
-- Fonte integral: `raw/tre-pr-resolucao-946-2025-antirretaliacao.md`
+- Fonte integral: `references/raw/tre-pr-resolucao-946-2025-antirretaliacao.md`
 - URL oficial: https://www.tre-pr.jus.br/legislacao/compilada/resolucoes-tre-pr/2025/resolucao-no-946-de-09-de-abril-de-2025
 - Publicação: DJE-TRE-PR nº 074, de 22/04/2025, p. 10-13
 - Verificação: 2026-08-26

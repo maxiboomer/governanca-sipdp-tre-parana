@@ -1,17 +1,16 @@
 ---
-title: "TRE-PR Portaria DG 593/2024 - Revoca 429-2024 e Reatua Comite Gestao TI"
+title: TRE-PR Portaria DG 593/2024 - Revoca 429-2024 e Reatua Comite Gestao TI
 type: fonte-normativa
-fonte: "Tribunal Regional Eleitoral do Paraná"
-url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2024/portaria-ndeg-593-de-20-de-setembro-de-2024"
-data_publicacao: "20/09/2024"
-status: "revogada"
-observacao: "Revoga portaria 429/2024 e reatua Comitê de Gestão da TI."
+fonte: Tribunal Regional Eleitoral do Paraná
+url: https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2024/portaria-ndeg-593-de-20-de-setembro-de-2024
+data_publicacao: 20/09/2024
+status: revogada
 created: 2026-08-05
 updated: 2026-08-05
 tags: [tre-pr, portaria, comite-gestao-ti, revogacao, reativacao]
-
+observacao: Revoga portaria 429/2024 e reatua Comitê de Gestão da TI.
+sha256: c5b19441d6d9ce278904fcc2a7428d6bd040e8b296525a842c82cfc60f02b1ab
 ---
-
 # PORTARIA Nº 593, DE 20 DE SETEMBRO DE 2024
 
 **Revoga o Art. 2º da Portaria nº 429/2024 e reatua Comitê de Gestão da Tecnologia da Informação.**

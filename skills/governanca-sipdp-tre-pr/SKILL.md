@@ -26,8 +26,11 @@ curada**, não o acervo. Decisão registrada na ADR 0001.
 
 ## Convenção de caminhos
 
-Todo link interno é caminho a partir da raiz do plugin:
-`references/normas/psi-tse-23763-2026.md`. Use-o literalmente.
+Todo link interno é caminho a partir da raiz da skill, no formato
+`[[references/normas/psi-tse-23763-2026.md]]` (wikilink para arquivo sob
+`references/`). **Não usar** `[[wiki/...]]` — esse é o formato do vault Obsidian e
+**quebra no plugin** (o CI falha se aparecer). O `sync_vault_to_build.py` reescreve
+automaticamente `[[wiki/...]]` → `[[references/...]]` ao publicar.
 
 ## Como consultar
 

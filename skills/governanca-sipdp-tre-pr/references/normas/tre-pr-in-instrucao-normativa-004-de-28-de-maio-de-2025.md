@@ -14,14 +14,14 @@ confidence: high
 fonte_publicacao: "https://www.tre-pr.jus.br/legislacao/compilada/instrucoes-normativas-tre-pr/2025/instrucao-normativa-no-004-de-28-de-maio-de-2025"
 data_publicacao: "28/05/2025"
 tags: [norma, tre-pr, seguranca-informacao, controle-acesso, identidade, si-pdp]
-sources: [raw/tre-pr-in-instrucao-normativa-004-de-28-de-maio-de-2025.md]
+sources: [references/raw/tre-pr-in-instrucao-normativa-004-de-28-de-maio-de-2025.md]
 ---
 
 # Instrução Normativa TRE-PR 004/2025 — Gestão de Identidade e Controle de Acesso
 
 ## Finalidade e escopo
 
-Esta norma integra o corpus de **SI/PDP e governança** do TRE-PR. Institui norma de **Gestão de Identidade e Controle de Acesso Lógico e Físico** ao ambiente de Tecnologia da Informação, relativa à segurança da informação e comunicação, no âmbito da Justiça Eleitoral do Paraná. Fonte bruta preservada em `raw/tre-pr-in-instrucao-normativa-004-de-28-de-maio-de-2025.md`.
+Esta norma integra o corpus de **SI/PDP e governança** do TRE-PR. Institui norma de **Gestão de Identidade e Controle de Acesso Lógico e Físico** ao ambiente de Tecnologia da Informação, relativa à segurança da informação e comunicação, no âmbito da Justiça Eleitoral do Paraná. Fonte bruta preservada em `references/raw/tre-pr-in-instrucao-normativa-004-de-28-de-maio-de-2025.md`.
 
 Aplica-se (Art. 6º) a magistrados, servidores efetivos/requisitados, ocupantes de cargo em comissão sem vínculo, estagiários, prestadores de serviço, colaboradores, usuários externos, órgãos públicos e entidades privadas contratadas/parceiras que façam uso dos ativos de TI.
 
@@ -121,15 +121,15 @@ Res. CNJ 370/2021 (ENTIC-JUD), Res. CNJ 396/2021 (ENSEC-PJ), Res. TSE 23.644/202
 
 ## Relações
 
-- [[wiki/concepts/seguranca-informacao-justica-eleitoral]]
-- [[wiki/entities/cgsipdp]]
-- [[wiki/entities/secti]]
-- [[wiki/normas/tre-pr-resolucao-940-2024]]
-- [[wiki/normas/psi-tse-23644-2021-revogada]]
+- [[references/concepts/seguranca-informacao-justica-eleitoral]]
+- [[references/entities/cgsipdp]]
+- [[references/entities/secti]]
+- [[references/normas/tre-pr-resolucao-940-2024]]
+- [[references/normas/psi-tse-23644-2021-revogada]]
 
 ## Fonte integral
 
-- `raw/tre-pr-in-instrucao-normativa-004-de-28-de-maio-de-2025.md`
+- `references/raw/tre-pr-in-instrucao-normativa-004-de-28-de-maio-de-2025.md`
 - Publicação/URL registrada: https://www.tre-pr.jus.br/legislacao/compilada/instrucoes-normativas-tre-pr/2025/instrucao-normativa-no-004-de-28-de-maio-de-2025
 
 ## Nota de qualidade

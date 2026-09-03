@@ -1,17 +1,16 @@
 ---
-title: "TRE-PR Norma Tecnica SECTI 08/2020 - Gerenciamento de Continuidade de Servicos"
+title: TRE-PR Norma Tecnica SECTI 08/2020 - Gerenciamento de Continuidade de Servicos
 type: fonte-normativa
-fonte: "Tribunal Regional Eleitoral do Paraná"
-url: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2020/norma-tecnica-no-08-de-15-de-julho-de-2020"
-data_publicacao: "15/07/2020"
-status: "vigente"
-observacao: "Institui processo de Gerenciamento de Continuidade de Serviços de TI. Base: ITIL."
+fonte: Tribunal Regional Eleitoral do Paraná
+url: https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2020/norma-tecnica-no-08-de-15-de-julho-de-2020
+data_publicacao: 15/07/2020
+status: vigente
 created: 2026-08-05
 updated: 2026-08-05
 tags: [tre-pr, secti, norma-tecnica, continuidade-servicos, disaster-recovery]
-
+observacao: Institui processo de Gerenciamento de Continuidade de Serviços de TI. Base: ITIL.
+sha256: bcfe988bfbe8b506578f0b826009c4e7cf202b91aefd936e69d879cf75a8c6e3
 ---
-
 # NORMA TÉCNICA Nº 08, DE 15 DE JULHO DE 2020
 
 **Institui o processo de Gerenciamento de Continuidade de Serviços de Tecnologia da Informação no âmbito da Justiça Eleitoral do Paraná.**

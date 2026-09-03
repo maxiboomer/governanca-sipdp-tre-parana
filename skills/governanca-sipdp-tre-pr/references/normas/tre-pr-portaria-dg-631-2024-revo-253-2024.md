@@ -7,7 +7,7 @@ status: revogada
 curadoria: completa
 escopo: contextual
 status_verificacao: "Revoga a Portaria 253/2024; verificado em 2026-08-26."
-sources: [raw/tre-pr-portaria-dg-631-2024-revo-253-2024.md]
+sources: [references/raw/tre-pr-portaria-dg-631-2024-revo-253-2024.md]
 tags: [norma, tre-pr]
 ---
 
@@ -25,7 +25,7 @@ title: "TRE-PR Portaria DG 631/2024 - Revoca 253-2024 e Substitui Analista Tecni
 
 ## Disposições relevantes
 
-- (Ver disposições no texto integral em `raw/`.)
+- (Ver disposições no texto integral em `references/raw/`.)
 
 **Indícios de revogação/substituição no texto:**
 - revogada"
@@ -35,9 +35,9 @@ title: "TRE-PR Portaria DG 631/2024 - Revoca 253-2024 e Substitui Analista Tecni
 
 ## Interpretação operacional
 
-- Consultar o texto integral em `raw/` para o teor exato.
+- Consultar o texto integral em `references/raw/` para o teor exato.
 - Verificar a norma sucessora (quando identificada) antes de usar.
 
 ## Fonte
 
-- `raw/tre-pr-portaria-dg-631-2024-revo-253-2024.md`
+- `references/raw/tre-pr-portaria-dg-631-2024-revo-253-2024.md`

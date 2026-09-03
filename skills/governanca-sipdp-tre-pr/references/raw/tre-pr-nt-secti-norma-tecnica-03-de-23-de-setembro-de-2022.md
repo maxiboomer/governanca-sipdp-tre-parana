@@ -1,11 +1,11 @@
 ---
-title: "NORMA TÉCNICA Nº 03, DE 23 DE SETEMBRO DE 2022. — Tribunal Regional Eleitoral do Paraná"
+title: NORMA TÉCNICA Nº 03, DE 23 DE SETEMBRO DE 2022. — Tribunal Regional Eleitoral do Paraná
 type: fonte-normativa
-source_url: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2022/norma-tecnica-no-03-de-23-de-setembro-de-2022"
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2022/norma-tecnica-no-03-de-23-de-setembro-de-2022
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: 4c79d24299512dbf7406f6f915a0262d6922346b18515dc95bee6dd2b2876cd1
 ---
-
 NORMA TÉCNICA Nº 03, DE 23 DE SETEMBRO DE 2022. — Tribunal Regional Eleitoral do Paraná
 
 Acessibilidade

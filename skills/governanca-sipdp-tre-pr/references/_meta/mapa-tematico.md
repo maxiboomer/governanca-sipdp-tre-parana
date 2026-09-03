@@ -33,4 +33,4 @@ Normas revogadas, sucessoras e documentos mantidos para compreender a evolução
 
 ## Fora do escopo central
 
-Matérias administrativas, eleitorais ou funcionais sem consequência identificada para SI/PDP; conservar em `raw/` e no inventário quando necessário.
+Matérias administrativas, eleitorais ou funcionais sem consequência identificada para SI/PDP; conservar em `references/raw/` e no inventário quando necessário.

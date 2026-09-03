@@ -1,16 +1,16 @@
 ---
-title: "TSE Portaria 341/2025 - Designação Juíza Auxiliar Gabinete Presidência"
+title: TSE Portaria 341/2025 - Designação Juíza Auxiliar Gabinete Presidência
 type: fonte-normativa
-fonte: "Tribunal Superior Eleitoral"
-url: "https://www.tse.jus.br/legislacao/compilada/prt/2025/portaria-no-341-de-5-de-agosto-de-2025"
-data_publicacao: "05/08/2025"
-status: "vigente"
-observacao: "Designa Juíza Teresa Cristina Cabral Santana como Juíza Auxiliar no Gabinete da Presidência. Revoga Portaria TSE 616/2024."
+fonte: Tribunal Superior Eleitoral
+url: https://www.tse.jus.br/legislacao/compilada/prt/2025/portaria-no-341-de-5-de-agosto-de-2025
+data_publicacao: 05/08/2025
+status: vigente
 created: 2026-08-05
 updated: 2026-08-05
 tags: [tse, portaria, juiza, gabinete-presidencia]
+observacao: Designa Juíza Teresa Cristina Cabral Santana como Juíza Auxiliar no Gabinete da Presidência. Revoga Portaria TSE 616/2024.
+sha256: d2e2a664c1dd9fd67f987b90a1e55b55acc1dc45c9595d413f3ceebaebc08429
 ---
-
 # PORTARIA Nº 341, DE 5 DE AGOSTO DE 2025
 
 **Designa Juíza auxiliar no Gabinete da Presidência.**

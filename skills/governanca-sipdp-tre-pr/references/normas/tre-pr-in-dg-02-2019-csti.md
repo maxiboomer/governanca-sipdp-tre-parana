@@ -8,7 +8,7 @@ curadoria: completa
 escopo: central-si-pdp
 status_verificacao: "Revisão do texto integral e da publicação oficial registrada no corpus; confirmar alterações posteriores antes de uso jurídico."
 confidence: medium
-sources: [raw/tre-pr-in-dg-02-2019-csti.md]
+sources: [references/raw/tre-pr-in-dg-02-2019-csti.md]
 tags: [norma, seguranca-informacao, si-pdp]
 source_url: "https://apps.tre-pr.jus.br/files/legislacaocompilada/in/2019/in022019.html"
 ---
@@ -17,7 +17,7 @@ source_url: "https://apps.tre-pr.jus.br/files/legislacaocompilada/in/2019/in0220
 
 ## Síntese executiva
 
-Esta norma é relevante para **segurança da informação, proteção de dados pessoais ou governança de TI** no TRE-PR/Justiça Eleitoral. A síntese abaixo foi extraída do texto integral em `raw/tre-pr-in-dg-02-2019-csti.md`; o arquivo bruto permanece imutável.
+Esta norma é relevante para **segurança da informação, proteção de dados pessoais ou governança de TI** no TRE-PR/Justiça Eleitoral. A síntese abaixo foi extraída do texto integral em `references/raw/tre-pr-in-dg-02-2019-csti.md`; o arquivo bruto permanece imutável.
 
 **Situação registrada:** `vigente`. vigência indicada pela publicação oficial existente no corpus; revalidar periodicamente.
 
@@ -41,12 +41,12 @@ Esta norma é relevante para **segurança da informação, proteção de dados p
 
 ## Relações
 
-[[wiki/entities/secti]]
-- [[wiki/concepts/seguranca-informacao-justica-eleitoral]]
+[[references/entities/secti]]
+- [[references/concepts/seguranca-informacao-justica-eleitoral]]
 
 ## Fonte e vigência
 
-- Fonte integral: `raw/tre-pr-in-dg-02-2019-csti.md`
+- Fonte integral: `references/raw/tre-pr-in-dg-02-2019-csti.md`
 - Publicação registrada: https://apps.tre-pr.jus.br/files/legislacaocompilada/in/2019/in022019.html
 - Verificação realizada em: 2026-08-26
 - Situação para uso: **não presumir vigência além do que está documentado acima**.

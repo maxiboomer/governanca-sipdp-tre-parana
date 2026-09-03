@@ -1,11 +1,11 @@
 ---
-title: "INSTRUÇÃO NORMATIVA Nº 04/2020"
+title: INSTRUÇÃO NORMATIVA Nº 04/2020
 type: fonte-normativa
-source_url: "https://apps.tre-pr.jus.br/files/legislacaocompilada/in/2020/in042020.html"
+source_url: https://apps.tre-pr.jus.br/files/legislacaocompilada/in/2020/in042020.html
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: acdc71f193a4915c1e8cce838abb70ced729773a4a5af1a1f6c15b86847df5df
 ---
-
 INSTRUÇÃO NORMATIVA Nº 04/2020
 
 

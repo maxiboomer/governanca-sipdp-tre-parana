@@ -8,7 +8,7 @@ status_verificacao: "Revogada pela IN 010/2025 art. 3"
 fonte_publicacao: "https://apps.tre-pr.jus.br/files/legislacaocompilada/in/2018/in062018.html"
 data_publicacao: ""
 tags: [norma, curadoria, si-pdp]
-sources: [raw/tre-pr-in-dg-06-2018-servicos-essenciais.md]
+sources: [references/raw/tre-pr-in-dg-06-2018-servicos-essenciais.md]
 curadoria: completa
 escopo: contextual
 ---
@@ -17,7 +17,7 @@ escopo: contextual
 
 ## Finalidade e escopo
 
-Esta norma integra o corpus de **SI/PDP e governança tecnológica**. A página foi curada a partir do texto integral preservado em `raw/tre-pr-in-dg-06-2018-servicos-essenciais.md`; a fonte bruta permanece imutável.
+Esta norma integra o corpus de **SI/PDP e governança tecnológica**. A página foi curada a partir do texto integral preservado em `references/raw/tre-pr-in-dg-06-2018-servicos-essenciais.md`; a fonte bruta permanece imutável.
 
 A finalidade específica deve ser interpretada diretamente com o texto integral e as normas supervenientes.
 
@@ -42,12 +42,12 @@ A finalidade específica deve ser interpretada diretamente com o texto integral 
 
 ## Relações
 
-[[wiki/concepts/lgpd-ia-governanca]]
-- [[wiki/entities/cgsipdp]]
+[[references/concepts/lgpd-ia-governanca]]
+- [[references/entities/cgsipdp]]
 
 ## Fonte integral
 
-- `raw/tre-pr-in-dg-06-2018-servicos-essenciais.md`
+- `references/raw/tre-pr-in-dg-06-2018-servicos-essenciais.md`
 - Publicação/URL registrada: https://apps.tre-pr.jus.br/files/legislacaocompilada/in/2018/in062018.html
 
 ## Nota de qualidade

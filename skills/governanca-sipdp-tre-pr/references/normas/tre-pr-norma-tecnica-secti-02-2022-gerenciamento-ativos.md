@@ -8,7 +8,7 @@ status_verificacao: "NT SECTI 02/2022 compilada; ativos/configuração (ver poss
 fonte_publicacao: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2022/norma-tecnica-no-02-de-12-de-setembro-de-2022"
 data_publicacao: "12/09/2022"
 tags: [norma, curadoria, si-pdp]
-sources: [raw/tre-pr-norma-tecnica-secti-02-2022-gerenciamento-ativos.md]
+sources: [references/raw/tre-pr-norma-tecnica-secti-02-2022-gerenciamento-ativos.md]
 curadoria: completa
 escopo: contextual
 ---
@@ -17,7 +17,7 @@ escopo: contextual
 
 ## Finalidade e escopo
 
-Esta norma integra o corpus de **SI/PDP e governança tecnológica**. A página foi curada a partir do texto integral preservado em `raw/tre-pr-norma-tecnica-secti-02-2022-gerenciamento-ativos.md`; a fonte bruta permanece imutável.
+Esta norma integra o corpus de **SI/PDP e governança tecnológica**. A página foi curada a partir do texto integral preservado em `references/raw/tre-pr-norma-tecnica-secti-02-2022-gerenciamento-ativos.md`; a fonte bruta permanece imutável.
 
 Institui processo de Gerenciamento de Ativos e Configuração de TI.
 
@@ -35,12 +35,12 @@ Institui processo de Gerenciamento de Ativos e Configuração de TI.
 
 ## Relações
 
-[[wiki/concepts/lgpd-ia-governanca]]
-- [[wiki/entities/cgsipdp]]
+[[references/concepts/lgpd-ia-governanca]]
+- [[references/entities/cgsipdp]]
 
 ## Fonte integral
 
-- `raw/tre-pr-norma-tecnica-secti-02-2022-gerenciamento-ativos.md`
+- `references/raw/tre-pr-norma-tecnica-secti-02-2022-gerenciamento-ativos.md`
 - Publicação/URL registrada: https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2022/norma-tecnica-no-02-de-12-de-setembro-de-2022
 
 ## Nota de qualidade

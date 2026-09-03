@@ -8,7 +8,7 @@ status_verificacao: "Portaria DG 086/2026 vigente; institui/reestrutura o CGSI/P
 fonte_publicacao: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2026/portaria-ndeg-086-de-25-de-fevereiro-de-2026"
 data_publicacao: "25/02/2026"
 tags: [norma, curadoria, si-pdp]
-sources: [raw/tre-pr-portaria-dg-086-2026-cgsi-pdp.md]
+sources: [references/raw/tre-pr-portaria-dg-086-2026-cgsi-pdp.md]
 curadoria: completa
 escopo: contextual
 ---
@@ -17,7 +17,7 @@ escopo: contextual
 
 ## Finalidade e escopo
 
-Esta norma integra o corpus de **SI/PDP e governança tecnológica**. A página foi curada a partir do texto integral preservado em `raw/tre-pr-portaria-dg-086-2026-cgsi-pdp.md`; a fonte bruta permanece imutável.
+Esta norma integra o corpus de **SI/PDP e governança tecnológica**. A página foi curada a partir do texto integral preservado em `references/raw/tre-pr-portaria-dg-086-2026-cgsi-pdp.md`; a fonte bruta permanece imutável.
 
 Designa membros para o Comitê Gestor de Segurança da Informação e Proteção de Dados Pessoais. Revoga art. 2º da Portaria DG 29/2026.
 
@@ -35,12 +35,12 @@ Designa membros para o Comitê Gestor de Segurança da Informação e Proteção
 
 ## Relações
 
-[[wiki/concepts/lgpd-ia-governanca]]
-- [[wiki/entities/cgsipdp]]
+[[references/concepts/lgpd-ia-governanca]]
+- [[references/entities/cgsipdp]]
 
 ## Fonte integral
 
-- `raw/tre-pr-portaria-dg-086-2026-cgsi-pdp.md`
+- `references/raw/tre-pr-portaria-dg-086-2026-cgsi-pdp.md`
 - Publicação/URL registrada: https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2026/portaria-ndeg-086-de-25-de-fevereiro-de-2026
 
 ## Nota de qualidade

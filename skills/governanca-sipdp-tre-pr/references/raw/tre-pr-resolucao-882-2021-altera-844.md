@@ -1,16 +1,16 @@
 ---
-title: "TRE-Pr Resolução 882/2021 - Altera Recuo Judicial"
+title: TRE-Pr Resolução 882/2021 - Altera Recuo Judicial
 type: fonte-normativa
-fonte: "Tribunal Regional Eleitoral do Paraná"
-url: "https://www.tre-pr.jus.br/legislacao/resolucoes-do-tre-pr/arquivos/tre-pr-resolucao-n-o-882-de-08-de-dezembro-de-2021"
-data_publicacao: "08/12/2021"
-status: "vigente"
-observacao: "Altera a Resolução nº 844/2019, reorganizando arts. 1º e 2º sobre recesso e suspensão de prazos."
+fonte: Tribunal Regional Eleitoral do Paraná
+url: https://www.tre-pr.jus.br/legislacao/resolucoes-do-tre-pr/arquivos/tre-pr-resolucao-n-o-882-de-08-de-dezembro-de-2021
+data_publicacao: 08/12/2021
+status: vigente
 created: 2026-08-05
 updated: 2026-08-05
 tags: [tre-pr, recesso-judicial, plantao]
+observacao: Altera a Resolução nº 844/2019, reorganizando arts. 1º e 2º sobre recesso e suspensão de prazos.
+sha256: fc4ae7f43d0a921025d4a87a2ad98815aaee229095013a33d0f9aa5bd8836d60
 ---
-
 # RESOLUÇÃO Nº 882, DE 8 DE DEZEMBRO DE 2021
 
 **Altera a Resolução nº 844/2019.**

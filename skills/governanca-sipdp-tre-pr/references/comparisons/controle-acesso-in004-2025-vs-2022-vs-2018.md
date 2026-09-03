@@ -10,7 +10,7 @@ status: não-aplicável
 curadoria: completa
 escopo: contextual
 tags: [controle-acesso, seguranca-informacao, comparacao, tre-pr, identidade]
-sources: [raw/tre-pr-in-instrucao-normativa-004-de-28-de-maio-de-2025.md, raw/tre-pr-in-instrucao-normativa-004-de-08-de-novembro-de-2022.md]
+sources: [references/raw/tre-pr-in-instrucao-normativa-004-de-28-de-maio-de-2025.md, raw/tre-pr-in-instrucao-normativa-004-de-08-de-novembro-de-2022.md]
 ---
 
 # Comparação Controle de Acesso — IN 004/2025 × IN 004/2022 × IN-DG 2018
@@ -54,9 +54,9 @@ controle de acesso) é a norma específica atual — **complementar** à 004/202
 
 ## Relações
 
-- [[wiki/normas/tre-pr-in-instrucao-normativa-004-de-28-de-maio-de-2025]]
-- [[wiki/normas/tre-pr-in-instrucao-normativa-004-de-08-de-novembro-de-2022]]
-- [[wiki/normas/tre-pr-in-dg-08-2018-contas-senhas]]
-- [[wiki/normas/tre-pr-in-dg-09-2018-acesso-internet]]
-- [[wiki/concepts/governanca-ti]]
-- [[wiki/concepts/seguranca-informacao-justica-eleitoral]]
+- [[references/normas/tre-pr-in-instrucao-normativa-004-de-28-de-maio-de-2025]]
+- [[references/normas/tre-pr-in-instrucao-normativa-004-de-08-de-novembro-de-2022]]
+- [[references/normas/tre-pr-in-dg-08-2018-contas-senhas]]
+- [[references/normas/tre-pr-in-dg-09-2018-acesso-internet]]
+- [[references/concepts/governanca-ti]]
+- [[references/concepts/seguranca-informacao-justica-eleitoral]]

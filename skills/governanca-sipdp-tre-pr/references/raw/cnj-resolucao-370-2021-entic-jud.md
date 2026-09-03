@@ -1,17 +1,17 @@
 ---
-title: "CNJ 370/2021 - Estratégia Nacional de TIC do Poder Judiciário"
+title: CNJ 370/2021 - Estratégia Nacional de TIC do Poder Judiciário
 type: fonte-normativa
-fonte: "Conselho Nacional de Justiça"
-url: "https://atos.cnj.jus.br/atos/detalhar/3706"
-data_publicacao: "28/01/2021"
-status: "alterado"
-observacao: "Alterado pela Resolução CNJ nº 396/2021"
+fonte: Conselho Nacional de Justiça
+url: https://atos.cnj.jus.br/atos/detalhar/3706
+data_publicacao: 28/01/2021
+status: alterado
 created: 2026-08-05
 updated: 2026-08-05
 tags: [cnj, tecnologia, governanca, entic-jud]
-dje: "DJe/CNJ nº 158/2021, de 22 de junho de 2021, p. 2-11 (republicação)"
+observacao: Alterado pela Resolução CNJ nº 396/2021
+dje: DJe/CNJ nº 158/2021, de 22 de junho de 2021, p. 2-11 (republicação)
+sha256: a4aaaea27ce585c65eac4ea1ce25970871268f0db3103c5e044c4735cddefd28
 ---
-
 # RESOLUÇÃO Nº 370, DE 28 DE JANEIRO DE 2021
 
 **Estabelece a Estratégia Nacional de Tecnologia da Informação e Comunicação do Poder Judiciário (ENTIC-JUD).**

@@ -8,7 +8,7 @@ status_verificacao: "NT SECTI 05/2020 compilada; gerenciamento de mudanças; ver
 fonte_publicacao: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2020/norma-tecnica-no-05-de-29-de-maio-de-2020"
 data_publicacao: "29/05/2020"
 tags: [norma, curadoria, si-pdp]
-sources: [raw/tre-pr-norma-tecnica-secti-05-2020-gerenciamento-mudancas.md]
+sources: [references/raw/tre-pr-norma-tecnica-secti-05-2020-gerenciamento-mudancas.md]
 curadoria: completa
 escopo: contextual
 ---
@@ -17,7 +17,7 @@ escopo: contextual
 
 ## Finalidade e escopo
 
-Esta norma integra o corpus de **SI/PDP e governança tecnológica**. A página foi curada a partir do texto integral preservado em `raw/tre-pr-norma-tecnica-secti-05-2020-gerenciamento-mudancas.md`; a fonte bruta permanece imutável.
+Esta norma integra o corpus de **SI/PDP e governança tecnológica**. A página foi curada a partir do texto integral preservado em `references/raw/tre-pr-norma-tecnica-secti-05-2020-gerenciamento-mudancas.md`; a fonte bruta permanece imutável.
 
 Institui processo de Gerenciamento de Mudanças de TI no TRE-PR.
 
@@ -35,12 +35,12 @@ Institui processo de Gerenciamento de Mudanças de TI no TRE-PR.
 
 ## Relações
 
-[[wiki/concepts/lgpd-ia-governanca]]
-- [[wiki/entities/cgsipdp]]
+[[references/concepts/lgpd-ia-governanca]]
+- [[references/entities/cgsipdp]]
 
 ## Fonte integral
 
-- `raw/tre-pr-norma-tecnica-secti-05-2020-gerenciamento-mudancas.md`
+- `references/raw/tre-pr-norma-tecnica-secti-05-2020-gerenciamento-mudancas.md`
 - Publicação/URL registrada: https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2020/norma-tecnica-no-05-de-29-de-maio-de-2020
 
 ## Nota de qualidade

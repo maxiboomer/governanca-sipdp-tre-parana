@@ -8,7 +8,7 @@ status_verificacao: "OS 07/2017 de criptografia; tema regulado de forma atual pe
 fonte_publicacao: "https://apps.tre-pr.jus.br/files/legislacaocompilada/os/2017/os072017dg.html"
 data_publicacao: ""
 tags: [norma, curadoria, si-pdp]
-sources: [raw/tre-pr-os-07-2017-criptografia.md]
+sources: [references/raw/tre-pr-os-07-2017-criptografia.md]
 curadoria: completa
 escopo: contextual
 ---
@@ -17,7 +17,7 @@ escopo: contextual
 
 ## Finalidade e escopo
 
-Esta norma integra o corpus de **SI/PDP e governança tecnológica**. A página foi curada a partir do texto integral preservado em `raw/tre-pr-os-07-2017-criptografia.md`; a fonte bruta permanece imutável.
+Esta norma integra o corpus de **SI/PDP e governança tecnológica**. A página foi curada a partir do texto integral preservado em `references/raw/tre-pr-os-07-2017-criptografia.md`; a fonte bruta permanece imutável.
 
 A finalidade específica deve ser interpretada diretamente com o texto integral e as normas supervenientes.
 
@@ -42,12 +42,12 @@ A finalidade específica deve ser interpretada diretamente com o texto integral 
 
 ## Relações
 
-[[wiki/concepts/lgpd-ia-governanca]]
-- [[wiki/entities/cgsipdp]]
+[[references/concepts/lgpd-ia-governanca]]
+- [[references/entities/cgsipdp]]
 
 ## Fonte integral
 
-- `raw/tre-pr-os-07-2017-criptografia.md`
+- `references/raw/tre-pr-os-07-2017-criptografia.md`
 - Publicação/URL registrada: https://apps.tre-pr.jus.br/files/legislacaocompilada/os/2017/os072017dg.html
 
 ## Nota de qualidade

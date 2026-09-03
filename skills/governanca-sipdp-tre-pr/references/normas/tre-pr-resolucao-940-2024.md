@@ -14,14 +14,14 @@ confidence: high
 fonte_publicacao: "https://www.tre-pr.jus.br/legislacao/compilada/resolucoes-tre-pr/2024/resolucao-no-940-de-04-de-novembro-de-2024"
 data_publicacao: "04/11/2024"
 tags: [norma, tre-pr, etica, integridade, governanca, si-pdp]
-sources: [raw/tre-pr-resolucao-940-2024.md]
+sources: [references/raw/tre-pr-resolucao-940-2024.md]
 ---
 
 # Resolução TRE-PR 940/2024 — Código de Ética e Integridade
 
 ## Finalidade e escopo
 
-Esta norma integra o corpus de **SI/PDP e governança** do TRE-PR. Institui o **Código de Ética e Integridade** no âmbito da Justiça Eleitoral do Paraná. Fonte bruta preservada em `raw/tre-pr-resolucao-940-2024.md`.
+Esta norma integra o corpus de **SI/PDP e governança** do TRE-PR. Institui o **Código de Ética e Integridade** no âmbito da Justiça Eleitoral do Paraná. Fonte bruta preservada em `references/raw/tre-pr-resolucao-940-2024.md`.
 
 Aplica-se (Art. 2º) a: servidores do quadro da JE/PR (inclusive lotados em outros órgãos); servidores de outros órgãos lotados na JE/PR (removidos, requisitados, exercício provisório); e colaboradores (empregados contratados, estagiários, mesários), sem prejuízo de outros deveres legais.
 
@@ -63,13 +63,13 @@ Constituição Federal (art. 37), Lei nº 8.112/90 (arts. 116-117), Res. CNJ 401
 
 ## Relações
 
-- [[wiki/concepts/seguranca-informacao-justica-eleitoral]]
-- [[wiki/entities/cgsipdp]]
-- [[wiki/normas/tre-pr-in-instrucao-normativa-004-de-28-de-maio-de-2025]]
+- [[references/concepts/seguranca-informacao-justica-eleitoral]]
+- [[references/entities/cgsipdp]]
+- [[references/normas/tre-pr-in-instrucao-normativa-004-de-28-de-maio-de-2025]]
 
 ## Fonte integral
 
-- `raw/tre-pr-resolucao-940-2024.md`
+- `references/raw/tre-pr-resolucao-940-2024.md`
 - Publicação/URL registrada: https://www.tre-pr.jus.br/legislacao/compilada/resolucoes-tre-pr/2024/resolucao-no-940-de-04-de-novembro-de-2024
 
 ## Nota de qualidade

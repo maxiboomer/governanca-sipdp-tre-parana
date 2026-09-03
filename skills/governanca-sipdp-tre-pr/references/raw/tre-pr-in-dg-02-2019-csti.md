@@ -1,11 +1,11 @@
 ---
-title: "INSTRUÇÃO NORMATIVA Nº 02/2019"
+title: INSTRUÇÃO NORMATIVA Nº 02/2019
 type: fonte-normativa
-source_url: "https://apps.tre-pr.jus.br/files/legislacaocompilada/in/2019/in022019.html"
+source_url: https://apps.tre-pr.jus.br/files/legislacaocompilada/in/2019/in022019.html
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: 7df211f230ec725d921ccb87c696fde9a146d09083285c0a4923e5088cd39b46
 ---
-
 INSTRUÇÃO NORMATIVA Nº 02/2019
 
 

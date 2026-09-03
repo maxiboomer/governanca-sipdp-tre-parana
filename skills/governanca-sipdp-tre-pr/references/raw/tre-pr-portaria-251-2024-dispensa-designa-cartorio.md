@@ -1,16 +1,16 @@
 ---
-title: "TRE-PR Portaria 251/2024 - Dispensa e Designa Chefe de Cartorio"
+title: TRE-PR Portaria 251/2024 - Dispensa e Designa Chefe de Cartorio
 type: fonte-normativa
-fonte: "Tribunal Regional Eleitoral do Paraná"
-url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-presidencia-tre-pr/2024/portaria-ndeg-251-de-26-de-junho-de-2024"
-data_publicacao: "26/06/2024"
-status: "vigente"
-observacao: "Dispensa servidor e designa outro para Chefe de Cartório da 136ª Zona Eleitoral de Grandes Rios."
+fonte: Tribunal Regional Eleitoral do Paraná
+url: https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-presidencia-tre-pr/2024/portaria-ndeg-251-de-26-de-junho-de-2024
+data_publicacao: 26/06/2024
+status: vigente
 created: 2026-08-05
 updated: 2026-08-05
 tags: [tre-pr, portaria, dispensa, designacao, cartorio]
+observacao: Dispensa servidor e designa outro para Chefe de Cartório da 136ª Zona Eleitoral de Grandes Rios.
+sha256: 3c8010adbe991fa029029608ffa88afcebefafdddc2a19196df8601efa603eb0
 ---
-
 # PORTARIA Nº 251, DE 26 DE JUNHO DE 2024
 
 **Dispensa e designa chefe de cartório.**

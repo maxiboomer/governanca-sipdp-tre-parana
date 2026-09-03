@@ -8,7 +8,7 @@ curadoria: completa
 escopo: central-si-pdp
 status_verificacao: "Extraída do compilado oficial do TRE-PR em 2026-08-26; publicação no DJE confirmada."
 confidence: high
-sources: [raw/tre-pr-resolucao-979-2026-captacao-audiovisual.md]
+sources: [references/raw/tre-pr-resolucao-979-2026-captacao-audiovisual.md]
 tags: [norma, tre-pr, central-si-pdp]
 source_url: "https://www.tre-pr.jus.br/legislacao/compilada/resolucoes-tre-pr/2026/resolucao-no-979-de-3-de-junho-de-2026"
 ---
@@ -31,7 +31,7 @@ Tratamento de dados pessoais de gravações deve observar LGPD, limitado à fina
 
 ## Fonte e vigência
 
-- Fonte integral: `raw/tre-pr-resolucao-979-2026-captacao-audiovisual.md`
+- Fonte integral: `references/raw/tre-pr-resolucao-979-2026-captacao-audiovisual.md`
 - URL oficial: https://www.tre-pr.jus.br/legislacao/compilada/resolucoes-tre-pr/2026/resolucao-no-979-de-3-de-junho-de-2026
 - Publicação: DJE-TRE-PR nº 104, de 10/06/2026, p. 98-101
 - Verificação: 2026-08-26

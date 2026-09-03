@@ -4,7 +4,7 @@ type: norma
 created: 2026-08-25
 updated: 2026-08-25
 tags: [tse, plataformas-digitais, planos-conformidade, eleicoes-2026]
-sources: [raw/tse-portaria-463-2026-planos-conformidade.md]
+sources: [references/raw/tse-portaria-463-2026-planos-conformidade.md]
 status: vigente
 curadoria: completa
 escopo: contextual

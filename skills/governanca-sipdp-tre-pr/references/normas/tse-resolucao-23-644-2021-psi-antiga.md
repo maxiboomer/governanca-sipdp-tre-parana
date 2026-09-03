@@ -8,7 +8,7 @@ curadoria: completa
 escopo: central-si-pdp
 status_verificacao: "Substituída pela Res. TSE 23.763/2026"
 confidence: medium
-sources: [raw/tse-resolucao-23-644-2021-psi-antiga.md]
+sources: [references/raw/tse-resolucao-23-644-2021-psi-antiga.md]
 tags: [norma, seguranca-informacao, si-pdp]
 source_url: "https://www.tse.jus.br/legislacao/compilada/res/2021/resolucao-no-23-644-de-1o-de-julho-de-2021"
 ---
@@ -17,7 +17,7 @@ source_url: "https://www.tse.jus.br/legislacao/compilada/res/2021/resolucao-no-2
 
 ## Síntese executiva
 
-Esta norma é relevante para **segurança da informação, proteção de dados pessoais ou governança de TI** no TRE-PR/Justiça Eleitoral. A síntese abaixo foi extraída do texto integral em `raw/tse-resolucao-23-644-2021-psi-antiga.md`; o arquivo bruto permanece imutável.
+Esta norma é relevante para **segurança da informação, proteção de dados pessoais ou governança de TI** no TRE-PR/Justiça Eleitoral. A síntese abaixo foi extraída do texto integral em `references/raw/tse-resolucao-23-644-2021-psi-antiga.md`; o arquivo bruto permanece imutável.
 
 **Situação registrada:** `revogada`. substituída pela Res. TSE 23.763/2026.
 
@@ -45,12 +45,12 @@ Esta norma é relevante para **segurança da informação, proteção de dados p
 
 ## Relações
 
-[[wiki/concepts/seguranca-informacao-justica-eleitoral]]
-- [[wiki/entities/cgsipdp]]
+[[references/concepts/seguranca-informacao-justica-eleitoral]]
+- [[references/entities/cgsipdp]]
 
 ## Fonte e vigência
 
-- Fonte integral: `raw/tse-resolucao-23-644-2021-psi-antiga.md`
+- Fonte integral: `references/raw/tse-resolucao-23-644-2021-psi-antiga.md`
 - Publicação registrada: https://www.tse.jus.br/legislacao/compilada/res/2021/resolucao-no-23-644-de-1o-de-julho-de-2021
 - Verificação realizada em: 2026-08-26
 - Situação para uso: **não presumir vigência além do que está documentado acima**.

@@ -7,7 +7,7 @@ status: revogada
 curadoria: completa
 escopo: contextual
 status_verificacao: "Revoga a Portaria 463/2025; verificado em 2026-08-26."
-sources: [raw/tre-pr-portaria-dg-580-2025-revo-463-2025.md]
+sources: [references/raw/tre-pr-portaria-dg-580-2025-revo-463-2025.md]
 tags: [norma, tre-pr]
 ---
 
@@ -37,9 +37,9 @@ title: "PORTARIA Nº 580, DE 18 DE DEZEMBRO DE 2025. — Tribunal Regional Eleit
 
 ## Interpretação operacional
 
-- Consultar o texto integral em `raw/` para o teor exato.
+- Consultar o texto integral em `references/raw/` para o teor exato.
 - Verificar a norma sucessora (quando identificada) antes de usar.
 
 ## Fonte
 
-- `raw/tre-pr-portaria-dg-580-2025-revo-463-2025.md`
+- `references/raw/tre-pr-portaria-dg-580-2025-revo-463-2025.md`

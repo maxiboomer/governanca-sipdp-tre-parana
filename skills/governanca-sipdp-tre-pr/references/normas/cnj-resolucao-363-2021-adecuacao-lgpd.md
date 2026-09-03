@@ -8,7 +8,7 @@ status_verificacao: "Res. CNJ 363/2021 vigente (atos.cnj.jus.br 3668)"
 fonte_publicacao: "https://atos.cnj.jus.br/atos/detalhar/3668"
 data_publicacao: "12/01/2021"
 tags: [norma, curadoria, si-pdp]
-sources: [raw/cnj-resolucao-363-2021-adecuacao-lgpd.md]
+sources: [references/raw/cnj-resolucao-363-2021-adecuacao-lgpd.md]
 curadoria: completa
 escopo: contextual
 ---
@@ -17,7 +17,7 @@ escopo: contextual
 
 ## Finalidade e escopo
 
-Esta norma integra o corpus de **SI/PDP e governança tecnológica**. A página foi curada a partir do texto integral preservado em `raw/cnj-resolucao-363-2021-adecuacao-lgpd.md`; a fonte bruta permanece imutável.
+Esta norma integra o corpus de **SI/PDP e governança tecnológica**. A página foi curada a partir do texto integral preservado em `references/raw/cnj-resolucao-363-2021-adecuacao-lgpd.md`; a fonte bruta permanece imutável.
 
 Alterada pela Portaria CNJ nº 181/2025
 
@@ -35,12 +35,12 @@ Alterada pela Portaria CNJ nº 181/2025
 
 ## Relações
 
-[[wiki/concepts/lgpd-fundamentos]]
-- [[wiki/entities/encarregado-dpo]]
+[[references/concepts/lgpd-fundamentos]]
+- [[references/entities/encarregado-dpo]]
 
 ## Fonte integral
 
-- `raw/cnj-resolucao-363-2021-adecuacao-lgpd.md`
+- `references/raw/cnj-resolucao-363-2021-adecuacao-lgpd.md`
 - Publicação/URL registrada: https://atos.cnj.jus.br/atos/detalhar/3668
 
 ## Nota de qualidade

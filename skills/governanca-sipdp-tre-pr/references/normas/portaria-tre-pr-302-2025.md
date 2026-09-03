@@ -7,7 +7,7 @@ tags: [pgcn, continuidade-negocios, tre-pr, desastre, crise]
 status: vigente
 curadoria: completa
 escopo: contextual
-sources: [raw/portaria-tre-pr-302-2025.md]
+sources: [references/raw/portaria-tre-pr-302-2025.md]
 status_verificacao: "Verificado em 2026-08-26; consultar DJE/DOU para citação formal."
 ---
 

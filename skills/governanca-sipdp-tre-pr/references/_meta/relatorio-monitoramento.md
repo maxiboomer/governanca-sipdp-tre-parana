@@ -82,7 +82,7 @@ obras, comunicação social). Ficam fora da camada de curadoria.
 
 | Norma | Assunto | Ação |
 |---|---|---|
-| Portaria DG TRE-PR 124/2026 | Comitê Executivo de TI (CETI): composição e atribuições; revoga 425/2018 e 502/2022 | **Adicionada** (`não-confirmada`, `pendente`); raw preservado em `raw/` |
+| Portaria DG TRE-PR 124/2026 | Comitê Executivo de TI (CETI): composição e atribuições; revoga 425/2018 e 502/2022 | **Adicionada** (`não-confirmada`, `pendente`); raw preservado em `references/raw/` |
 
 ### Revogações confirmadas por fonte oficial
 
@@ -132,7 +132,7 @@ obras, comunicação social). Ficam fora da camada de curadoria.
 
 ### Infraestrutura
 
-- `sync_vault_to_build.py` corrigido para incluir `raw/` (raiz) e `wiki/raw/` na cópia vault→build — antes, textos integrais novos não chegavam ao `references/raw/` do repositório.
+- `sync_vault_to_build.py` corrigido para incluir `references/raw/` (raiz) e `references/raw/` na cópia vault→build — antes, textos integrais novos não chegavam ao `references/raw/` do repositório.
 
 ## Rodada 2026-09-02 (evolução / curadoria)
 

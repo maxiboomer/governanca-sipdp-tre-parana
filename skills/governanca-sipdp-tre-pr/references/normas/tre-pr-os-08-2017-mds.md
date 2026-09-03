@@ -7,7 +7,7 @@ status: revogada
 curadoria: completa
 escopo: contextual
 status_verificacao: "Revogada expressamente pela Portaria TRE-PR DG 132/2026; verificado em 2026-08-26."
-sources: [raw/tre-pr-os-08-2017-mds.md]
+sources: [references/raw/tre-pr-os-08-2017-mds.md]
 tags: [norma, tre-pr]
 ---
 
@@ -31,9 +31,9 @@ source_url: "https://apps.tre-pr.jus.br/files/legislacaocompilada/os/2017/os0820
 
 ## Interpretação operacional
 
-- Consultar o texto integral em `raw/` para o teor exato.
+- Consultar o texto integral em `references/raw/` para o teor exato.
 - Verificar a norma sucessora (quando identificada) antes de usar.
 
 ## Fonte
 
-- `raw/tre-pr-os-08-2017-mds.md`
+- `references/raw/tre-pr-os-08-2017-mds.md`

@@ -1,11 +1,11 @@
 ---
-title: "INSTRUÇÃO NORMATIVA Nº 001, DE 24 DE MARÇO DE 2023. — Tribunal Regional Eleitoral do Paraná"
+title: INSTRUÇÃO NORMATIVA Nº 001, DE 24 DE MARÇO DE 2023. — Tribunal Regional Eleitoral do Paraná
 type: fonte-normativa
-source_url: "https://www.tre-pr.jus.br/legislacao/compilada/instrucoes-normativas-tre-pr/2023/instrucao-normativa-no-001-de-08-de-janeiro-de-2023"
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/instrucoes-normativas-tre-pr/2023/instrucao-normativa-no-001-de-08-de-janeiro-de-2023
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: fd8ea79333574aec8351ba1af5ddae891de2262c68220874f4c081ccf8e3d34c
 ---
-
 INSTRUÇÃO NORMATIVA Nº 001, DE 24 DE MARÇO DE 2023. — Tribunal Regional Eleitoral do Paraná
 
 Acessibilidade

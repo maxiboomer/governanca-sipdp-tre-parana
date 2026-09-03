@@ -1,16 +1,16 @@
 ---
-title: "TRE-Pr Resolução 892/2022 - Política de Acessibilidade e Inclusão"
+title: TRE-Pr Resolução 892/2022 - Política de Acessibilidade e Inclusão
 type: fonte-normativa
-fonte: "Tribunal Regional Eleitoral do Paraná"
-url: "https://www.tre-pr.jus.br/legislacao/resolucoes-do-tre-pr/arquivos/tre-pr-resolucao-n-o-892-de-25-de-maio-de-2022"
-data_publicacao: "23/05/2022"
-status: "vigente"
-observacao: "Institui a Política de Acessibilidade e Inclusão da Justiça Eleitoral do Paraná. Reflete diretrizes da LBI (Lei 13.146/2015) e CNJ 401/2021."
+fonte: Tribunal Regional Eleitoral do Paraná
+url: https://www.tre-pr.jus.br/legislacao/resolucoes-do-tre-pr/arquivos/tre-pr-resolucao-n-o-892-de-25-de-maio-de-2022
+data_publicacao: 23/05/2022
+status: vigente
 created: 2026-08-05
 updated: 2026-08-05
 tags: [tre-pr, acessibilidade, inclusao, deficiencia]
+observacao: Institui a Política de Acessibilidade e Inclusão da Justiça Eleitoral do Paraná. Reflete diretrizes da LBI (Lei 13.146/2015) e CNJ 401/2021.
+sha256: 4424bf123432e3c05fc0887adbaa1aa233e499beb4d88452863e29f303c5395f
 ---
-
 # RESOLUÇÃO Nº 892, DE 23 DE MAIO DE 2022
 
 **Institui a Política de Acessibilidade e Inclusão da Justiça Eleitoral do Paraná.**

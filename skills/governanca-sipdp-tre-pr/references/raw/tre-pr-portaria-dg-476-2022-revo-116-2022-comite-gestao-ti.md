@@ -1,17 +1,16 @@
 ---
-title: "TRE-PR Portaria DG 476/2022 - Revoca 116-2022 e Reatua Comite Gestao TI"
+title: TRE-PR Portaria DG 476/2022 - Revoca 116-2022 e Reatua Comite Gestao TI
 type: fonte-normativa
-fonte: "Tribunal Regional Eleitoral do Paraná"
-url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2022/portaria-no-476-de-29-de-setembro-de-2022"
-data_publicacao: "29/09/2022"
-status: "revogada"
-observacao: "Revoga portaria 116/2022 e reatua Comitê de Gestão da TI."
+fonte: Tribunal Regional Eleitoral do Paraná
+url: https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2022/portaria-no-476-de-29-de-setembro-de-2022
+data_publicacao: 29/09/2022
+status: revogada
 created: 2026-08-05
 updated: 2026-08-05
 tags: [tre-pr, portaria, comite-gestao-ti, revogacao, reativacao]
-
+observacao: Revoga portaria 116/2022 e reatua Comitê de Gestão da TI.
+sha256: 974aa1a5ae99955369182d64ffd90d04355ac39048e0b89ef51210893c6596b1
 ---
-
 # PORTARIA Nº 476, DE 29 DE SETEMBRO DE 2022
 
 **Revoga o Art. 2º da Portaria nº 116/2022 e reatua Comitê de Gestão da Tecnologia da Informação.**

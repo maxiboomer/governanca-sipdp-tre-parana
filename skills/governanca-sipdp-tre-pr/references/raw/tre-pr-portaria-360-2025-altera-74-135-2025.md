@@ -1,16 +1,16 @@
 ---
-title: "TRE-PR Portaria 360/2025 - Altera Portarias 74-2025 e 135-2025"
+title: TRE-PR Portaria 360/2025 - Altera Portarias 74-2025 e 135-2025
 type: fonte-normativa
-fonte: "Tribunal Regional Eleitoral do Paraná"
-url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-presidencia-tre-pr/2025/portaria-no-360-de-19-de-novembro-de-2025"
-data_publicacao: "19/11/2025"
-status: "vigente"
-observacao: "Altera portarias 74/2025 e 135/2025 para prestação de contas de prestações pecuniárias."
+fonte: Tribunal Regional Eleitoral do Paraná
+url: https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-presidencia-tre-pr/2025/portaria-no-360-de-19-de-novembro-de-2025
+data_publicacao: 19/11/2025
+status: vigente
 created: 2026-08-05
 updated: 2026-08-05
 tags: [tre-pr, portaria, alteracao, prestação-contas, penal]
+observacao: Altera portarias 74/2025 e 135/2025 para prestação de contas de prestações pecuniárias.
+sha256: e1526abbb77d9a6a46bbd9e0de40948249f44183f04c99911aaf811193800a9d
 ---
-
 # PORTARIA Nº 360, DE 19 DE NOVEMBRO DE 2025
 
 **Altera as Portarias TRE-PR nº 74/2025 e 135/2025.**

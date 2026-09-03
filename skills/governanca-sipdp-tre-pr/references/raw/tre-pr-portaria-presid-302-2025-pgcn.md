@@ -1,11 +1,11 @@
 ---
-title: "PORTARIA Nº 302, DE 29 DE OUTUBRO DE 2025. — Tribunal Regional Eleitoral do Paraná"
+title: PORTARIA Nº 302, DE 29 DE OUTUBRO DE 2025. — Tribunal Regional Eleitoral do Paraná
 type: fonte-normativa
-source_url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-presidencia-tre-pr/2025/portaria-no-302-de-29-de-outubro-de-2025"
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-presidencia-tre-pr/2025/portaria-no-302-de-29-de-outubro-de-2025
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: 3667f863b81f91e1436ef24688dd6b58ed102e2660ea51c39d2b89ea0b14e3bc
 ---
-
 PORTARIA Nº 302, DE 29 DE OUTUBRO DE 2025. — Tribunal Regional Eleitoral do Paraná
 
 Acessibilidade

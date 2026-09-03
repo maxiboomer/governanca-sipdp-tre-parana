@@ -1,11 +1,11 @@
 ---
-title: "INSTRUÇÃO NORMATIVA Nº 002, DE 30 DE AGOSTO DE 2022. — Tribunal Regional Eleitoral do Paraná"
+title: INSTRUÇÃO NORMATIVA Nº 002, DE 30 DE AGOSTO DE 2022. — Tribunal Regional Eleitoral do Paraná
 type: fonte-normativa
-source_url: "https://www.tre-pr.jus.br/legislacao/compilada/instrucoes-normativas-tre-pr/2022/instrucao-normativa-no-002-de-30-de-agosto-de-2022"
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/instrucoes-normativas-tre-pr/2022/instrucao-normativa-no-002-de-30-de-agosto-de-2022
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: dedc201975765d4dc774b92b1f32403ff22f843514a7e3de6606c40b7f1bbbc8
 ---
-
 INSTRUÇÃO NORMATIVA Nº 002, DE 30 DE AGOSTO DE 2022. — Tribunal Regional Eleitoral do Paraná
 
 Acessibilidade

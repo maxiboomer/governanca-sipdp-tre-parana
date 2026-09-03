@@ -8,7 +8,7 @@ curadoria: completa
 escopo: central-si-pdp
 status_verificacao: "Portaria 575/2025 compilada; DJE 241/2025"
 confidence: high
-sources: [raw/tre-pr-portaria-dg-575-2025-etir.md]
+sources: [references/raw/tre-pr-portaria-dg-575-2025-etir.md]
 tags: [norma, seguranca-informacao, si-pdp]
 source_url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2025/portaria-no-575-de-12-de-dezembro-de-2025"
 ---
@@ -17,7 +17,7 @@ source_url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretor
 
 ## Síntese executiva
 
-Esta norma é relevante para **segurança da informação, proteção de dados pessoais ou governança de TI** no TRE-PR/Justiça Eleitoral. A síntese abaixo foi extraída do texto integral em `raw/tre-pr-portaria-dg-575-2025-etir.md`; o arquivo bruto permanece imutável.
+Esta norma é relevante para **segurança da informação, proteção de dados pessoais ou governança de TI** no TRE-PR/Justiça Eleitoral. A síntese abaixo foi extraída do texto integral em `references/raw/tre-pr-portaria-dg-575-2025-etir.md`; o arquivo bruto permanece imutável.
 
 **Situação registrada:** `vigente`. vigência indicada pela publicação oficial existente no corpus; revalidar periodicamente.
 
@@ -45,12 +45,12 @@ Esta norma é relevante para **segurança da informação, proteção de dados p
 
 ## Relações
 
-[[wiki/entities/etir]]
-- [[wiki/normas/resolucao-tre-pr-962-2025]]
+[[references/entities/etir]]
+- [[references/normas/resolucao-tre-pr-962-2025]]
 
 ## Fonte e vigência
 
-- Fonte integral: `raw/tre-pr-portaria-dg-575-2025-etir.md`
+- Fonte integral: `references/raw/tre-pr-portaria-dg-575-2025-etir.md`
 - Publicação registrada: https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2025/portaria-no-575-de-12-de-dezembro-de-2025
 - Verificação realizada em: 2026-08-26
 - Situação para uso: **não presumir vigência além do que está documentado acima**.

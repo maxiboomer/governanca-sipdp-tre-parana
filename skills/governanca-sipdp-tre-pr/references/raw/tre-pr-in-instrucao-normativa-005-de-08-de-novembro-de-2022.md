@@ -1,11 +1,11 @@
 ---
-title: "INSTRUÇÃO NORMATIVA Nº 005, DE 08 DE NOVEMBRO DE 2022. — Tribunal Regional Eleitoral do Paraná"
+title: INSTRUÇÃO NORMATIVA Nº 005, DE 08 DE NOVEMBRO DE 2022. — Tribunal Regional Eleitoral do Paraná
 type: fonte-normativa
-source_url: "https://www.tre-pr.jus.br/legislacao/compilada/instrucoes-normativas-tre-pr/2022/instrucao-normativa-no-005-de-08-de-novembro-de-2022"
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/instrucoes-normativas-tre-pr/2022/instrucao-normativa-no-005-de-08-de-novembro-de-2022
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: dbb4324969d87398784969087a870ff1526ed6be8418cb825674f71eb9b9332b
 ---
-
 INSTRUÇÃO NORMATIVA Nº 005, DE 08 DE NOVEMBRO DE 2022. — Tribunal Regional Eleitoral do Paraná
 
 Acessibilidade

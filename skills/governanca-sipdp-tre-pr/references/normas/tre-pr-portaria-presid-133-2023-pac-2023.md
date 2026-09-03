@@ -7,7 +7,7 @@ status: histórica
 curadoria: completa
 escopo: contextual
 status_verificacao: "PAC 2023; período encerrado; verificado em 2026-08-26."
-sources: [raw/tre-pr-portaria-presid-133-2023-pac-2023.md]
+sources: [references/raw/tre-pr-portaria-presid-133-2023-pac-2023.md]
 tags: [norma, tre-pr]
 ---
 
@@ -30,9 +30,9 @@ title: "PORTARIA N° 133, DE 15 DE MARÇO DE 2023. — Tribunal Regional Eleitor
 
 ## Interpretação operacional
 
-- Consultar o texto integral em `raw/` para o teor exato.
+- Consultar o texto integral em `references/raw/` para o teor exato.
 - Verificar a norma sucessora (quando identificada) antes de usar.
 
 ## Fonte
 
-- `raw/tre-pr-portaria-presid-133-2023-pac-2023.md`
+- `references/raw/tre-pr-portaria-presid-133-2023-pac-2023.md`

@@ -7,7 +7,7 @@ tags: [psi, seguranca-informacao, tre-pr]
 status: vigente
 curadoria: completa
 escopo: contextual
-sources: [raw/psi-tre-pr-974-2026.md]
+sources: [references/raw/psi-tre-pr-974-2026.md]
 status_verificacao: "Verificado em 2026-08-26; consultar DJE/DOU para citação formal."
 ---
 

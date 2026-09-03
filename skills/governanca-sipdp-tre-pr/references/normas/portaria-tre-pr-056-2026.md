@@ -7,7 +7,7 @@ tags: [crise-socioambiental, desastre, continuidade-negocios, prevencao, respost
 status: vigente
 curadoria: completa
 escopo: contextual
-sources: [raw/portaria-tre-pr-056-2026.md]
+sources: [references/raw/portaria-tre-pr-056-2026.md]
 status_verificacao: "Verificado em 2026-08-26; consultar DJE/DOU para citação formal."
 ---
 

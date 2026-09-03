@@ -8,7 +8,7 @@ status_verificacao: "Res. 962/2025 vigente; Comitê de Crises Cibernéticas e pr
 fonte_publicacao: "https://www.tre-pr.jus.br/legislacao/compilada/resolucoes-tre-pr/2025/resolucao-no-962-de-09-de-dezembro-de-2025"
 data_publicacao: "09/12/2025"
 tags: [norma, curadoria, si-pdp]
-sources: [raw/tre-pr-resolucao-962-2025-comite-crise-cibernetica.md]
+sources: [references/raw/tre-pr-resolucao-962-2025-comite-crise-cibernetica.md]
 curadoria: completa
 escopo: contextual
 ---
@@ -17,7 +17,7 @@ escopo: contextual
 
 ## Finalidade e escopo
 
-Esta norma integra o corpus de **SI/PDP e governança tecnológica**. A página foi curada a partir do texto integral preservado em `raw/tre-pr-resolucao-962-2025-comite-crise-cibernetica.md`; a fonte bruta permanece imutável.
+Esta norma integra o corpus de **SI/PDP e governança tecnológica**. A página foi curada a partir do texto integral preservado em `references/raw/tre-pr-resolucao-962-2025-comite-crise-cibernetica.md`; a fonte bruta permanece imutável.
 
 Institui Comitê de Crises Cibernéticas e protocolos de prevenção, gerenciamento e investigação de ilícitos cibernéticos.
 
@@ -42,12 +42,12 @@ Institui Comitê de Crises Cibernéticas e protocolos de prevenção, gerenciame
 
 ## Relações
 
-[[wiki/entities/etir]]
-- [[wiki/concepts/continuidade-negocios-tre-pr]]
+[[references/entities/etir]]
+- [[references/concepts/continuidade-negocios-tre-pr]]
 
 ## Fonte integral
 
-- `raw/tre-pr-resolucao-962-2025-comite-crise-cibernetica.md`
+- `references/raw/tre-pr-resolucao-962-2025-comite-crise-cibernetica.md`
 - Publicação/URL registrada: https://www.tre-pr.jus.br/legislacao/compilada/resolucoes-tre-pr/2025/resolucao-no-962-de-09-de-dezembro-de-2025
 
 ## Nota de qualidade

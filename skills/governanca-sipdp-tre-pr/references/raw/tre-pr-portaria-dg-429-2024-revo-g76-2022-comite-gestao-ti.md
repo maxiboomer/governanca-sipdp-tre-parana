@@ -1,17 +1,16 @@
 ---
-title: "TRE-PR Portaria DG 429/2024 - Revoga 476-2022 e Designa Comite Gestao TI"
+title: TRE-PR Portaria DG 429/2024 - Revoga 476-2022 e Designa Comite Gestao TI
 type: fonte-normativa
-fonte: "Tribunal Regional Eleitoral do Paraná"
-url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2024/portaria-ndeg-429-de-26-de-junho-de-2024"
-data_publicacao: "26/06/2024"
-status: "revogada"
-observacao: "Revoga portaria 476/2022 e designa membros do Comitê de Gestão da Tecnologia da Informação."
+fonte: Tribunal Regional Eleitoral do Paraná
+url: https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2024/portaria-ndeg-429-de-26-de-junho-de-2024
+data_publicacao: 26/06/2024
+status: revogada
 created: 2026-08-05
 updated: 2026-08-05
 tags: [tre-pr, portaria, comite-gestao-ti, revogacao]
-
+observacao: Revoga portaria 476/2022 e designa membros do Comitê de Gestão da Tecnologia da Informação.
+sha256: c5a54872d6b8256f4b5bc4f85d36143ca7f6607da8065da26f63ccdfc0eaedf3
 ---
-
 # PORTARIA Nº 429, DE 26 DE JUNHO DE 2024
 
 **Revoga o Art. 2º da Portaria nº 476/2022 e designa os servidores para compor o Comitê de Gestão da Tecnologia da Informação.**

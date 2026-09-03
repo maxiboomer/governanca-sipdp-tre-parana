@@ -1,11 +1,11 @@
 ---
-title: "INSTRUÇÃO NORMATIVA Nº 002, DE 02 DE JUNHO DE 2021. — Tribunal Regional Eleitoral do Paraná"
+title: INSTRUÇÃO NORMATIVA Nº 002, DE 02 DE JUNHO DE 2021. — Tribunal Regional Eleitoral do Paraná
 type: fonte-normativa
-source_url: "https://www.tre-pr.jus.br/legislacao/compilada/instrucoes-normativas-tre-pr/2021/instrucao-normativa-no-002-de-02-de-junho-de-2021"
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/instrucoes-normativas-tre-pr/2021/instrucao-normativa-no-002-de-02-de-junho-de-2021
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: 016fe626375dfdba12cedbfc9e3f25c7e789cfb9037fe25ea118df73934a19c4
 ---
-
 INSTRUÇÃO NORMATIVA Nº 002, DE 02 DE JUNHO DE 2021. — Tribunal Regional Eleitoral do Paraná
 
 Acessibilidade

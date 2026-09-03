@@ -7,7 +7,7 @@ status: revogada
 curadoria: completa
 escopo: contextual
 status_verificacao: "Revoga a Portaria 287/2021 (comitê de gestão de TI); verificado em 2026-08-26."
-sources: [raw/tre-pr-portaria-dg-116-2022-revo-287-2021.md]
+sources: [references/raw/tre-pr-portaria-dg-116-2022-revo-287-2021.md]
 tags: [norma, tre-pr]
 ---
 
@@ -35,9 +35,9 @@ title: "PORTARIA Nº 116, DE 16 DE MARÇO DE 2022. — Tribunal Regional Eleitor
 
 ## Interpretação operacional
 
-- Consultar o texto integral em `raw/` para o teor exato.
+- Consultar o texto integral em `references/raw/` para o teor exato.
 - Verificar a norma sucessora (quando identificada) antes de usar.
 
 ## Fonte
 
-- `raw/tre-pr-portaria-dg-116-2022-revo-287-2021.md`
+- `references/raw/tre-pr-portaria-dg-116-2022-revo-287-2021.md`

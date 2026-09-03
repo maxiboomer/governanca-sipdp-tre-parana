@@ -1,17 +1,16 @@
 ---
-title: "TRE-PR Norma Tecnica SECTI 04/2024 - Gerenciamento de Capacidade e Desempenho"
+title: TRE-PR Norma Tecnica SECTI 04/2024 - Gerenciamento de Capacidade e Desempenho
 type: fonte-normativa
-fonte: "Tribunal Regional Eleitoral do Paraná"
-url: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2024/norma-tecnica-no-04-de-05-de-julho-de-2024"
-data_publicacao: "05/07/2024"
-status: "vigente"
-observacao: "Institui processo de Gerenciamento de Capacidade e Desempenho de TI."
+fonte: Tribunal Regional Eleitoral do Paraná
+url: https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2024/norma-tecnica-no-04-de-05-de-julho-de-2024
+data_publicacao: 05/07/2024
+status: vigente
 created: 2026-08-05
 updated: 2026-08-05
 tags: [tre-pr, secti, norma-tecnica, capacidade-desempenho, ti]
-
+observacao: Institui processo de Gerenciamento de Capacidade e Desempenho de TI.
+sha256: baf47f13468455c7cfa83bc7211ed0204d31b0bd25699c056428f633803e5f21
 ---
-
 # NORMA TÉCNICA Nº 04, DE 05 DE JULHO DE 2024
 
 **Institui o processo de Gerenciamento de Capacidade e Desempenho de Tecnologia da Informação no âmbito da Justiça Eleitoral do Paraná.**

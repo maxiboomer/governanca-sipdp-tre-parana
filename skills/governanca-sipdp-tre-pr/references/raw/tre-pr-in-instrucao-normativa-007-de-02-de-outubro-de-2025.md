@@ -1,11 +1,11 @@
 ---
-title: "INSTRUÇÃO NORMATIVA Nº 007, DE 02 DE OUTUBRO DE 2025. — Tribunal Regional Eleitoral do Paraná"
+title: INSTRUÇÃO NORMATIVA Nº 007, DE 02 DE OUTUBRO DE 2025. — Tribunal Regional Eleitoral do Paraná
 type: fonte-normativa
-source_url: "https://www.tre-pr.jus.br/legislacao/compilada/instrucoes-normativas-tre-pr/2025/instrucao-normativa-no-007-de-02-de-outubro-de-2025"
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/instrucoes-normativas-tre-pr/2025/instrucao-normativa-no-007-de-02-de-outubro-de-2025
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: 3fd113d80123787bd16225c384dc4791e466b4dc1e5cd9a9b3224e3ee7f4b4bb
 ---
-
 INSTRUÇÃO NORMATIVA Nº 007, DE 02 DE OUTUBRO DE 2025. — Tribunal Regional Eleitoral do Paraná
 
 Acessibilidade

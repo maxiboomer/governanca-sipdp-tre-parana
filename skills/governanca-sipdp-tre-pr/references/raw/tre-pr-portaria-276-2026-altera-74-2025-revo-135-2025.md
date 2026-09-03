@@ -1,13 +1,13 @@
 ---
+title: Portaria TRE-PR Nº 276, de 13 de agosto de 2026 — Altera a Portaria TRE-PR 74/2025 e revoga a 135/2025 (prestações pecuniárias)
 type: fonte-normativa
-title: "Portaria TRE-PR Nº 276, de 13 de agosto de 2026 — Altera a Portaria TRE-PR 74/2025 e revoga a 135/2025 (prestações pecuniárias)"
-fonte: "TRE-PR (Presidência)"
-url: "https://sintse.tse.jus.br/documentos/2026/Ago/21/diario-da-justica-eletronico-tres-destaques/portaria-no-276-2026-a-portaria-tre-pr-no-74-2025-passa-a-vigorar-com-as-seguintes-alteracoes-art-1"
-data_publicacao: "2026-08-13"
+fonte: TRE-PR (Presidência)
+url: https://sintse.tse.jus.br/documentos/2026/Ago/21/diario-da-justica-eletronico-tres-destaques/portaria-no-276-2026-a-portaria-tre-pr-no-74-2025-passa-a-vigorar-com-as-seguintes-alteracoes-art-1
+data_publicacao: 2026-08-13
 status: Vigente
-tags: [tre-pr, portaria, prestacoes-pecuniarias, cnj-558-2024, cnj-685-2026]sha256: "849e8aea554b78f31b27eb0e4589772393e527c5834b24cc860cf9876c3284fb"
+tags: [tre-pr, portaria, prestacoes-pecuniarias, cnj-558-2024, cnj-685-2026]sha256: "849e8aea554b78f31b27eb0e4589772393e527c5834b24cc860cf9876c3284fb
+sha256: 849e8aea554b78f31b27eb0e4589772393e527c5834b24cc860cf9876c3284fb
 ---
-
 Curitiba, disponibilizado quinta-feira, 20 de agosto de Ano 2026 - n. 167
 
 O BACHAREL VALCIR MOMBACH, DIRETOR-GERAL DA SECRETARIA DO TRIBUNAL REGIONAL ELEITORAL DO PARANÁ, usando das atribuições que lhe são conferidas pelo artigo 35, inciso VII, do Regulamento da Secretaria deste Tribunal, e considerando o contido no SEI nº 0014957-54.2026.6.16.8145, RESOLVE Art. 1º AUTORIZAR o servidor ROMEU SOARES DA COSTA FILIÚ, ocupante do cargo de Analista Judiciário, Área Judiciária, e em comissão, Assistente I do Cartório da 145ª Zona Eleitoral de Curitiba, FC-1, do Quadro de Pessoal deste Tribunal, a CONDUZIR VEÍCULO OFICIAL no interesse do serviço e sem prejuízo das atribuições do seu cargo, conforme a Instrução Normativa nº 01/2017 deste Tribunal. Art. 2º Esta Portaria entra em vigor na data de sua publicação. Curitiba, 19 de agosto de 2026. VALCIR MOMBACH Diretor-Geral

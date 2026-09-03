@@ -1,11 +1,11 @@
 ---
-title: "NORMA TÉCNICA Nº 02, DE 27 DE JULHO DE 2025. — Tribunal Regional Eleitoral do Paraná"
+title: NORMA TÉCNICA Nº 02, DE 27 DE JULHO DE 2025. — Tribunal Regional Eleitoral do Paraná
 type: fonte-normativa
-source_url: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2025/norma-tecnica-no-02-de-27-de-julho-de-2025"
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2025/norma-tecnica-no-02-de-27-de-julho-de-2025
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: 852dc1ba2997fa28d9d2482f3e7579e9ae0513a941db5610a28eca1258c4f2dd
 ---
-
 NORMA TÉCNICA Nº 02, DE 27 DE JULHO DE 2025. — Tribunal Regional Eleitoral do Paraná
 
 Acessibilidade

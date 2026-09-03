@@ -8,7 +8,7 @@ curadoria: completa
 escopo: central-si-pdp
 status_verificacao: "Portaria TSE 444/2021 em vigor"
 confidence: medium
-sources: [raw/tse-portaria-444-2021-norma-termos-psi.md]
+sources: [references/raw/tse-portaria-444-2021-norma-termos-psi.md]
 tags: [norma, seguranca-informacao, si-pdp]
 source_url: "https://www.tse.jus.br/legislacao/compilada/prt/2021/portaria-no-444-de-08-de-julho-de-2021"
 ---
@@ -17,7 +17,7 @@ source_url: "https://www.tse.jus.br/legislacao/compilada/prt/2021/portaria-no-44
 
 ## Síntese executiva
 
-Esta norma é relevante para **segurança da informação, proteção de dados pessoais ou governança de TI** no TRE-PR/Justiça Eleitoral. A síntese abaixo foi extraída do texto integral em `raw/tse-portaria-444-2021-norma-termos-psi.md`; o arquivo bruto permanece imutável.
+Esta norma é relevante para **segurança da informação, proteção de dados pessoais ou governança de TI** no TRE-PR/Justiça Eleitoral. A síntese abaixo foi extraída do texto integral em `references/raw/tse-portaria-444-2021-norma-termos-psi.md`; o arquivo bruto permanece imutável.
 
 **Situação registrada:** `vigente`. vigência indicada pela publicação oficial existente no corpus; revalidar periodicamente.
 
@@ -33,12 +33,12 @@ Esta norma é relevante para **segurança da informação, proteção de dados p
 
 ## Relações
 
-[[wiki/concepts/seguranca-informacao-justica-eleitoral]]
-- [[wiki/entities/cgsipdp]]
+[[references/concepts/seguranca-informacao-justica-eleitoral]]
+- [[references/entities/cgsipdp]]
 
 ## Fonte e vigência
 
-- Fonte integral: `raw/tse-portaria-444-2021-norma-termos-psi.md`
+- Fonte integral: `references/raw/tse-portaria-444-2021-norma-termos-psi.md`
 - Publicação registrada: https://www.tse.jus.br/legislacao/compilada/prt/2021/portaria-no-444-de-08-de-julho-de-2021
 - Verificação realizada em: 2026-08-26
 - Situação para uso: **não presumir vigência além do que está documentado acima**.

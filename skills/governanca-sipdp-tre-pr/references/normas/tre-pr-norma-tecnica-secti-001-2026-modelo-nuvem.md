@@ -8,7 +8,7 @@ status_verificacao: "Página oficial TRE-PR localizada; art. 14 vigência na pub
 fonte_publicacao: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2026/norma-tecnica-no-01-de-04-de-fevereiro-de-2026"
 data_publicacao: "04/02/2026"
 tags: [norma, curadoria, si-pdp]
-sources: [raw/tre-pr-norma-tecnica-secti-001-2026-modelo-nuvem.md]
+sources: [references/raw/tre-pr-norma-tecnica-secti-001-2026-modelo-nuvem.md]
 curadoria: completa
 escopo: contextual
 ---
@@ -17,7 +17,7 @@ escopo: contextual
 
 ## Finalidade e escopo
 
-Esta norma integra o corpus de **SI/PDP e governança tecnológica**. A página foi curada a partir do texto integral preservado em `raw/tre-pr-norma-tecnica-secti-001-2026-modelo-nuvem.md`; a fonte bruta permanece imutável.
+Esta norma integra o corpus de **SI/PDP e governança tecnológica**. A página foi curada a partir do texto integral preservado em `references/raw/tre-pr-norma-tecnica-secti-001-2026-modelo-nuvem.md`; a fonte bruta permanece imutável.
 
 Estabelece procedimentos para Modelo Operacional de Nuvem no TRE-PR.
 
@@ -35,12 +35,12 @@ Estabelece procedimentos para Modelo Operacional de Nuvem no TRE-PR.
 
 ## Relações
 
-[[wiki/concepts/seguranca-informacao-justica-eleitoral]]
-- [[wiki/entities/secti]]
+[[references/concepts/seguranca-informacao-justica-eleitoral]]
+- [[references/entities/secti]]
 
 ## Fonte integral
 
-- `raw/tre-pr-norma-tecnica-secti-001-2026-modelo-nuvem.md`
+- `references/raw/tre-pr-norma-tecnica-secti-001-2026-modelo-nuvem.md`
 - Publicação/URL registrada: https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2026/norma-tecnica-no-01-de-04-de-fevereiro-de-2026
 
 ## Nota de qualidade

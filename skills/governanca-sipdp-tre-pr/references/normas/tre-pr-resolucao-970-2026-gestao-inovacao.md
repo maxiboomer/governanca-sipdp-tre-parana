@@ -7,7 +7,7 @@ status: vigente
 curadoria: completa
 escopo: apoio-governanca-ti
 status_verificacao: "Extraída do compilado oficial do TRE-PR em 2026-08-26; publicação no DJE confirmada."
-sources: [raw/tre-pr-resolucao-970-2026-gestao-inovacao.md]
+sources: [references/raw/tre-pr-resolucao-970-2026-gestao-inovacao.md]
 tags: [norma, tre-pr, apoio-governanca-ti]
 source_url: "https://www.tre-pr.jus.br/legislacao/compilada/resolucoes-tre-pr/2026/resolucao-no-970-de-22-de-janeiro-de-2026"
 ---
@@ -30,7 +30,7 @@ Institui a política; princípios (cultura da inovação, foco no usuário, part
 
 ## Fonte e vigência
 
-- Fonte integral: `raw/tre-pr-resolucao-970-2026-gestao-inovacao.md`
+- Fonte integral: `references/raw/tre-pr-resolucao-970-2026-gestao-inovacao.md`
 - URL oficial: https://www.tre-pr.jus.br/legislacao/compilada/resolucoes-tre-pr/2026/resolucao-no-970-de-22-de-janeiro-de-2026
 - Publicação: DJE-TRE-PR nº 016, de 28/01/2026, p. 17-20
 - Verificação: 2026-08-26

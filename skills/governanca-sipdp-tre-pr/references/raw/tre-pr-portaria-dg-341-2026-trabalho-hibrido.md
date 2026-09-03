@@ -1,16 +1,16 @@
 ---
-title: "TRE-Pr Portaria DG 341/2026 - Trabalho Híbrido"
+title: TRE-Pr Portaria DG 341/2026 - Trabalho Híbrido
 type: fonte-normativa
-fonte: "Tribunal Regional Eleitoral do Paraná"
-url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2026/portaria-no-341-de-15-de-julho-de-2026"
-data_publicacao: "14/07/2026"
-status: "vigente"
-observacao: "Prorroga participação em trabalho híbrido para servidor Eduardo Machado Silva. Base: art. 35, inciso VII, Regulamento Secretaria."
+fonte: Tribunal Regional Eleitoral do Paraná
+url: https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2026/portaria-no-341-de-15-de-julho-de-2026
+data_publicacao: 14/07/2026
+status: vigente
 created: 2026-08-05
 updated: 2026-08-05
 tags: [tre-pr, trabalho-hibrido, dg, 2026]
+observacao: Prorroga participação em trabalho híbrido para servidor Eduardo Machado Silva. Base: art. 35, inciso VII, Regulamento Secretaria.
+sha256: 052760d950c2c7113ab39127cfd1a9d289e39260ee9d10492bb8447ea9c00f3b
 ---
-
 # PORTARIA Nº 341, DE 14 DE JULHO DE 2026
 
 **Prorroga a participação em trabalho híbrido.**

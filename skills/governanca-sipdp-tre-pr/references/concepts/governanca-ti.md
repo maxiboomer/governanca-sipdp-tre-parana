@@ -33,16 +33,16 @@ planejamento estratégico de TIC, contratações e monitoramento de execução o
 
 ## Base normativa relacionada
 
-- [[wiki/normas/tre-pr-portaria-dg-124-2026-ceti-atribuicoes]]
-- [[wiki/normas/tre-pr-resolucao-974-2026-psi-local]]
-- [[wiki/normas/tre-pr-resolucao-932-2024-sistema-governo]]
-- [[wiki/entities/secti]]
-- [[wiki/entities/cgsipdp]]
+- [[references/normas/tre-pr-portaria-dg-124-2026-ceti-atribuicoes]]
+- [[references/normas/tre-pr-resolucao-974-2026-psi-local]]
+- [[references/normas/tre-pr-resolucao-932-2024-sistema-governo]]
+- [[references/entities/secti]]
+- [[references/entities/cgsipdp]]
 
 ## Relações
 
-- [[wiki/concepts/seguranca-informacao-justica-eleitoral]]
-- [[wiki/normas/tre-pr-resolucao-962-2025-comite-crise-cibernetica]]
+- [[references/concepts/seguranca-informacao-justica-eleitoral]]
+- [[references/normas/tre-pr-resolucao-962-2025-comite-crise-cibernetica]]
 
 ## Observação
 

@@ -1,16 +1,16 @@
 ---
-title: "TRE-PR Portaria DG 304/2026 - Revoca 631/2024 e Designa Tecnica"
+title: TRE-PR Portaria DG 304/2026 - Revoca 631/2024 e Designa Tecnica
 type: fonte-normativa
-fonte: "Tribunal Regional Eleitoral do Paraná"
-url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2026/portaria-ndeg-304-de-29-de-junho-de-2026"
-data_publicacao: "29/06/2026"
-status: "vigente"
-observacao: "Revoga portaria 631/2024 e designa servidora Renata Quinholi."
+fonte: Tribunal Regional Eleitoral do Paraná
+url: https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2026/portaria-ndeg-304-de-29-de-junho-de-2026
+data_publicacao: 29/06/2026
+status: vigente
 created: 2026-08-05
 updated: 2026-08-05
 tags: [tre-pr, portaria, revogacao, designacao, tecnica]
+observacao: Revoga portaria 631/2024 e designa servidora Renata Quinholi.
+sha256: e1b29b40fbfd505f5a23507e2ca9e027e8150e4790b2b8abb186f88e624534f3
 ---
-
 # PORTARIA Nº 304, DE 29 DE JUNHO DE 2026
 
 **Revoga portaria 631/2024 e designa técnica.**

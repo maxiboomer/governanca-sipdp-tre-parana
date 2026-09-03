@@ -1,16 +1,16 @@
 ---
-title: "TRE-PR Portaria 074/2025 - Prestacao Pecuniaria Penal"
+title: TRE-PR Portaria 074/2025 - Prestacao Pecuniaria Penal
 type: fonte-normativa
-fonte: "Tribunal Regional Eleitoral do Paraná"
-url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-presidencia-tre-pr/2025/portaria-ndeg-074-de-05-de-marco-de-2025"
-data_publicacao: "05/03/2025"
-status: "vigente"
-observacao: "Regulamenta recolhimento e destinação de valores de prestações pecuniárias decorrentes de sentenças penais condenatórias."
+fonte: Tribunal Regional Eleitoral do Paraná
+url: https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-presidencia-tre-pr/2025/portaria-ndeg-074-de-05-de-marco-de-2025
+data_publicacao: 05/03/2025
+status: vigente
 created: 2026-08-05
 updated: 2026-08-05
 tags: [tre-pr, portaria, prestacao-pecuniaria, penal, condenacao]
+observacao: Regulamenta recolhimento e destinação de valores de prestações pecuniárias decorrentes de sentenças penais condenatórias.
+sha256: 44ae3728fbba45143a6d03a974539a01df4fd8f3fd1354aad3ea7858d42b8675
 ---
-
 # PORTARIA Nº 074, DE 05 DE MARÇO DE 2025
 
 **Regulamenta o recolhimento e a destinação de valores oriundos de prestações pecuniárias decorrentes de sentenças penais condenatórias no âmbito da Justiça Eleitoral do Paraná.**

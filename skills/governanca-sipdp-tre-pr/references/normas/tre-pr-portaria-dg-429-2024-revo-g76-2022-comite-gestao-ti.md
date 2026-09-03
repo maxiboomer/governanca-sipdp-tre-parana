@@ -8,7 +8,7 @@ curadoria: completa
 escopo: central-si-pdp
 status_verificacao: "Revisão do texto integral e da publicação oficial registrada no corpus; confirmar alterações posteriores antes de uso jurídico."
 confidence: medium
-sources: [raw/tre-pr-portaria-dg-429-2024-revo-g76-2022-comite-gestao-ti.md]
+sources: [references/raw/tre-pr-portaria-dg-429-2024-revo-g76-2022-comite-gestao-ti.md]
 tags: [norma, seguranca-informacao, si-pdp]
 source_url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2024/portaria-ndeg-429-de-26-de-junho-de-2024"
 ---
@@ -17,7 +17,7 @@ source_url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretor
 
 ## Síntese executiva
 
-Esta norma é relevante para **segurança da informação, proteção de dados pessoais ou governança de TI** no TRE-PR/Justiça Eleitoral. A síntese abaixo foi extraída do texto integral em `raw/tre-pr-portaria-dg-429-2024-revo-g76-2022-comite-gestao-ti.md`; o arquivo bruto permanece imutável.
+Esta norma é relevante para **segurança da informação, proteção de dados pessoais ou governança de TI** no TRE-PR/Justiça Eleitoral. A síntese abaixo foi extraída do texto integral em `references/raw/tre-pr-portaria-dg-429-2024-revo-g76-2022-comite-gestao-ti.md`; o arquivo bruto permanece imutável.
 
 **Situação registrada:** `histórica`. ato de composição; verificar ato posterior de reatuação.
 
@@ -33,12 +33,12 @@ Esta norma é relevante para **segurança da informação, proteção de dados p
 
 ## Relações
 
-[[wiki/entities/cgsipdp]]
-- [[wiki/entities/secti]]
+[[references/entities/cgsipdp]]
+- [[references/entities/secti]]
 
 ## Fonte e vigência
 
-- Fonte integral: `raw/tre-pr-portaria-dg-429-2024-revo-g76-2022-comite-gestao-ti.md`
+- Fonte integral: `references/raw/tre-pr-portaria-dg-429-2024-revo-g76-2022-comite-gestao-ti.md`
 - Publicação registrada: https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/2024/portaria-ndeg-429-de-26-de-junho-de-2024
 - Verificação realizada em: 2026-08-26
 - Situação para uso: **não presumir vigência além do que está documentado acima**.

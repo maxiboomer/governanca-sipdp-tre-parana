@@ -1,11 +1,11 @@
 ---
-title: "PORTARIA N° 068, DE 26 DE FEVEREIRO DE 2025. — Tribunal Regional Eleitoral do Paraná"
+title: PORTARIA N° 068, DE 26 DE FEVEREIRO DE 2025. — Tribunal Regional Eleitoral do Paraná
 type: fonte-normativa
-source_url: "https://www.tre-pr.jus.br/legislacao/compilada/portarias-conjunta-presid-cre/2025/portaria-ndeg-068-de-26-de-fevereiro-de-2025"
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/portarias-conjunta-presid-cre/2025/portaria-ndeg-068-de-26-de-fevereiro-de-2025
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: f7dea276c49fd975df5cb7719089044a6fc1157305f068873ca7540886808ae3
 ---
-
 PORTARIA N° 068, DE 26 DE FEVEREIRO DE 2025. — Tribunal Regional Eleitoral do Paraná
 
 Acessibilidade

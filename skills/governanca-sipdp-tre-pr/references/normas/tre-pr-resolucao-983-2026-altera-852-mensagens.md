@@ -7,7 +7,7 @@ status: vigente
 curadoria: completa
 escopo: apoio-governanca-ti
 status_verificacao: "Extraída do compilado oficial do TRE-PR em 2026-08-26; publicação no DJE confirmada."
-sources: [raw/tre-pr-resolucao-983-2026-altera-852-mensagens.md]
+sources: [references/raw/tre-pr-resolucao-983-2026-altera-852-mensagens.md]
 tags: [norma, tre-pr, apoio-governanca-ti]
 source_url: "https://www.tre-pr.jus.br/legislacao/compilada/resolucoes-tre-pr/2026/resolucao-no-983-de-29-de-julho-de-2026"
 ---
@@ -30,7 +30,7 @@ Acrescenta o art. 9º-C à Res. 852/2020: no período eleitoral, a presidência 
 
 ## Fonte e vigência
 
-- Fonte integral: `raw/tre-pr-resolucao-983-2026-altera-852-mensagens.md`
+- Fonte integral: `references/raw/tre-pr-resolucao-983-2026-altera-852-mensagens.md`
 - URL oficial: https://www.tre-pr.jus.br/legislacao/compilada/resolucoes-tre-pr/2026/resolucao-no-983-de-29-de-julho-de-2026
 - Publicação: DJE-TRE-PR nº 146, de 03/08/2026, p. 182-184
 - Verificação: 2026-08-26

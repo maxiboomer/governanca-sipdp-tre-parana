@@ -1,11 +1,11 @@
 ---
-title: "INSTRUÇÃO NORMATIVA Nº 003, DE 07 DE DEZEMBRO DE 2024. — Tribunal Regional Eleitoral do Paraná"
+title: INSTRUÇÃO NORMATIVA Nº 003, DE 07 DE DEZEMBRO DE 2024. — Tribunal Regional Eleitoral do Paraná
 type: fonte-normativa
-source_url: "https://www.tre-pr.jus.br/legislacao/compilada/instrucoes-normativas-tre-pr/2024/instrucao-normativa-no-003-de-07-de-dezembro-de-2024"
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/instrucoes-normativas-tre-pr/2024/instrucao-normativa-no-003-de-07-de-dezembro-de-2024
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: e700647e25bd7f37a27352918ae672c8d7e12bfa894b2a331d675bdcff214bde
 ---
-
 INSTRUÇÃO NORMATIVA Nº 003, DE 07 DE DEZEMBRO DE 2024. — Tribunal Regional Eleitoral do Paraná
 
 Acessibilidade

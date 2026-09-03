@@ -1,16 +1,16 @@
 ---
-title: "TRE-PR Resolução 779/2017 - Altera Governança (Assessor Chefe)"
+title: TRE-PR Resolução 779/2017 - Altera Governança (Assessor Chefe)
 type: fonte-normativa
-fonte: "Tribunal Regional Eleitoral do Paraná"
-url: "https://www.justicaeleitoral.jus.br/arquivos/tre-pr-resolucao-779-de-11-de-setembro-de-2017"
-data_publicacao: "11/09/2017"
-status: "vigente"
-observacao: "Altera o sistema de Governança da Justiça Eleitoral do Paraná (RES 756/2017), instituindo o Assessor-Chefe da Presidência."
+fonte: Tribunal Regional Eleitoral do Paraná
+url: https://www.justicaeleitoral.jus.br/arquivos/tre-pr-resolucao-779-de-11-de-setembro-de-2017
+data_publicacao: 11/09/2017
+status: vigente
 created: 2026-08-05
 updated: 2026-08-05
 tags: [tre-pr, governanca, organograma]
+observacao: Altera o sistema de Governança da Justiça Eleitoral do Paraná (RES 756/2017), instituindo o Assessor-Chefe da Presidência.
+sha256: 35a2c9a7066a41b0c08ac9cbfc57f230f6a5d8bb226186955608fc050eec8442
 ---
-
 # RESOLUÇÃO Nº 779, DE 11 DE SETEMBRO DE 2017
 
 **Altera dispositivos da Resolução TRE/PR nº 756/2017, que instituiu e regulamentou o sistema de Governança da Justiça Eleitoral do Paraná.**

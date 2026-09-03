@@ -20,7 +20,7 @@ não é norma para este acervo (ver CONTEXT.md — "Instrumento monitorado").
 
 - **Instrumento monitorado não é norma** e nunca sustenta conclusão.
 - Se um instrumento ganhar publicação oficial, promova-o a norma (crie página em
-  `wiki/normas/` e mova o registro daqui).
+  `references/normas/` e mova o registro daqui).
 - Esta lista é de controle interno; não substitui o inventário de normas.
 
 ## Itens
@@ -32,5 +32,5 @@ não é norma para este acervo (ver CONTEXT.md — "Instrumento monitorado").
 
 ## Ver também
 
-- [[wiki/inventarios/normas-tre-pr-tse]]
-- [[wiki/inventarios/lacunas-do-inventario]]
+- [[references/inventarios/normas-tre-pr-tse]]
+- [[references/inventarios/lacunas-do-inventario]]

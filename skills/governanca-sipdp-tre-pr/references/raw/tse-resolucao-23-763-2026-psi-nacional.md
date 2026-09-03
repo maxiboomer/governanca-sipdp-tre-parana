@@ -1,16 +1,16 @@
 ---
-title: "Resolução TSE 23.763/2026 - Política de Segurança da Informação (PSI) Nacional"
+title: Resolução TSE 23.763/2026 - Política de Segurança da Informação (PSI) Nacional
 type: fonte-normativa
-fonte: "Tribunal Superior Eleitoral"
-url: "https://www.tse.jus.br/legislacao/compilada/res/2026/resolucao-no-23-763-de-9-de-junho-de-2026"
-data_publicacao: "09/06/2026"
-status: "vigente"
+fonte: Tribunal Superior Eleitoral
+url: https://www.tse.jus.br/legislacao/compilada/res/2026/resolucao-no-23-763-de-9-de-junho-de-2026
+data_publicacao: 09/06/2026
+status: vigente
 created: 2026-08-05
 updated: 2026-08-05
 tags: [tse, psi, seguranca-informacao, lgpd, ciberseguranca]
-dje: "DJE-TSE, nº 96, de 15.6.2026, p. 118-129"
+dje: DJE-TSE, nº 96, de 15.6.2026, p. 118-129
+sha256: 92b04f500b41717122a0f22c1432566875ad25550349af3697f38e616210704f
 ---
-
 # RESOLUÇÃO Nº 23.763, DE 9 DE JUNHO DE 2026
 
 **Dispõe sobre a Política de Segurança da Informação (PSI) no âmbito da Justiça Eleitoral.**

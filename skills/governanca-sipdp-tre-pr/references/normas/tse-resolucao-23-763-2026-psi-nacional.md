@@ -8,7 +8,7 @@ curadoria: completa
 escopo: central-si-pdp
 status_verificacao: "Res. TSE 23.763/2026 em vigor"
 confidence: medium
-sources: [raw/tse-resolucao-23-763-2026-psi-nacional.md]
+sources: [references/raw/tse-resolucao-23-763-2026-psi-nacional.md]
 tags: [norma, seguranca-informacao, si-pdp]
 source_url: "https://www.tse.jus.br/legislacao/compilada/res/2026/resolucao-no-23-763-de-9-de-junho-de-2026"
 ---
@@ -17,7 +17,7 @@ source_url: "https://www.tse.jus.br/legislacao/compilada/res/2026/resolucao-no-2
 
 ## Síntese executiva
 
-Esta norma é relevante para **segurança da informação, proteção de dados pessoais ou governança de TI** no TRE-PR/Justiça Eleitoral. A síntese abaixo foi extraída do texto integral em `raw/tse-resolucao-23-763-2026-psi-nacional.md`; o arquivo bruto permanece imutável.
+Esta norma é relevante para **segurança da informação, proteção de dados pessoais ou governança de TI** no TRE-PR/Justiça Eleitoral. A síntese abaixo foi extraída do texto integral em `references/raw/tse-resolucao-23-763-2026-psi-nacional.md`; o arquivo bruto permanece imutável.
 
 **Situação registrada:** `vigente`. vigência indicada pela publicação oficial existente no corpus; revalidar periodicamente.
 
@@ -45,12 +45,12 @@ Esta norma é relevante para **segurança da informação, proteção de dados p
 
 ## Relações
 
-[[wiki/concepts/seguranca-informacao-justica-eleitoral]]
-- [[wiki/entities/cgsipdp]]
+[[references/concepts/seguranca-informacao-justica-eleitoral]]
+- [[references/entities/cgsipdp]]
 
 ## Fonte e vigência
 
-- Fonte integral: `raw/tse-resolucao-23-763-2026-psi-nacional.md`
+- Fonte integral: `references/raw/tse-resolucao-23-763-2026-psi-nacional.md`
 - Publicação registrada: https://www.tse.jus.br/legislacao/compilada/res/2026/resolucao-no-23-763-de-9-de-junho-de-2026
 - Verificação realizada em: 2026-08-26
 - Situação para uso: **não presumir vigência além do que está documentado acima**.

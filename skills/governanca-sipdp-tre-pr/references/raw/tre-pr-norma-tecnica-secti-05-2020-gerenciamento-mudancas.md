@@ -1,16 +1,16 @@
 ---
-title: "TRE-PR Norma Tecnica SECTI 05/2020 - Gerenciamento de Mudancas"
+title: TRE-PR Norma Tecnica SECTI 05/2020 - Gerenciamento de Mudancas
 type: fonte-normativa
-fonte: "Tribunal Regional Eleitoral do Paraná"
-url: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2020/norma-tecnica-no-05-de-29-de-maio-de-2020"
-data_publicacao: "29/05/2020"
-status: "vigente"
-observacao: "Institui processo de Gerenciamento de Mudanças de TI no TRE-PR."
+fonte: Tribunal Regional Eleitoral do Paraná
+url: https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2020/norma-tecnica-no-05-de-29-de-maio-de-2020
+data_publicacao: 29/05/2020
+status: vigente
 created: 2026-08-05
 updated: 2026-08-05
 tags: [tre-pr, secti, norma-tecnica, gerenciamento-mudancas, ti]
+observacao: Institui processo de Gerenciamento de Mudanças de TI no TRE-PR.
+sha256: 8161d1c769e902dbab941ad8547b466015c9a7e51b1cd2770d7acca59d55c02c
 ---
-
 # NORMA TÉCNICA Nº 05, DE 29 DE MAIO DE 2020
 
 **Institui o processo de Gerenciamento de Mudanças de Tecnologia da Informação no âmbito da Justiça Eleitoral do Paraná.**

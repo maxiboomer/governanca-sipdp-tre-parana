@@ -1,11 +1,11 @@
 ---
-title: "NORMA TÉCNICA Nº 06, DE 10 DE JUNHO DE 2020. — Tribunal Regional Eleitoral do Paraná"
+title: NORMA TÉCNICA Nº 06, DE 10 DE JUNHO DE 2020. — Tribunal Regional Eleitoral do Paraná
 type: fonte-normativa
-source_url: "https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2020/norma-tecnica-no-06-de-10-de-junho-de-2020"
+source_url: https://www.tre-pr.jus.br/legislacao/compilada/normas-tecnicas-da-secti/2020/norma-tecnica-no-06-de-10-de-junho-de-2020
 coletado: 2026-08-06
 tags: [tre-pr, norma, coleta-automatica]
+sha256: ba55e0fb6d6788be5b0f0d910f2d6c54835e4ba2aada2789d3695ae1b3e6d7cd
 ---
-
 NORMA TÉCNICA Nº 06, DE 10 DE JUNHO DE 2020. — Tribunal Regional Eleitoral do Paraná
 
 Acessibilidade

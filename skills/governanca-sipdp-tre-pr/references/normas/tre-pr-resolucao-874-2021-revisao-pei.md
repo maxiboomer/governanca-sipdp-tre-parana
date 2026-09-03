@@ -7,7 +7,7 @@ status: histórica
 curadoria: completa
 escopo: contextual
 status_verificacao: "Revisão do PEI 2021-2026; plano estratégico; verificado em 2026-08-26."
-sources: [raw/tre-pr-resolucao-874-2021-revisao-pei.md]
+sources: [references/raw/tre-pr-resolucao-874-2021-revisao-pei.md]
 tags: [norma, tre-pr]
 ---
 
@@ -25,16 +25,16 @@ title: "TRE-Pr Resolução 874/2021 - Revisão Planejamento Estratégico 2021-20
 
 ## Disposições relevantes
 
-- (Ver disposições no texto integral em `raw/`.)
+- (Ver disposições no texto integral em `references/raw/`.)
 
 **Indícios de revogação/substituição no texto:**
 - revogadas as Resoluções TRE-PR nº 826/2019 e 864/2020
 
 ## Interpretação operacional
 
-- Consultar o texto integral em `raw/` para o teor exato.
+- Consultar o texto integral em `references/raw/` para o teor exato.
 - Verificar a norma sucessora (quando identificada) antes de usar.
 
 ## Fonte
 
-- `raw/tre-pr-resolucao-874-2021-revisao-pei.md`
+- `references/raw/tre-pr-resolucao-874-2021-revisao-pei.md`
