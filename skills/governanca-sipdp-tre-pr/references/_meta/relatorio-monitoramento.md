@@ -134,6 +134,41 @@ obras, comunicação social). Ficam fora da camada de curadoria.
 
 - `sync_vault_to_build.py` corrigido para incluir `references/raw/` (raiz) e `references/raw/` na cópia vault→build — antes, textos integrais novos não chegavam ao `references/raw/` do repositório.
 
+## Rodada 2026-09-03 (manutenção anti-drift)
+
+### Ação: correção de drift de raws
+
+| Item | Detalhe |
+|---|---|
+| Norma sem raw | Resolução TRE-PR 855/2020 — a página declarava `sources: [references/raw/lai-tre-pr-855-2020.md]` mas o arquivo não existia no vault nem no build |
+| Ação corretiva | Raw baixado do portal (`Res08552020.html`, 43.265 chars, 48 artigos + 2 anexos), salvo em `references/raw/lai-tre-pr-855-2020.md` |
+| Frontmatter | Atualizado: `sha256`, `source_url`, `confidence:medium` |
+| Build sincronizado | `5cb53aa` (2 files changed, 622 insertions) |
+
+### Variaredura de integridade (raws faltantes)
+
+**10 normas** com `sources` apontando para raws que **não existem** no vault:
+
+| Norma | Raw faltante | Status da norma |
+|---|---|---|
+| cnj-resolucao-363-2021 | raw/cnj-resolucao-363-2021.md | vigente |
+| governanca-e-crises-tre-pr | raw/governanca-e-crises-tre-pr.md | vigente |
+| ia-tre-pr-959-2025 | raw/ia-tre-pr-959-2025.md | vigente |
+| lai-12527-2011 | raw/lai-12527-2011.md | vigente |
+| portaria-tre-pr-302-2025 | raw/portaria-tre-pr-302-2025.md | vigente |
+| psi-termos-portaria-tse-444-2021 | raw/psi-termos-portaria-tse-444-2021.md | vigente |
+| psi-tre-pr-974-2026 | raw/psi-tre-pr-974-2026.md | vigente |
+| psi-tse-23644-2021-revogada | raw/psi-tse-23644-2021-revogada.md | revogada |
+| psi-tse-23763-2026 | raw/psi-tse-23763-2026.md | vigente |
+| resolucao-tre-pr-962-2025 | raw/resolucao-tre-pr-962-2025.md | vigente |
+
+**Cobertura**: 167 raws / 176 normas (94,9%). As 10 ausentes são **drift de rastreabilidade** — a norma aponta para fonte que não está no acervo.
+
+### Estado do acervo
+- 176 normas: 144 vigentes, 19 revogadas, 12 históricas, 1 não-aplicável
+- 167 raws (94,9% de cobertura)
+- 10 raws faltantes (pendência de curadoria)
+
 ## Rodada 2026-09-02 (evolução / curadoria)
 
 ### Normas promovidas a `vigente`/`completa`
