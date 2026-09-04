@@ -13,12 +13,16 @@ escopo: contextual
 
 ## Documentos Principais
 
-### Resoluções Criadas
-- **Resolução 01/2021** - Procedimentos para notificações
-- **Resolução 02/2021** - Diretrizes para RIPD
-- **Resolução 03/2021** - Critérios para DPIA
-- **Resolução 04/2021** - Relatórios de Privacidade
-- **Resolução 05/2022** - Atualização de RIPD
+### Resoluções (regulamentações reais)
+As regulamentações da ANPD estão consolidadas no [[inventarios/regulamentacoes-anpd|Inventário de Regulamentações ANPD]]. As principais normas substantivas:
+
+- **Resolução 01/2021** - Regulamento do Processo de Fiscalização e do Processo Administrativo Sancionador: [[normas/anpd-resolucao-01-2021-fiscalizacao-sancionador]]
+- **Resolução 02/2022** - Regulamento para Agentes de Tratamento de Pequeno Porte: [[normas/anpd-resolucao-02-2022-pequeno-porte]]
+- **Resolução 04/2023** - Regulamento de Dosimetria e Aplicação de Sanções Administrativas: [[normas/anpd-resolucao-04-2023-dosimetria-sancoes]]
+- **Resolução 15/2024** - Regulamento de Comunicação de Incidente de Segurança: [[normas/anpd-resolucao-15-2024-incidente-seguranca]]
+- **Resolução 18/2024** - Regulamento sobre a atuação do Encarregado: [[normas/anpd-resolucao-18-2024-encarregado]]
+- **Resolução 19/2024** - Regulamento de Transferência Internacional de Dados (RTID): [[normas/anpd-resolucao-19-2024-rtid]]
+- **Resolução 32/2026** - Adequação da União Europeia (transferência internacional): [[normas/anpd-resolucao-32-2026-adequacao-ue]]
 
 ### Guias Oficiais
 Guias orientativos que esclarecem aplicação da LGPD em contextos específicos:

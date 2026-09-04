@@ -1,4 +1,14 @@
 
+## [2026-09-04] ingest | Regulamentações ANPD — scraping + curadoria completa
+- **Scraping** da página oficial de Regulamentações da ANPD (gov.br) — 17 atos identificados (13 Resoluções, 3 Portarias, 1 Enunciado)
+- **Raws criados** (11 novos em `references/raw/anpd-*.md`):
+  - Res. 01/2021 (Fiscalização e Sancionador), Res. 02/2022 (Pequeno Porte), Res. 04/2023 (Dosimetria), Res. 15/2024 (Incidente), Res. 18/2024 (Encarregado), Res. 19/2024 (RTID), Res. 23/2024 (Agenda Regulatória), Res. 32/2026 (Adequação UE), Enunciado 1/2023 (Crianças)
+- **Páginas curadas criadas** (9 em `references/normas/`): as 8 substantivas + agenda regulatória
+- **Inventário criado**: `references/inventarios/regulamentacoes-anpd.md` — lista os 17 atos com status, ementa e link para página
+- **Correção crítica**: `concepts/lgpd-recursos-oficiais-anpd.md` listava resoluções **falsas** (Res. 01/2021 "Procedimentos para notificações", 02/2021 "Diretrizes para RIPD" etc.) — substituídas pelas regulamentações reais
+- **entity anpd.md** atualizada com links para as 8 normas substantivas
+- index.md: 9 normas + inventário adicionados; estatísticas (188 raws, 186 normas, 5 inventários)
+
 ## [2026-09-04] update | Reconstrução dos raws ANPD (qualidade de tabelas)
 - Reconstruídos os 2 raws ANPD com extração limpa e tabelas markdown reais:
   - `references/raw/anpd-guia-legitimo-interesse-2024.md`: Quadro 01, Anexo I (Síntese) e Anexo II (Modelo de teste) agora são tabelas/formulário markdown; hifenização e rodapés removidos

@@ -207,6 +207,7 @@ Ver `CLAUDE.md` para convenções. Estrutura: `references/raw/` (fontes imutáve
 - [[references/inventarios/lacunas-do-inventario|Lacunas conhecidas do inventário de vigências]]
 - [[references/inventarios/normas-tre-pr-tse|Inventário de Normas — TRE-PR / TSE (SECTI)]]
 - [[references/inventarios/instrumentos-monitorados|Instrumentos monitorados (não são normas)]]
+- [[references/inventarios/regulamentacoes-anpd|Inventário de Regulamentações ANPD]]
 
 ## Sources (síntese das coletas em `references/raw/`)
 - [[references/sources/instrucoes-normativas-tre-pr|Instruções Normativas TRE-PR]]
@@ -222,13 +223,22 @@ Ver `CLAUDE.md` para convenções. Estrutura: `references/raw/` (fontes imutáve
 - [[references/comparisons/controle-acesso-in004-2025-vs-2022-vs-2018|Controle de Acesso: IN 004/2025 × IN 004/2022 × IN-DG 2018]]
 
 ## Estatísticas
-- Fontes brutas em `references/raw/`: 179 arquivos raw `.md` (todos com `sha256:` desde 2026-09-04)
-- Páginas curadas em `references/normas/`: 178 (uma para cada norma em raw/)
-- Entities: 8 · Concepts: 14 · Comparisons: 2 · Inventários: 4 · Sources: 7
+- Fontes brutas em `references/raw/`: 188 arquivos raw `.md` (todos com `sha256:` desde 2026-09-04)
+- Páginas curadas em `references/normas/`: 186 (uma para cada norma em raw/)
+- Entities: 8 · Concepts: 14 · Comparisons: 2 · Inventários: 5 · Sources: 7
 
 ## Normas (novas)
 - [[references/normas/anpd-guia-legitimo-interesse-2024|ANPD Guia: Legítimo Interesse (fev/2024)]]
 - [[references/normas/anpd-guia-tratamento-dados-poder-publico-2023|ANPD Guia: Tratamento de Dados pelo Poder Público (jun/2023)]]
+- [[references/normas/anpd-resolucao-01-2021-fiscalizacao-sancionador|Res. CD/ANPD 01/2021 — Processo de Fiscalização e Sancionador]]
+- [[references/normas/anpd-resolucao-02-2022-pequeno-porte|Res. CD/ANPD 02/2022 — Agentes de Pequeno Porte]]
+- [[references/normas/anpd-resolucao-04-2023-dosimetria-sancoes|Res. CD/ANPD 04/2023 — Dosimetria e Sanções]]
+- [[references/normas/anpd-resolucao-15-2024-incidente-seguranca|Res. CD/ANPD 15/2024 — Comunicação de Incidentes]]
+- [[references/normas/anpd-resolucao-18-2024-encarregado|Res. CD/ANPD 18/2024 — Regulamento do Encarregado]]
+- [[references/normas/anpd-resolucao-19-2024-rtid|Res. CD/ANPD 19/2024 — Transferência Internacional (RTID)]]
+- [[references/normas/anpd-resolucao-23-2024-agenda-regulatoria|Res. CD/ANPD 23/2024 — Agenda Regulatória 2025-2026]]
+- [[references/normas/anpd-resolucao-32-2026-adequacao-ue|Res. CD/ANPD 32/2026 — Adequação União Europeia]]
+- [[references/normas/anpd-enunciado-01-2023-criancas-adolescentes|Enunciado CD/ANPD 01/2023 — Crianças e Adolescentes]]
 - [[references/normas/tre-pr-resolucao-970-2026-gestao-inovacao|Resolução TRE-PR 970/2026 — Política de Gestão da Inovação]]
 - [[references/normas/tre-pr-resolucao-979-2026-captacao-audiovisual|Resolução TRE-PR 979/2026 — Captação audiovisual (LGPD)]]
 - [[references/normas/tre-pr-resolucao-983-2026-altera-852-mensagens|Resolução TRE-PR 983/2026 — Altera Res. 852/2020 (mensagens)]]
