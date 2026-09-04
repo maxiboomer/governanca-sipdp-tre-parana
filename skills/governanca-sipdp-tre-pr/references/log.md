@@ -1,4 +1,12 @@
 
+## [2026-09-04] update | Reconstrução dos raws ANPD (qualidade de tabelas)
+- Reconstruídos os 2 raws ANPD com extração limpa e tabelas markdown reais:
+  - `references/raw/anpd-guia-legitimo-interesse-2024.md`: Quadro 01, Anexo I (Síntese) e Anexo II (Modelo de teste) agora são tabelas/formulário markdown; hifenização e rodapés removidos
+  - `references/raw/anpd-guia-tratamento-dados-poder-publico-2023.md`: Anexo I (Uso compartilhado) e Anexo II (Divulgação) agora são tabelas markdown; hifenização e rodapés removidos
+- sha256 recalculados após reconstrução
+- Correção: raw de tratamento-dados havia perdido o corpo (13 linhas, só frontmatter) por sobrescrita do write_file — reconstruído com conteúdo completo (210 linhas)
+- Lint: 222 páginas, 0 problemas
+
 ## [2026-09-04] ingest | ANPD — 2 Guias Orientativos (LGPD)
 - **raw/anpd-guia-legitimo-interesse-2024.md**: Guia ANPD sobre legítimo interesse (fev/2024, 1.486 linhas, 80.440 chars)
 - **raw/anpd-guia-tratamento-dados-poder-publico-2023.md**: Guia ANPD sobre tratamento pelo Poder Público (jun/2023, 1.457 linhas, 82.879 chars)
