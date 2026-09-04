@@ -1,6 +1,6 @@
 ---
 name: governanca-sipdp-tre-pr
-description: Acervo de normas internas do TRE-PR e da Justiça Eleitoral (176 textos, 2016–2026), mantido pela AGM, com camada curada de Segurança da Informação, Proteção de Dados e continuidade. Use para responder qual norma rege um tema no TRE-PR, se ela está vigente ou foi revogada, com qual publicação isso se sustenta, e quem é a unidade competente — e para fundamentar despacho, parecer, minuta ou nota técnica com citação verificável. Ative ao mencionar PSI, LGPD no TRE-PR, CGSI/PDP, Encarregado/DPO, ETIR, ASC, AGM, SECTI, COSIG, Comitê de Crises Cibernéticas, PGCN, RIPD, RoPA, prazo normativo, vigência, revogação, inventário de normas, Res. TSE 23.763/2026, Res. TRE-PR 974/2026, 962/2025, 982/2026, 971/2026, 959/2025, 932/2024, Portaria DG 086/2026, Portaria 247/2021, Portaria 302/2025, IN-DG, Norma Técnica SECTI, Ordem de Serviço — ou ao pedir "qual norma diz", "isso está revogado?", "quem é competente por", "qual o prazo de", "onde foi publicada".
+description: Acervo de normas internas do TRE-PR e da Justiça Eleitoral (187 textos, 2016–2026) e regulamentações da ANPD, mantido pela AGM, com camada curada de Segurança da Informação, Proteção de Dados e continuidade. Use para responder qual norma rege um tema no TRE-PR, se ela está vigente ou foi revogada, com qual publicação isso se sustenta, e quem é a unidade competente — e para fundamentar despacho, parecer, minuta ou nota técnica com citação verificável. Ative ao mencionar PSI, LGPD no TRE-PR, CGSI/PDP, Encarregado/DPO, ETIR, ASC, AGM, SECTI, COSIG, Comitê de Crises Cibernéticas, PGCN, RIPD, RoPA, prazo normativo, vigência, revogação, inventário de normas, Res. TSE 23.763/2026, Res. TRE-PR 974/2026, 962/2025, 982/2026, 971/2026, 959/2025, 932/2024, Portaria DG 086/2026, Portaria 247/2021, Portaria 302/2025, IN-DG, Norma Técnica SECTI, Ordem de Serviço, ANPD, transferência internacional de dados, RTID, encarregado, comunicação de incidente, dosimetria de sanções, legítimo interesse — ou ao pedir "qual norma diz", "isso está revogado?", "quem é competente por", "qual o prazo de", "onde foi publicada".
 ---
 
 # Acervo Normativo TRE-PR — SI/PDP
@@ -13,7 +13,7 @@ O vocabulário deste domínio está em `CONTEXT.md`. As decisões de desenho est
 `docs/adr/`. **Leia o `CONTEXT.md` antes de usar os termos "norma", "situação",
 "publicação", "curada" e "inventário"** — aqui eles têm sentido fixo.
 
-**Conteúdo:** 176 páginas em `references/normas/` (todas curadas) + `entities`, `concepts`,
+**Conteúdo:** 187 páginas em `references/normas/` (todas curadas) + `entities`, `concepts`,
 `comparisons`, `inventarios`, `sources`; textos integrais em `references/raw/` (com `sha256` para
 detecção de drift). Páginas curadas carregam `confidence: high|medium|low` (high = DJE/DOU
 nomeado; medium = compilado sem DJE; low = monitoramento sem confirmação).
@@ -121,6 +121,6 @@ Esta skill é **acervo e sustentação**: o que a norma diz, se vale, com que pu
 ## Avisos
 
 - Normas revogadas permanecem como histórico, sinalizadas.
-- Todas as 176 páginas de `normas/` estão curadas; o teor exato está em `references/raw/`.
+- Todas as 187 páginas de `normas/` estão curadas; o teor exato está em `references/raw/`.
 - Os Anexos I e II da Res. 982/2026 (cargos e organograma) não constam do acervo.
 - O Guia da MDS (anexo da NT SECTI 002/2026) não consta do acervo; o ato normativo (DJE-TRE-PR nº 052, 23/03/2026, p. 08-09) está em `references/raw/`.
