@@ -26,6 +26,7 @@ SOURCES = {
     "TRE-PR Portarias Diretoria-Geral": "https://www.tre-pr.jus.br/legislacao/compilada/portarias-da-diretoria-geral-tre-pr/{ano}",
     "TSE Legislação": "https://www.tse.jus.br/legislacao",
     "CNJ Atos": "https://atos.cnj.jus.br/",
+    "ANPD Regulamentações": "https://www.gov.br/anpd/pt-br/acesso-a-informacao/institucional/atos-normativos/regulamentacoes_anpd",
 }
 
 # Inventário atual do vault (para diff)
