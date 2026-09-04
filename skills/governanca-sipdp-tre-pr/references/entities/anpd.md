@@ -24,7 +24,10 @@ A ANPD é a autarquia federal responsável pela fiscalização e supervisão do 
 ## Principais Atos
 - **Resoluções** - Estabelecem normas de comportamento
 - **Portarias** - Determinam atos administrativos
-- **Ato de Classificação** - Classifica dados sensíveis
+- **Guia Orientativo: Legítimo Interesse** (fev/2024) — Hipótese legal de tratamento: [[normas/anpd-guia-legitimo-interesse-2024]]
+- **Guia Orientativo: Tratamento de Dados Pessoais pelo Poder Público** (jun/2023, v2.0) — Setor público: [[normas/anpd-guia-tratamento-dados-poder-publico-2023]]
+- **Guia Orientativo: Comunicação de Incidentes** — Procedimentos para relato à ANPD
+- **Guia Orientativo: RIPD** — Relatório de Impacto à Proteção de Dados
 
 ## Sites Oficiais
 - Principal: https://www.gov.br/anpd

@@ -222,11 +222,13 @@ Ver `CLAUDE.md` para convenções. Estrutura: `references/raw/` (fontes imutáve
 - [[references/comparisons/controle-acesso-in004-2025-vs-2022-vs-2018|Controle de Acesso: IN 004/2025 × IN 004/2022 × IN-DG 2018]]
 
 ## Estatísticas
-- Fontes brutas em `references/raw/`: 166 arquivos raw `.md` (todos com `sha256:` desde 2026-09-02)
-- Páginas curadas em `references/normas/`: 176 (uma para cada norma em raw/)
+- Fontes brutas em `references/raw/`: 179 arquivos raw `.md` (todos com `sha256:` desde 2026-09-04)
+- Páginas curadas em `references/normas/`: 178 (uma para cada norma em raw/)
 - Entities: 8 · Concepts: 14 · Comparisons: 2 · Inventários: 4 · Sources: 7
 
 ## Normas (novas)
+- [[references/normas/anpd-guia-legitimo-interesse-2024|ANPD Guia: Legítimo Interesse (fev/2024)]]
+- [[references/normas/anpd-guia-tratamento-dados-poder-publico-2023|ANPD Guia: Tratamento de Dados pelo Poder Público (jun/2023)]]
 - [[references/normas/tre-pr-resolucao-970-2026-gestao-inovacao|Resolução TRE-PR 970/2026 — Política de Gestão da Inovação]]
 - [[references/normas/tre-pr-resolucao-979-2026-captacao-audiovisual|Resolução TRE-PR 979/2026 — Captação audiovisual (LGPD)]]
 - [[references/normas/tre-pr-resolucao-983-2026-altera-852-mensagens|Resolução TRE-PR 983/2026 — Altera Res. 852/2020 (mensagens)]]

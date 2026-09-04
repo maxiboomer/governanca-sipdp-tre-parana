@@ -1,4 +1,12 @@
 
+## [2026-09-04] ingest | ANPD — 2 Guias Orientativos (LGPD)
+- **raw/anpd-guia-legitimo-interesse-2024.md**: Guia ANPD sobre legítimo interesse (fev/2024, 1.486 linhas, 80.440 chars)
+- **raw/anpd-guia-tratamento-dados-poder-publico-2023.md**: Guia ANPD sobre tratamento pelo Poder Público (jun/2023, 1.457 linhas, 82.879 chars)
+- **normas/anpd-guia-legitimo-interesse-2024.md**: Página curada (escopo: central-si-pdp, confidence: high)
+- **normas/anpd-guia-tratamento-dados-poder-publico-2023.md**: Página curada (escopo: central-si-pdp, confidence: high)
+- **index.md**: Adicionadas 2 normas + estatísticas atualizadas (179 raws, 178 normas)
+- **log.md**: Registro de ingest
+
 ## [2026-09-02] update | Correção de defeitos da auditoria (links + duplicação + caminhos)
 - **Defeito 1 — links quebrados no build**: ~464 ocorrências de wikilinks no formato do
   Obsidian (`references/...`, sem prefixo `references/`) em 51 arquivos do build — formato que não

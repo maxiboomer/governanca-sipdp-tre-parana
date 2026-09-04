@@ -20,12 +20,11 @@ escopo: contextual
 - **Resolução 04/2021** - Relatórios de Privacidade
 - **Resolução 05/2022** - Atualização de RIPD
 
-### Guia para o Poder Público
-Documento complementar que esclarece aplicação da LGPD ao setor público:
-- Base legal para tratamento
-- Direitos dos titulares
-- Deveres dos controladores
-- Medidas de segurança
+### Guias Oficiais
+Guias orientativos que esclarecem aplicação da LGPD em contextos específicos:
+
+- **Guia Legítimo Interesse (fev/2024)** — Hipótese legal de legítimo interesse: [[normas/anpd-guia-legitimo-interesse-2024]]
+- **Guia Tratamento pelo Poder Público (jun/2023, v2.0)** — Setor público e compartilhamento: [[normas/anpd-guia-tratamento-dados-poder-publico-2023]]
 
 ### RIPD (Relatório de Impacto à Proteção de Dados)
 Instrumento obrigatório para projetos com risco elevado aos direitos:
